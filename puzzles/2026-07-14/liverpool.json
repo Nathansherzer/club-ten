@@ -1,0 +1,61 @@
+{
+  "date":       "2026-07-14",
+  "club":       "liverpool",
+  "clubLabel":  "Liverpool:",
+  "clubShort":  "Liverpool",
+  "question":   "name the last 10 permanent managers",
+  "note":       "No caretakers · through July 2026 · any order",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Arne Slot",
+      "detail":  "2024–",
+      "accept":  ["arne slot", "slot"]
+    },
+    {
+      "display": "Jürgen Klopp",
+      "detail":  "2015–24",
+      "accept":  ["jurgen klopp", "klopp", "kloppo"]
+    },
+    {
+      "display": "Brendan Rodgers",
+      "detail":  "2012–15",
+      "accept":  ["brendan rodgers", "rodgers"]
+    },
+    {
+      "display": "Kenny Dalglish",
+      "detail":  "2011–12",
+      "accept":  ["kenny dalglish", "dalglish", "king kenny"]
+    },
+    {
+      "display": "Roy Hodgson",
+      "detail":  "2010–11",
+      "accept":  ["roy hodgson", "hodgson"]
+    },
+    {
+      "display": "Rafael Benítez",
+      "detail":  "2004–10",
+      "accept":  ["rafael benitez", "rafa benitez", "benitez", "rafa"]
+    },
+    {
+      "display": "Gérard Houllier",
+      "detail":  "1998–2004",
+      "accept":  ["gerard houllier", "houllier"]
+    },
+    {
+      "display": "Roy Evans",
+      "detail":  "1994–98",
+      "accept":  ["roy evans", "evans"]
+    },
+    {
+      "display": "Graeme Souness",
+      "detail":  "1991–94",
+      "accept":  ["graeme souness", "souness"]
+    },
+    {
+      "display": "Kenny Dalglish",
+      "detail":  "1985–91",
+      "accept":  ["kenny dalglish", "dalglish", "king kenny"]
+    }
+  ]
+}

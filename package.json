@@ -1,0 +1,10 @@
+{
+  "name": "club-ten",
+  "version": "1.0.0",
+  "description": "Daily top-10 football trivia by club",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build-names": "node scripts/build-name-bank.js"
+  }
+}

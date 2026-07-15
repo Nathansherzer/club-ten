@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Club Ten — Your club's daily top 10</title>
+<style>
+  :root {
+    --bg: #0e1420;
+    --card: #16202f;
+    --slot: #1c2a3d;
+    --slot-border: #2c405c;
+    --green: #4caf6d;
+    --green-dark: #2e7d4a;
+    --red: #d9534f;
+    --gold: #e8c15a;
+    --text: #eef2f7;
+    --muted: #8da0b8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+  }
+  .wrap { width: 100%; max-width: 440px; }
+  header { text-align: center; padding: 8px 0 4px; }
+  header h1 { font-size: 1.5rem; letter-spacing: 0.5px; }
+  header h1 span { color: var(--green); }
+  .tagline { color: var(--muted); font-size: 0.8rem; margin-top: 2px; }
+
+  /* --- club picker --- */
+  .picker { margin-top: 24px; text-align: center; }
+  .picker h2 { font-size: 1.05rem; margin-bottom: 4px; }
+  .picker p { color: var(--muted); font-size: 0.8rem; margin-bottom: 16px; }
+  .clubgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .clubbtn {
+    background: var(--card);
+    border: 1px solid var(--slot-border);
+    border-radius: 10px;
+    color: var(--text);
+    font-size: 0.95rem; font-weight: 600;
+    padding: 16px 8px;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.1s;
+  }
+  .clubbtn:hover { border-color: var(--green); }
+  .clubbtn:active { transform: scale(0.97); }
+  .clubbtn.disabled { opacity: 0.38; cursor: not-allowed; }
+  .clubbtn .soon { display: block; font-weight: 400; font-size: 0.68rem; color: var(--muted); margin-top: 3px; }
+
+  /* --- game --- */
+  #game { display: none; }
+  .statusbar {
+    display: flex; justify-content: space-between; align-items: center;
+    margin: 14px 0 10px; font-size: 0.85rem; color: var(--muted);
+  }
+  .lives { letter-spacing: 3px; font-size: 1rem; }
+  .question {
+    background: var(--card);
+    border: 1px solid var(--slot-border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    text-align: center;
+    font-size: 1.02rem;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+  .question .club { color: var(--green); }
+  .question .note { display:block; font-weight:400; font-size:0.75rem; color:var(--muted); margin-top:6px; }
+  .slots { margin: 14px 0; display: flex; flex-direction: column; gap: 7px; }
+  .slot {
+    display: flex; align-items: center;
+    background: var(--slot);
+    border: 1px solid var(--slot-border);
+    border-radius: 9px;
+    min-height: 42px;
+    padding: 0 12px;
+    font-size: 0.95rem;
+    transition: background 0.25s, transform 0.15s;
+  }
+  .slot .num { color: var(--muted); width: 28px; font-weight: 700; font-size: 0.85rem; }
+  .slot .val { flex: 1; }
+  .slot .detail { color: var(--muted); font-size: 0.78rem; }
+  .slot.found { background: var(--green-dark); border-color: var(--green); animation: pop 0.3s ease; }
+  .slot.revealed { background: #3a2626; border-color: #5c3a3a; }
+  .slot.revealed .val { color: #e0b0b0; }
+  @keyframes pop { 0%{transform:scale(0.97)} 60%{transform:scale(1.02)} 100%{transform:scale(1)} }
+  .inputwrap { position: relative; }
+  .inputrow { display: flex; gap: 8px; }
+  .suggest {
+    position: absolute; top: 100%; left: 0; right: 0;
+    background: var(--card);
+    border: 1px solid var(--slot-border);
+    border-radius: 9px;
+    margin-top: 4px;
+    overflow: hidden;
+    z-index: 10;
+    display: none;
+  }
+  .suggest button {
+    display: block; width: 100%;
+    background: none; border: none;
+    color: var(--text); text-align: left;
+    font-size: 0.95rem; padding: 11px 14px;
+    cursor: pointer;
+    border-bottom: 1px solid var(--slot-border);
+  }
+  .suggest button:last-child { border-bottom: none; }
+  .suggest button:hover, .suggest button.active { background: var(--slot); }
+  input[type="text"] {
+    flex: 1;
+    background: var(--card);
+    border: 1px solid var(--slot-border);
+    border-radius: 9px;
+    color: var(--text);
+    font-size: 1rem;
+    padding: 12px 14px;
+    outline: none;
+  }
+  input[type="text"]:focus { border-color: var(--green); }
+  button.guess {
+    background: var(--green);
+    border: none; border-radius: 9px;
+    color: #0c1a10; font-weight: 700; font-size: 0.95rem;
+    padding: 0 20px; cursor: pointer;
+  }
+  button.guess:active { transform: scale(0.97); }
+  .feedback { min-height: 22px; text-align: center; font-size: 0.85rem; margin-top: 8px; color: var(--muted); }
+  .feedback.bad { color: var(--red); }
+  .feedback.good { color: var(--green); }
+  .feedback.dup { color: var(--gold); }
+  .endcard {
+    display: none;
+    background: var(--card);
+    border: 1px solid var(--slot-border);
+    border-radius: 12px;
+    text-align: center;
+    padding: 18px 16px;
+    margin-top: 14px;
+  }
+  .endcard h2 { font-size: 1.15rem; margin-bottom: 6px; }
+  .endcard .scoreline { font-size: 1.6rem; margin: 4px 0 10px; }
+  .endcard .stats { color: var(--muted); font-size: 0.83rem; margin-bottom: 12px; }
+  button.share {
+    background: var(--gold);
+    border: none; border-radius: 9px;
+    color: #201a08; font-weight: 700; font-size: 0.95rem;
+    padding: 11px 26px; cursor: pointer;
+  }
+  .shared-note { font-size: 0.78rem; color: var(--green); margin-top: 8px; min-height: 16px; }
+  footer { text-align: center; color: var(--muted); font-size: 0.72rem; margin: 18px 0 8px; line-height: 1.5; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>CLUB <span>TEN</span></h1>
+    <div class="tagline">Your club. Ten answers. Every day.</div>
+  </header>
+
+  <!-- Club picker: shown once, remembered in the full build -->
+  <div class="picker" id="picker">
+    <h2>Pick your club</h2>
+    <p>Every day, a top-10 challenge about your team.</p>
+    <div class="clubgrid">
+      <button class="clubbtn disabled">Arsenal<span class="soon">full build</span></button>
+      <button class="clubbtn disabled">Chelsea<span class="soon">full build</span></button>
+      <button class="clubbtn" data-club="liverpool">Liverpool<span class="soon">playable demo</span></button>
+      <button class="clubbtn disabled">Man City<span class="soon">full build</span></button>
+      <button class="clubbtn" data-club="man-united">Man United<span class="soon">playable demo</span></button>
+      <button class="clubbtn disabled">Spurs<span class="soon">full build</span></button>
+    </div>
+  </div>
+
+  <div id="game">
+    <div class="statusbar">
+      <div>Puzzle #1</div>
+      <div class="lives" id="lives">❤️❤️❤️</div>
+      <div id="streakLabel">Streak: 0</div>
+    </div>
+
+    <div class="question">
+      <span class="club" id="clubName"></span> <span id="questionText"></span>
+      <span class="note" id="questionNote"></span>
+    </div>
+
+    <div class="slots" id="slots"></div>
+
+    <div id="playArea">
+      <div class="inputwrap">
+        <div class="inputrow">
+          <input type="text" id="guessInput" placeholder="" autocomplete="off" autocapitalize="words">
+          <button class="guess" id="guessBtn">Guess</button>
+        </div>
+        <div class="suggest" id="suggest"></div>
+      </div>
+      <div class="feedback" id="feedback">Find all 10. Three wrong guesses and it's over.</div>
+    </div>
+
+    <div class="endcard" id="endcard">
+      <h2 id="endTitle"></h2>
+      <div class="scoreline" id="scoreline"></div>
+      <div class="stats" id="statsLine"></div>
+      <button class="share" id="shareBtn">Share result</button>
+      <div class="shared-note" id="sharedNote"></div>
+    </div>
+  </div>
+
+  <footer>
+    Prototype build · In the full version every club gets its own daily puzzle<br>
+    Stats save in your browser — no account needed
+  </footer>
+</div>
+
+<script>
+// ------------------------------------------------------------------
+// PUZZLE DATA — in the real site: /puzzles/<date>/<club>.json served
+// by a tiny function, so future answers can't be seen in page source.
+// Note: two different question templates shown here on purpose —
+// in production, one template per day generates a variant per club.
+//
+// VERIFICATION NOTES
+// Man United managers: Wikipedia "List of Manchester United F.C.
+//   managers". Permanent only; interims (Rangnick, Carrick) excluded.
+// Liverpool scorers: liverpoolfc.com all-time top scorers +
+//   thisisanfield.com (May 2026). Salah is 3rd with 257 — a year-old
+//   source would rank him 5th. Date-stamp everything.
+// ------------------------------------------------------------------
+const PUZZLES = {
+  "man-united": {
+    id: 1,
+    clubLabel: "Man United:",
+    clubShort: "Man United",
+    question: "name the last 10 permanent managers",
+    note: "Caretakers & interims don't count · through July 2026 · any order",
+    placeholder: "Type a manager's name...",
+    answers: [
+      { display: "Rúben Amorim",        detail: "2024–",      accept: ["ruben amorim", "amorim"] },
+      { display: "Erik ten Hag",        detail: "2022–24",    accept: ["erik ten hag", "ten hag", "tenhag"] },
+      { display: "Ole Gunnar Solskjær", detail: "2018–21",    accept: ["ole gunnar solskjaer", "solskjaer", "ole"] },
+      { display: "José Mourinho",       detail: "2016–18",    accept: ["jose mourinho", "mourinho"] },
+      { display: "Louis van Gaal",      detail: "2014–16",    accept: ["louis van gaal", "van gaal", "vangaal"] },
+      { display: "David Moyes",         detail: "2013–14",    accept: ["david moyes", "moyes"] },
+      { display: "Sir Alex Ferguson",   detail: "1986–2013",  accept: ["alex ferguson", "ferguson", "sir alex", "fergie"] },
+      { display: "Ron Atkinson",        detail: "1981–86",    accept: ["ron atkinson", "atkinson"] },
+      { display: "Dave Sexton",         detail: "1977–81",    accept: ["dave sexton", "sexton"] },
+      { display: "Tommy Docherty",      detail: "1972–77",    accept: ["tommy docherty", "docherty", "the doc"] }
+    ]
+  },
+  "liverpool": {
+    id: 1,
+    clubLabel: "Liverpool:",
+    clubShort: "Liverpool",
+    question: "name the top 10 all-time goalscorers",
+    note: "All competitions · through 2025–26 · any order",
+    placeholder: "Type a player's name...",
+    answers: [
+      { display: "Ian Rush",        detail: "346 goals", accept: ["ian rush", "rush"] },
+      { display: "Roger Hunt",      detail: "285 goals", accept: ["roger hunt", "hunt"] },
+      { display: "Mohamed Salah",   detail: "257 goals", accept: ["mohamed salah", "mo salah", "salah"] },
+      { display: "Gordon Hodgson",  detail: "241 goals", accept: ["gordon hodgson", "hodgson"] },
+      { display: "Billy Liddell",   detail: "228 goals", accept: ["billy liddell", "liddell"] },
+      { display: "Steven Gerrard",  detail: "186 goals", accept: ["steven gerrard", "gerrard", "stevie g"] },
+      { display: "Robbie Fowler",   detail: "183 goals", accept: ["robbie fowler", "fowler", "god"] },
+      { display: "Kenny Dalglish",  detail: "172 goals", accept: ["kenny dalglish", "dalglish", "king kenny"] },
+      { display: "Michael Owen",    detail: "158 goals", accept: ["michael owen", "owen"] },
+      { display: "Harry Chambers",  detail: "151 goals", accept: ["harry chambers", "chambers"] }
+    ]
+  }
+};
+
+// ------------------------------------------------------------------
+// NAME BANK for autocomplete. The point: it must contain far MORE
+// names than the answers, so the dropdown never gives the game away.
+// This demo bank has ~70 names; production needs 3,000+ built by
+// script from squad lists. Note the deliberate traps: Busby and
+// O'Farrell (before Docherty), Rangnick (interim), Roy Hodgson
+// (wrong Hodgson for the Liverpool puzzle).
+// ------------------------------------------------------------------
+const NAME_BANK = [
+  // United puzzle answers
+  "Rúben Amorim","Erik ten Hag","Ole Gunnar Solskjær","José Mourinho","Louis van Gaal",
+  "David Moyes","Sir Alex Ferguson","Ron Atkinson","Dave Sexton","Tommy Docherty",
+  // Liverpool puzzle answers
+  "Ian Rush","Roger Hunt","Mohamed Salah","Gordon Hodgson","Billy Liddell",
+  "Steven Gerrard","Robbie Fowler","Kenny Dalglish","Michael Owen","Harry Chambers",
+  // United-adjacent decoys
+  "Sir Matt Busby","Frank O'Farrell","Wilf McGuinness","Ralf Rangnick","Michael Carrick",
+  "Ryan Giggs","Paul Scholes","Roy Keane","Eric Cantona","Wayne Rooney","George Best",
+  "Sir Bobby Charlton","Denis Law","Ruud van Nistelrooy","Cristiano Ronaldo",
+  "Marcus Rashford","Bruno Fernandes","Rio Ferdinand","David Beckham","Gary Neville",
+  // Liverpool-adjacent decoys
+  "Jürgen Klopp","Arne Slot","Rafael Benítez","Gérard Houllier","Brendan Rodgers",
+  "Graeme Souness","Roy Evans","Roy Hodgson","Bill Shankly","Bob Paisley","Joe Fagan",
+  "Fernando Torres","Luis Suárez","Sadio Mané","Roberto Firmino","Daniel Sturridge",
+  "Dirk Kuyt","Jamie Carragher","John Barnes","Ian St John","Kevin Keegan",
+  "John Toshack","John Aldridge","Peter Beardsley","Steve McManaman","Emlyn Hughes",
+  "Virgil van Dijk","Jordan Henderson",
+  // General PL decoys
+  "Arsène Wenger","Pep Guardiola","Mikel Arteta","Thierry Henry","Alan Shearer",
+  "Frank Lampard","Sergio Agüero","Harry Kane"
+];
+
+const MAX_LIVES = 3;
+let PUZZLE = null;
+let lives = MAX_LIVES;
+let found = new Set();
+let over = false;
+
+// --- fuzzy matching: strip accents/case + allow edit distance of 1 ---
+function norm(s) {
+  return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
+          .replace(/æ/g, "ae").replace(/ø/g, "o")
+          .replace(/[^a-z ]/g, "").replace(/\s+/g, " ").trim();
+}
+function editDist(a, b) {
+  if (Math.abs(a.length - b.length) > 1) return 99;
+  const m = a.length, n = b.length;
+  const d = Array.from({length: m+1}, (_, i) => [i, ...Array(n).fill(0)]);
+  for (let j = 0; j <= n; j++) d[0][j] = j;
+  for (let i = 1; i <= m; i++)
+    for (let j = 1; j <= n; j++)
+      d[i][j] = Math.min(d[i-1][j]+1, d[i][j-1]+1, d[i-1][j-1] + (a[i-1] === b[j-1] ? 0 : 1));
+  return d[m][n];
+}
+function matchGuess(guess) {
+  const g = norm(guess);
+  if (!g) return -1;
+  for (let i = 0; i < PUZZLE.answers.length; i++) {
+    for (const acc of PUZZLE.answers[i].accept) {
+      const a = norm(acc);
+      if (g === a || (a.length > 3 && editDist(g, a) <= 1)) return i;
+    }
+  }
+  return -1;
+}
+
+// --- streak & club stored in the player's own browser (no login) ---
+function loadStats() {
+  try { return JSON.parse(localStorage.getItem("ct_stats")) || { streak: 0, played: 0, perfect: 0 }; }
+  catch { return { streak: 0, played: 0, perfect: 0 }; }
+}
+function saveStats(s) { localStorage.setItem("ct_stats", JSON.stringify(s)); }
+
+// --- club picker ---
+document.querySelectorAll(".clubbtn[data-club]").forEach(btn => {
+  btn.addEventListener("click", () => {
+    localStorage.setItem("ct_club", btn.dataset.club);
+    initGame(btn.dataset.club);
+  });
+});
+
+// --- game setup ---
+const slotsEl = document.getElementById("slots");
+const input = document.getElementById("guessInput");
+const feedback = document.getElementById("feedback");
+const suggestEl = document.getElementById("suggest");
+
+// --- autocomplete: filter the bank on any word-prefix match ---
+function getSuggestions(q) {
+  const g = norm(q);
+  if (g.length < 2) return [];
+  return NAME_BANK.filter(name =>
+    norm(name).split(" ").some(word => word.startsWith(g)) || norm(name).startsWith(g)
+  ).slice(0, 6);
+}
+function renderSuggestions() {
+  const items = over ? [] : getSuggestions(input.value);
+  if (items.length === 0) { suggestEl.style.display = "none"; suggestEl.innerHTML = ""; return; }
+  suggestEl.innerHTML = "";
+  items.forEach(name => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.textContent = name;
+    // Picking a wrong name from the list still costs a life —
+    // otherwise players could scroll the dropdown for free.
+    b.addEventListener("click", () => {
+      input.value = name;
+      hideSuggestions();
+      handleGuess();
+    });
+    suggestEl.appendChild(b);
+  });
+  suggestEl.style.display = "block";
+}
+function hideSuggestions() { suggestEl.style.display = "none"; suggestEl.innerHTML = ""; }
+
+function initGame(clubKey) {
+  PUZZLE = PUZZLES[clubKey];
+  document.getElementById("picker").style.display = "none";
+  document.getElementById("game").style.display = "block";
+  document.getElementById("clubName").textContent = PUZZLE.clubLabel;
+  document.getElementById("questionText").textContent = PUZZLE.question;
+  document.getElementById("questionNote").textContent = PUZZLE.note;
+  document.getElementById("streakLabel").textContent = "Streak: " + loadStats().streak;
+  input.placeholder = PUZZLE.placeholder;
+
+  PUZZLE.answers.forEach((_, i) => {
+    const div = document.createElement("div");
+    div.className = "slot";
+    div.id = "slot" + i;
+    div.innerHTML = `<span class="num">${i+1}</span><span class="val"></span><span class="detail"></span>`;
+    slotsEl.appendChild(div);
+  });
+  input.focus();
+}
+
+function fillSlot(i, cls) {
+  const el = document.getElementById("slot" + i);
+  el.classList.add(cls);
+  el.querySelector(".val").textContent = PUZZLE.answers[i].display;
+  el.querySelector(".detail").textContent = PUZZLE.answers[i].detail;
+}
+
+function setFeedback(msg, cls) { feedback.textContent = msg; feedback.className = "feedback " + (cls || ""); }
+
+function handleGuess() {
+  if (over || !PUZZLE) return;
+  const raw = input.value;
+  input.value = "";
+  hideSuggestions();
+  if (!raw.trim()) return;
+  const idx = matchGuess(raw);
+  if (idx === -1) {
+    lives--;
+    document.getElementById("lives").textContent = "❤️".repeat(lives) + "🖤".repeat(MAX_LIVES - lives);
+    setFeedback(`"${raw.trim()}" — not on the board. ${lives} ${lives === 1 ? "life" : "lives"} left.`, "bad");
+    if (lives === 0) endGame(false);
+  } else if (found.has(idx)) {
+    setFeedback("Already found that one!", "dup");
+  } else {
+    found.add(idx);
+    fillSlot(idx, "found");
+    setFeedback(`✔ ${PUZZLE.answers[idx].display} — ${found.size}/10`, "good");
+    if (found.size === 10) endGame(true);
+  }
+  input.focus();
+}
+
+function endGame(won) {
+  over = true;
+  document.getElementById("playArea").style.display = "none";
+  PUZZLE.answers.forEach((_, i) => { if (!found.has(i)) fillSlot(i, "revealed"); });
+
+  const stats = loadStats();
+  stats.played++;
+  if (won && lives === MAX_LIVES) stats.perfect++;
+  stats.streak = found.size >= 5 ? stats.streak + 1 : 0; // keep-streak threshold: 5+
+  saveStats(stats);
+
+  document.getElementById("endTitle").textContent =
+    won ? (lives === MAX_LIVES ? "PERFECT GAME 🏆" : "You got all ten!") :
+    found.size >= 7 ? "So close!" : "The board wins today.";
+  document.getElementById("scoreline").textContent = `${found.size}/10`;
+  document.getElementById("statsLine").textContent =
+    `Streak: ${stats.streak} · Played: ${stats.played} · Perfect: ${stats.perfect}`;
+  document.getElementById("endcard").style.display = "block";
+}
+
+document.getElementById("shareBtn").addEventListener("click", () => {
+  const squares = PUZZLE.answers.map((_, i) => found.has(i) ? "🟩" : "🟥").join("");
+  const text = `Club Ten #${PUZZLE.id} · ${PUZZLE.clubShort} — ${found.size}/10\n${squares}\nclubten.example`;
+  const note = document.getElementById("sharedNote");
+  if (navigator.share) {
+    navigator.share({ text }).catch(() => {});
+  } else {
+    navigator.clipboard.writeText(text).then(() => { note.textContent = "Copied to clipboard!"; });
+  }
+});
+
+document.getElementById("guessBtn").addEventListener("click", handleGuess);
+input.addEventListener("keydown", e => {
+  if (e.key === "Enter") handleGuess();
+  if (e.key === "Escape") hideSuggestions();
+});
+input.addEventListener("input", renderSuggestions);
+document.addEventListener("click", e => {
+  if (!e.target.closest(".inputwrap")) hideSuggestions();
+});
+</script>
+</body>
+</html>

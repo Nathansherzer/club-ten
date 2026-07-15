@@ -1,0 +1,61 @@
+{
+  "date":       "2026-07-14",
+  "club":       "manchester-city",
+  "clubLabel":  "Man City:",
+  "clubShort":  "Man City",
+  "question":   "name the last 10 permanent managers",
+  "note":       "No caretakers · through July 2026 · any order",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Pep Guardiola",
+      "detail":  "2016–",
+      "accept":  ["pep guardiola", "guardiola", "pep"]
+    },
+    {
+      "display": "Manuel Pellegrini",
+      "detail":  "2013–16",
+      "accept":  ["manuel pellegrini", "pellegrini"]
+    },
+    {
+      "display": "Roberto Mancini",
+      "detail":  "2009–13",
+      "accept":  ["roberto mancini", "mancini"]
+    },
+    {
+      "display": "Mark Hughes",
+      "detail":  "2008–09",
+      "accept":  ["mark hughes", "hughes", "sparky"]
+    },
+    {
+      "display": "Sven-Göran Eriksson",
+      "detail":  "2007–08",
+      "accept":  ["sven goran eriksson", "sven-goran eriksson", "eriksson", "sven"]
+    },
+    {
+      "display": "Stuart Pearce",
+      "detail":  "2005–07",
+      "accept":  ["stuart pearce", "pearce", "psycho"]
+    },
+    {
+      "display": "Kevin Keegan",
+      "detail":  "2001–05",
+      "accept":  ["kevin keegan", "keegan"]
+    },
+    {
+      "display": "Joe Royle",
+      "detail":  "1998–2001",
+      "accept":  ["joe royle", "royle"]
+    },
+    {
+      "display": "Frank Clark",
+      "detail":  "1996–98",
+      "accept":  ["frank clark", "clark"]
+    },
+    {
+      "display": "Alan Ball",
+      "detail":  "1995–96",
+      "accept":  ["alan ball", "ball"]
+    }
+  ]
+}

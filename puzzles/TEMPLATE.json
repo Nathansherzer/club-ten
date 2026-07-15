@@ -1,0 +1,51 @@
+{
+  "_readme": [
+    "HOW TO ADD A NEW PUZZLE DAY",
+    "1. Create a folder: puzzles/YYYY-MM-DD/",
+    "2. Copy this file six times, rename each to the club slug:",
+    "   arsenal.json, chelsea.json, liverpool.json,",
+    "   manchester-city.json, manchester-united.json, tottenham.json",
+    "3. Fill in the fields below for each club.",
+    "4. Commit and push — Vercel deploys automatically.",
+    "",
+    "FIELD GUIDE",
+    "date        : ISO date string matching the folder name.",
+    "club        : URL slug (must match the filename without .json).",
+    "clubLabel   : Displayed in the question card, e.g. 'Arsenal:'.",
+    "clubShort   : Used in share text, e.g. 'Arsenal'.",
+    "question    : The challenge, written as a continuation of the club label.",
+    "              Example — card reads: 'Arsenal: name the last 10 permanent managers'",
+    "note        : Small print under the question (season cutoff, ordering rules).",
+    "placeholder : Hint text inside the guess input field.",
+    "answers     : Array of exactly 10 objects.",
+    "  display   : The canonical name shown when the slot is filled or revealed.",
+    "  detail    : Small info shown alongside the name (years, goal count, caps, etc.).",
+    "  accept    : Array of strings the fuzzy matcher will accept.",
+    "              Include: full name, surname only, common nicknames.",
+    "              Accents optional — norm() strips them before comparison.",
+    "              DO NOT include alternative people with the same surname",
+    "              (e.g. don't add 'hodgson' if Roy Hodgson isn't an answer).",
+    "",
+    "VERIFICATION CHECKLIST",
+    "- Cross-check every answer against Wikipedia and the official club site.",
+    "- Set the 'note' field to the season/date through which data was verified.",
+    "- Caretakers and interim managers: decide your rule and apply it consistently.",
+    "  The launch-day puzzle excludes caretakers; keep that consistent.",
+    "- For goal/appearance counts: use the club's official all-time records page",
+    "  and note the source in a comment here."
+  ],
+  "date":       "YYYY-MM-DD",
+  "club":       "arsenal",
+  "clubLabel":  "Arsenal:",
+  "clubShort":  "Arsenal",
+  "question":   "name the last 10 permanent managers",
+  "note":       "No caretakers · through July 2026 · any order",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Full Name",
+      "detail":  "YYYY–YYYY",
+      "accept":  ["full name", "surname", "nickname"]
+    }
+  ]
+}
