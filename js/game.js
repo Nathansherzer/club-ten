@@ -375,8 +375,6 @@ function persistInProgress() {
    ========================================================== */
 
 function getSecondsUntilLondonMidnight() {
-  // Ask the browser for the current time broken down into London-timezone
-  // hour / minute / second components using the Intl API.
   const parts = Object.fromEntries(
     new Intl.DateTimeFormat("en-GB", {
       timeZone: "Europe/London",
@@ -420,7 +418,8 @@ document.getElementById("shareBtn").addEventListener("click", () => {
   const text     = `ClubTen #${puzzle.puzzleNumber} · ${clubName} · ${found.size}/10\n${squares}\n${url}`;
 
   const note = document.getElementById("sharedNote");
-  if (navigator.share) {
+  const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+  if (navigator.share && isMobile) {
     navigator.share({ text }).catch(() => {});
   } else {
     navigator.clipboard.writeText(text).then(() => {

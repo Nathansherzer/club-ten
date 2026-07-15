@@ -36,7 +36,7 @@ const VALID_CLUBS = new Set([
 // ("Puzzle #14") is calculated as days-since-launch + 1.
 const LAUNCH_DATE = "2026-07-14";
 
-/** Returns "YYYY-MM-DD" in London timezone — the canonical puzzle date. */
+/** Returns "YYYY-MM-DD" in London time — the canonical puzzle date. */
 function londonToday() {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
 }
