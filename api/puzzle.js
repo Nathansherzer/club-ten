@@ -3,15 +3,12 @@
    URL: GET /api/puzzle?club=arsenal
         GET /api/puzzle?club=arsenal&date=2026-07-01  (archive)
 
-   Reads /puzzles/<date>/<club>.json and returns it as JSON.
-   Future dates are blocked so players can't cheat by peeking
-   at tomorrow's answers.
+   Returns puzzle METADATA only — question, labels, puzzle
+   number, and total slot count.  No answers are included.
 
-   Why a serverless function and not a static file?
-   If we served /puzzles/2026-07-15/arsenal.json as a plain
-   static file, the full answer list would be visible to anyone
-   who opened that URL in their browser. The function blocks
-   future dates, so only today-or-earlier puzzles are readable.
+   Guess validation is handled by POST /api/guess.
+   End-of-game and archive reveals are handled by GET /api/reveal.
+   Future dates are blocked so tomorrow's metadata can't be read.
    ========================================================== */
 
 import { readFile } from "fs/promises";
@@ -88,11 +85,15 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Puzzle file is malformed." });
   }
 
-  // Add the puzzle number so the client can display "Puzzle #N"
-  data.puzzleNumber = puzzleNumber(requestedDate);
-
-  // Cache privately (the response contains answers — don't let a CDN
-  // serve it to the wrong player or cache it across sessions).
+  // Return metadata only — answers stay on the server
   res.setHeader("Cache-Control", "private, max-age=3600");
-  return res.status(200).json(data);
+  return res.status(200).json({
+    clubLabel:   data.clubLabel,
+    clubShort:   data.clubShort,
+    question:    data.question,
+    note:        data.note,
+    placeholder: data.placeholder,
+    puzzleNumber: puzzleNumber(requestedDate),
+    total:       data.answers.length
+  });
 }

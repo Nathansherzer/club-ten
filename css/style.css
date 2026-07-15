@@ -216,6 +216,7 @@ header h1 span { color: var(--green); }
 .slot .detail { color: var(--muted); font-size: 0.78rem; }
 
 .slot.found    { background: var(--green-dark); border-color: var(--green); animation: pop 0.3s ease; }
+.slot.scanning { background: #1a3558; border-color: #5ba3f5; box-shadow: 0 0 10px rgba(91,163,245,0.35); }
 .slot.revealed { background: #3a2626; border-color: #5c3a3a; }
 .slot.revealed .val { color: #e0b0b0; }
 

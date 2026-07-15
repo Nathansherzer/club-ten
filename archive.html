@@ -140,7 +140,7 @@ async function toggleEntry(entry, date) {
     toggle.textContent = "Loading…";
     const club = select.value;
     try {
-      const res = await fetch(`/api/puzzle?club=${club}&date=${date}`);
+      const res = await fetch(`/api/reveal?club=${club}&date=${date}`);
       if (!res.ok) throw new Error(res.status);
       const puzzle = await res.json();
       expanded[date] = puzzle;

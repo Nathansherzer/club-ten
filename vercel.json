@@ -2,7 +2,9 @@
   "version": 2,
   "functions": {
     "api/puzzle.js":  { "includeFiles": "puzzles/**" },
-    "api/archive.js": { "includeFiles": "puzzles/**" }
+    "api/archive.js": { "includeFiles": "puzzles/**" },
+    "api/guess.js":   { "includeFiles": "puzzles/**" },
+    "api/reveal.js":  { "includeFiles": "puzzles/**" }
   },
   "rewrites": [
     { "source": "/about",       "destination": "/about.html" },

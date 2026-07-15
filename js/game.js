@@ -1,6 +1,6 @@
 /* ==========================================================
    game.js — Club Ten main game logic
-   Requires utils.js to be loaded first (norm, matchGuess, getSuggestions).
+   Requires utils.js to be loaded first (norm, getSuggestions).
    ========================================================== */
 
 /* ----------------------------------------------------------
@@ -20,16 +20,16 @@ const CLUB_NAMES = {
 };
 
 /* ----------------------------------------------------------
-   Game state — these variables are reset each time a new
-   puzzle is loaded.
+   Game state — reset each time a new puzzle is loaded.
    ---------------------------------------------------------- */
 
-let puzzle   = null;       // puzzle object fetched from /api/puzzle
-let nameBank = [];         // list of ~3000+ names for autocomplete
-let found    = new Set();  // indices of correctly guessed answers
+let puzzle   = null;       // metadata from GET /api/puzzle (no answers)
+let nameBank = [];         // ~3000+ names for autocomplete
+let found    = new Map();  // slot index → { display, detail } for correct guesses
 let lives    = MAX_LIVES;
 let over     = false;
-let countdownTimer = null; // setInterval handle for the countdown clock
+let guessing = false;      // true while a POST /api/guess fetch is in flight
+let countdownTimer = null;
 
 /* ----------------------------------------------------------
    DOM references — grabbed once at startup.
@@ -63,7 +63,16 @@ function londonDateString() {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
 }
 
-/** Returns the saved in-progress or completed game for (today, club), or null. */
+/**
+ * Saved state shape:
+ *   {
+ *     found:    [{ slot, display, detail }, ...],
+ *     revealed: [{ slot, display, detail }, ...],  // unfound slots shown at game-over
+ *     lives:    number,
+ *     over:     boolean,
+ *     won:      boolean
+ *   }
+ */
 function getPlayState(club) {
   try {
     return JSON.parse(localStorage.getItem(`ct_play_${londonDateString()}_${club}`)) || null;
@@ -137,7 +146,6 @@ async function init() {
     return;
   }
 
-  // Has the player already played today? Restore that state.
   const saved = getPlayState(club);
   await fetchAndStartPuzzle(club, saved);
 }
@@ -219,20 +227,20 @@ function buildGameBoard() {
   renderLives();
 
   // Question
-  document.getElementById("clubName").textContent    = puzzle.clubLabel;
+  document.getElementById("clubName").textContent     = puzzle.clubLabel;
   document.getElementById("questionText").textContent = puzzle.question;
   document.getElementById("questionNote").textContent = puzzle.note;
   input.placeholder = puzzle.placeholder;
 
-  // 10 empty slots
+  // Build empty slots from puzzle.total (answers are not in the puzzle response)
   slotsEl.innerHTML = "";
-  puzzle.answers.forEach((_, i) => {
+  for (let i = 0; i < puzzle.total; i++) {
     const div = document.createElement("div");
     div.className = "slot";
     div.id        = "slot" + i;
     div.innerHTML = `<span class="num">${i + 1}</span><span class="val"></span><span class="detail"></span>`;
     slotsEl.appendChild(div);
-  });
+  }
 
   gameEl.style.display = "block";
 }
@@ -243,16 +251,20 @@ function buildGameBoard() {
    ========================================================== */
 
 function restoreState(saved) {
-  found = new Set(saved.found);
+  // Re-hydrate found Map from the saved array of {slot, display, detail}
+  found = new Map(saved.found.map(({ slot, display, detail }) => [slot, { display, detail }]));
   lives = saved.lives;
   renderLives();
 
-  // Re-fill slots that were already found or revealed
-  for (const idx of found) fillSlot(idx, "found");
+  for (const [slot, { display, detail }] of found) {
+    fillSlot(slot, display, detail, "found");
+  }
 
   if (saved.over) {
     over = true;
-    puzzle.answers.forEach((_, i) => { if (!found.has(i)) fillSlot(i, "revealed"); });
+    for (const { slot, display, detail } of (saved.revealed || [])) {
+      fillSlot(slot, display, detail, "revealed");
+    }
     playAreaEl.style.display = "none";
     showEndCard(saved.won);
     adEl.style.display = "block";
@@ -266,12 +278,12 @@ function restoreState(saved) {
    SLOT HELPERS
    ========================================================== */
 
-function fillSlot(i, cls) {
+function fillSlot(i, display, detail, cls) {
   const el = document.getElementById("slot" + i);
   if (!el) return;
   el.classList.add(cls);
-  el.querySelector(".val").textContent    = puzzle.answers[i].display;
-  el.querySelector(".detail").textContent = puzzle.answers[i].detail;
+  el.querySelector(".val").textContent    = display;
+  el.querySelector(".detail").textContent = detail;
 }
 
 function renderLives() {
@@ -280,39 +292,107 @@ function renderLives() {
 
 /* ==========================================================
    GUESS HANDLING
+   Sends the raw guess string to POST /api/guess; the server
+   runs fuzzy matching and returns hit/miss + slot data.
+   The input is disabled for the round-trip to prevent doubles.
    ========================================================== */
 
-function handleGuess() {
-  if (over || !puzzle) return;
+async function handleGuess() {
+  if (over || !puzzle || guessing) return;
   const raw = input.value.trim();
   input.value = "";
   hideSuggestions();
   if (!raw) return;
 
-  const idx = matchGuess(raw, puzzle.answers);
+  guessing = true;
+  input.disabled = true;
+  document.getElementById("guessBtn").disabled = true;
 
-  if (idx === -1) {
-    // Wrong guess
+  let result;
+  try {
+    const res = await fetch("/api/guess", {
+      method:  "POST",
+      headers: { "Content-Type": "application/json" },
+      body:    JSON.stringify({ club: getClub(), guess: raw })
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    result = await res.json();
+  } catch {
+    setFeedback("Connection error — please try again.", "bad");
+    guessing = false;
+    input.disabled = false;
+    document.getElementById("guessBtn").disabled = false;
+    input.focus();
+    return;
+  }
+
+  // Duplicate: skip sweep, give instant feedback
+  const isDuplicate = result.hit && found.has(result.slot);
+  if (!isDuplicate) {
+    // Hit → sweep down to result.slot; Miss → null sweeps all empty slots
+    await runSweep(result.hit ? result.slot : null);
+  }
+
+  guessing = false;
+  input.disabled = false;
+  document.getElementById("guessBtn").disabled = false;
+
+  if (!result.hit) {
     lives--;
     renderLives();
     setFeedback(
       `"${raw}" — not on the board. ${lives} ${lives === 1 ? "life" : "lives"} left.`,
       "bad"
     );
-    if (lives === 0) endGame(false);
+    if (lives === 0) { await endGame(false); return; }
 
-  } else if (found.has(idx)) {
+  } else if (isDuplicate) {
     setFeedback("Already found that one!", "dup");
 
   } else {
-    found.add(idx);
-    fillSlot(idx, "found");
-    setFeedback(`✔ ${puzzle.answers[idx].display} — ${found.size}/10`, "good");
-    if (found.size === 10) endGame(true);
+    found.set(result.slot, { display: result.display, detail: result.detail });
+    fillSlot(result.slot, result.display, result.detail, "found");
+    setFeedback(`✔ ${result.display} — ${found.size}/10`, "good");
+    if (found.size === puzzle.total) { await endGame(true); return; }
   }
 
   if (!over) persistInProgress();
   input.focus();
+}
+
+// Sweeps a "scanning" highlight through unfound slots in descending order.
+// stopAtSlot: index to stop at (hit), or null to run through all (miss).
+function runSweep(stopAtSlot) {
+  return new Promise(resolve => {
+    const order = [];
+    for (let i = puzzle.total - 1; i >= 0; i--) {
+      if (!found.has(i)) order.push(i);
+      if (stopAtSlot !== null && i === stopAtSlot) break;
+    }
+    if (order.length === 0) { resolve(); return; }
+
+    let step = 0;
+    let activeEl = null;
+
+    function advance() {
+      if (activeEl) activeEl.classList.remove("scanning");
+      if (step >= order.length) { resolve(); return; }
+
+      const slotIdx = order[step++];
+      activeEl = document.getElementById("slot" + slotIdx);
+      if (activeEl) activeEl.classList.add("scanning");
+
+      const isTarget = stopAtSlot !== null && slotIdx === stopAtSlot;
+      setTimeout(isTarget ? finish : advance, 240);
+    }
+
+    function finish() {
+      if (activeEl) activeEl.classList.remove("scanning");
+      resolve();
+    }
+
+    advance();
+  });
 }
 
 function setFeedback(msg, cls) {
@@ -324,14 +404,13 @@ function setFeedback(msg, cls) {
    END GAME
    ========================================================== */
 
-function endGame(won) {
+async function endGame(won) {
   over = true;
   playAreaEl.style.display = "none";
 
-  // Reveal any unfound answers
-  puzzle.answers.forEach((_, i) => { if (!found.has(i)) fillSlot(i, "revealed"); });
+  // Fetch display+detail for unfound slots from the server and fill them in
+  const revealedArr = await revealUnfound();
 
-  // Update stats
   const club  = getClub();
   const stats = getStats(club);
   stats.played++;
@@ -340,11 +419,32 @@ function endGame(won) {
   stats.streak = found.size >= 5 ? stats.streak + 1 : 0;
   saveStats(club, stats);
 
-  // Persist final state so the same result is shown if they reload
-  savePlayState(club, { found: Array.from(found), lives, over: true, won });
+  const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
+  savePlayState(club, { found: foundArr, revealed: revealedArr, lives, over: true, won });
 
   showEndCard(won);
   adEl.style.display = "block";
+}
+
+async function revealUnfound() {
+  const unfound = [];
+  for (let i = 0; i < puzzle.total; i++) {
+    if (!found.has(i)) unfound.push(i);
+  }
+  if (unfound.length === 0) return [];
+
+  try {
+    const res = await fetch(`/api/reveal?club=${getClub()}`);
+    if (!res.ok) return [];
+    const data = await res.json();
+    return unfound.map(i => {
+      const { display, detail } = data.answers[i];
+      fillSlot(i, display, detail, "revealed");
+      return { slot: i, display, detail };
+    });
+  } catch {
+    return []; // silent — unfound slots stay blank if network fails
+  }
 }
 
 function showEndCard(won) {
@@ -367,7 +467,8 @@ function showEndCard(won) {
 }
 
 function persistInProgress() {
-  savePlayState(getClub(), { found: Array.from(found), lives, over: false, won: false });
+  const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
+  savePlayState(getClub(), { found: foundArr, revealed: [], lives, over: false, won: false });
 }
 
 /* ==========================================================
@@ -413,7 +514,7 @@ function startCountdown() {
 
 document.getElementById("shareBtn").addEventListener("click", () => {
   const clubName = CLUB_NAMES[getClub()] || puzzle.clubShort;
-  const squares  = puzzle.answers.map((_, i) => found.has(i) ? "🟩" : "🟥").join("");
+  const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
   const url      = location.origin;
   const text     = `ClubTen #${puzzle.puzzleNumber} · ${clubName} · ${found.size}/10\n${squares}\n${url}`;
 
