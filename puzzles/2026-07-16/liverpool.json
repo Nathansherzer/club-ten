@@ -1,61 +1,96 @@
 {
-  "date":       "2026-07-16",
-  "club":       "liverpool",
-  "clubLabel":  "Liverpool:",
-  "clubShort":  "Liverpool",
-  "question":   "name the 10 leading Premier League scorers",
-  "note":       "Premier League goals only · any order · through July 2026",
+  "date": "2026-07-16",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 leading Premier League scorers",
+  "note": "Premier League goals only · any order · through July 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Mohamed Salah",
-      "detail":  "180+ PL goals",
-      "accept":  ["mohamed salah", "salah", "mo salah"]
+      "detail": "",
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mo salah"
+      ]
     },
     {
       "display": "Robbie Fowler",
-      "detail":  "128 PL goals",
-      "accept":  ["robbie fowler", "fowler", "god"]
+      "detail": "",
+      "accept": [
+        "robbie fowler",
+        "fowler",
+        "god"
+      ]
     },
     {
       "display": "Steven Gerrard",
-      "detail":  "120 PL goals",
-      "accept":  ["steven gerrard", "gerrard", "stevie g"]
+      "detail": "",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g"
+      ]
     },
     {
       "display": "Michael Owen",
-      "detail":  "118 PL goals",
-      "accept":  ["michael owen", "owen"]
+      "detail": "",
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
     },
     {
       "display": "Sadio Mané",
-      "detail":  "100 PL goals",
-      "accept":  ["sadio mane", "mane"]
+      "detail": "",
+      "accept": [
+        "sadio mane",
+        "mane"
+      ]
     },
     {
       "display": "Roberto Firmino",
-      "detail":  "71 PL goals",
-      "accept":  ["roberto firmino", "firmino", "bobby firmino"]
+      "detail": "",
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     },
     {
       "display": "Diogo Jota",
-      "detail":  "70+ PL goals",
-      "accept":  ["diogo jota", "jota"]
+      "detail": "",
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
     },
     {
       "display": "Luis Suárez",
-      "detail":  "65 PL goals",
-      "accept":  ["luis suarez", "suarez"]
+      "detail": "",
+      "accept": [
+        "luis suarez",
+        "suarez"
+      ]
     },
     {
       "display": "Fernando Torres",
-      "detail":  "65 PL goals",
-      "accept":  ["fernando torres", "torres", "el nino"]
+      "detail": "",
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
     },
     {
       "display": "Dirk Kuyt",
-      "detail":  "57 PL goals",
-      "accept":  ["dirk kuyt", "kuyt"]
+      "detail": "",
+      "accept": [
+        "dirk kuyt",
+        "kuyt"
+      ]
     }
   ]
 }

@@ -1,61 +1,98 @@
 {
-  "date":       "2026-07-16",
-  "club":       "manchester-united",
-  "clubLabel":  "Man United:",
-  "clubShort":  "Man United",
-  "question":   "name the 10 leading Premier League scorers",
-  "note":       "Premier League goals only · any order · through July 2026",
+  "date": "2026-07-16",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 leading Premier League scorers",
+  "note": "Premier League goals only · any order · through July 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Wayne Rooney",
-      "detail":  "183 PL goals",
-      "accept":  ["wayne rooney", "rooney"]
+      "detail": "",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     },
     {
       "display": "Ryan Giggs",
-      "detail":  "114 PL goals",
-      "accept":  ["ryan giggs", "giggs"]
+      "detail": "",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Paul Scholes",
-      "detail":  "107 PL goals",
-      "accept":  ["paul scholes", "scholes", "scholesy"]
+      "detail": "",
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Cristiano Ronaldo",
-      "detail":  "103 PL goals",
-      "accept":  ["cristiano ronaldo", "ronaldo", "cr7"]
+      "detail": "",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
     },
     {
       "display": "Ruud van Nistelrooy",
-      "detail":  "97 PL goals",
-      "accept":  ["ruud van nistelrooy", "van nistelrooy", "rvn"]
+      "detail": "",
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy",
+        "rvn"
+      ]
     },
     {
       "display": "Marcus Rashford",
-      "detail":  "94+ PL goals",
-      "accept":  ["marcus rashford", "rashford"]
+      "detail": "",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "Andy Cole",
-      "detail":  "87 PL goals",
-      "accept":  ["andy cole", "andrew cole"]
+      "detail": "",
+      "accept": [
+        "andy cole",
+        "andrew cole"
+      ]
     },
     {
       "display": "Ole Gunnar Solskjær",
-      "detail":  "83 PL goals",
-      "accept":  ["ole gunnar solskjaer", "solskjaer", "ole", "solskjer"]
+      "detail": "",
+      "accept": [
+        "ole gunnar solskjaer",
+        "solskjaer",
+        "ole",
+        "solskjer"
+      ]
     },
     {
       "display": "Bruno Fernandes",
-      "detail":  "72+ PL goals",
-      "accept":  ["bruno fernandes", "fernandes", "bruno"]
+      "detail": "",
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
     },
     {
       "display": "Eric Cantona",
-      "detail":  "64 PL goals",
-      "accept":  ["eric cantona", "cantona", "king eric"]
+      "detail": "",
+      "accept": [
+        "eric cantona",
+        "cantona",
+        "king eric"
+      ]
     }
   ]
 }

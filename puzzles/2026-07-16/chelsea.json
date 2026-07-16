@@ -1,61 +1,95 @@
 {
-  "date":       "2026-07-16",
-  "club":       "chelsea",
-  "clubLabel":  "Chelsea:",
-  "clubShort":  "Chelsea",
-  "question":   "name the 10 leading Premier League scorers",
-  "note":       "Premier League goals only · any order · through July 2026",
+  "date": "2026-07-16",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 leading Premier League scorers",
+  "note": "Premier League goals only · any order · through July 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Frank Lampard",
-      "detail":  "147 PL goals",
-      "accept":  ["frank lampard", "lampard", "lamps"]
+      "detail": "",
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Didier Drogba",
-      "detail":  "104 PL goals",
-      "accept":  ["didier drogba", "drogba"]
+      "detail": "",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
     },
     {
       "display": "Eden Hazard",
-      "detail":  "85 PL goals",
-      "accept":  ["eden hazard", "hazard"]
+      "detail": "",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
     },
     {
       "display": "Nicolas Anelka",
-      "detail":  "70 PL goals",
-      "accept":  ["nicolas anelka", "anelka"]
+      "detail": "",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
     },
     {
       "display": "Jimmy Floyd Hasselbaink",
-      "detail":  "69 PL goals",
-      "accept":  ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink", "floyd hasselbaink"]
+      "detail": "",
+      "accept": [
+        "jimmy floyd hasselbaink",
+        "hasselbaink",
+        "jimmy hasselbaink",
+        "floyd hasselbaink"
+      ]
     },
     {
       "display": "Gianfranco Zola",
-      "detail":  "59 PL goals",
-      "accept":  ["gianfranco zola", "zola", "magic box"]
+      "detail": "",
+      "accept": [
+        "gianfranco zola",
+        "zola",
+        "magic box"
+      ]
     },
     {
       "display": "Cole Palmer",
-      "detail":  "55+ PL goals",
-      "accept":  ["cole palmer", "palmer"]
+      "detail": "",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     },
     {
       "display": "Eidur Gudjohnsen",
-      "detail":  "54 PL goals",
-      "accept":  ["eidur gudjohnsen", "gudjohnsen"]
+      "detail": "",
+      "accept": [
+        "eidur gudjohnsen",
+        "gudjohnsen"
+      ]
     },
     {
       "display": "Diego Costa",
-      "detail":  "52 PL goals",
-      "accept":  ["diego costa", "costa"]
+      "detail": "",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
     },
     {
       "display": "Willian",
-      "detail":  "37 PL goals",
-      "accept":  ["willian", "willian borges"]
+      "detail": "",
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
     }
   ]
 }

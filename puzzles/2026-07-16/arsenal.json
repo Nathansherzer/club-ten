@@ -1,61 +1,94 @@
 {
-  "date":       "2026-07-16",
-  "club":       "arsenal",
-  "clubLabel":  "Arsenal:",
-  "clubShort":  "Arsenal",
-  "question":   "name the 10 leading Premier League scorers",
-  "note":       "Premier League goals only · any order · through July 2026",
+  "date": "2026-07-16",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 leading Premier League scorers",
+  "note": "Premier League goals only · any order · through July 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Thierry Henry",
-      "detail":  "175 PL goals",
-      "accept":  ["thierry henry", "henry"]
+      "detail": "",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
     },
     {
       "display": "Ian Wright",
-      "detail":  "104 PL goals",
-      "accept":  ["ian wright", "wright", "wrighty"]
+      "detail": "",
+      "accept": [
+        "ian wright",
+        "wright",
+        "wrighty"
+      ]
     },
     {
       "display": "Robin van Persie",
-      "detail":  "96 PL goals",
-      "accept":  ["robin van persie", "van persie", "rvp"]
+      "detail": "",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
     },
     {
       "display": "Dennis Bergkamp",
-      "detail":  "87 PL goals",
-      "accept":  ["dennis bergkamp", "bergkamp"]
+      "detail": "",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
     },
     {
       "display": "Robert Pires",
-      "detail":  "84 PL goals",
-      "accept":  ["robert pires", "pires"]
+      "detail": "",
+      "accept": [
+        "robert pires",
+        "pires"
+      ]
     },
     {
       "display": "Bukayo Saka",
-      "detail":  "77+ PL goals",
-      "accept":  ["bukayo saka", "saka"]
+      "detail": "",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
     },
     {
       "display": "Pierre-Emerick Aubameyang",
-      "detail":  "68 PL goals",
-      "accept":  ["pierre-emerick aubameyang", "aubameyang", "auba"]
+      "detail": "",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba"
+      ]
     },
     {
       "display": "Alexis Sánchez",
-      "detail":  "60 PL goals",
-      "accept":  ["alexis sanchez", "sanchez"]
+      "detail": "",
+      "accept": [
+        "alexis sanchez",
+        "sanchez"
+      ]
     },
     {
       "display": "Olivier Giroud",
-      "detail":  "51 PL goals",
-      "accept":  ["olivier giroud", "giroud"]
+      "detail": "",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
     },
     {
       "display": "Freddie Ljungberg",
-      "detail":  "46 PL goals",
-      "accept":  ["freddie ljungberg", "ljungberg"]
+      "detail": "",
+      "accept": [
+        "freddie ljungberg",
+        "ljungberg"
+      ]
     }
   ]
 }

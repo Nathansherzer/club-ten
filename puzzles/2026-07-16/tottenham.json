@@ -1,61 +1,97 @@
 {
-  "date":       "2026-07-16",
-  "club":       "tottenham",
-  "clubLabel":  "Spurs:",
-  "clubShort":  "Spurs",
-  "question":   "name the 10 leading Premier League scorers",
-  "note":       "Premier League goals only · any order · through July 2026",
+  "date": "2026-07-16",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 leading Premier League scorers",
+  "note": "Premier League goals only · any order · through July 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Harry Kane",
-      "detail":  "213 PL goals",
-      "accept":  ["harry kane", "kane"]
+      "detail": "",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Son Heung-min",
-      "detail":  "145+ PL goals",
-      "accept":  ["son heung-min", "son heung min", "son", "heung-min son", "sonny"]
+      "detail": "",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min son",
+        "sonny"
+      ]
     },
     {
       "display": "Jermain Defoe",
-      "detail":  "108 PL goals",
-      "accept":  ["jermain defoe", "defoe"]
+      "detail": "",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
     },
     {
       "display": "Teddy Sheringham",
-      "detail":  "96 PL goals",
-      "accept":  ["teddy sheringham", "sheringham"]
+      "detail": "",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
     },
     {
       "display": "Robbie Keane",
-      "detail":  "65 PL goals",
-      "accept":  ["robbie keane", "keane"]
+      "detail": "",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
     },
     {
       "display": "Dele Alli",
-      "detail":  "53 PL goals",
-      "accept":  ["dele alli", "dele", "alli"]
+      "detail": "",
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
     },
     {
       "display": "Christian Eriksen",
-      "detail":  "51 PL goals",
-      "accept":  ["christian eriksen", "eriksen"]
+      "detail": "",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
     },
     {
       "display": "Les Ferdinand",
-      "detail":  "40 PL goals",
-      "accept":  ["les ferdinand", "ferdinand", "sir les"]
+      "detail": "",
+      "accept": [
+        "les ferdinand",
+        "ferdinand",
+        "sir les"
+      ]
     },
     {
       "display": "Emmanuel Adebayor",
-      "detail":  "39 PL goals",
-      "accept":  ["emmanuel adebayor", "adebayor"]
+      "detail": "",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
     },
     {
       "display": "Darren Anderton",
-      "detail":  "34 PL goals",
-      "accept":  ["darren anderton", "anderton", "sicknote"]
+      "detail": "",
+      "accept": [
+        "darren anderton",
+        "anderton",
+        "sicknote"
+      ]
     }
   ]
 }
