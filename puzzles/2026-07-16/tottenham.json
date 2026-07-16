@@ -3,59 +3,59 @@
   "club":       "tottenham",
   "clubLabel":  "Spurs:",
   "clubShort":  "Spurs",
-  "question":   "name the 10 all-time leading scorers",
-  "note":       "All competitions · any order · through July 2026",
+  "question":   "name the 10 leading Premier League scorers",
+  "note":       "Premier League goals only · any order · through July 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Harry Kane",
-      "detail":  "280 goals",
+      "detail":  "213 PL goals",
       "accept":  ["harry kane", "kane"]
     },
     {
-      "display": "Jimmy Greaves",
-      "detail":  "266 goals",
-      "accept":  ["jimmy greaves", "greaves", "greavsie"]
-    },
-    {
-      "display": "Bobby Smith",
-      "detail":  "208 goals",
-      "accept":  ["bobby smith", "smith"]
-    },
-    {
-      "display": "Martin Chivers",
-      "detail":  "174 goals",
-      "accept":  ["martin chivers", "chivers"]
-    },
-    {
       "display": "Son Heung-min",
-      "detail":  "165+ goals",
+      "detail":  "145+ PL goals",
       "accept":  ["son heung-min", "son heung min", "son", "heung-min son", "sonny"]
     },
     {
-      "display": "George Hunt",
-      "detail":  "138 goals",
-      "accept":  ["george hunt", "hunt"]
-    },
-    {
-      "display": "Alan Gilzean",
-      "detail":  "133 goals",
-      "accept":  ["alan gilzean", "gilzean", "gilly"]
-    },
-    {
-      "display": "Robbie Keane",
-      "detail":  "122 goals",
-      "accept":  ["robbie keane", "keane"]
-    },
-    {
-      "display": "Clive Allen",
-      "detail":  "112 goals",
-      "accept":  ["clive allen", "allen"]
+      "display": "Jermain Defoe",
+      "detail":  "108 PL goals",
+      "accept":  ["jermain defoe", "defoe"]
     },
     {
       "display": "Teddy Sheringham",
-      "detail":  "97 goals",
+      "detail":  "96 PL goals",
       "accept":  ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail":  "65 PL goals",
+      "accept":  ["robbie keane", "keane"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail":  "53 PL goals",
+      "accept":  ["dele alli", "dele", "alli"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail":  "51 PL goals",
+      "accept":  ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Les Ferdinand",
+      "detail":  "40 PL goals",
+      "accept":  ["les ferdinand", "ferdinand", "sir les"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail":  "39 PL goals",
+      "accept":  ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail":  "34 PL goals",
+      "accept":  ["darren anderton", "anderton", "sicknote"]
     }
   ]
 }

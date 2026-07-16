@@ -3,59 +3,59 @@
   "club":       "manchester-city",
   "clubLabel":  "Man City:",
   "clubShort":  "Man City",
-  "question":   "name the 10 all-time leading scorers",
-  "note":       "All competitions · any order · through July 2026",
+  "question":   "name the 10 leading Premier League scorers",
+  "note":       "Premier League goals only · any order · through July 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Sergio Agüero",
-      "detail":  "260 goals",
+      "detail":  "184 PL goals",
       "accept":  ["sergio aguero", "aguero", "kun aguero", "kun"]
     },
     {
-      "display": "Eric Brook",
-      "detail":  "177 goals",
-      "accept":  ["eric brook", "brook"]
-    },
-    {
-      "display": "Tommy Johnson",
-      "detail":  "166 goals",
-      "accept":  ["tommy johnson", "johnson"]
-    },
-    {
-      "display": "Colin Bell",
-      "detail":  "152 goals",
-      "accept":  ["colin bell", "bell", "nijinsky"]
-    },
-    {
-      "display": "Joe Hayes",
-      "detail":  "152 goals",
-      "accept":  ["joe hayes", "hayes"]
-    },
-    {
-      "display": "Francis Lee",
-      "detail":  "148 goals",
-      "accept":  ["francis lee", "lee", "franny lee"]
-    },
-    {
       "display": "Erling Haaland",
-      "detail":  "140+ goals",
+      "detail":  "116+ PL goals",
       "accept":  ["erling haaland", "haaland", "erling"]
     },
     {
       "display": "Raheem Sterling",
-      "detail":  "131 goals",
+      "detail":  "91 PL goals",
       "accept":  ["raheem sterling", "sterling"]
     },
     {
-      "display": "Horace Barnes",
-      "detail":  "125 goals",
-      "accept":  ["horace barnes", "barnes"]
+      "display": "Phil Foden",
+      "detail":  "79+ PL goals",
+      "accept":  ["phil foden", "foden"]
     },
     {
-      "display": "Tommy Browell",
-      "detail":  "122 goals",
-      "accept":  ["tommy browell", "browell"]
+      "display": "Kevin De Bruyne",
+      "detail":  "76+ PL goals",
+      "accept":  ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "David Silva",
+      "detail":  "68 PL goals",
+      "accept":  ["david silva", "silva", "el mago"]
+    },
+    {
+      "display": "Carlos Tévez",
+      "detail":  "65 PL goals",
+      "accept":  ["carlos tevez", "tevez"]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail":  "62 PL goals",
+      "accept":  ["yaya toure", "toure", "yaya"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail":  "60 PL goals",
+      "accept":  ["riyad mahrez", "mahrez"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail":  "58 PL goals",
+      "accept":  ["gabriel jesus", "jesus"]
     }
   ]
 }
