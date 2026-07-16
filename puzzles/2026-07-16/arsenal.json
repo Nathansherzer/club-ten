@@ -1,0 +1,61 @@
+{
+  "date":       "2026-07-16",
+  "club":       "arsenal",
+  "clubLabel":  "Arsenal:",
+  "clubShort":  "Arsenal",
+  "question":   "name the 10 all-time leading scorers",
+  "note":       "All competitions · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail":  "228 goals",
+      "accept":  ["thierry henry", "henry"]
+    },
+    {
+      "display": "Ian Wright",
+      "detail":  "185 goals",
+      "accept":  ["ian wright", "wright", "wrighty"]
+    },
+    {
+      "display": "Cliff Bastin",
+      "detail":  "178 goals",
+      "accept":  ["cliff bastin", "bastin", "boy bastin"]
+    },
+    {
+      "display": "John Radford",
+      "detail":  "149 goals",
+      "accept":  ["john radford", "radford"]
+    },
+    {
+      "display": "Ted Drake",
+      "detail":  "139 goals",
+      "accept":  ["ted drake", "drake"]
+    },
+    {
+      "display": "Doug Lishman",
+      "detail":  "137 goals",
+      "accept":  ["doug lishman", "lishman"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail":  "132 goals",
+      "accept":  ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Joe Hulme",
+      "detail":  "125 goals",
+      "accept":  ["joe hulme", "hulme"]
+    },
+    {
+      "display": "David Jack",
+      "detail":  "124 goals",
+      "accept":  ["david jack", "jack"]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail":  "120 goals",
+      "accept":  ["dennis bergkamp", "bergkamp", "the non-flying dutchman"]
+    }
+  ]
+}

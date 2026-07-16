@@ -1,0 +1,61 @@
+{
+  "date":       "2026-07-16",
+  "club":       "manchester-united",
+  "clubLabel":  "Man United:",
+  "clubShort":  "Man United",
+  "question":   "name the 10 all-time leading scorers",
+  "note":       "All competitions · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail":  "253 goals",
+      "accept":  ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Bobby Charlton",
+      "detail":  "249 goals",
+      "accept":  ["bobby charlton", "charlton", "sir bobby"]
+    },
+    {
+      "display": "Denis Law",
+      "detail":  "237 goals",
+      "accept":  ["denis law", "law", "the king"]
+    },
+    {
+      "display": "Jack Rowley",
+      "detail":  "211 goals",
+      "accept":  ["jack rowley", "rowley", "the gunner"]
+    },
+    {
+      "display": "Dennis Viollet",
+      "detail":  "179 goals",
+      "accept":  ["dennis viollet", "viollet"]
+    },
+    {
+      "display": "Joe Spence",
+      "detail":  "168 goals",
+      "accept":  ["joe spence", "spence"]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail":  "168 goals",
+      "accept":  ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Mark Hughes",
+      "detail":  "163 goals",
+      "accept":  ["mark hughes", "hughes", "sparky"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail":  "155 goals",
+      "accept":  ["paul scholes", "scholes", "scholesy"]
+    },
+    {
+      "display": "Ruud van Nistelrooy",
+      "detail":  "150 goals",
+      "accept":  ["ruud van nistelrooy", "van nistelrooy", "rvn"]
+    }
+  ]
+}

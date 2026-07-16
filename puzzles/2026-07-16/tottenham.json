@@ -1,0 +1,61 @@
+{
+  "date":       "2026-07-16",
+  "club":       "tottenham",
+  "clubLabel":  "Spurs:",
+  "clubShort":  "Spurs",
+  "question":   "name the 10 all-time leading scorers",
+  "note":       "All competitions · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail":  "280 goals",
+      "accept":  ["harry kane", "kane"]
+    },
+    {
+      "display": "Jimmy Greaves",
+      "detail":  "266 goals",
+      "accept":  ["jimmy greaves", "greaves", "greavsie"]
+    },
+    {
+      "display": "Bobby Smith",
+      "detail":  "208 goals",
+      "accept":  ["bobby smith", "smith"]
+    },
+    {
+      "display": "Martin Chivers",
+      "detail":  "174 goals",
+      "accept":  ["martin chivers", "chivers"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail":  "165+ goals",
+      "accept":  ["son heung-min", "son heung min", "son", "heung-min son", "sonny"]
+    },
+    {
+      "display": "George Hunt",
+      "detail":  "138 goals",
+      "accept":  ["george hunt", "hunt"]
+    },
+    {
+      "display": "Alan Gilzean",
+      "detail":  "133 goals",
+      "accept":  ["alan gilzean", "gilzean", "gilly"]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail":  "122 goals",
+      "accept":  ["robbie keane", "keane"]
+    },
+    {
+      "display": "Clive Allen",
+      "detail":  "112 goals",
+      "accept":  ["clive allen", "allen"]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail":  "97 goals",
+      "accept":  ["teddy sheringham", "sheringham"]
+    }
+  ]
+}

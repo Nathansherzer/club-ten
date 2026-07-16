@@ -1,0 +1,61 @@
+{
+  "date":       "2026-07-16",
+  "club":       "chelsea",
+  "clubLabel":  "Chelsea:",
+  "clubShort":  "Chelsea",
+  "question":   "name the 10 all-time leading scorers",
+  "note":       "All competitions · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail":  "211 goals",
+      "accept":  ["frank lampard", "lampard", "lamps"]
+    },
+    {
+      "display": "Bobby Tambling",
+      "detail":  "202 goals",
+      "accept":  ["bobby tambling", "tambling"]
+    },
+    {
+      "display": "Kerry Dixon",
+      "detail":  "193 goals",
+      "accept":  ["kerry dixon", "dixon"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail":  "164 goals",
+      "accept":  ["didier drogba", "drogba"]
+    },
+    {
+      "display": "Roy Bentley",
+      "detail":  "150 goals",
+      "accept":  ["roy bentley", "bentley"]
+    },
+    {
+      "display": "Peter Osgood",
+      "detail":  "150 goals",
+      "accept":  ["peter osgood", "osgood", "ossie"]
+    },
+    {
+      "display": "Jimmy Greaves",
+      "detail":  "132 goals",
+      "accept":  ["jimmy greaves", "greaves", "greavsie"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail":  "110 goals",
+      "accept":  ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail":  "95 goals",
+      "accept":  ["nicolas anelka", "anelka"]
+    },
+    {
+      "display": "Jimmy Floyd Hasselbaink",
+      "detail":  "87 goals",
+      "accept":  ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink", "floyd hasselbaink"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date":       "2026-07-16",
+  "club":       "liverpool",
+  "clubLabel":  "Liverpool:",
+  "clubShort":  "Liverpool",
+  "question":   "name the 10 all-time leading scorers",
+  "note":       "All competitions · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ian Rush",
+      "detail":  "346 goals",
+      "accept":  ["ian rush", "rush"]
+    },
+    {
+      "display": "Roger Hunt",
+      "detail":  "285 goals",
+      "accept":  ["roger hunt", "hunt", "sir roger"]
+    },
+    {
+      "display": "Gordon Hodgson",
+      "detail":  "241 goals",
+      "accept":  ["gordon hodgson", "hodgson"]
+    },
+    {
+      "display": "Billy Liddell",
+      "detail":  "228 goals",
+      "accept":  ["billy liddell", "liddell"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail":  "220+ goals",
+      "accept":  ["mohamed salah", "salah", "mo salah"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail":  "186 goals",
+      "accept":  ["steven gerrard", "gerrard", "stevie g"]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail":  "183 goals",
+      "accept":  ["robbie fowler", "fowler", "god"]
+    },
+    {
+      "display": "Kenny Dalglish",
+      "detail":  "172 goals",
+      "accept":  ["kenny dalglish", "dalglish", "king kenny"]
+    },
+    {
+      "display": "Michael Owen",
+      "detail":  "158 goals",
+      "accept":  ["michael owen", "owen"]
+    },
+    {
+      "display": "Harry Chambers",
+      "detail":  "151 goals",
+      "accept":  ["harry chambers", "chambers"]
+    }
+  ]
+}
