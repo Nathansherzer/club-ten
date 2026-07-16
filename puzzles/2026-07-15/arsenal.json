@@ -1,61 +1,91 @@
 {
-  "date":       "2026-07-14",
-  "club":       "arsenal",
-  "clubLabel":  "Arsenal:",
-  "clubShort":  "Arsenal",
-  "question":   "name the last 10 permanent managers",
-  "note":       "No caretakers · through July 2026 · any order",
+  "date": "2026-07-14",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the last 10 permanent managers",
+  "note": "No caretakers · through July 2026 · any order",
   "placeholder": "Type a manager's name…",
   "answers": [
     {
       "display": "Mikel Arteta",
-      "detail":  "2019–",
-      "accept":  ["mikel arteta", "arteta"]
+      "detail": "",
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
     },
     {
       "display": "Unai Emery",
-      "detail":  "2018–19",
-      "accept":  ["unai emery", "emery"]
+      "detail": "",
+      "accept": [
+        "unai emery",
+        "emery"
+      ]
     },
     {
       "display": "Arsène Wenger",
-      "detail":  "1996–2018",
-      "accept":  ["arsene wenger", "wenger"]
+      "detail": "",
+      "accept": [
+        "arsene wenger",
+        "wenger"
+      ]
     },
     {
       "display": "Bruce Rioch",
-      "detail":  "1995–96",
-      "accept":  ["bruce rioch", "rioch"]
+      "detail": "",
+      "accept": [
+        "bruce rioch",
+        "rioch"
+      ]
     },
     {
       "display": "George Graham",
-      "detail":  "1986–95",
-      "accept":  ["george graham", "graham"]
+      "detail": "",
+      "accept": [
+        "george graham",
+        "graham"
+      ]
     },
     {
       "display": "Don Howe",
-      "detail":  "1984–86",
-      "accept":  ["don howe", "howe"]
+      "detail": "",
+      "accept": [
+        "don howe",
+        "howe"
+      ]
     },
     {
       "display": "Terry Neill",
-      "detail":  "1976–83",
-      "accept":  ["terry neill", "neill"]
+      "detail": "",
+      "accept": [
+        "terry neill",
+        "neill"
+      ]
     },
     {
       "display": "Bertie Mee",
-      "detail":  "1966–76",
-      "accept":  ["bertie mee", "mee"]
+      "detail": "",
+      "accept": [
+        "bertie mee",
+        "mee"
+      ]
     },
     {
       "display": "Billy Wright",
-      "detail":  "1962–66",
-      "accept":  ["billy wright", "wright"]
+      "detail": "",
+      "accept": [
+        "billy wright",
+        "wright"
+      ]
     },
     {
       "display": "George Swindin",
-      "detail":  "1958–62",
-      "accept":  ["george swindin", "swindin"]
+      "detail": "",
+      "accept": [
+        "george swindin",
+        "swindin"
+      ]
     }
   ]
 }

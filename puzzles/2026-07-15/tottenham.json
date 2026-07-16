@@ -1,61 +1,99 @@
 {
-  "date":       "2026-07-14",
-  "club":       "tottenham",
-  "clubLabel":  "Spurs:",
-  "clubShort":  "Spurs",
-  "question":   "name the last 10 permanent managers",
-  "note":       "No caretakers · through July 2026 · any order",
+  "date": "2026-07-14",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the last 10 permanent managers",
+  "note": "No caretakers · through July 2026 · any order",
   "placeholder": "Type a manager's name…",
   "answers": [
     {
       "display": "Ange Postecoglou",
-      "detail":  "2023–",
-      "accept":  ["ange postecoglou", "postecoglou", "ange"]
+      "detail": "",
+      "accept": [
+        "ange postecoglou",
+        "postecoglou",
+        "ange"
+      ]
     },
     {
       "display": "Antonio Conte",
-      "detail":  "2021–23",
-      "accept":  ["antonio conte", "conte"]
+      "detail": "",
+      "accept": [
+        "antonio conte",
+        "conte"
+      ]
     },
     {
       "display": "Nuno Espírito Santo",
-      "detail":  "2021",
-      "accept":  ["nuno espirito santo", "nuno", "espirito santo"]
+      "detail": "",
+      "accept": [
+        "nuno espirito santo",
+        "nuno",
+        "espirito santo"
+      ]
     },
     {
       "display": "José Mourinho",
-      "detail":  "2019–21",
-      "accept":  ["jose mourinho", "mourinho", "the special one"]
+      "detail": "",
+      "accept": [
+        "jose mourinho",
+        "mourinho",
+        "the special one"
+      ]
     },
     {
       "display": "Mauricio Pochettino",
-      "detail":  "2014–19",
-      "accept":  ["mauricio pochettino", "pochettino", "poch"]
+      "detail": "",
+      "accept": [
+        "mauricio pochettino",
+        "pochettino",
+        "poch"
+      ]
     },
     {
       "display": "Tim Sherwood",
-      "detail":  "2013–14",
-      "accept":  ["tim sherwood", "sherwood"]
+      "detail": "",
+      "accept": [
+        "tim sherwood",
+        "sherwood"
+      ]
     },
     {
       "display": "André Villas-Boas",
-      "detail":  "2012–13",
-      "accept":  ["andre villas-boas", "andre villas boas", "villas-boas", "villas boas", "avb"]
+      "detail": "",
+      "accept": [
+        "andre villas-boas",
+        "andre villas boas",
+        "villas-boas",
+        "villas boas",
+        "avb"
+      ]
     },
     {
       "display": "Harry Redknapp",
-      "detail":  "2008–12",
-      "accept":  ["harry redknapp", "redknapp", "'arry"]
+      "detail": "",
+      "accept": [
+        "harry redknapp",
+        "redknapp",
+        "'arry"
+      ]
     },
     {
       "display": "Juande Ramos",
-      "detail":  "2007–08",
-      "accept":  ["juande ramos", "ramos"]
+      "detail": "",
+      "accept": [
+        "juande ramos",
+        "ramos"
+      ]
     },
     {
       "display": "Martin Jol",
-      "detail":  "2004–07",
-      "accept":  ["martin jol", "jol"]
+      "detail": "",
+      "accept": [
+        "martin jol",
+        "jol"
+      ]
     }
   ]
 }

@@ -1,61 +1,94 @@
 {
-  "date":       "2026-07-14",
-  "club":       "chelsea",
-  "clubLabel":  "Chelsea:",
-  "clubShort":  "Chelsea",
-  "question":   "name the last 10 permanent managers",
-  "note":       "No caretakers · through July 2026 · any order",
+  "date": "2026-07-14",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the last 10 permanent managers",
+  "note": "No caretakers · through July 2026 · any order",
   "placeholder": "Type a manager's name…",
   "answers": [
     {
       "display": "Enzo Maresca",
-      "detail":  "2024–",
-      "accept":  ["enzo maresca", "maresca"]
+      "detail": "",
+      "accept": [
+        "enzo maresca",
+        "maresca"
+      ]
     },
     {
       "display": "Mauricio Pochettino",
-      "detail":  "2023–24",
-      "accept":  ["mauricio pochettino", "pochettino", "poch"]
+      "detail": "",
+      "accept": [
+        "mauricio pochettino",
+        "pochettino",
+        "poch"
+      ]
     },
     {
       "display": "Graham Potter",
-      "detail":  "2022–23",
-      "accept":  ["graham potter", "potter"]
+      "detail": "",
+      "accept": [
+        "graham potter",
+        "potter"
+      ]
     },
     {
       "display": "Thomas Tuchel",
-      "detail":  "2021–22",
-      "accept":  ["thomas tuchel", "tuchel"]
+      "detail": "",
+      "accept": [
+        "thomas tuchel",
+        "tuchel"
+      ]
     },
     {
       "display": "Frank Lampard",
-      "detail":  "2019–21",
-      "accept":  ["frank lampard", "lampard"]
+      "detail": "",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
     },
     {
       "display": "Maurizio Sarri",
-      "detail":  "2018–19",
-      "accept":  ["maurizio sarri", "sarri"]
+      "detail": "",
+      "accept": [
+        "maurizio sarri",
+        "sarri"
+      ]
     },
     {
       "display": "Antonio Conte",
-      "detail":  "2016–18",
-      "accept":  ["antonio conte", "conte"]
+      "detail": "",
+      "accept": [
+        "antonio conte",
+        "conte"
+      ]
     },
     {
       "display": "José Mourinho",
-      "detail":  "2013–15",
-      "accept":  ["jose mourinho", "mourinho", "the special one"]
+      "detail": "",
+      "accept": [
+        "jose mourinho",
+        "mourinho",
+        "the special one"
+      ]
     },
     {
       "display": "Carlo Ancelotti",
-      "detail":  "2009–11",
-      "accept":  ["carlo ancelotti", "ancelotti"]
+      "detail": "",
+      "accept": [
+        "carlo ancelotti",
+        "ancelotti"
+      ]
     },
     {
       "display": "Luiz Felipe Scolari",
-      "detail":  "2008–09",
-      "accept":  ["luiz felipe scolari", "scolari", "big phil"]
+      "detail": "",
+      "accept": [
+        "luiz felipe scolari",
+        "scolari",
+        "big phil"
+      ]
     }
   ]
 }

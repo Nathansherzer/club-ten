@@ -1,61 +1,100 @@
 {
-  "date":       "2026-07-14",
-  "club":       "manchester-united",
-  "clubLabel":  "Man United:",
-  "clubShort":  "Man United",
-  "question":   "name the last 10 permanent managers",
-  "note":       "No caretakers · through July 2026 · any order",
+  "date": "2026-07-14",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the last 10 permanent managers",
+  "note": "No caretakers · through July 2026 · any order",
   "placeholder": "Type a manager's name…",
   "answers": [
     {
       "display": "Rúben Amorim",
-      "detail":  "2024–",
-      "accept":  ["ruben amorim", "amorim"]
+      "detail": "",
+      "accept": [
+        "ruben amorim",
+        "amorim"
+      ]
     },
     {
       "display": "Erik ten Hag",
-      "detail":  "2022–24",
-      "accept":  ["erik ten hag", "ten hag", "tenhag"]
+      "detail": "",
+      "accept": [
+        "erik ten hag",
+        "ten hag",
+        "tenhag"
+      ]
     },
     {
       "display": "Ole Gunnar Solskjær",
-      "detail":  "2018–21",
-      "accept":  ["ole gunnar solskjaer", "solskjaer", "ole", "solskjer"]
+      "detail": "",
+      "accept": [
+        "ole gunnar solskjaer",
+        "solskjaer",
+        "ole",
+        "solskjer"
+      ]
     },
     {
       "display": "José Mourinho",
-      "detail":  "2016–18",
-      "accept":  ["jose mourinho", "mourinho", "the special one"]
+      "detail": "",
+      "accept": [
+        "jose mourinho",
+        "mourinho",
+        "the special one"
+      ]
     },
     {
       "display": "Louis van Gaal",
-      "detail":  "2014–16",
-      "accept":  ["louis van gaal", "van gaal", "vangaal"]
+      "detail": "",
+      "accept": [
+        "louis van gaal",
+        "van gaal",
+        "vangaal"
+      ]
     },
     {
       "display": "David Moyes",
-      "detail":  "2013–14",
-      "accept":  ["david moyes", "moyes"]
+      "detail": "",
+      "accept": [
+        "david moyes",
+        "moyes"
+      ]
     },
     {
       "display": "Sir Alex Ferguson",
-      "detail":  "1986–2013",
-      "accept":  ["alex ferguson", "ferguson", "sir alex", "fergie"]
+      "detail": "",
+      "accept": [
+        "alex ferguson",
+        "ferguson",
+        "sir alex",
+        "fergie"
+      ]
     },
     {
       "display": "Ron Atkinson",
-      "detail":  "1981–86",
-      "accept":  ["ron atkinson", "atkinson", "big ron"]
+      "detail": "",
+      "accept": [
+        "ron atkinson",
+        "atkinson",
+        "big ron"
+      ]
     },
     {
       "display": "Dave Sexton",
-      "detail":  "1977–81",
-      "accept":  ["dave sexton", "sexton"]
+      "detail": "",
+      "accept": [
+        "dave sexton",
+        "sexton"
+      ]
     },
     {
       "display": "Tommy Docherty",
-      "detail":  "1972–77",
-      "accept":  ["tommy docherty", "docherty", "the doc"]
+      "detail": "",
+      "accept": [
+        "tommy docherty",
+        "docherty",
+        "the doc"
+      ]
     }
   ]
 }
