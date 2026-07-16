@@ -3,41 +3,37 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>Club Ten — Your club's daily top 10</title>
-  <meta name="description" content="A daily top-10 football trivia challenge personalised to your club.">
-  <link rel="canonical" href="https://topclubten.com/">
+  <title>Spurs — Club Ten | Daily Football Top-10</title>
+  <meta name="description" content="Daily top-10 trivia challenge for Spurs fans. Name Tottenham's Premier League legends — new puzzle every day at topclubten.com.">
+  <link rel="canonical" href="https://topclubten.com/tottenham">
+  <meta property="og:type"        content="website">
+  <meta property="og:url"         content="https://topclubten.com/tottenham">
+  <meta property="og:title"       content="Spurs — Club Ten | Daily Football Top-10">
+  <meta property="og:description" content="Daily top-10 trivia challenge for Spurs fans. Name Tottenham's Premier League legends — new puzzle every day at topclubten.com.">
+  <meta name="twitter:card"        content="summary">
+  <meta name="twitter:title"       content="Spurs — Club Ten | Daily Football Top-10">
+  <meta name="twitter:description" content="Daily top-10 trivia challenge for Spurs fans. Name Tottenham's Premier League legends — new puzzle every day at topclubten.com.">
   <link rel="stylesheet" href="/css/style.css">
+  <script>localStorage.setItem("ct_club", "tottenham");</script>
 </head>
 <body>
 <div class="wrap">
 
   <header>
     <h1>CLUB <span>TEN</span></h1>
-    <div class="tagline">Your club. Ten answers. Every day.</div>
-    <!-- Settings button: top-right gear icon -->
+    <div class="tagline">Spurs. Ten answers. Every day.</div>
     <button class="settings-btn" id="settingsBtn" aria-label="Open settings">⚙</button>
   </header>
 
-  <!-- =========================================================
-       SETTINGS OVERLAY
-       Shown when the gear icon is clicked.
-       Lets the player see their stats and change their club.
-       ========================================================= -->
   <div class="settings-overlay" id="settingsOverlay" role="dialog" aria-label="Settings">
     <div class="settings-card">
       <button class="settings-close" id="settingsClose" aria-label="Close">✕</button>
       <h3>Settings</h3>
-      <div class="sub" id="settingsContent">
-        <!-- Filled by game.js -->
-      </div>
+      <div class="sub" id="settingsContent"></div>
       <button class="clubbtn" id="changeClubBtn">Change club</button>
     </div>
   </div>
 
-  <!-- =========================================================
-       CLUB PICKER
-       Shown on first visit (no club saved) or after "Change club".
-       ========================================================= -->
   <div class="picker" id="picker">
     <h2>Pick your club</h2>
     <p>Every day, a top-10 challenge about your team.</p>
@@ -51,40 +47,24 @@
     </div>
   </div>
 
-  <!-- Loading spinner (brief, while fetching puzzle from API) -->
   <div class="loading" id="loadingMsg" style="display:none">Loading today's puzzle…</div>
-
-  <!-- Error message (shown if the API call fails or no puzzle exists yet) -->
   <div class="error-msg" id="errorMsg" style="display:none"></div>
 
-  <!-- =========================================================
-       GAME BOARD
-       Hidden until a puzzle loads. game.js populates everything.
-       ========================================================= -->
   <div id="game">
-
-    <!-- Banner shown only in archive/replay mode -->
     <div class="archive-banner" id="archiveBanner" style="display:none">
       Viewing a past puzzle — answers revealed, no stats recorded
     </div>
-
     <div class="statusbar">
       <div id="puzzleLabel">Puzzle #1</div>
       <div class="lives" id="lives">❤️❤️❤️</div>
       <div id="streakLabel">Streak: 0</div>
     </div>
-
-    <!-- Question card -->
     <div class="question">
       <span class="club" id="clubName"></span>
       <span id="questionText"></span>
       <span class="note" id="questionNote"></span>
     </div>
-
-    <!-- 10 answer slots — built by game.js -->
     <div class="slots" id="slots"></div>
-
-    <!-- Input area (hidden when game is over) -->
     <div id="playArea">
       <div class="inputwrap">
         <div class="inputrow">
@@ -100,13 +80,10 @@
           >
           <button class="guess" id="guessBtn">Guess</button>
         </div>
-        <!-- Autocomplete dropdown -->
         <div class="suggest" id="suggest" role="listbox" aria-label="Name suggestions"></div>
       </div>
       <div class="feedback" id="feedback">Find all 10. Three wrong guesses and it's over.</div>
     </div>
-
-    <!-- End card (hidden until game finishes) -->
     <div class="endcard" id="endcard">
       <h2 id="endTitle"></h2>
       <div class="scoreline" id="scoreline"></div>
@@ -117,22 +94,17 @@
     </div>
   </div>
 
-  <!-- =========================================================
-       AD PLACEHOLDER — below the game
-       When your ad unit is approved, remove display:none and
-       paste the Google AdSense <ins> tag inside this div.
-       ========================================================= -->
   <div class="ad-placeholder" id="adBelowGame">
     <!-- AD UNIT: 320×50 banner — paste AdSense code here when live -->
     Ad unit (320×50)
   </div>
 
   <nav class="site-nav">
-    <a href="/how-to-play.html">How to play</a>
-    <a href="/archive.html">Archive</a>
-    <a href="/about.html">About</a>
-    <a href="/privacy.html">Privacy</a>
-    <a href="/contact.html">Contact</a>
+    <a href="/how-to-play">How to play</a>
+    <a href="/archive">Archive</a>
+    <a href="/about">About</a>
+    <a href="/privacy">Privacy</a>
+    <a href="/contact">Contact</a>
   </nav>
 
 </div><!-- /.wrap -->
