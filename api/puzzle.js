@@ -11,7 +11,7 @@
    Future dates are blocked so tomorrow's metadata can't be read.
    ========================================================== */
 
-import { readFile } from "fs/promises";
+import { readFile, access } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -36,6 +36,32 @@ const LAUNCH_DATE = "2026-07-14";
 /** Returns "YYYY-MM-DD" in London time — the canonical puzzle date. */
 function londonToday() {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
+}
+
+/** Returns the London date N days from now as "YYYY-MM-DD". */
+function londonDateOffset(n) {
+  const d = new Date();
+  d.setDate(d.getDate() + n);
+  return d.toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
+}
+
+/**
+ * Fire-and-forget: logs a console.warn for every club whose puzzle file
+ * is missing on `dateStr`. Runs after the response is already sent so it
+ * never delays the user.
+ */
+async function warnIfMissing(dateStr) {
+  const missing = [];
+  await Promise.all([...VALID_CLUBS].map(async club => {
+    const p = join(ROOT, "puzzles", dateStr, `${club}.json`);
+    try { await access(p); } catch { missing.push(club); }
+  }));
+  if (missing.length > 0) {
+    console.warn(
+      `[club-ten] MISSING PUZZLES for ${dateStr}: ${missing.join(", ")}. ` +
+      "Add the files and push before London midnight."
+    );
+  }
 }
 
 /** Days from LAUNCH_DATE to dateStr, 1-based. */
@@ -87,7 +113,7 @@ export default async function handler(req, res) {
 
   // Return metadata only — answers stay on the server
   res.setHeader("Cache-Control", "private, max-age=3600");
-  return res.status(200).json({
+  res.status(200).json({
     clubLabel:   data.clubLabel,
     clubShort:   data.clubShort,
     question:    data.question,
@@ -96,4 +122,9 @@ export default async function handler(req, res) {
     puzzleNumber: puzzleNumber(requestedDate),
     total:       data.answers.length
   });
+
+  // After responding, check that tomorrow's puzzles are staged.
+  // Logs a warning to Vercel function logs if any are missing.
+  if (!date) warnIfMissing(londonDateOffset(1));
+  return;
 }
