@@ -78,7 +78,7 @@ async function fetchCategoryPage(category, continueToken = null) {
   if (continueToken) params.set("cmcontinue", continueToken);
 
   const url  = `${WIKIPEDIA_API}?${params}`;
-  const res  = await fetch(url, { headers: { "User-Agent": "ClubTenNameBank/1.0 (contact@clubten.app)" } });
+  const res  = await fetch(url, { headers: { "User-Agent": "ClubTenNameBank/1.0 (topclubten@gmail.com)" } });
   const json = await res.json();
 
   const names  = (json.query?.categorymembers || []).map(m => m.title);
