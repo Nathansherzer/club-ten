@@ -17,8 +17,7 @@
 
   <h2 style="margin-top:18px;font-size:1.05rem">Past puzzles</h2>
   <p style="color:var(--muted);font-size:0.82rem;margin-top:4px">
-    Select a club, then tap a date to reveal the answers.
-    Archive entries cannot be played — answers are shown immediately.
+    Pick a club, then tap a puzzle to play it. Archive plays don't count towards your stats.
   </p>
 
   <div class="archive-controls">
@@ -34,164 +33,89 @@
   </div>
 
   <div id="archiveStatus" class="loading" style="display:none">Loading…</div>
-  <div id="archiveList"   class="archive-list"></div>
+  <div id="archiveList" class="archive-list"></div>
 
-  <!-- AD PLACEHOLDER — archive page -->
-  <!-- AD UNIT: paste AdSense code here when live; remove display:none -->
   <div class="ad-placeholder" style="margin-top:20px">
-    <!-- AD UNIT: sidebar / rectangle — paste AdSense code here when live -->
+    <!-- AD UNIT: paste AdSense code here when live -->
     Ad unit
   </div>
 
   <nav class="site-nav">
-    <a href="/how-to-play.html">How to play</a>
-    <a href="/archive.html">Archive</a>
-    <a href="/about.html">About</a>
-    <a href="/privacy.html">Privacy</a>
-    <a href="/contact.html">Contact</a>
+    <a href="/how-to-play">How to play</a>
+    <a href="/archive">Archive</a>
+    <a href="/about">About</a>
+    <a href="/privacy">Privacy</a>
+    <a href="/contact">Contact</a>
   </nav>
 </div>
 
 <script>
-// -----------------------------------------------------------------------
-// archive.html — standalone script (no game.js dependency)
-// Loads past dates from /api/archive, then fetches each puzzle on demand.
-// -----------------------------------------------------------------------
+const select   = document.getElementById("clubSelect");
+const listEl   = document.getElementById("archiveList");
+const statusEl = document.getElementById("archiveStatus");
 
-const CLUBS = {
-  "arsenal":           "Arsenal",
-  "chelsea":           "Chelsea",
-  "liverpool":         "Liverpool",
-  "manchester-city":   "Man City",
-  "manchester-united": "Man United",
-  "tottenham":         "Spurs"
-};
-
-const select     = document.getElementById("clubSelect");
-const listEl     = document.getElementById("archiveList");
-const statusEl   = document.getElementById("archiveStatus");
-
-// Restore the user's chosen club as the default selection
+// Default to the player's saved club
 const savedClub = localStorage.getItem("ct_club");
 if (savedClub && select.querySelector(`option[value="${savedClub}"]`)) {
   select.value = savedClub;
 }
 
-let allDates = [];   // all past dates from the API
-let expanded = {};   // date → DOM element that holds the revealed slots
+let puzzles = [];
 
-async function loadDates() {
+async function loadPuzzles() {
   statusEl.style.display = "block";
-  statusEl.textContent = "Loading…";
-  listEl.innerHTML = "";
-  expanded = {};
+  statusEl.textContent   = "Loading…";
+  listEl.innerHTML       = "";
 
   try {
-    const res = await fetch("/api/archive");
+    const res  = await fetch("/api/archive");
     const json = await res.json();
-    allDates = json.dates || [];
+    puzzles = json.puzzles || [];
   } catch {
     statusEl.textContent = "Could not load archive.";
     return;
   }
 
   statusEl.style.display = "none";
+  renderList();
+}
 
-  if (allDates.length === 0) {
+function renderList() {
+  listEl.innerHTML = "";
+
+  if (puzzles.length === 0) {
     listEl.innerHTML = '<p style="color:var(--muted);font-size:0.85rem;padding:12px 0">No past puzzles yet — check back tomorrow!</p>';
     return;
   }
 
-  allDates.forEach(date => {
-    const entry = document.createElement("div");
+  const club = select.value;
+  puzzles.forEach(({ date, puzzleNumber }) => {
+    const entry  = document.createElement("div");
     entry.className = "archive-entry";
-    entry.dataset.date = date;
     entry.innerHTML = `
-      <div class="archive-entry-header" role="button" tabindex="0" aria-expanded="false">
-        <span class="archive-date">${formatDate(date)}</span>
-        <span class="archive-toggle">▸ View answers</span>
+      <div class="archive-entry-header" role="button" tabindex="0" aria-label="Play Puzzle #${puzzleNumber}">
+        <span class="archive-date">Puzzle #${puzzleNumber} &mdash; ${formatDate(date)}</span>
+        <span class="archive-toggle">▶ Play</span>
       </div>
-      <div class="archive-slots" style="display:none"></div>
     `;
-
     const header = entry.querySelector(".archive-entry-header");
-    header.addEventListener("click", () => toggleEntry(entry, date));
-    header.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") toggleEntry(entry, date); });
-
+    const go = () => { location.href = `/${club}?date=${date}`; };
+    header.addEventListener("click", go);
+    header.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") go(); });
     listEl.appendChild(entry);
   });
 }
 
-async function toggleEntry(entry, date) {
-  const slotsEl = entry.querySelector(".archive-slots");
-  const toggle  = entry.querySelector(".archive-toggle");
-  const header  = entry.querySelector(".archive-entry-header");
-  const isOpen  = slotsEl.style.display !== "none";
-
-  if (isOpen) {
-    slotsEl.style.display = "none";
-    toggle.textContent = "▸ View answers";
-    header.setAttribute("aria-expanded", "false");
-    return;
-  }
-
-  // Fetch if not already loaded
-  if (!expanded[date]) {
-    toggle.textContent = "Loading…";
-    const club = select.value;
-    try {
-      const res = await fetch(`/api/reveal?club=${club}&date=${date}`);
-      if (!res.ok) throw new Error(res.status);
-      const puzzle = await res.json();
-      expanded[date] = puzzle;
-    } catch {
-      toggle.textContent = "▸ View answers";
-      slotsEl.innerHTML = '<p style="color:var(--muted);font-size:0.8rem;padding:4px 0">No puzzle for this date / club.</p>';
-      slotsEl.style.display = "block";
-      return;
-    }
-  }
-
-  const puzzle = expanded[date];
-  slotsEl.innerHTML = "";
-
-  // Render the question
-  const q = document.createElement("p");
-  q.style.cssText = "font-size:0.82rem;color:var(--muted);margin-bottom:8px";
-  q.textContent = `${puzzle.clubLabel} ${puzzle.question}`;
-  slotsEl.appendChild(q);
-
-  // Render all 10 revealed slots
-  puzzle.answers.forEach((ans, i) => {
-    const slot = document.createElement("div");
-    slot.className = "slot revealed";
-    slot.innerHTML = `
-      <span class="num">${i + 1}</span>
-      <span class="val">${ans.display}</span>
-      <span class="detail">${ans.detail}</span>
-    `;
-    slotsEl.appendChild(slot);
-  });
-
-  slotsEl.style.display = "flex";
-  toggle.textContent = "▾ Hide";
-  header.setAttribute("aria-expanded", "true");
-}
-
 function formatDate(iso) {
-  // "2026-07-14" → "Mon 14 Jul 2026"
   return new Date(iso + "T12:00:00Z").toLocaleDateString("en-GB", {
     weekday: "short", day: "numeric", month: "short", year: "numeric"
   });
 }
 
-// Reload the list when the club changes (answers are different per club)
-select.addEventListener("change", () => {
-  expanded = {};   // clear cached puzzle data
-  loadDates();     // dates don't change, but we reset to re-fetch on expand
-});
+// Re-render with new club links when the club changes (no re-fetch needed)
+select.addEventListener("change", renderList);
 
-loadDates();
+loadPuzzles();
 </script>
 </body>
 </html>

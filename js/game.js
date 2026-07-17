@@ -31,6 +31,13 @@ let over     = false;
 let guessing = false;      // true while a POST /api/guess fetch is in flight
 let countdownTimer = null;
 
+// Set when a ?date=YYYY-MM-DD param is present — enables archive play mode.
+// In archive mode: stats are not updated, progress is not persisted.
+const archiveDate = (() => {
+  const d = new URLSearchParams(location.search).get('date');
+  return (d && /^\d{4}-\d{2}-\d{2}$/.test(d)) ? d : null;
+})();
+
 /* ----------------------------------------------------------
    DOM references — grabbed once at startup.
    ---------------------------------------------------------- */
@@ -146,7 +153,8 @@ async function init() {
     return;
   }
 
-  const saved = getPlayState(club);
+  // Archive mode never restores saved state — each play is fresh.
+  const saved = archiveDate ? null : getPlayState(club);
   await fetchAndStartPuzzle(club, saved);
 }
 
@@ -189,7 +197,8 @@ async function fetchAndStartPuzzle(club, savedState) {
   loadingEl.style.display = "block";
 
   try {
-    const res = await fetch(`/api/puzzle?club=${club}`);
+    const dateParam = archiveDate ? `&date=${archiveDate}` : '';
+    const res = await fetch(`/api/puzzle?club=${club}${dateParam}`);
     if (!res.ok) {
       const body = await res.json().catch(() => ({}));
       throw new Error(body.error || `HTTP ${res.status}`);
@@ -197,13 +206,17 @@ async function fetchAndStartPuzzle(club, savedState) {
     puzzle = await res.json();
   } catch (err) {
     loadingEl.style.display = "none";
-    errorEl.textContent = `Could not load today's puzzle: ${err.message}`;
+    errorEl.textContent = `Could not load puzzle: ${err.message}`;
     errorEl.style.display = "block";
     return;
   }
 
   loadingEl.style.display = "none";
   buildGameBoard();
+
+  if (archiveDate) {
+    document.getElementById("archiveBanner").style.display = "block";
+  }
 
   if (savedState) {
     restoreState(savedState);
@@ -218,12 +231,13 @@ async function fetchAndStartPuzzle(club, savedState) {
    ========================================================== */
 
 function buildGameBoard() {
-  const club  = getClub();
-  const stats = getStats(club);
-
   // Status bar
   document.getElementById("puzzleLabel").textContent = `Puzzle #${puzzle.puzzleNumber}`;
-  document.getElementById("streakLabel").textContent = `Streak: ${stats.streak}`;
+  if (archiveDate) {
+    document.getElementById("streakLabel").textContent = "Archive";
+  } else {
+    document.getElementById("streakLabel").textContent = `Streak: ${getStats(getClub()).streak}`;
+  }
   renderLives();
 
   // Question
@@ -313,7 +327,7 @@ async function handleGuess() {
     const res = await fetch("/api/guess", {
       method:  "POST",
       headers: { "Content-Type": "application/json" },
-      body:    JSON.stringify({ club: getClub(), guess: raw })
+      body:    JSON.stringify({ club: getClub(), guess: raw, ...(archiveDate ? { date: archiveDate } : {}) })
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     result = await res.json();
@@ -356,7 +370,7 @@ async function handleGuess() {
     if (found.size === puzzle.total) { await endGame(true); return; }
   }
 
-  if (!over) persistInProgress();
+  if (!over && !archiveDate) persistInProgress();
   input.focus();
 }
 
@@ -408,19 +422,18 @@ async function endGame(won) {
   over = true;
   playAreaEl.style.display = "none";
 
-  // Fetch display+detail for unfound slots from the server and fill them in
   const revealedArr = await revealUnfound();
 
-  const club  = getClub();
-  const stats = getStats(club);
-  stats.played++;
-  if (won && lives === MAX_LIVES) stats.perfect++;
-  // Streak continues only if the player found at least 5 answers.
-  stats.streak = found.size >= 5 ? stats.streak + 1 : 0;
-  saveStats(club, stats);
-
-  const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
-  savePlayState(club, { found: foundArr, revealed: revealedArr, lives, over: true, won });
+  if (!archiveDate) {
+    const club  = getClub();
+    const stats = getStats(club);
+    stats.played++;
+    if (won && lives === MAX_LIVES) stats.perfect++;
+    stats.streak = found.size >= 5 ? stats.streak + 1 : 0;
+    saveStats(club, stats);
+    const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
+    savePlayState(club, { found: foundArr, revealed: revealedArr, lives, over: true, won });
+  }
 
   showEndCard(won);
   adEl.style.display = "block";
@@ -434,7 +447,8 @@ async function revealUnfound() {
   if (unfound.length === 0) return [];
 
   try {
-    const res = await fetch(`/api/reveal?club=${getClub()}`);
+    const dateParam = archiveDate ? `&date=${archiveDate}` : '';
+    const res = await fetch(`/api/reveal?club=${getClub()}${dateParam}`);
     if (!res.ok) return [];
     const data = await res.json();
     return unfound.map(i => {
@@ -448,9 +462,6 @@ async function revealUnfound() {
 }
 
 function showEndCard(won) {
-  const club  = getClub();
-  const stats = getStats(club);
-
   let title;
   if (won && lives === MAX_LIVES) title = "PERFECT GAME 🏆";
   else if (won)                   title = "You got all ten!";
@@ -459,10 +470,18 @@ function showEndCard(won) {
 
   document.getElementById("endTitle").textContent  = title;
   document.getElementById("scoreline").textContent = `${found.size}/10`;
-  document.getElementById("statsLine").textContent =
-    `Streak: ${stats.streak}  ·  Played: ${stats.played}  ·  Perfect: ${stats.perfect}`;
 
-  startCountdown();
+  if (archiveDate) {
+    document.getElementById("statsLine").textContent = "Archive play — no stats recorded";
+    document.getElementById("countdown").innerHTML =
+      '<a href="/archive" style="color:var(--green);text-decoration:none">← Back to archive</a>';
+  } else {
+    const stats = getStats(getClub());
+    document.getElementById("statsLine").textContent =
+      `Streak: ${stats.streak}  ·  Played: ${stats.played}  ·  Perfect: ${stats.perfect}`;
+    startCountdown();
+  }
+
   endcardEl.style.display = "block";
 }
 

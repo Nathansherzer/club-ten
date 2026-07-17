@@ -13,10 +13,16 @@ import { readdir } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
-const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
+const ROOT        = join(dirname(fileURLToPath(import.meta.url)), "..");
+const LAUNCH_DATE = "2026-07-14"; // Puzzle #1
 
 function londonToday() {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
+}
+
+function puzzleNumber(dateStr) {
+  const diff = new Date(dateStr + "T12:00:00Z") - new Date(LAUNCH_DATE + "T12:00:00Z");
+  return Math.floor(diff / 86400000) + 1;
 }
 
 export default async function handler(req, res) {
@@ -31,16 +37,14 @@ export default async function handler(req, res) {
   try {
     entries = await readdir(puzzlesDir, { withFileTypes: true });
   } catch {
-    // If /puzzles doesn't exist yet, return an empty list gracefully.
-    return res.status(200).json({ dates: [] });
+    return res.status(200).json({ puzzles: [] });
   }
 
-  const pastDates = entries
+  const puzzles = entries
     .filter(e => e.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(e.name) && e.name < today)
-    .map(e => e.name)
-    .sort()
-    .reverse(); // newest first
+    .map(e => ({ date: e.name, puzzleNumber: puzzleNumber(e.name) }))
+    .sort((a, b) => b.date.localeCompare(a.date)); // newest first
 
   res.setHeader("Cache-Control", "public, max-age=3600");
-  return res.status(200).json({ dates: pastDates });
+  return res.status(200).json({ puzzles });
 }
