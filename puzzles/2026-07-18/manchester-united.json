@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-18",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most expensive departures",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Ángel Di María",
+      "detail": "",
+      "accept": [
+        "angel di maria",
+        "di maria"
+      ]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "",
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
+    },
+    {
+      "display": "Rasmus Højlund",
+      "detail": "",
+      "accept": [
+        "rasmus hojlund",
+        "hojlund"
+      ]
+    },
+    {
+      "display": "Mason Greenwood",
+      "detail": "",
+      "accept": [
+        "mason greenwood",
+        "greenwood"
+      ]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "",
+      "accept": [
+        "david beckham",
+        "beckham"
+      ]
+    },
+    {
+      "display": "Henrikh Mkhitaryan",
+      "detail": "",
+      "accept": [
+        "henrikh mkhitaryan",
+        "mkhitaryan"
+      ]
+    },
+    {
+      "display": "Scott McTominay",
+      "detail": "",
+      "accept": [
+        "scott mctominay",
+        "mctominay"
+      ]
+    },
+    {
+      "display": "Daniel James",
+      "detail": "",
+      "accept": [
+        "daniel james",
+        "james"
+      ]
+    }
+  ]
+}

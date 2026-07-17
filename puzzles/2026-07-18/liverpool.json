@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-18",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most expensive departures",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Philippe Coutinho",
+      "detail": "",
+      "accept": [
+        "philippe coutinho",
+        "coutinho"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "",
+      "accept": [
+        "luis suarez",
+        "suarez"
+      ]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "",
+      "accept": [
+        "luis diaz",
+        "diaz"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "",
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "",
+      "accept": [
+        "darwin nunez",
+        "nunez"
+      ]
+    },
+    {
+      "display": "Fabinho",
+      "detail": "",
+      "accept": [
+        "fabinho"
+      ]
+    },
+    {
+      "display": "Jarell Quansah",
+      "detail": "",
+      "accept": [
+        "jarell quansah",
+        "quansah"
+      ]
+    },
+    {
+      "display": "Xabi Alonso",
+      "detail": "",
+      "accept": [
+        "xabi alonso",
+        "alonso"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "",
+      "accept": [
+        "sadio mane",
+        "mane"
+      ]
+    }
+  ]
+}

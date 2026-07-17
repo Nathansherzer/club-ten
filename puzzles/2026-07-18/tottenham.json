@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-18",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most expensive departures",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gareth Bale",
+      "detail": "",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Luka Vušković",
+      "detail": "",
+      "accept": [
+        "luka vuskovic",
+        "vuskovic"
+      ]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
+      "display": "Brennan Johnson",
+      "detail": "",
+      "accept": [
+        "brennan johnson",
+        "johnson"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    },
+    {
+      "display": "Luka Modrić",
+      "detail": "",
+      "accept": [
+        "luka modric",
+        "modric"
+      ]
+    },
+    {
+      "display": "Steven Bergwijn",
+      "detail": "",
+      "accept": [
+        "steven bergwijn",
+        "bergwijn"
+      ]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    }
+  ]
+}

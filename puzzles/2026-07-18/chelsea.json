@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-18",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most expensive departures",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Eden Hazard",
+      "detail": "",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "",
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    },
+    {
+      "display": "Oscar",
+      "detail": "",
+      "accept": [
+        "oscar",
+        "oscar dos santos"
+      ]
+    },
+    {
+      "display": "Andrey Santos",
+      "detail": "",
+      "accept": [
+        "andrey santos",
+        "andrey"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Marc Cucurella",
+      "detail": "",
+      "accept": [
+        "marc cucurella",
+        "cucurella"
+      ]
+    },
+    {
+      "display": "Álvaro Morata",
+      "detail": "",
+      "accept": [
+        "alvaro morata",
+        "morata"
+      ]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "",
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
+    }
+  ]
+}

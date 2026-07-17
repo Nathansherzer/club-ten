@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-18",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most expensive departures",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Julián Álvarez",
+      "detail": "",
+      "accept": [
+        "julian alvarez",
+        "alvarez",
+        "julian"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Ferran Torres",
+      "detail": "",
+      "accept": [
+        "ferran torres",
+        "torres"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Leroy Sané",
+      "detail": "",
+      "accept": [
+        "leroy sane",
+        "sane"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Danilo",
+      "detail": "",
+      "accept": [
+        "danilo"
+      ]
+    },
+    {
+      "display": "Oleksandr Zinchenko",
+      "detail": "",
+      "accept": [
+        "oleksandr zinchenko",
+        "zinchenko"
+      ]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "",
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
+    },
+    {
+      "display": "Shaun Wright-Phillips",
+      "detail": "",
+      "accept": [
+        "shaun wright-phillips",
+        "wright-phillips",
+        "swp"
+      ]
+    }
+  ]
+}

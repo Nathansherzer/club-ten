@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-18",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most expensive departures",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "",
+      "accept": [
+        "alex oxlade-chamberlain",
+        "oxlade-chamberlain",
+        "aoc"
+      ]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "",
+      "accept": [
+        "alexis sanchez",
+        "sanchez"
+      ]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "",
+      "accept": [
+        "cesc fabregas",
+        "fabregas",
+        "cesc"
+      ]
+    },
+    {
+      "display": "Emile Smith Rowe",
+      "detail": "",
+      "accept": [
+        "emile smith rowe",
+        "smith rowe",
+        "esr"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
+    },
+    {
+      "display": "Alex Iwobi",
+      "detail": "",
+      "accept": [
+        "alex iwobi",
+        "iwobi"
+      ]
+    },
+    {
+      "display": "Folarin Balogun",
+      "detail": "",
+      "accept": [
+        "folarin balogun",
+        "balogun"
+      ]
+    },
+    {
+      "display": "Eddie Nketiah",
+      "detail": "",
+      "accept": [
+        "eddie nketiah",
+        "nketiah"
+      ]
+    },
+    {
+      "display": "Joe Willock",
+      "detail": "",
+      "accept": [
+        "joe willock",
+        "willock"
+      ]
+    }
+  ]
+}
