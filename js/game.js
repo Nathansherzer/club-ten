@@ -395,7 +395,7 @@ function runSweep(stopAtSlot) {
       if (activeEl) activeEl.classList.add("scanning");
 
       const isTarget = stopAtSlot !== null && slotIdx === stopAtSlot;
-      setTimeout(isTarget ? finish : advance, 1000);
+      setTimeout(isTarget ? finish : advance, 450);
     }
 
     function finish() {
