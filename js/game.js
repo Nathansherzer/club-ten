@@ -142,16 +142,14 @@ document.getElementById("changeClubBtn").addEventListener("click", () => {
    ========================================================== */
 
 async function init() {
-  // Load the name bank quietly in the background.
-  // If it fails, autocomplete just won't show — the game still works.
   loadNameBank();
 
-  const club = getClub();
+  // Homepage is a pure club-picker — never auto-load a puzzle there.
+  const onHomepage = location.pathname === '/' || location.pathname === '/index.html';
+  if (onHomepage) { showPicker(); return; }
 
-  if (!club) {
-    showPicker();
-    return;
-  }
+  const club = getClub();
+  if (!club) { showPicker(); return; }
 
   // Archive mode never restores saved state — each play is fresh.
   const saved = archiveDate ? null : getPlayState(club);
