@@ -55,6 +55,7 @@ const playAreaEl  = document.getElementById("playArea");
 const endcardEl   = document.getElementById("endcard");
 const adEl        = document.getElementById("adBelowGame");
 const settingsOverlay = document.getElementById("settingsOverlay");
+const settingsBtnEl   = document.getElementById("settingsBtn");
 
 /* ==========================================================
    LOCAL STORAGE HELPERS
@@ -157,9 +158,10 @@ async function init() {
 }
 
 function showPicker() {
-  pickerEl.style.display  = "block";
-  loadingEl.style.display = "none";
-  gameEl.style.display    = "none";
+  pickerEl.style.display      = "block";
+  loadingEl.style.display     = "none";
+  gameEl.style.display        = "none";
+  settingsBtnEl.style.display = "none";
 }
 
 /* Club picker buttons */
@@ -254,7 +256,8 @@ function buildGameBoard() {
     slotsEl.appendChild(div);
   }
 
-  gameEl.style.display = "block";
+  gameEl.style.display        = "block";
+  settingsBtnEl.style.display = "";
 }
 
 /* ==========================================================
