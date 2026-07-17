@@ -129,6 +129,8 @@ header h1 a:hover { opacity: 0.85; }
 
 .clubgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 
+.picker-hint { color: var(--muted); font-size: 0.75rem; margin-top: 14px; }
+
 .clubbtn {
   background: var(--card);
   border: 1px solid var(--slot-border);
@@ -144,6 +146,14 @@ header h1 a:hover { opacity: 0.85; }
 }
 .clubbtn:hover  { border-color: var(--green); }
 .clubbtn:active { transform: scale(0.97); }
+
+/* Club colour accents */
+.clubbtn[data-club="arsenal"]           { border-top: 3px solid #EF0107; }
+.clubbtn[data-club="chelsea"]           { border-top: 3px solid #034694; }
+.clubbtn[data-club="liverpool"]         { border-top: 3px solid #C8102E; }
+.clubbtn[data-club="manchester-city"]   { border-top: 3px solid #6CABDD; }
+.clubbtn[data-club="manchester-united"] { border-top: 3px solid #DA291C; }
+.clubbtn[data-club="tottenham"]         { border-top: 3px solid #FFFFFF; }
 
 /* ---- loading / error states -------------------------------- */
 
