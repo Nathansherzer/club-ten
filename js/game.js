@@ -134,7 +134,7 @@ function closeSettings() {
 // "Change club" wipes the saved club and reloads — cleanest approach.
 document.getElementById("changeClubBtn").addEventListener("click", () => {
   localStorage.removeItem("ct_club");
-  location.reload();
+  location.href = '/';
 });
 
 /* ==========================================================
@@ -168,7 +168,7 @@ function showPicker() {
 pickerEl.querySelectorAll(".clubbtn[data-club]").forEach(btn => {
   btn.addEventListener("click", () => {
     setClub(btn.dataset.club);
-    location.reload();
+    location.href = '/' + btn.dataset.club;
   });
 });
 
