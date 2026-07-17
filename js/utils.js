@@ -103,10 +103,6 @@ function getSuggestions(query, nameBank) {
   const q = norm(query);
   if (q.length < 2) return [];
   return nameBank
-    .filter(name => {
-      const n = norm(name);
-      // Match on the name as a whole prefix OR any individual word prefix.
-      return n.startsWith(q) || n.split(" ").some(word => word.startsWith(q));
-    })
+    .filter(name => (" " + norm(name)).includes(" " + q))
     .slice(0, 6);
 }
