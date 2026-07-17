@@ -14,7 +14,7 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
 const ROOT        = join(dirname(fileURLToPath(import.meta.url)), "..");
-const LAUNCH_DATE = "2026-07-14"; // Puzzle #1
+const LAUNCH_DATE = "2026-07-15"; // Puzzle #1
 
 function londonToday() {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
