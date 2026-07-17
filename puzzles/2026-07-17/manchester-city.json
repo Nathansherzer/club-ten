@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-17",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most expensive signings",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Elliot Anderson",
+      "detail": "",
+      "accept": [
+        "elliot anderson",
+        "anderson"
+      ]
+    },
+    {
+      "display": "Jack Grealish",
+      "detail": "",
+      "accept": [
+        "jack grealish",
+        "grealish"
+      ]
+    },
+    {
+      "display": "Joško Gvardiol",
+      "detail": "",
+      "accept": [
+        "josko gvardiol",
+        "gvardiol"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Omar Marmoush",
+      "detail": "",
+      "accept": [
+        "omar marmoush",
+        "marmoush"
+      ]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "ruben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "",
+      "accept": [
+        "rodri"
+      ]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "",
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
+    },
+    {
+      "display": "João Cancelo",
+      "detail": "",
+      "accept": [
+        "joao cancelo",
+        "cancelo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-17",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most expensive signings",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Paul Pogba",
+      "detail": "",
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
+    },
+    {
+      "display": "Antony",
+      "detail": "",
+      "accept": [
+        "antony"
+      ]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "",
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
+    },
+    {
+      "display": "Jadon Sancho",
+      "detail": "",
+      "accept": [
+        "jadon sancho",
+        "sancho"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Rasmus Højlund",
+      "detail": "",
+      "accept": [
+        "rasmus hojlund",
+        "hojlund"
+      ]
+    },
+    {
+      "display": "Benjamin Šeško",
+      "detail": "",
+      "accept": [
+        "benjamin sesko",
+        "sesko"
+      ]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "",
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
+    },
+    {
+      "display": "Ángel Di María",
+      "detail": "",
+      "accept": [
+        "angel di maria",
+        "di maria"
+      ]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "",
+      "accept": [
+        "matheus cunha",
+        "cunha"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-17",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most expensive signings",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alexander Isak",
+      "detail": "",
+      "accept": [
+        "alexander isak",
+        "isak"
+      ]
+    },
+    {
+      "display": "Florian Wirtz",
+      "detail": "",
+      "accept": [
+        "florian wirtz",
+        "wirtz"
+      ]
+    },
+    {
+      "display": "Hugo Ekitiké",
+      "detail": "",
+      "accept": [
+        "hugo ekitike",
+        "ekitike"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "",
+      "accept": [
+        "darwin nunez",
+        "nunez"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk"
+      ]
+    },
+    {
+      "display": "Alisson Becker",
+      "detail": "",
+      "accept": [
+        "alisson becker",
+        "alisson"
+      ]
+    },
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "",
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
+    },
+    {
+      "display": "Jérémy Jacquet",
+      "detail": "",
+      "accept": [
+        "jeremy jacquet",
+        "jacquet"
+      ]
+    },
+    {
+      "display": "Naby Keïta",
+      "detail": "",
+      "accept": [
+        "naby keita",
+        "keita"
+      ]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "",
+      "accept": [
+        "luis diaz",
+        "diaz"
+      ]
+    }
+  ]
+}

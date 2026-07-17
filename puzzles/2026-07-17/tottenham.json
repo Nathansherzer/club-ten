@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-17",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most expensive signings",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sandro Tonali",
+      "detail": "",
+      "accept": [
+        "sandro tonali",
+        "tonali"
+      ]
+    },
+    {
+      "display": "Mateus Fernandes",
+      "detail": "",
+      "accept": [
+        "mateus fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Xavi Simons",
+      "detail": "",
+      "accept": [
+        "xavi simons",
+        "simons"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    },
+    {
+      "display": "Mohammed Kudus",
+      "detail": "",
+      "accept": [
+        "mohammed kudus",
+        "kudus"
+      ]
+    },
+    {
+      "display": "Tanguy Ndombele",
+      "detail": "",
+      "accept": [
+        "tanguy ndombele",
+        "ndombele"
+      ]
+    },
+    {
+      "display": "Jan Paul van Hecke",
+      "detail": "",
+      "accept": [
+        "jan paul van hecke",
+        "van hecke"
+      ]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "",
+      "accept": [
+        "richarlison"
+      ]
+    },
+    {
+      "display": "Brennan Johnson",
+      "detail": "",
+      "accept": [
+        "brennan johnson",
+        "johnson"
+      ]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "",
+      "accept": [
+        "cristian romero",
+        "romero"
+      ]
+    }
+  ]
+}

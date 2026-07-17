@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-17",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most expensive signings",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Enzo Fernández",
+      "detail": "",
+      "accept": [
+        "enzo fernandez",
+        "fernandez",
+        "enzo"
+      ]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "",
+      "accept": [
+        "moises caicedo",
+        "caicedo"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    },
+    {
+      "display": "Wesley Fofana",
+      "detail": "",
+      "accept": [
+        "wesley fofana",
+        "fofana"
+      ]
+    },
+    {
+      "display": "Kepa Arrizabalaga",
+      "detail": "",
+      "accept": [
+        "kepa arrizabalaga",
+        "kepa"
+      ]
+    },
+    {
+      "display": "Mykhailo Mudryk",
+      "detail": "",
+      "accept": [
+        "mykhailo mudryk",
+        "mudryk"
+      ]
+    },
+    {
+      "display": "Álvaro Morata",
+      "detail": "",
+      "accept": [
+        "alvaro morata",
+        "morata"
+      ]
+    },
+    {
+      "display": "Marc Cucurella",
+      "detail": "",
+      "accept": [
+        "marc cucurella",
+        "cucurella"
+      ]
+    },
+    {
+      "display": "Christian Pulisic",
+      "detail": "",
+      "accept": [
+        "christian pulisic",
+        "pulisic"
+      ]
+    }
+  ]
+}

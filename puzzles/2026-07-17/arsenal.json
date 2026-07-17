@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-17",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most expensive signings",
+  "note": "Transfer fees · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Declan Rice",
+      "detail": "",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Nicolas Pépé",
+      "detail": "",
+      "accept": [
+        "nicolas pepe",
+        "pepe"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    },
+    {
+      "display": "Martín Zubimendi",
+      "detail": "",
+      "accept": [
+        "martin zubimendi",
+        "zubimendi"
+      ]
+    },
+    {
+      "display": "Eberechi Eze",
+      "detail": "",
+      "accept": [
+        "eberechi eze",
+        "eze"
+      ]
+    },
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "",
+      "accept": [
+        "viktor gyokeres",
+        "gyokeres"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba"
+      ]
+    },
+    {
+      "display": "Ben White",
+      "detail": "",
+      "accept": [
+        "ben white",
+        "white"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Alexandre Lacazette",
+      "detail": "",
+      "accept": [
+        "alexandre lacazette",
+        "lacazette"
+      ]
+    }
+  ]
+}
