@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-20",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield starters in the 2021 Champions League final",
+  "note": "vs Man City · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Reece James",
+      "detail": "",
+      "accept": [
+        "reece james",
+        "james"
+      ]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "",
+      "accept": [
+        "cesar azpilicueta",
+        "azpilicueta",
+        "azpi"
+      ]
+    },
+    {
+      "display": "Thiago Silva",
+      "detail": "",
+      "accept": [
+        "thiago silva",
+        "silva"
+      ]
+    },
+    {
+      "display": "Antonio Rüdiger",
+      "detail": "",
+      "accept": [
+        "antonio rudiger",
+        "rudiger"
+      ]
+    },
+    {
+      "display": "Ben Chilwell",
+      "detail": "",
+      "accept": [
+        "ben chilwell",
+        "chilwell"
+      ]
+    },
+    {
+      "display": "N'Golo Kanté",
+      "detail": "",
+      "accept": [
+        "ngolo kante",
+        "n golo kante",
+        "kante"
+      ]
+    },
+    {
+      "display": "Jorginho",
+      "detail": "",
+      "accept": [
+        "jorginho"
+      ]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "",
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    },
+    {
+      "display": "Timo Werner",
+      "detail": "",
+      "accept": [
+        "timo werner",
+        "werner"
+      ]
+    }
+  ]
+}

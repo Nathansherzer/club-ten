@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-20",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield starters in the 2019 Champions League final",
+  "note": "vs Liverpool · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Kieran Trippier",
+      "detail": "",
+      "accept": [
+        "kieran trippier",
+        "trippier"
+      ]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "",
+      "accept": [
+        "toby alderweireld",
+        "alderweireld"
+      ]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "",
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
+    },
+    {
+      "display": "Danny Rose",
+      "detail": "",
+      "accept": [
+        "danny rose",
+        "rose"
+      ]
+    },
+    {
+      "display": "Harry Winks",
+      "detail": "",
+      "accept": [
+        "harry winks",
+        "winks"
+      ]
+    },
+    {
+      "display": "Moussa Sissoko",
+      "detail": "",
+      "accept": [
+        "moussa sissoko",
+        "sissoko"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "",
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "",
+      "accept": [
+        "son heung-min",
+        "heung-min son",
+        "heung min son",
+        "son",
+        "sonny"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    }
+  ]
+}

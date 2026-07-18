@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-20",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield starters in the 2022 Champions League final",
+  "note": "vs Real Madrid · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "",
+      "accept": [
+        "trent alexander-arnold",
+        "trent",
+        "alexander-arnold",
+        "alexander arnold",
+        "taa"
+      ]
+    },
+    {
+      "display": "Ibrahima Konaté",
+      "detail": "",
+      "accept": [
+        "ibrahima konate",
+        "konate"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "",
+      "accept": [
+        "andy robertson",
+        "robertson",
+        "andrew robertson"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "",
+      "accept": [
+        "jordan henderson",
+        "henderson"
+      ]
+    },
+    {
+      "display": "Fabinho",
+      "detail": "",
+      "accept": [
+        "fabinho"
+      ]
+    },
+    {
+      "display": "Thiago Alcântara",
+      "detail": "",
+      "accept": [
+        "thiago alcantara",
+        "thiago"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "",
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mo salah"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "",
+      "accept": [
+        "sadio mane",
+        "mane"
+      ]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "",
+      "accept": [
+        "luis diaz",
+        "diaz"
+      ]
+    }
+  ]
+}

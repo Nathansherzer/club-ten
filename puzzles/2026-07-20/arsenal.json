@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-20",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield starters in the 2026 Champions League final",
+  "note": "vs PSG · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cristhian Mosquera",
+      "detail": "",
+      "accept": [
+        "cristhian mosquera",
+        "mosquera",
+        "cristhian mosquera ibarguen"
+      ]
+    },
+    {
+      "display": "William Saliba",
+      "detail": "",
+      "accept": [
+        "william saliba",
+        "saliba"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel",
+        "gabriel dos santos magalhaes"
+      ]
+    },
+    {
+      "display": "Piero Hincapié",
+      "detail": "",
+      "accept": [
+        "piero hincapie",
+        "hincapie"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Myles Lewis-Skelly",
+      "detail": "",
+      "accept": [
+        "myles lewis-skelly",
+        "myles lewis skelly",
+        "lewis-skelly",
+        "lewis skelly",
+        "mls"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "",
+      "accept": [
+        "martin odegaard",
+        "odegaard"
+      ]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "",
+      "accept": [
+        "leandro trossard",
+        "trossard"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    }
+  ]
+}

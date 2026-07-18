@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-20",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield starters in the 2023 Champions League final",
+  "note": "vs Inter Milan · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Manuel Akanji",
+      "detail": "",
+      "accept": [
+        "manuel akanji",
+        "akanji"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "ruben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Nathan Aké",
+      "detail": "",
+      "accept": [
+        "nathan ake",
+        "ake"
+      ]
+    },
+    {
+      "display": "John Stones",
+      "detail": "",
+      "accept": [
+        "john stones",
+        "stones"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "",
+      "accept": [
+        "rodri",
+        "rodrigo hernandez"
+      ]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "",
+      "accept": [
+        "bernardo silva",
+        "bernardo"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "",
+      "accept": [
+        "ilkay gundogan",
+        "gundogan"
+      ]
+    },
+    {
+      "display": "Jack Grealish",
+      "detail": "",
+      "accept": [
+        "jack grealish",
+        "grealish"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    }
+  ]
+}

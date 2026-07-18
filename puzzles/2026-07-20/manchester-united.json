@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-20",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 outfield starters in the 2011 Champions League final",
+  "note": "vs Barcelona · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Fábio",
+      "detail": "",
+      "accept": [
+        "fabio",
+        "fabio da silva",
+        "fabio pereira da silva"
+      ]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "",
+      "accept": [
+        "rio ferdinand",
+        "ferdinand"
+      ]
+    },
+    {
+      "display": "Nemanja Vidić",
+      "detail": "",
+      "accept": [
+        "nemanja vidic",
+        "vidic"
+      ]
+    },
+    {
+      "display": "Patrice Evra",
+      "detail": "",
+      "accept": [
+        "patrice evra",
+        "evra"
+      ]
+    },
+    {
+      "display": "Antonio Valencia",
+      "detail": "",
+      "accept": [
+        "antonio valencia",
+        "valencia"
+      ]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Park Ji-sung",
+      "detail": "",
+      "accept": [
+        "park ji-sung",
+        "park ji sung",
+        "ji-sung park",
+        "ji sung park",
+        "park"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Javier Hernández",
+      "detail": "",
+      "accept": [
+        "javier hernandez",
+        "hernandez",
+        "chicharito"
+      ]
+    }
+  ]
+}
