@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-19",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the last 10 players to wear the No. 9 shirt",
+  "note": "Official squad number · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alexander Isak",
+      "detail": "",
+      "accept": [
+        "alexander isak",
+        "isak"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "",
+      "accept": [
+        "darwin nunez",
+        "nunez"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "",
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
+    },
+    {
+      "display": "Christian Benteke",
+      "detail": "",
+      "accept": [
+        "christian benteke",
+        "benteke"
+      ]
+    },
+    {
+      "display": "Rickie Lambert",
+      "detail": "",
+      "accept": [
+        "rickie lambert",
+        "lambert"
+      ]
+    },
+    {
+      "display": "Iago Aspas",
+      "detail": "",
+      "accept": [
+        "iago aspas",
+        "aspas"
+      ]
+    },
+    {
+      "display": "Andy Carroll",
+      "detail": "",
+      "accept": [
+        "andy carroll",
+        "carroll"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "",
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Djibril Cissé",
+      "detail": "",
+      "accept": [
+        "djibril cisse",
+        "cisse"
+      ]
+    }
+  ]
+}

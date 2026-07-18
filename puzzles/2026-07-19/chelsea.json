@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-19",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the last 10 players to wear the No. 9 shirt",
+  "note": "Official squad number · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Liam Delap",
+      "detail": "",
+      "accept": [
+        "liam delap",
+        "delap"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Tammy Abraham",
+      "detail": "",
+      "accept": [
+        "tammy abraham",
+        "abraham"
+      ]
+    },
+    {
+      "display": "Gonzalo Higuaín",
+      "detail": "",
+      "accept": [
+        "gonzalo higuain",
+        "higuain"
+      ]
+    },
+    {
+      "display": "Álvaro Morata",
+      "detail": "",
+      "accept": [
+        "alvaro morata",
+        "morata"
+      ]
+    },
+    {
+      "display": "Radamel Falcao",
+      "detail": "",
+      "accept": [
+        "radamel falcao",
+        "falcao"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "",
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
+    },
+    {
+      "display": "Franco Di Santo",
+      "detail": "",
+      "accept": [
+        "franco di santo",
+        "di santo"
+      ]
+    },
+    {
+      "display": "Steve Sidwell",
+      "detail": "",
+      "accept": [
+        "steve sidwell",
+        "sidwell"
+      ]
+    }
+  ]
+}

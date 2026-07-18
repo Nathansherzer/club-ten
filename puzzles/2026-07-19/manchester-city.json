@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-19",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the last 10 players to wear the No. 9 shirt",
+  "note": "Official squad number · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Nolito",
+      "detail": "",
+      "accept": [
+        "nolito"
+      ]
+    },
+    {
+      "display": "Álvaro Negredo",
+      "detail": "",
+      "accept": [
+        "alvaro negredo",
+        "negredo"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Valeri Bojinov",
+      "detail": "",
+      "accept": [
+        "valeri bojinov",
+        "bojinov"
+      ]
+    },
+    {
+      "display": "Bernardo Corradi",
+      "detail": "",
+      "accept": [
+        "bernardo corradi",
+        "corradi"
+      ]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "",
+      "accept": [
+        "andy cole",
+        "cole",
+        "andrew cole"
+      ]
+    },
+    {
+      "display": "Paulo Wanchope",
+      "detail": "",
+      "accept": [
+        "paulo wanchope",
+        "wanchope"
+      ]
+    },
+    {
+      "display": "Paul Dickov",
+      "detail": "",
+      "accept": [
+        "paul dickov",
+        "dickov"
+      ]
+    }
+  ]
+}

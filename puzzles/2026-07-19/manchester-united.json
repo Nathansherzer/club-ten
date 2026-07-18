@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-19",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the last 10 players to wear the No. 9 shirt",
+  "note": "Official squad number · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Rasmus Højlund",
+      "detail": "",
+      "accept": [
+        "rasmus hojlund",
+        "hojlund"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "",
+      "accept": [
+        "zlatan ibrahimovic",
+        "ibrahimovic",
+        "zlatan",
+        "ibra"
+      ]
+    },
+    {
+      "display": "Radamel Falcao",
+      "detail": "",
+      "accept": [
+        "radamel falcao",
+        "falcao"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    },
+    {
+      "display": "Louis Saha",
+      "detail": "",
+      "accept": [
+        "louis saha",
+        "saha"
+      ]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "",
+      "accept": [
+        "andy cole",
+        "cole",
+        "andrew cole"
+      ]
+    },
+    {
+      "display": "Brian McClair",
+      "detail": "",
+      "accept": [
+        "brian mcclair",
+        "mcclair"
+      ]
+    },
+    {
+      "display": "Mark Hughes",
+      "detail": "",
+      "accept": [
+        "mark hughes",
+        "hughes",
+        "sparky"
+      ]
+    }
+  ]
+}

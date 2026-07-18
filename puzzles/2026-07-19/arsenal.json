@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-19",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the last 10 players to wear the No. 9 shirt",
+  "note": "Official squad number · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gabriel Jesus",
+      "detail": "",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Alexandre Lacazette",
+      "detail": "",
+      "accept": [
+        "alexandre lacazette",
+        "lacazette"
+      ]
+    },
+    {
+      "display": "Lucas Pérez",
+      "detail": "",
+      "accept": [
+        "lucas perez",
+        "perez"
+      ]
+    },
+    {
+      "display": "Lukas Podolski",
+      "detail": "",
+      "accept": [
+        "lukas podolski",
+        "podolski"
+      ]
+    },
+    {
+      "display": "Park Chu-young",
+      "detail": "",
+      "accept": [
+        "park chu-young",
+        "park chu young",
+        "chu young",
+        "park"
+      ]
+    },
+    {
+      "display": "Eduardo",
+      "detail": "",
+      "accept": [
+        "eduardo",
+        "eduardo da silva"
+      ]
+    },
+    {
+      "display": "Júlio Baptista",
+      "detail": "",
+      "accept": [
+        "julio baptista",
+        "baptista"
+      ]
+    },
+    {
+      "display": "José Antonio Reyes",
+      "detail": "",
+      "accept": [
+        "jose antonio reyes",
+        "jose reyes",
+        "reyes"
+      ]
+    },
+    {
+      "display": "Francis Jeffers",
+      "detail": "",
+      "accept": [
+        "francis jeffers",
+        "jeffers"
+      ]
+    },
+    {
+      "display": "Davor Šuker",
+      "detail": "",
+      "accept": [
+        "davor suker",
+        "suker"
+      ]
+    }
+  ]
+}

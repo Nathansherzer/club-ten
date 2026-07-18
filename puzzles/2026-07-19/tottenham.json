@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-19",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the last 10 players to wear the No. 9 shirt",
+  "note": "Official squad number · any order · through July 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Richarlison",
+      "detail": "",
+      "accept": [
+        "richarlison"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Vincent Janssen",
+      "detail": "",
+      "accept": [
+        "vincent janssen",
+        "janssen"
+      ]
+    },
+    {
+      "display": "Roberto Soldado",
+      "detail": "",
+      "accept": [
+        "roberto soldado",
+        "soldado"
+      ]
+    },
+    {
+      "display": "Roman Pavlyuchenko",
+      "detail": "",
+      "accept": [
+        "roman pavlyuchenko",
+        "pavlyuchenko"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    },
+    {
+      "display": "Grzegorz Rasiak",
+      "detail": "",
+      "accept": [
+        "grzegorz rasiak",
+        "rasiak"
+      ]
+    },
+    {
+      "display": "Frédéric Kanouté",
+      "detail": "",
+      "accept": [
+        "frederic kanoute",
+        "kanoute"
+      ]
+    },
+    {
+      "display": "Les Ferdinand",
+      "detail": "",
+      "accept": [
+        "les ferdinand",
+        "ferdinand"
+      ]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail": "",
+      "accept": [
+        "darren anderton",
+        "anderton"
+      ]
+    }
+  ]
+}
