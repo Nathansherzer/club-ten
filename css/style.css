@@ -123,7 +123,18 @@ header h1 a:hover { opacity: 0.85; }
   margin: 20px 0 4px;
 }
 
+/* Push > and >> to the right */
+.puzzle-nav-btn[data-tooltip^="Go to next"],
+.puzzle-nav-btn[data-tooltip^="Back"] {
+  margin-left: auto;
+}
+/* Collapse the gap between > and >> */
+.puzzle-nav-btn[data-tooltip^="Go to next"] + .puzzle-nav-btn[data-tooltip^="Back"] {
+  margin-left: 0;
+}
+
 .puzzle-nav-btn {
+  position: relative;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -141,6 +152,28 @@ header h1 a:hover { opacity: 0.85; }
   transition: border-color 0.15s;
 }
 .puzzle-nav-btn:hover { border-color: var(--green); }
+
+/* Tooltip */
+.puzzle-nav-btn::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--card);
+  border: 1px solid var(--slot-border);
+  color: var(--muted);
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+  padding: 4px 8px;
+  border-radius: 4px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.puzzle-nav-btn:hover::after { opacity: 1; }
 
 /* ---- site footer nav --------------------------------------- */
 

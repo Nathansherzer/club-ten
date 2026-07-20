@@ -280,45 +280,53 @@ async function loadPuzzleNav() {
 
   const club   = getClub();
   const oldest = past[past.length - 1];
-  let prevDate  = null; // destination for <
-  let firstDate = null; // destination for <<
+  let prevDate  = null; // <
+  let firstDate = null; // <<
+  let nextHref  = null; // >
+  let lastHref  = null; // >>
 
   if (!archiveDate) {
     prevDate  = past[0].date;
     firstDate = past.length > 1 ? oldest.date : null;
   } else {
-    const idx      = past.findIndex(p => p.date === archiveDate);
+    const idx = past.findIndex(p => p.date === archiveDate);
     if (idx === -1) return;
-    const olderIdx = idx + 1;
-    if (olderIdx >= past.length) return; // already at oldest
-    prevDate  = past[olderIdx].date;
-    firstDate = oldest.date !== prevDate ? oldest.date : null;
+
+    // Backward (older)
+    if (idx < past.length - 1) {
+      prevDate  = past[idx + 1].date;
+      firstDate = oldest.date !== prevDate ? oldest.date : null;
+    }
+
+    // Forward (newer → today)
+    nextHref = idx > 0 ? `/${club}?date=${past[idx - 1].date}` : `/${club}`;
+    lastHref = `/${club}`;
+    if (nextHref === lastHref) lastHref = null; // already one step from today
   }
 
-  if (!prevDate) return;
+  if (!prevDate && !firstDate && !nextHref && !lastHref) return;
 
   document.getElementById('puzzleNavEl')?.remove();
   const nav = document.createElement('div');
   nav.id        = 'puzzleNavEl';
   nav.className = 'puzzle-nav';
 
-  if (firstDate) {
-    const a = document.createElement('a');
-    a.href        = `/${club}?date=${firstDate}`;
-    a.className   = 'puzzle-nav-btn';
-    a.title       = 'Oldest available puzzle';
-    a.textContent = '<<';
-    nav.appendChild(a);
-  }
-
-  const a = document.createElement('a');
-  a.href        = `/${club}?date=${prevDate}`;
-  a.className   = 'puzzle-nav-btn';
-  a.title       = 'Previous puzzle';
-  a.textContent = '<';
-  nav.appendChild(a);
+  if (firstDate) nav.appendChild(makeNavBtn(`/${club}?date=${firstDate}`, '<<', 'Jump to oldest available puzzle'));
+  if (prevDate)  nav.appendChild(makeNavBtn(`/${club}?date=${prevDate}`,  '<',  'Go to previous puzzle'));
+  if (nextHref)  nav.appendChild(makeNavBtn(nextHref,                     '>',  'Go to next puzzle'));
+  if (lastHref)  nav.appendChild(makeNavBtn(lastHref,                     '>>',  "Back to today's puzzle"));
 
   document.querySelector('.site-nav').before(nav);
+}
+
+function makeNavBtn(href, text, tooltip) {
+  const a = document.createElement('a');
+  a.href            = href;
+  a.className       = 'puzzle-nav-btn';
+  a.title           = tooltip;
+  a.dataset.tooltip = tooltip;
+  a.textContent     = text;
+  return a;
 }
 
 /* ==========================================================
