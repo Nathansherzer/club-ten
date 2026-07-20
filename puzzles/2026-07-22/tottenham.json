@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-22",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most Premier League minutes",
+  "note": "PL only · 1992/93–2025/26 · ranked order · StatMuse",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Hugo Lloris",
+      "detail": "32,222 mins",
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "26,812 mins",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail": "24,114 mins",
+      "accept": [
+        "darren anderton",
+        "anderton"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "24,073 mins",
+      "accept": [
+        "son heung-min",
+        "heung-min son",
+        "heung min son",
+        "son",
+        "sonny"
+      ]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "23,121 mins",
+      "accept": [
+        "ledley king",
+        "king"
+      ]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "22,888 mins",
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "21,649 mins",
+      "accept": [
+        "sol campbell",
+        "campbell"
+      ]
+    },
+    {
+      "display": "Ian Walker",
+      "detail": "21,393 mins",
+      "accept": [
+        "ian walker"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "20,643 mins",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "20,130 mins",
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
+    }
+  ]
+}

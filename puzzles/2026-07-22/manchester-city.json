@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-22",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most Premier League minutes",
+  "note": "PL only · 1992/93–2025/26 · ranked order · StatMuse",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ederson",
+      "detail": "24,511 mins",
+      "accept": [
+        "ederson",
+        "ederson moraes"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "23,994 mins",
+      "accept": [
+        "david silva"
+      ]
+    },
+    {
+      "display": "Joe Hart",
+      "detail": "23,829 mins",
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
+    },
+    {
+      "display": "Vincent Kompany",
+      "detail": "22,267 mins",
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
+    },
+    {
+      "display": "Richard Dunne",
+      "detail": "21,981 mins",
+      "accept": [
+        "richard dunne",
+        "dunne"
+      ]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "21,651 mins",
+      "accept": [
+        "bernardo silva",
+        "bernardo"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "21,285 mins",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "20,208 mins",
+      "accept": [
+        "fernandinho"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "19,870 mins",
+      "accept": [
+        "sergio aguero",
+        "aguero",
+        "kun aguero"
+      ]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "18,405 mins",
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
+    }
+  ]
+}

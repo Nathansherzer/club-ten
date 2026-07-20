@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-22",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most Premier League minutes",
+  "note": "PL only · 1992/93–2025/26 · ranked order · StatMuse",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Terry",
+      "detail": "41,969 mins",
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "35,921 mins",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "29,712 mins",
+      "accept": [
+        "petr cech",
+        "cech"
+      ]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "29,376 mins",
+      "accept": [
+        "cesar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
+    },
+    {
+      "display": "Dennis Wise",
+      "detail": "22,355 mins",
+      "accept": [
+        "dennis wise",
+        "wise"
+      ]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "21,489 mins",
+      "accept": [
+        "branislav ivanovic",
+        "ivanovic"
+      ]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "19,708 mins",
+      "accept": [
+        "ashley cole",
+        "a cole"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "19,470 mins",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "17,561 mins",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "16,220 mins",
+      "accept": [
+        "john obi mikel",
+        "mikel",
+        "obi mikel"
+      ]
+    }
+  ]
+}

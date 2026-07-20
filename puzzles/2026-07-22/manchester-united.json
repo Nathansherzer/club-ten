@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-22",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most Premier League minutes",
+  "note": "PL only · 1992/93–2025/26 · ranked order · StatMuse",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "46,437 mins",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "David de Gea",
+      "detail": "37,289 mins",
+      "accept": [
+        "david de gea",
+        "de gea",
+        "ddg"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "36,129 mins",
+      "accept": [
+        "paul scholes",
+        "scholes"
+      ]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "33,573 mins",
+      "accept": [
+        "gary neville",
+        "neville"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "31,719 mins",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "27,299 mins",
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "27,214 mins",
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
+    },
+    {
+      "display": "Denis Irwin",
+      "detail": "25,226 mins",
+      "accept": [
+        "denis irwin",
+        "irwin"
+      ]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "23,947 mins",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "Patrice Evra",
+      "detail": "23,095 mins",
+      "accept": [
+        "patrice evra",
+        "evra"
+      ]
+    }
+  ]
+}

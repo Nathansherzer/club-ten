@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-22",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most Premier League minutes",
+  "note": "PL only · 1992/93–2025/26 · ranked order · StatMuse",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David Seaman",
+      "detail": "29,159 mins",
+      "accept": [
+        "david seaman",
+        "seaman"
+      ]
+    },
+    {
+      "display": "Lee Dixon",
+      "detail": "25,714 mins",
+      "accept": [
+        "lee dixon",
+        "dixon"
+      ]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "25,400 mins",
+      "accept": [
+        "martin keown",
+        "keown"
+      ]
+    },
+    {
+      "display": "Ray Parlour",
+      "detail": "24,533 mins",
+      "accept": [
+        "ray parlour",
+        "parlour"
+      ]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "23,980 mins",
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
+    },
+    {
+      "display": "Nigel Winterburn",
+      "detail": "23,233 mins",
+      "accept": [
+        "nigel winterburn",
+        "winterburn"
+      ]
+    },
+    {
+      "display": "Tony Adams",
+      "detail": "22,434 mins",
+      "accept": [
+        "tony adams",
+        "adams"
+      ]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "22,204 mins",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "21,417 mins",
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "21,313 mins",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "date": "2026-07-22",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most Premier League minutes",
+  "note": "PL only · 1992/93–2025/26 · ranked order · StatMuse",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jamie Carragher",
+      "detail": "43,267 mins",
+      "accept": [
+        "jamie carragher",
+        "carragher",
+        "carra"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "41,129 mins",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g"
+      ]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "27,448 mins",
+      "accept": [
+        "sami hyypia",
+        "hyypia"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "26,759 mins",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "26,252 mins",
+      "accept": [
+        "mohamed salah",
+        "mohammed salah",
+        "mo salah",
+        "salah"
+      ]
+    },
+    {
+      "display": "Pepe Reina",
+      "detail": "25,633 mins",
+      "accept": [
+        "pepe reina",
+        "reina"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "24,257 mins",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Alisson",
+      "detail": "22,872 mins",
+      "accept": [
+        "alisson",
+        "alisson becker"
+      ]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "22,130 mins",
+      "accept": [
+        "andrew robertson",
+        "andy robertson",
+        "robertson",
+        "robbo"
+      ]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "20,983 mins",
+      "accept": [
+        "martin skrtel",
+        "skrtel"
+      ]
+    }
+  ]
+}
