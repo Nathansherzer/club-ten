@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-23",
+  "club": "manchester-united",
+  "type": "clubs",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 clubs Wayne Rooney scored the most PL goals against while playing for Man United",
+  "note": "PL only · as Man United player · goals vs each club",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Newcastle United",
+      "detail": "13 goals",
+      "accept": ["newcastle united", "newcastle"]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "12 goals",
+      "accept": ["aston villa", "villa"]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "11 goals",
+      "accept": ["west ham united", "west ham", "hammers"]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "11 goals",
+      "accept": ["tottenham hotspur", "tottenham", "spurs"]
+    },
+    {
+      "display": "Fulham",
+      "detail": "10 goals",
+      "accept": ["fulham"]
+    },
+    {
+      "display": "Bolton Wanderers",
+      "detail": "9 goals",
+      "accept": ["bolton wanderers", "bolton"]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "9 goals",
+      "accept": ["arsenal"]
+    },
+    {
+      "display": "Wigan Athletic",
+      "detail": "8 goals",
+      "accept": ["wigan athletic", "wigan"]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "8 goals",
+      "accept": ["manchester city", "man city"]
+    },
+    {
+      "display": "Portsmouth",
+      "detail": "8 goals",
+      "accept": ["portsmouth", "pompey"]
+    }
+  ]
+}

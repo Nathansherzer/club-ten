@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-23",
+  "club": "arsenal",
+  "type": "clubs",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 clubs Thierry Henry scored the most PL goals against while playing for Arsenal",
+  "note": "PL only · as Arsenal player · goals vs each club",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Charlton Athletic",
+      "detail": "12 goals",
+      "accept": ["charlton athletic", "charlton"]
+    },
+    {
+      "display": "Middlesbrough",
+      "detail": "12 goals",
+      "accept": ["middlesbrough", "boro", "middlesboro"]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "12 goals",
+      "accept": ["aston villa", "villa"]
+    },
+    {
+      "display": "Leeds United",
+      "detail": "10 goals",
+      "accept": ["leeds united", "leeds"]
+    },
+    {
+      "display": "Fulham",
+      "detail": "8 goals",
+      "accept": ["fulham"]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "8 goals",
+      "accept": ["chelsea"]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "8 goals",
+      "accept": ["liverpool"]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "8 goals",
+      "accept": ["manchester united", "man united", "man utd"]
+    },
+    {
+      "display": "Portsmouth",
+      "detail": "7 goals",
+      "accept": ["portsmouth", "pompey"]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "7 goals",
+      "accept": ["sunderland"]
+    }
+  ]
+}

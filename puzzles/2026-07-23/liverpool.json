@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-23",
+  "club": "liverpool",
+  "type": "clubs",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 clubs Mohamed Salah scored the most PL goals against while playing for Liverpool",
+  "note": "PL only · as Liverpool player · goals vs each club",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Manchester United",
+      "detail": "13 goals",
+      "accept": ["manchester united", "man united", "man utd"]
+    },
+    {
+      "display": "Bournemouth",
+      "detail": "12 goals",
+      "accept": ["bournemouth", "afc bournemouth"]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "12 goals",
+      "accept": ["tottenham hotspur", "tottenham", "spurs"]
+    },
+    {
+      "display": "Southampton",
+      "detail": "11 goals",
+      "accept": ["southampton", "saints"]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "11 goals",
+      "accept": ["west ham united", "west ham", "hammers"]
+    },
+    {
+      "display": "Brighton & Hove Albion",
+      "detail": "10 goals",
+      "accept": ["brighton & hove albion", "brighton and hove albion", "brighton", "bha"]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "10 goals",
+      "accept": ["newcastle united", "newcastle"]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "10 goals",
+      "accept": ["arsenal"]
+    },
+    {
+      "display": null,
+      "detail": "9 goals",
+      "accept": [
+        "leeds united", "leeds",
+        "aston villa", "villa",
+        "everton",
+        "manchester city", "man city",
+        "crystal palace", "palace",
+        "watford"
+      ]
+    },
+    {
+      "display": null,
+      "detail": "9 goals",
+      "accept": [
+        "leeds united", "leeds",
+        "aston villa", "villa",
+        "everton",
+        "manchester city", "man city",
+        "crystal palace", "palace",
+        "watford"
+      ]
+    }
+  ]
+}

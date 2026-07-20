@@ -400,7 +400,7 @@ async function handleGuess() {
     const res = await fetch("/api/guess", {
       method:  "POST",
       headers: { "Content-Type": "application/json" },
-      body:    JSON.stringify({ club: getClub(), guess: raw, ...(archiveDate ? { date: archiveDate } : {}) })
+      body:    JSON.stringify({ club: getClub(), guess: raw, found: [...found.keys()], ...(archiveDate ? { date: archiveDate } : {}) })
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     result = await res.json();

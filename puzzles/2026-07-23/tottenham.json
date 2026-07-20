@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-23",
+  "club": "tottenham",
+  "type": "clubs",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 clubs Harry Kane scored the most PL goals against while playing for Spurs",
+  "note": "PL only · as Spurs player · goals vs each club",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Leicester City",
+      "detail": "18 goals",
+      "accept": ["leicester city", "leicester", "foxes"]
+    },
+    {
+      "display": "Everton",
+      "detail": "15 goals",
+      "accept": ["everton", "toffees"]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "14 goals",
+      "accept": ["arsenal"]
+    },
+    {
+      "display": "Southampton",
+      "detail": "12 goals",
+      "accept": ["southampton", "saints"]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "11 goals",
+      "accept": ["crystal palace", "palace"]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "11 goals",
+      "accept": ["west ham united", "west ham", "hammers"]
+    },
+    {
+      "display": null,
+      "detail": "9 goals",
+      "accept": [
+        "liverpool",
+        "burnley",
+        "stoke city", "stoke",
+        "west bromwich albion", "west brom", "wba",
+        "newcastle united", "newcastle"
+      ]
+    },
+    {
+      "display": null,
+      "detail": "9 goals",
+      "accept": [
+        "liverpool",
+        "burnley",
+        "stoke city", "stoke",
+        "west bromwich albion", "west brom", "wba",
+        "newcastle united", "newcastle"
+      ]
+    },
+    {
+      "display": null,
+      "detail": "9 goals",
+      "accept": [
+        "liverpool",
+        "burnley",
+        "stoke city", "stoke",
+        "west bromwich albion", "west brom", "wba",
+        "newcastle united", "newcastle"
+      ]
+    },
+    {
+      "display": null,
+      "detail": "9 goals",
+      "accept": [
+        "liverpool",
+        "burnley",
+        "stoke city", "stoke",
+        "west bromwich albion", "west brom", "wba",
+        "newcastle united", "newcastle"
+      ]
+    }
+  ]
+}

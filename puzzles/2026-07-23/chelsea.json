@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-23",
+  "club": "chelsea",
+  "type": "clubs",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 clubs Frank Lampard scored the most PL goals against while playing for Chelsea",
+  "note": "PL only · as Chelsea player · goals vs each club",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Aston Villa",
+      "detail": "12 goals",
+      "accept": ["aston villa", "villa"]
+    },
+    {
+      "display": "Bolton Wanderers",
+      "detail": "12 goals",
+      "accept": ["bolton wanderers", "bolton"]
+    },
+    {
+      "display": "Blackburn Rovers",
+      "detail": "9 goals",
+      "accept": ["blackburn rovers", "blackburn"]
+    },
+    {
+      "display": "Fulham",
+      "detail": "8 goals",
+      "accept": ["fulham"]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "8 goals",
+      "accept": ["sunderland"]
+    },
+    {
+      "display": "Wigan Athletic",
+      "detail": "7 goals",
+      "accept": ["wigan athletic", "wigan"]
+    },
+    {
+      "display": "Portsmouth",
+      "detail": "7 goals",
+      "accept": ["portsmouth", "pompey"]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "7 goals",
+      "accept": ["manchester city", "man city"]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "7 goals",
+      "accept": ["west ham united", "west ham", "hammers"]
+    },
+    {
+      "display": null,
+      "detail": "6 goals",
+      "accept": [
+        "west bromwich albion", "west brom", "wba",
+        "everton",
+        "tottenham hotspur", "tottenham", "spurs",
+        "newcastle united", "newcastle"
+      ]
+    }
+  ]
+}

@@ -36,7 +36,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: "Method not allowed" });
   }
 
-  const { club, guess, date } = req.body ?? {};
+  const { club, guess, date, found: foundArr } = req.body ?? {};
 
   if (!club || !VALID_CLUBS.has(club)) {
     return res.status(400).json({ error: "Unknown club." });
@@ -69,17 +69,25 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Puzzle file is malformed." });
   }
 
-  const slot = matchGuess(guess, data.answers);
+  const skip   = new Set(Array.isArray(foundArr) ? foundArr.filter(Number.isInteger) : []);
+  const result = matchGuess(guess, data.answers, skip);
 
-  if (slot === -1) {
+  if (result === null) {
     return res.status(200).json({ hit: false });
   }
 
+  const { slot, matched } = result;
+  const rawDisplay = data.answers[slot].display;
+  // Pool slots (display: null) show the actual club name the player typed.
+  const display = rawDisplay != null
+    ? rawDisplay
+    : matched.replace(/\b\w/g, c => c.toUpperCase());
+
   // Return display + detail for the matched slot only — never the full answers list
   return res.status(200).json({
-    hit:     true,
+    hit: true,
     slot,
-    display: data.answers[slot].display,
-    detail:  data.answers[slot].detail
+    display,
+    detail: data.answers[slot].detail
   });
 }

@@ -119,6 +119,7 @@ export default async function handler(req, res) {
     question:    data.question,
     note:        data.note,
     placeholder: data.placeholder,
+    type:        data.type || "players",
     puzzleNumber: puzzleNumber(requestedDate),
     total:       data.answers.length
   });
