@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-21",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the last 10 goalkeepers to wear the No. 1 shirt",
+  "note": "Official squad number · any order · through July 2026",
+  "placeholder": "Type a goalkeeper's name…",
+  "answers": [
+    {
+      "display": "James Trafford",
+      "detail": "",
+      "accept": [
+        "james trafford",
+        "trafford"
+      ]
+    },
+    {
+      "display": "Claudio Bravo",
+      "detail": "",
+      "accept": [
+        "claudio bravo",
+        "bravo"
+      ]
+    },
+    {
+      "display": "Joe Hart",
+      "detail": "",
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
+    },
+    {
+      "display": "Shay Given",
+      "detail": "",
+      "accept": [
+        "shay given",
+        "given"
+      ]
+    },
+    {
+      "display": "Andreas Isaksson",
+      "detail": "",
+      "accept": [
+        "andreas isaksson",
+        "isaksson"
+      ]
+    },
+    {
+      "display": "David James",
+      "detail": "",
+      "accept": [
+        "david james",
+        "james"
+      ]
+    },
+    {
+      "display": "David Seaman",
+      "detail": "",
+      "accept": [
+        "david seaman",
+        "seaman"
+      ]
+    },
+    {
+      "display": "Peter Schmeichel",
+      "detail": "",
+      "accept": [
+        "peter schmeichel",
+        "schmeichel"
+      ]
+    },
+    {
+      "display": "Nicky Weaver",
+      "detail": "",
+      "accept": [
+        "nicky weaver",
+        "weaver"
+      ]
+    },
+    {
+      "display": "Martyn Margetson",
+      "detail": "",
+      "accept": [
+        "martyn margetson",
+        "margetson"
+      ]
+    }
+  ]
+}

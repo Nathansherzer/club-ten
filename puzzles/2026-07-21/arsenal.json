@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-21",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the last 10 goalkeepers to wear the No. 1 shirt",
+  "note": "Official squad number · any order · through July 2026",
+  "placeholder": "Type a goalkeeper's name…",
+  "answers": [
+    {
+      "display": "David Raya",
+      "detail": "",
+      "accept": [
+        "david raya",
+        "raya"
+      ]
+    },
+    {
+      "display": "Aaron Ramsdale",
+      "detail": "",
+      "accept": [
+        "aaron ramsdale",
+        "ramsdale"
+      ]
+    },
+    {
+      "display": "Bernd Leno",
+      "detail": "",
+      "accept": [
+        "bernd leno",
+        "leno"
+      ]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "",
+      "accept": [
+        "petr cech",
+        "cech"
+      ]
+    },
+    {
+      "display": "Wojciech Szczęsny",
+      "detail": "",
+      "accept": [
+        "wojciech szczesny",
+        "szczesny"
+      ]
+    },
+    {
+      "display": "Manuel Almunia",
+      "detail": "",
+      "accept": [
+        "manuel almunia",
+        "almunia"
+      ]
+    },
+    {
+      "display": "Jens Lehmann",
+      "detail": "",
+      "accept": [
+        "jens lehmann",
+        "lehmann"
+      ]
+    },
+    {
+      "display": "David Seaman",
+      "detail": "",
+      "accept": [
+        "david seaman",
+        "seaman"
+      ]
+    },
+    {
+      "display": "John Lukic",
+      "detail": "",
+      "accept": [
+        "john lukic",
+        "lukic"
+      ]
+    },
+    {
+      "display": "Rhys Wilmot",
+      "detail": "",
+      "accept": [
+        "rhys wilmot",
+        "wilmot"
+      ]
+    }
+  ]
+}
