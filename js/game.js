@@ -143,7 +143,7 @@ document.getElementById("changeClubBtn").addEventListener("click", () => {
    ========================================================== */
 
 async function init() {
-  loadNameBank();
+  // Name bank is loaded after the puzzle so we know its type (players vs clubs).
 
   // Homepage is a pure club-picker — never auto-load a puzzle there.
   const onHomepage = location.pathname === '/' || location.pathname === '/index.html';
@@ -174,15 +174,17 @@ pickerEl.querySelectorAll(".clubbtn[data-club]").forEach(btn => {
 
 /* ==========================================================
    NAME BANK
-   Loaded once from /data/name-bank.json.
-   A large list of player/manager names used for autocomplete.
+   Loaded after the puzzle so we know its type.
+   puzzle.type === "clubs" → /data/club-bank.json
+   anything else           → /data/name-bank.json
    The game works without it — autocomplete just stays empty.
    ========================================================== */
 
-async function loadNameBank() {
+async function loadNameBank(type) {
+  const url = type === "clubs" ? "/data/club-bank.json" : "/data/name-bank.json";
   try {
-    const res  = await fetch("/data/name-bank.json");
-    nameBank   = await res.json();
+    const res = await fetch(url);
+    nameBank  = await res.json();
   } catch {
     /* silent — autocomplete is a nice-to-have */
   }
@@ -204,6 +206,7 @@ async function fetchAndStartPuzzle(club, savedState) {
       throw new Error(body.error || `HTTP ${res.status}`);
     }
     puzzle = await res.json();
+    loadNameBank(puzzle.type); // fire-and-forget; loads club or player bank
   } catch (err) {
     loadingEl.style.display = "none";
     errorEl.textContent = `Could not load puzzle: ${err.message}`;
