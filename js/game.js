@@ -258,6 +258,67 @@ function buildGameBoard() {
 
   gameEl.style.display        = "block";
   settingsBtnEl.style.display = "";
+  loadPuzzleNav();
+}
+
+/* ==========================================================
+   PUZZLE NAVIGATION
+   Shows < (previous) and << (oldest in window) buttons below
+   the game board. Capped at 10 past puzzles so recent puzzles
+   can be reused later without appearing in the nav window.
+   ========================================================== */
+
+async function loadPuzzleNav() {
+  let past;
+  try {
+    const res  = await fetch('/api/archive');
+    const json = await res.json();
+    past = (json.puzzles || []).slice(0, 10); // newest-first, max 10
+  } catch { return; }
+
+  if (past.length === 0) return;
+
+  const club   = getClub();
+  const oldest = past[past.length - 1];
+  let prevDate  = null; // destination for <
+  let firstDate = null; // destination for <<
+
+  if (!archiveDate) {
+    prevDate  = past[0].date;
+    firstDate = past.length > 1 ? oldest.date : null;
+  } else {
+    const idx      = past.findIndex(p => p.date === archiveDate);
+    if (idx === -1) return;
+    const olderIdx = idx + 1;
+    if (olderIdx >= past.length) return; // already at oldest
+    prevDate  = past[olderIdx].date;
+    firstDate = oldest.date !== prevDate ? oldest.date : null;
+  }
+
+  if (!prevDate) return;
+
+  document.getElementById('puzzleNavEl')?.remove();
+  const nav = document.createElement('div');
+  nav.id        = 'puzzleNavEl';
+  nav.className = 'puzzle-nav';
+
+  if (firstDate) {
+    const a = document.createElement('a');
+    a.href        = `/${club}?date=${firstDate}`;
+    a.className   = 'puzzle-nav-btn';
+    a.title       = 'Oldest available puzzle';
+    a.textContent = '<<';
+    nav.appendChild(a);
+  }
+
+  const a = document.createElement('a');
+  a.href        = `/${club}?date=${prevDate}`;
+  a.className   = 'puzzle-nav-btn';
+  a.title       = 'Previous puzzle';
+  a.textContent = '<';
+  nav.appendChild(a);
+
+  document.querySelector('.site-nav').before(nav);
 }
 
 /* ==========================================================

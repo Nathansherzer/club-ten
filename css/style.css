@@ -115,6 +115,35 @@ header h1 a:hover { opacity: 0.85; }
 
 /* ---- site nav (footer) ------------------------------------- */
 
+/* ---- puzzle prev / first navigation ------------------------ */
+
+.puzzle-nav {
+  display: flex;
+  gap: 8px;
+  margin: 20px 0 4px;
+}
+
+.puzzle-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  height: 44px;
+  padding: 0 14px;
+  background: var(--card);
+  border: 1px solid var(--slot-border);
+  border-radius: 8px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition: border-color 0.15s;
+}
+.puzzle-nav-btn:hover { border-color: var(--green); }
+
+/* ---- site footer nav --------------------------------------- */
+
 .site-nav {
   display: flex;
   flex-wrap: wrap;
