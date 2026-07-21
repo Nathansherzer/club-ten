@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-26",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most Premier League wins while playing for Arsenal",
+  "note": "PL wins only · as Arsenal player · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "186 wins",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Ray Parlour",
+      "detail": "175 wins",
+      "accept": ["ray parlour", "parlour"]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "170 wins",
+      "accept": ["patrick vieira", "vieira"]
+    },
+    {
+      "display": "David Seaman",
+      "detail": "166 wins",
+      "accept": ["david seaman", "seaman"]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "157 wins",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "155 wins",
+      "accept": ["martin keown", "keown"]
+    },
+    {
+      "display": "Lee Dixon",
+      "detail": "152 wins",
+      "accept": ["lee dixon", "dixon"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "151 wins",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "146 wins",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "145 wins",
+      "accept": ["laurent koscielny", "koscielny"]
+    }
+  ]
+}

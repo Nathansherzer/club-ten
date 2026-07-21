@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-26",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most Premier League wins while playing for Spurs",
+  "note": "PL wins only · as Spurs player · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Hugo Lloris",
+      "detail": "205 wins",
+      "accept": ["hugo lloris", "lloris"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "178 wins",
+      "accept": ["son heung-min", "heung-min son", "son", "heung min son"]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "175 wins",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "153 wins",
+      "accept": ["eric dier", "dier"]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "130 wins",
+      "accept": ["ben davies", "davies"]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "129 wins",
+      "accept": ["jan vertonghen", "vertonghen"]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "127 wins",
+      "accept": ["aaron lennon", "lennon"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "125 wins",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "125 wins",
+      "accept": ["jermain defoe", "defoe"]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "115 wins",
+      "accept": ["ledley king", "king"]
+    }
+  ]
+}

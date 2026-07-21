@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-26",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most Premier League wins while playing for Liverpool",
+  "note": "PL wins only · as Liverpool player · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jamie Carragher",
+      "detail": "264 wins",
+      "accept": ["jamie carragher", "carragher"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "255 wins",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "215 wins",
+      "accept": ["jordan henderson", "henderson"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "201 wins",
+      "accept": ["mohamed salah", "salah"]
+    },
+    {
+      "display": "Andrew Robertson",
+      "detail": "179 wins",
+      "accept": ["andrew robertson", "andy robertson", "robertson"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "179 wins",
+      "accept": ["virgil van dijk", "van dijk"]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "172 wins",
+      "accept": ["sami hyypia", "hyypia"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "171 wins",
+      "accept": ["trent alexander-arnold", "alexander-arnold", "taa"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "164 wins",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "156 wins",
+      "accept": ["roberto firmino", "firmino"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-26",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most Premier League wins while playing for Chelsea",
+  "note": "PL wins only · as Chelsea player · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Terry",
+      "detail": "311 wins",
+      "accept": ["john terry", "terry"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "272 wins",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "219 wins",
+      "accept": ["petr cech", "cech"]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "191 wins",
+      "accept": ["cesar azpilicueta", "azpilicueta"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "172 wins",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "152 wins",
+      "accept": ["branislav ivanovic", "ivanovic"]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "149 wins",
+      "accept": ["john obi mikel", "obi mikel", "mikel"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "145 wins",
+      "accept": ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "140 wins",
+      "accept": ["ashley cole", "cole"]
+    },
+    {
+      "display": "Willian",
+      "detail": "135 wins",
+      "accept": ["willian"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-26",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most Premier League wins while playing for Man City",
+  "note": "PL wins only · as Man City player · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bernardo Silva",
+      "detail": "217 wins",
+      "accept": ["bernardo silva", "bernardo"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "214 wins",
+      "accept": ["david silva"]
+    },
+    {
+      "display": "Ederson",
+      "detail": "206 wins",
+      "accept": ["ederson"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "197 wins",
+      "accept": ["kevin de bruyne", "de bruyne"]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "187 wins",
+      "accept": ["fernandinho"]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "186 wins",
+      "accept": ["sergio aguero", "aguero"]
+    },
+    {
+      "display": "Vincent Kompany",
+      "detail": "167 wins",
+      "accept": ["vincent kompany", "kompany"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "162 wins",
+      "accept": ["ilkay gundogan", "gundogan"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "156 wins",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "154 wins",
+      "accept": ["raheem sterling", "sterling"]
+    }
+  ]
+}

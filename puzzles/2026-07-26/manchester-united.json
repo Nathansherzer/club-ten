@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-26",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most Premier League wins while playing for Man United",
+  "note": "PL wins only · as Man United player · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "407 wins",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "321 wins",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "256 wins",
+      "accept": ["gary neville", "neville"]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "250 wins",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "David de Gea",
+      "detail": "225 wins",
+      "accept": ["david de gea", "de gea"]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "210 wins",
+      "accept": ["roy keane", "keane"]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "208 wins",
+      "accept": ["rio ferdinand", "ferdinand"]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "206 wins",
+      "accept": ["michael carrick", "carrick"]
+    },
+    {
+      "display": "Patrice Evra",
+      "detail": "186 wins",
+      "accept": ["patrice evra", "evra"]
+    },
+    {
+      "display": "Denis Irwin",
+      "detail": "180 wins",
+      "accept": ["denis irwin", "irwin"]
+    }
+  ]
+}
