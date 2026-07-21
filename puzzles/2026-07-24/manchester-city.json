@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-24",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players with the most Premier League assists",
+  "note": "PL only · all-time assists · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "116 assists",
+      "accept": ["kevin de bruyne", "de bruyne"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "90 assists",
+      "accept": ["david silva"]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "49 assists",
+      "accept": ["bernardo silva", "bernardo"]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "47 assists",
+      "accept": ["sergio aguero", "aguero"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "41 assists",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "34 assists",
+      "accept": ["riyad mahrez", "mahrez"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "34 assists",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "32 assists",
+      "accept": ["samir nasri", "nasri"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "29 assists",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "29 assists",
+      "accept": ["yaya toure", "toure"]
+    }
+  ]
+}

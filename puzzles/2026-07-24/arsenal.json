@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-24",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players with the most Premier League assists",
+  "note": "PL only · all-time assists · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "94 assists",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "74 assists",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "70 assists",
+      "accept": ["cesc fabregas", "fabregas"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "50 assists",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Mesut Özil",
+      "detail": "50 assists",
+      "accept": ["mesut ozil", "ozil"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "45 assists",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "42 assists",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "41 assists",
+      "accept": ["robert pires", "pires"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "39 assists",
+      "accept": ["robin van persie", "van persie"]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "37 assists",
+      "accept": ["martin odegaard", "odegaard"]
+    }
+  ]
+}

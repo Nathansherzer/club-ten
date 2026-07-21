@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-24",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players with the most Premier League assists",
+  "note": "PL only · all-time assists · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "89 assists",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "54 assists",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "51 assists",
+      "accept": ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "42 assists",
+      "accept": ["gianfranco zola", "zola"]
+    },
+    {
+      "display": "Dennis Wise",
+      "detail": "39 assists",
+      "accept": ["dennis wise", "wise"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "38 assists",
+      "accept": ["cesc fabregas", "fabregas"]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "35 assists",
+      "accept": ["cesar azpilicueta", "azpilicueta"]
+    },
+    {
+      "display": "Willian",
+      "detail": "33 assists",
+      "accept": ["willian"]
+    },
+    {
+      "display": "Dan Petrescu",
+      "detail": "28 assists",
+      "accept": ["dan petrescu", "petrescu"]
+    },
+    {
+      "display": null,
+      "detail": "27 assists",
+      "accept": [
+        "Juan Mata", "Mata",
+        "Eiður Guðjohnsen", "Eidur Gudjonsen", "Gudjohnsen", "Gudjonsen",
+        "Jimmy Floyd Hasselbaink", "Hasselbaink", "Floyd Hasselbaink"
+      ]
+    }
+  ]
+}

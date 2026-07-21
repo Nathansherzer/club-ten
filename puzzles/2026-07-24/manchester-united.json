@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-24",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United players with the most Premier League assists",
+  "note": "PL only · all-time assists · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "163 assists",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "90 assists",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "80 assists",
+      "accept": ["david beckham", "beckham"]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "72 assists",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "54 assists",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Eric Cantona",
+      "detail": "51 assists",
+      "accept": ["eric cantona", "cantona"]
+    },
+    {
+      "display": "Nani",
+      "detail": "43 assists",
+      "accept": ["nani"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "40 assists",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Antonio Valencia",
+      "detail": "39 assists",
+      "accept": ["antonio valencia", "valencia"]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "38 assists",
+      "accept": ["paul pogba", "pogba"]
+    }
+  ]
+}

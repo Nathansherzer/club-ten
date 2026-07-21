@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-24",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players with the most Premier League assists",
+  "note": "PL only · all-time assists · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Son Heung-min",
+      "detail": "71 assists",
+      "accept": ["son heung-min", "heung-min son", "son", "heung min son"]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail": "66 assists",
+      "accept": ["darren anderton", "anderton"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "59 assists",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "47 assists",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "45 assists",
+      "accept": ["aaron lennon", "lennon"]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "44 assists",
+      "accept": ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "34 assists",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "David Ginola",
+      "detail": "25 assists",
+      "accept": ["david ginola", "ginola"]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "23 assists",
+      "accept": ["erik lamela", "lamela"]
+    },
+    {
+      "display": "Dejan Kulusevski",
+      "detail": "22 assists",
+      "accept": ["dejan kulusevski", "kulusevski"]
+    }
+  ]
+}
