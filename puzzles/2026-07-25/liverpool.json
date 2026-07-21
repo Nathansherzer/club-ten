@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-25",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 youngest players to score a Premier League goal for Liverpool",
+  "note": "youngest at time of scoring · ranked youngest first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Rio Ngumoha",
+      "detail": "16y 361d",
+      "accept": ["rio ngumoha", "ngumoha"]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "17y 143d",
+      "accept": ["michael owen", "owen"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "17y 317d",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Stefan Bajčetić",
+      "detail": "18y 65d",
+      "accept": ["stefan bajcetic", "bajcetic"]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "18y 190d",
+      "accept": ["robbie fowler", "fowler"]
+    },
+    {
+      "display": "Jamie Carragher",
+      "detail": "18y 356d",
+      "accept": ["jamie carragher", "carragher"]
+    },
+    {
+      "display": "Florent Sinama-Pongolle",
+      "detail": "19y 5d",
+      "accept": ["florent sinama-pongolle", "sinama-pongolle", "pongolle"]
+    },
+    {
+      "display": "Jamie Redknapp",
+      "detail": "19y 72d",
+      "accept": ["jamie redknapp", "redknapp"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "19y 80d",
+      "accept": ["trent alexander-arnold", "alexander-arnold", "taa"]
+    },
+    {
+      "display": "Harvey Elliott",
+      "detail": "19y 145d",
+      "accept": ["harvey elliott", "elliott"]
+    }
+  ]
+}

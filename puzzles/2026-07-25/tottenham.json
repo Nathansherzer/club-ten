@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-25",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 youngest players to score a Premier League goal for Spurs",
+  "note": "youngest at time of scoring · ranked youngest first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Andy Turner",
+      "detail": "17y 166d",
+      "accept": ["andy turner", "turner"]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "18y 47d",
+      "accept": ["gareth bale", "bale"]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "18y 78d",
+      "accept": ["sol campbell", "campbell"]
+    },
+    {
+      "display": "Nick Barmby",
+      "detail": "18y 249d",
+      "accept": ["nick barmby", "barmby"]
+    },
+    {
+      "display": "Rory Allen",
+      "detail": "18y 326d",
+      "accept": ["rory allen", "allen"]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "18y 336d",
+      "accept": ["aaron lennon", "lennon"]
+    },
+    {
+      "display": "Reto Ziegler",
+      "detail": "18y 351d",
+      "accept": ["reto ziegler", "ziegler"]
+    },
+    {
+      "display": "Darren Caskey",
+      "detail": "19y 43d",
+      "accept": ["darren caskey", "caskey"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "19y 133d",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "Paul McVeigh",
+      "detail": "19y 156d",
+      "accept": ["paul mcveigh", "mcveigh"]
+    }
+  ]
+}

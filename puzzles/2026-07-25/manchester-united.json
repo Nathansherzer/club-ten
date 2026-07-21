@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-25",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 youngest players to score a Premier League goal for Man United",
+  "note": "youngest at time of scoring · ranked youngest first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Federico Macheda",
+      "detail": "17y 226d",
+      "accept": ["federico macheda", "macheda"]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "17y 355d",
+      "accept": ["danny welbeck", "welbeck"]
+    },
+    {
+      "display": "Mason Greenwood",
+      "detail": "18y 54d",
+      "accept": ["mason greenwood", "greenwood"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "18y 120d",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Rafael da Silva",
+      "detail": "18y 122d",
+      "accept": ["rafael da silva", "rafael", "da silva"]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "18y 135d",
+      "accept": ["alejandro garnacho", "garnacho"]
+    },
+    {
+      "display": "James Wilson",
+      "detail": "18y 156d",
+      "accept": ["james wilson", "wilson"]
+    },
+    {
+      "display": "Nick Powell",
+      "detail": "18y 176d",
+      "accept": ["nick powell", "powell"]
+    },
+    {
+      "display": "Adnan Januzaj",
+      "detail": "18y 242d",
+      "accept": ["adnan januzaj", "januzaj"]
+    },
+    {
+      "display": "Giuseppe Rossi",
+      "detail": "18y 256d",
+      "accept": ["giuseppe rossi", "rossi"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-25",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 youngest players to score a Premier League goal for Arsenal",
+  "note": "youngest at time of scoring · ranked youngest first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Max Dowman",
+      "detail": "16y 73d",
+      "accept": ["max dowman", "dowman"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "17y 113d",
+      "accept": ["cesc fabregas", "fabregas"]
+    },
+    {
+      "display": "Ethan Nwaneri",
+      "detail": "17y 247d",
+      "accept": ["ethan nwaneri", "nwaneri"]
+    },
+    {
+      "display": "Serge Gnabry",
+      "detail": "18y 76d",
+      "accept": ["serge gnabry", "gnabry"]
+    },
+    {
+      "display": "Myles Lewis-Skelly",
+      "detail": "18y 129d",
+      "accept": ["myles lewis-skelly", "lewis-skelly"]
+    },
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "18y 173d",
+      "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "oxlade chamberlain"]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "18y 174d",
+      "accept": ["gabriel martinelli", "martinelli"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "18y 239d",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "18y 240d",
+      "accept": ["nicolas anelka", "anelka"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "18y 303d",
+      "accept": ["bukayo saka", "saka"]
+    }
+  ]
+}

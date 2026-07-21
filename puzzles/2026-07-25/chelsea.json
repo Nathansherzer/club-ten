@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-25",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 youngest players to score a Premier League goal for Chelsea",
+  "note": "youngest at time of scoring · ranked youngest first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mikael Forssell",
+      "detail": "17y 342d",
+      "accept": ["mikael forssell", "forssell"]
+    },
+    {
+      "display": "Estêvão",
+      "detail": "18y 163d",
+      "accept": ["estevao", "estevao willian"]
+    },
+    {
+      "display": "Neil Shipperley",
+      "detail": "18y 164d",
+      "accept": ["neil shipperley", "shipperley"]
+    },
+    {
+      "display": "Carlton Cole",
+      "detail": "18y 197d",
+      "accept": ["carlton cole", "cole"]
+    },
+    {
+      "display": "Callum Hudson-Odoi",
+      "detail": "19y 65d",
+      "accept": ["callum hudson-odoi", "hudson-odoi", "hudson odoi"]
+    },
+    {
+      "display": "Tyrique George",
+      "detail": "19y 75d",
+      "accept": ["tyrique george", "george"]
+    },
+    {
+      "display": "Glen Johnson",
+      "detail": "19y 78d",
+      "accept": ["glen johnson", "johnson"]
+    },
+    {
+      "display": "Jody Morris",
+      "detail": "19y 139d",
+      "accept": ["jody morris", "morris"]
+    },
+    {
+      "display": "Josh Acheampong",
+      "detail": "19y 166d",
+      "accept": ["josh acheampong", "acheampong"]
+    },
+    {
+      "display": "Samuele Dalla Bona",
+      "detail": "19y 293d",
+      "accept": ["samuele dalla bona", "dalla bona"]
+    }
+  ]
+}
