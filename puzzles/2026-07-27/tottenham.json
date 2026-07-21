@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-27",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players with the most UEFA Champions League appearances",
+  "note": "CL proper only · excl. qualifiers & pre-1992 · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Son Heung-min",
+      "detail": "39 apps",
+      "accept": ["son heung-min", "heung-min son", "son", "heung min son"]
+    },
+    {
+      "display": "Hugo Lloris",
+      "detail": "34 apps",
+      "accept": ["hugo lloris", "lloris"]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "32 apps",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "30 apps",
+      "accept": ["eric dier", "dier"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "29 apps",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "28 apps",
+      "accept": ["ben davies", "davies"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "26 apps",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "Moussa Sissoko",
+      "detail": "26 apps",
+      "accept": ["moussa sissoko", "sissoko"]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "25 apps",
+      "accept": ["toby alderweireld", "alderweireld"]
+    },
+    {
+      "display": "Harry Winks",
+      "detail": "24 apps",
+      "accept": ["harry winks", "winks"]
+    }
+  ]
+}

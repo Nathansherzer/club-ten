@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-27",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players with the most UEFA Champions League appearances",
+  "note": "CL proper only · excl. qualifiers & pre-1992 · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Terry",
+      "detail": "109 apps",
+      "accept": ["john terry", "terry"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "102 apps",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "94 apps",
+      "accept": ["petr cech", "cech"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "74 apps",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "64 apps",
+      "accept": ["cesar azpilicueta", "azpilicueta"]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "60 apps",
+      "accept": ["ashley cole", "cole"]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "59 apps",
+      "accept": ["john obi mikel", "obi mikel", "mikel"]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "58 apps",
+      "accept": ["branislav ivanovic", "ivanovic"]
+    },
+    {
+      "display": "Joe Cole",
+      "detail": "51 apps",
+      "accept": ["joe cole"]
+    },
+    {
+      "display": null,
+      "detail": "49 apps",
+      "accept": [
+        "Salomon Kalou", "Kalou",
+        "Michael Essien", "Essien",
+        "Claude Makélélé", "Claude Makelele", "Makélélé", "Makelele"
+      ]
+    }
+  ]
+}

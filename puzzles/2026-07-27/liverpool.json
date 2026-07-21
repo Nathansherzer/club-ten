@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-27",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool players with the most UEFA Champions League appearances",
+  "note": "CL proper only · excl. qualifiers & pre-1992 · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "83 apps",
+      "accept": ["mohamed salah", "salah"]
+    },
+    {
+      "display": "Jamie Carragher",
+      "detail": "80 apps",
+      "accept": ["jamie carragher", "carragher"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "73 apps",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Andrew Robertson",
+      "detail": "66 apps",
+      "accept": ["andrew robertson", "andy robertson", "robertson"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "64 apps",
+      "accept": ["virgil van dijk", "van dijk"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "60 apps",
+      "accept": ["trent alexander-arnold", "alexander-arnold", "taa"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "58 apps",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "John Arne Riise",
+      "detail": "58 apps",
+      "accept": ["john arne riise", "riise"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "56 apps",
+      "accept": ["roberto firmino", "firmino"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "55 apps",
+      "accept": ["sadio mane", "mane"]
+    }
+  ]
+}

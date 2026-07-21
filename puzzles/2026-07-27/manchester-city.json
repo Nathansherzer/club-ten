@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-27",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players with the most UEFA Champions League appearances",
+  "note": "CL proper only · excl. qualifiers & pre-1992 · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bernardo Silva",
+      "detail": "86 apps",
+      "accept": ["bernardo silva", "bernardo"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "77 apps",
+      "accept": ["ilkay gundogan", "gundogan"]
+    },
+    {
+      "display": "Ederson",
+      "detail": "76 apps",
+      "accept": ["ederson"]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "73 apps",
+      "accept": ["fernandinho"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "72 apps",
+      "accept": ["kevin de bruyne", "de bruyne"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "68 apps",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "67 apps",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "64 apps",
+      "accept": ["sergio aguero", "aguero"]
+    },
+    {
+      "display": "John Stones",
+      "detail": "62 apps",
+      "accept": ["john stones", "stones"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "55 apps",
+      "accept": ["david silva", "david"]
+    }
+  ]
+}

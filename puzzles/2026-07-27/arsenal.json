@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-27",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players with the most UEFA Champions League appearances",
+  "note": "CL proper only · excl. qualifiers & pre-1992 · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail": "77 apps",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Freddie Ljungberg",
+      "detail": "64 apps",
+      "accept": ["freddie ljungberg", "ljungberg"]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "63 apps",
+      "accept": ["robert pires", "pires"]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "61 apps",
+      "accept": ["kolo toure", "toure", "kolo"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "59 apps",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "57 apps",
+      "accept": ["patrick vieira", "vieira"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "55 apps",
+      "accept": ["cesc fabregas", "fabregas"]
+    },
+    {
+      "display": "Lauren",
+      "detail": "53 apps",
+      "accept": ["lauren"]
+    },
+    {
+      "display": "Emmanuel Eboué",
+      "detail": "48 apps",
+      "accept": ["emmanuel eboue", "eboue"]
+    },
+    {
+      "display": null,
+      "detail": "45 apps",
+      "accept": [
+        "Robin van Persie", "Van Persie",
+        "Ashley Cole", "Cole"
+      ]
+    }
+  ]
+}

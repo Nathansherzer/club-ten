@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-27",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United players with the most UEFA Champions League appearances",
+  "note": "CL proper only · excl. qualifiers & pre-1992 · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "141 apps",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "124 apps",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "109 apps",
+      "accept": ["gary neville", "neville"]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "86 apps",
+      "accept": ["rio ferdinand", "ferdinand"]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "85 apps",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "77 apps",
+      "accept": ["ole gunnar solskjaer", "solskjaer"]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "77 apps",
+      "accept": ["david beckham", "beckham"]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "74 apps",
+      "accept": ["roy keane", "keane"]
+    },
+    {
+      "display": "John O'Shea",
+      "detail": "71 apps",
+      "accept": ["john o'shea", "oshea", "o'shea"]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "70 apps",
+      "accept": ["michael carrick", "carrick"]
+    }
+  ]
+}
