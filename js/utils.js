@@ -102,7 +102,11 @@ function matchGuess(guess, answers) {
 function getSuggestions(query, nameBank) {
   const q = norm(query);
   if (q.length < 2) return [];
+  const words = q.split(" ").filter(w => w.length > 0);
   return nameBank
-    .filter(name => (" " + norm(name)).includes(" " + q))
+    .filter(name => {
+      const n = " " + norm(name);
+      return words.every(w => n.includes(" " + w));
+    })
     .slice(0, 6);
 }
