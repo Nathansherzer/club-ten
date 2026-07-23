@@ -64,8 +64,12 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Puzzle file is malformed." });
   }
 
-  // Strip accept arrays — only display + detail leave the server
-  const answers = data.answers.map(({ display, detail }) => ({ display, detail }));
+  // Strip accept arrays — only display + detail leave the server.
+  // Pool slots have display:null; fall back to poolLabel so the reveal shows valid options.
+  const answers = data.answers.map(({ display, detail, poolLabel }) => ({
+    display: display ?? poolLabel ?? "—",
+    detail
+  }));
 
   res.setHeader("Cache-Control", "private, max-age=3600");
   return res.status(200).json({
