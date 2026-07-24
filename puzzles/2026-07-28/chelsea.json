@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-28",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players who played the most Premier League minutes in the 2025–26 season",
+  "note": "PL minutes only · 2025–26 season · ranked by minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Enzo Fernández",
+      "detail": "3,115 mins",
+      "accept": ["enzo fernandez", "fernandez", "enzo"]
+    },
+    {
+      "display": "Robert Sánchez",
+      "detail": "3,039 mins",
+      "accept": ["robert sanchez", "sanchez"]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "2,796 mins",
+      "accept": ["moises caicedo", "caicedo"]
+    },
+    {
+      "display": "Trevoh Chalobah",
+      "detail": "2,783 mins",
+      "accept": ["trevoh chalobah", "chalobah"]
+    },
+    {
+      "display": "Marc Cucurella",
+      "detail": "2,707 mins",
+      "accept": ["marc cucurella", "cucurella"]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "2,661 mins",
+      "accept": ["joao pedro", "joao"]
+    },
+    {
+      "display": "Pedro Neto",
+      "detail": "2,631 mins",
+      "accept": ["pedro neto", "neto"]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "2,260 mins",
+      "accept": ["malo gusto", "gusto"]
+    },
+    {
+      "display": "Reece James",
+      "detail": "1,963 mins",
+      "accept": ["reece james", "reece"]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "1,956 mins",
+      "accept": ["cole palmer", "palmer"]
+    }
+  ]
+}

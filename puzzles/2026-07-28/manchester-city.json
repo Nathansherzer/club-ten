@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-28",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players who played the most Premier League minutes in the 2025–26 season",
+  "note": "PL minutes only · 2025–26 season · ranked by minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gianluigi Donnarumma",
+      "detail": "3,060 mins",
+      "accept": ["gianluigi donnarumma", "donnarumma"]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "2,953 mins",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "2,872 mins",
+      "accept": ["bernardo silva", "bernardo"]
+    },
+    {
+      "display": "Matheus Nunes",
+      "detail": "2,862 mins",
+      "accept": ["matheus nunes", "nunes"]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "2,646 mins",
+      "accept": ["nico o'reilly", "nico oreilly", "o'reilly", "oreilly"]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "2,141 mins",
+      "accept": ["ruben dias", "dias"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "2,085 mins",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "1,785 mins",
+      "accept": ["rayan cherki", "cherki"]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "1,783 mins",
+      "accept": ["jeremy doku", "doku"]
+    },
+    {
+      "display": "Tijjani Reijnders",
+      "detail": "1,632 mins",
+      "accept": ["tijjani reijnders", "reijnders"]
+    }
+  ]
+}

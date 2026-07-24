@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-28",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players who played the most Premier League minutes in the 2025–26 season",
+  "note": "PL minutes only · 2025–26 season · ranked by minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David Raya",
+      "detail": "3,330 mins",
+      "accept": ["david raya", "raya"]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "3,094 mins",
+      "accept": ["declan rice", "rice"]
+    },
+    {
+      "display": "Martín Zubimendi",
+      "detail": "2,992 mins",
+      "accept": ["martin zubimendi", "zubimendi"]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "2,751 mins",
+      "accept": ["gabriel magalhaes", "gabriel", "magalhaes"]
+    },
+    {
+      "display": "William Saliba",
+      "detail": "2,614 mins",
+      "accept": ["william saliba", "saliba"]
+    },
+    {
+      "display": "Jurriën Timber",
+      "detail": "2,454 mins",
+      "accept": ["jurrien timber", "timber"]
+    },
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "2,224 mins",
+      "accept": ["viktor gyokeres", "gyokeres"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "2,222 mins",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "1,999 mins",
+      "accept": ["leandro trossard", "trossard"]
+    },
+    {
+      "display": "Eberechi Eze",
+      "detail": "1,812 mins",
+      "accept": ["eberechi eze", "eze"]
+    }
+  ]
+}

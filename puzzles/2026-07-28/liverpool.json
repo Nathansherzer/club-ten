@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-28",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool players who played the most Premier League minutes in the 2025–26 season",
+  "note": "PL minutes only · 2025–26 season · ranked by minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Virgil van Dijk",
+      "detail": "3,420 mins",
+      "accept": ["virgil van dijk", "van dijk"]
+    },
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "3,231 mins",
+      "accept": ["dominik szoboszlai", "szoboszlai"]
+    },
+    {
+      "display": "Ibrahima Konaté",
+      "detail": "3,090 mins",
+      "accept": ["ibrahima konate", "konate"]
+    },
+    {
+      "display": "Ryan Gravenberch",
+      "detail": "2,992 mins",
+      "accept": ["ryan gravenberch", "gravenberch"]
+    },
+    {
+      "display": "Cody Gakpo",
+      "detail": "2,737 mins",
+      "accept": ["cody gakpo", "gakpo"]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "2,659 mins",
+      "accept": ["alexis mac allister", "mac allister", "macallister"]
+    },
+    {
+      "display": "Florian Wirtz",
+      "detail": "2,377 mins",
+      "accept": ["florian wirtz", "wirtz"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "2,340 mins",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "Milos Kerkez",
+      "detail": "2,257 mins",
+      "accept": ["milos kerkez", "kerkez"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "2,146 mins",
+      "accept": ["mohamed salah", "salah"]
+    }
+  ]
+}

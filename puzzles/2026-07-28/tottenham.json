@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-28",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players who played the most Premier League minutes in the 2025–26 season",
+  "note": "PL minutes only · 2025–26 season · ranked by minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Micky van de Ven",
+      "detail": "3,041 mins",
+      "accept": ["micky van de ven", "van de ven"]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "2,795 mins",
+      "accept": ["pedro porro", "porro"]
+    },
+    {
+      "display": "Guglielmo Vicario",
+      "detail": "2,790 mins",
+      "accept": ["guglielmo vicario", "vicario"]
+    },
+    {
+      "display": "João Palhinha",
+      "detail": "2,199 mins",
+      "accept": ["joao palhinha", "palhinha"]
+    },
+    {
+      "display": "Djed Spence",
+      "detail": "2,057 mins",
+      "accept": ["djed spence", "spence"]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "1,965 mins",
+      "accept": ["richarlison"]
+    },
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "1,883 mins",
+      "accept": ["rodrigo bentancur", "bentancur"]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "1,868 mins",
+      "accept": ["cristian romero", "romero", "cuti romero"]
+    },
+    {
+      "display": "Xavi Simons",
+      "detail": "1,755 mins",
+      "accept": ["xavi simons", "simons"]
+    },
+    {
+      "display": "Randal Kolo Muani",
+      "detail": "1,663 mins",
+      "accept": ["randal kolo muani", "kolo muani"]
+    }
+  ]
+}

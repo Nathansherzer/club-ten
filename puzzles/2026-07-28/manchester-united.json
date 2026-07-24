@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-28",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United players who played the most Premier League minutes in the 2025–26 season",
+  "note": "PL minutes only · 2025–26 season · ranked by minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Luke Shaw",
+      "detail": "3,218 mins",
+      "accept": ["luke shaw", "shaw"]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "3,063 mins",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Senne Lammens",
+      "detail": "2,880 mins",
+      "accept": ["senne lammens", "lammens"]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "2,614 mins",
+      "accept": ["diogo dalot", "dalot"]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "2,610 mins",
+      "accept": ["bryan mbeumo", "mbeumo"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "2,570 mins",
+      "accept": ["casemiro"]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "2,495 mins",
+      "accept": ["matheus cunha", "cunha"]
+    },
+    {
+      "display": "Amad Diallo",
+      "detail": "2,341 mins",
+      "accept": ["amad diallo", "amad", "diallo"]
+    },
+    {
+      "display": "Leny Yoro",
+      "detail": "1,741 mins",
+      "accept": ["leny yoro", "yoro"]
+    },
+    {
+      "display": "Kobbie Mainoo",
+      "detail": "1,662 mins",
+      "accept": ["kobbie mainoo", "mainoo"]
+    }
+  ]
+}
