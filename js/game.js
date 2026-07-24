@@ -534,6 +534,15 @@ async function revealUnfound() {
   }
 }
 
+const RIVALS = {
+  'arsenal':           { club: 'tottenham',          label: 'Spurs' },
+  'chelsea':           { club: 'arsenal',             label: 'Arsenal' },
+  'liverpool':         { club: 'manchester-united',   label: 'Man United' },
+  'manchester-city':   { club: 'manchester-united',   label: 'Man United' },
+  'manchester-united': { club: 'liverpool',           label: 'Liverpool' },
+  'tottenham':         { club: 'arsenal',             label: 'Arsenal' }
+};
+
 function showEndCard(won) {
   let title;
   if (won && lives === MAX_LIVES) title = "PERFECT GAME 🏆";
@@ -556,6 +565,12 @@ function showEndCard(won) {
   }
 
   endcardEl.style.display = "block";
+
+  const rival   = RIVALS[getClub()];
+  const rivalEl = document.getElementById("rivalPrompt");
+  if (rival && rivalEl && !archiveDate) {
+    rivalEl.innerHTML = `<a href="/${rival.club}" class="rival-btn">Try today's ${rival.label} puzzle →</a>`;
+  }
 }
 
 function persistInProgress() {

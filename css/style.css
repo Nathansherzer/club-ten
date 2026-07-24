@@ -427,6 +427,22 @@ button.share:active { transform: scale(0.97); }
 
 .shared-note { font-size: 0.78rem; color: var(--green); margin-top: 8px; min-height: 16px; }
 
+.rival-btn {
+  display: inline-block;
+  margin-top: 14px;
+  padding: 10px 20px;
+  background: transparent;
+  border: 2px solid var(--muted);
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.03em;
+  transition: border-color 0.15s, color 0.15s;
+}
+.rival-btn:hover { border-color: var(--green); color: var(--green); }
+
 /* ---- archive banner (shown on archive replay view) --------- */
 
 .archive-banner {
