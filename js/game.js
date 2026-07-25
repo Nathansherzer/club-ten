@@ -400,7 +400,7 @@ async function handleGuess() {
     const res = await fetch("/api/guess", {
       method:  "POST",
       headers: { "Content-Type": "application/json" },
-      body:    JSON.stringify({ club: getClub(), guess: raw, found: [...found.keys()], ...(archiveDate ? { date: archiveDate } : {}) })
+      body:    JSON.stringify({ club: getClub(), guess: raw, found: [...found.keys()], date: archiveDate || puzzle.date })
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     result = await res.json();
@@ -520,7 +520,7 @@ async function revealUnfound() {
   if (unfound.length === 0) return [];
 
   try {
-    const dateParam = archiveDate ? `&date=${archiveDate}` : '';
+    const dateParam = `&date=${archiveDate || puzzle.date}`;
     const res = await fetch(`/api/reveal?club=${getClub()}${dateParam}`);
     if (!res.ok) return [];
     const data = await res.json();
