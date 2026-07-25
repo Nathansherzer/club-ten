@@ -510,6 +510,7 @@ async function endGame(won) {
 
   showEndCard(won);
   adEl.style.display = "block";
+  endcardEl.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 async function revealUnfound() {
@@ -530,7 +531,8 @@ async function revealUnfound() {
       return { slot: i, display, detail };
     });
   } catch {
-    return []; // silent — unfound slots stay blank if network fails
+    unfound.forEach(i => fillSlot(i, "—", "", "revealed"));
+    return [];
   }
 }
 
