@@ -508,6 +508,16 @@ async function endGame(won) {
     savePlayState(club, { found: foundArr, revealed: revealedArr, lives, over: true, won });
   }
 
+  if (!archiveDate && typeof gtag === "function") {
+    gtag("event", "game_complete", {
+      club:         getClub(),
+      score:        found.size,
+      won:          won ? 1 : 0,
+      perfect:      (won && lives === MAX_LIVES) ? 1 : 0,
+      puzzle_date:  puzzle.date
+    });
+  }
+
   showEndCard(won);
   adEl.style.display = "block";
   endcardEl.scrollIntoView({ behavior: "smooth", block: "start" });
