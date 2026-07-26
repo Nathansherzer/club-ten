@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-29",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 French players with the most Premier League appearances for Man City",
+  "note": "PL apps for Man City only · through 2025–26 · excl. dual-nationality players capped elsewhere",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sylvain Distin",
+      "detail": "178 apps",
+      "accept": ["sylvain distin", "distin"]
+    },
+    {
+      "display": "Gaël Clichy",
+      "detail": "138 apps",
+      "accept": ["gael clichy", "clichy"]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "129 apps",
+      "accept": ["samir nasri", "nasri"]
+    },
+    {
+      "display": "Antoine Sibierski",
+      "detail": "92 apps",
+      "accept": ["antoine sibierski", "sibierski"]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "89 apps",
+      "accept": ["nicolas anelka", "anelka"]
+    },
+    {
+      "display": "Eliaquim Mangala",
+      "detail": "57 apps",
+      "accept": ["eliaquim mangala", "mangala"]
+    },
+    {
+      "display": "Bacary Sagna",
+      "detail": "54 apps",
+      "accept": ["bacary sagna", "sagna"]
+    },
+    {
+      "display": "Benjamin Mendy",
+      "detail": "50 apps",
+      "accept": ["benjamin mendy", "mendy"]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "33 apps",
+      "accept": ["rayan cherki", "cherki"]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "28 apps",
+      "accept": ["patrick vieira", "vieira"]
+    }
+  ]
+}

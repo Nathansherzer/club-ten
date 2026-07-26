@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-29",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 French players with the most Premier League appearances for Arsenal",
+  "note": "PL apps for Arsenal only · through 2025–26 · excl. dual-nationality players capped elsewhere",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Patrick Vieira",
+      "detail": "279 apps",
+      "accept": ["patrick vieira", "vieira"]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "258 apps",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "255 apps",
+      "accept": ["laurent koscielny", "koscielny"]
+    },
+    {
+      "display": "Bacary Sagna",
+      "detail": "213 apps",
+      "accept": ["bacary sagna", "sagna"]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "189 apps",
+      "accept": ["robert pires", "pires"]
+    },
+    {
+      "display": "Gaël Clichy",
+      "detail": "187 apps",
+      "accept": ["gael clichy", "clichy"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "180 apps",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Mathieu Flamini",
+      "detail": "168 apps",
+      "accept": ["mathieu flamini", "flamini"]
+    },
+    {
+      "display": "Alexandre Lacazette",
+      "detail": "158 apps",
+      "accept": ["alexandre lacazette", "lacazette"]
+    },
+    {
+      "display": "William Saliba",
+      "detail": "131 apps",
+      "accept": ["william saliba", "saliba"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-29",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 French players with the most Premier League appearances for Man United",
+  "note": "PL apps for Man United only · through 2025–26 · excl. dual-nationality players capped elsewhere",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Patrice Evra",
+      "detail": "273 apps",
+      "accept": ["patrice evra", "evra"]
+    },
+    {
+      "display": "Mikaël Silvestre",
+      "detail": "249 apps",
+      "accept": ["mikael silvestre", "silvestre"]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "209 apps",
+      "accept": ["anthony martial", "martial"]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "157 apps",
+      "accept": ["paul pogba", "pogba"]
+    },
+    {
+      "display": "Eric Cantona",
+      "detail": "143 apps",
+      "accept": ["eric cantona", "cantona"]
+    },
+    {
+      "display": "Fabien Barthez",
+      "detail": "92 apps",
+      "accept": ["fabien barthez", "barthez"]
+    },
+    {
+      "display": "Louis Saha",
+      "detail": "86 apps",
+      "accept": ["louis saha", "saha"]
+    },
+    {
+      "display": "Raphaël Varane",
+      "detail": "68 apps",
+      "accept": ["raphael varane", "varane"]
+    },
+    {
+      "display": "Leny Yoro",
+      "detail": "53 apps",
+      "accept": ["leny yoro", "yoro"]
+    },
+    {
+      "display": "Laurent Blanc",
+      "detail": "48 apps",
+      "accept": ["laurent blanc", "blanc"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-29",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 French players with the most Premier League appearances for Spurs",
+  "note": "PL apps for Spurs only · through 2025–26 · excl. dual-nationality players capped elsewhere",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Hugo Lloris",
+      "detail": "361 apps",
+      "accept": ["hugo lloris", "lloris"]
+    },
+    {
+      "display": "Moussa Sissoko",
+      "detail": "141 apps",
+      "accept": ["moussa sissoko", "sissoko"]
+    },
+    {
+      "display": "Younès Kaboul",
+      "detail": "110 apps",
+      "accept": ["younes kaboul", "kaboul"]
+    },
+    {
+      "display": "David Ginola",
+      "detail": "100 apps",
+      "accept": ["david ginola", "ginola"]
+    },
+    {
+      "display": "Tanguy Ndombele",
+      "detail": "63 apps",
+      "accept": ["tanguy ndombele", "ndombele"]
+    },
+    {
+      "display": "Steed Malbranque",
+      "detail": "62 apps",
+      "accept": ["steed malbranque", "malbranque"]
+    },
+    {
+      "display": "William Gallas",
+      "detail": "61 apps",
+      "accept": ["william gallas", "gallas"]
+    },
+    {
+      "display": "Mathys Tel",
+      "detail": "44 apps",
+      "accept": ["mathys tel", "tel"]
+    },
+    {
+      "display": "Wilson Odobert",
+      "detail": "40 apps",
+      "accept": ["wilson odobert", "odobert"]
+    },
+    {
+      "display": "Randal Kolo Muani",
+      "detail": "30 apps",
+      "accept": ["randal kolo muani", "kolo muani"]
+    }
+  ]
+}

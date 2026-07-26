@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-29",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 French players with the most Premier League appearances for Chelsea",
+  "note": "PL apps for Chelsea only · through 2025–26 · excl. dual-nationality players capped elsewhere",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "N'Golo Kanté",
+      "detail": "190 apps",
+      "accept": ["n'golo kante", "ngolo kante", "kante", "n golo kante"]
+    },
+    {
+      "display": "William Gallas",
+      "detail": "159 apps",
+      "accept": ["william gallas", "gallas"]
+    },
+    {
+      "display": "Marcel Desailly",
+      "detail": "158 apps",
+      "accept": ["marcel desailly", "desailly"]
+    },
+    {
+      "display": "Florent Malouda",
+      "detail": "149 apps",
+      "accept": ["florent malouda", "malouda"]
+    },
+    {
+      "display": null,
+      "poolLabel": "Makélélé / Leboeuf",
+      "detail": "144 apps",
+      "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé", "frank leboeuf", "leboeuf"]
+    },
+    {
+      "display": null,
+      "poolLabel": "Makélélé / Leboeuf",
+      "detail": "144 apps",
+      "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé", "frank leboeuf", "leboeuf"]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "125 apps",
+      "accept": ["nicolas anelka", "anelka"]
+    },
+    {
+      "display": "Kurt Zouma",
+      "detail": "99 apps",
+      "accept": ["kurt zouma", "zouma"]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "93 apps",
+      "accept": ["malo gusto", "gusto"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "75 apps",
+      "accept": ["olivier giroud", "giroud"]
+    }
+  ]
+}

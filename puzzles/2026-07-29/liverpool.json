@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-29",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 French players with the most Premier League appearances for Liverpool",
+  "note": "PL apps for Liverpool only · through 2025–26 · excl. dual-nationality players capped elsewhere",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ibrahima Konaté",
+      "detail": "118 apps",
+      "accept": ["ibrahima konate", "konate"]
+    },
+    {
+      "display": "David N'Gog",
+      "detail": "63 apps",
+      "accept": ["david n'gog", "ngog", "n'gog", "david ngog"]
+    },
+    {
+      "display": "Mamadou Sakho",
+      "detail": "56 apps",
+      "accept": ["mamadou sakho", "sakho"]
+    },
+    {
+      "display": "Djibril Cissé",
+      "detail": "49 apps",
+      "accept": ["djibril cisse", "cisse"]
+    },
+    {
+      "display": "Florent Sinama-Pongolle",
+      "detail": "38 apps",
+      "accept": ["florent sinama-pongolle", "sinama-pongolle", "sinama pongolle", "pongolle"]
+    },
+    {
+      "display": "Bruno Cheyrou",
+      "detail": "31 apps",
+      "accept": ["bruno cheyrou", "cheyrou"]
+    },
+    {
+      "display": "Hugo Ekitiké",
+      "detail": "28 apps",
+      "accept": ["hugo ekitike", "ekitike"]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "20 apps",
+      "accept": ["nicolas anelka", "anelka"]
+    },
+    {
+      "display": "Anthony Le Tallec",
+      "detail": "17 apps",
+      "accept": ["anthony le tallec", "le tallec"]
+    },
+    {
+      "display": "Aly Cissokho",
+      "detail": "15 apps",
+      "accept": ["aly cissokho", "cissokho"]
+    }
+  ]
+}
