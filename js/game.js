@@ -93,10 +93,12 @@ function savePlayState(club, state) {
 
 function getStats(club) {
   try {
-    return JSON.parse(localStorage.getItem(`ct_stats_${club}`)) ||
-           { streak: 0, played: 0, perfect: 0 };
+    const s = JSON.parse(localStorage.getItem(`ct_stats_${club}`)) ||
+              { streak: 0, played: 0, perfect: 0 };
+    if (!s.scores) s.scores = new Array(11).fill(0);
+    return s;
   } catch {
-    return { streak: 0, played: 0, perfect: 0 };
+    return { streak: 0, played: 0, perfect: 0, scores: new Array(11).fill(0) };
   }
 }
 
@@ -503,6 +505,7 @@ async function endGame(won) {
     stats.played++;
     if (won && lives === MAX_LIVES) stats.perfect++;
     stats.streak = found.size >= 5 ? stats.streak + 1 : 0;
+    stats.scores[found.size] = (stats.scores[found.size] || 0) + 1;
     saveStats(club, stats);
     const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
     savePlayState(club, { found: foundArr, revealed: revealedArr, lives, over: true, won });
@@ -573,6 +576,7 @@ function showEndCard(won) {
     const stats = getStats(getClub());
     document.getElementById("statsLine").textContent =
       `Streak: ${stats.streak}  ·  Played: ${stats.played}  ·  Perfect: ${stats.perfect}`;
+    renderScoreChart(stats.scores);
     startCountdown();
   }
 
@@ -583,6 +587,22 @@ function showEndCard(won) {
   if (rival && rivalEl && !archiveDate) {
     rivalEl.innerHTML = `<a href="/${rival.club}" class="rival-btn">Try today's ${rival.label} puzzle →</a>`;
   }
+}
+
+function renderScoreChart(scores) {
+  const el = document.getElementById("scoreChart");
+  if (!el) return;
+  const max = Math.max(...scores, 1);
+  const rows = scores.map((count, i) => {
+    const pct  = Math.round((count / max) * 100);
+    const highlight = i === found.size ? "current" : "";
+    return `<div class="sc-row ${highlight}">
+      <span class="sc-label">${i}</span>
+      <div class="sc-bar-wrap"><div class="sc-bar" style="width:${pct}%"></div></div>
+      <span class="sc-count">${count}</span>
+    </div>`;
+  }).join("");
+  el.innerHTML = `<div class="sc-title">Score history</div>${rows}`;
 }
 
 function persistInProgress() {

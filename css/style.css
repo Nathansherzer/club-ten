@@ -427,6 +427,15 @@ button.share:active { transform: scale(0.97); }
 
 .shared-note { font-size: 0.78rem; color: var(--green); margin-top: 8px; min-height: 16px; }
 
+#scoreChart { margin: 14px 0 4px; text-align: left; }
+.sc-title { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 6px; }
+.sc-row { display: flex; align-items: center; gap: 6px; margin-bottom: 3px; }
+.sc-label { font-size: 0.75rem; color: var(--muted); width: 14px; text-align: right; flex-shrink: 0; }
+.sc-bar-wrap { flex: 1; background: rgba(255,255,255,0.06); border-radius: 3px; height: 14px; overflow: hidden; }
+.sc-bar { height: 100%; background: var(--muted); border-radius: 3px; min-width: 2px; transition: width 0.4s ease; }
+.sc-row.current .sc-bar { background: var(--green); }
+.sc-count { font-size: 0.75rem; color: var(--muted); width: 16px; flex-shrink: 0; }
+
 .rival-btn {
   display: inline-block;
   margin-top: 14px;
