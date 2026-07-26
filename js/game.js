@@ -522,7 +522,7 @@ async function endGame(won) {
   }
 
   showEndCard(won);
-  adEl.style.display = "block";
+  if (adEl) adEl.style.display = "block";
   endcardEl.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
@@ -591,7 +591,7 @@ function showEndCard(won) {
 
 function renderScoreChart(scores) {
   const el = document.getElementById("scoreChart");
-  if (!el) return;
+  if (!el || !Array.isArray(scores)) return;
   const max = Math.max(...scores, 1);
   const rows = scores.map((count, i) => {
     const pct  = Math.round((count / max) * 100);
