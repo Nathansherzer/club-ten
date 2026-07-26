@@ -28,16 +28,14 @@
       "accept": ["florent malouda", "malouda"]
     },
     {
-      "display": null,
-      "poolLabel": "Makélélé / Leboeuf",
+      "display": "Claude Makélélé",
       "detail": "144 apps",
-      "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé", "frank leboeuf", "leboeuf"]
+      "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé"]
     },
     {
-      "display": null,
-      "poolLabel": "Makélélé / Leboeuf",
+      "display": "Frank Leboeuf",
       "detail": "144 apps",
-      "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé", "frank leboeuf", "leboeuf"]
+      "accept": ["frank leboeuf", "leboeuf"]
     },
     {
       "display": "Nicolas Anelka",
