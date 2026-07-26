@@ -114,6 +114,7 @@ export default async function handler(req, res) {
   // Return metadata only — answers stay on the server
   res.setHeader("Cache-Control", "private, max-age=3600");
   res.status(200).json({
+    date:        requestedDate,
     clubLabel:   data.clubLabel,
     clubShort:   data.clubShort,
     question:    data.question,
