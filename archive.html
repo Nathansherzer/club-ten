@@ -60,6 +60,8 @@ const select   = document.getElementById("clubSelect");
 const listEl   = document.getElementById("archiveList");
 const statusEl = document.getElementById("archiveStatus");
 
+if (typeof gtag === "function") gtag("event", "archive_open");
+
 // Default to the player's saved club
 const savedClub = localStorage.getItem("ct_club");
 if (savedClub && select.querySelector(`option[value="${savedClub}"]`)) {

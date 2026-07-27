@@ -221,11 +221,13 @@ async function fetchAndStartPuzzle(club, savedState) {
 
   if (archiveDate) {
     document.getElementById("archiveBanner").style.display = "block";
+    track("archive_play");
   }
 
   if (savedState) {
     restoreState(savedState);
   } else {
+    track("game_start");
     setFeedback("Find all 10. Three wrong guesses and it's over.");
     input.focus();
   }
@@ -332,7 +334,17 @@ function makeNavBtn(href, text, tooltip) {
   a.title           = tooltip;
   a.dataset.tooltip = tooltip;
   a.textContent     = text;
+  a.addEventListener('click', () => track("puzzle_nav", { direction: text }));
   return a;
+}
+
+/* ==========================================================
+   GA4 ANALYTICS HELPER
+   ========================================================== */
+
+function track(eventName, params = {}) {
+  if (typeof gtag !== "function") return;
+  gtag("event", eventName, { club: getClub(), puzzle_date: puzzle?.date, ...params });
 }
 
 /* ==========================================================
@@ -427,9 +439,12 @@ async function handleGuess() {
   input.disabled = false;
   document.getElementById("guessBtn").disabled = false;
 
+  if (found.size === 0 && lives === MAX_LIVES) track("first_guess");
+
   if (!result.hit) {
     lives--;
     renderLives();
+    track("guess_wrong", { guess: raw, lives_remaining: lives });
     setFeedback(
       `"${raw}" — not on the board. ${lives} ${lives === 1 ? "life" : "lives"} left.`,
       "bad"
@@ -442,6 +457,7 @@ async function handleGuess() {
   } else {
     found.set(result.slot, { display: result.display, detail: result.detail });
     fillSlot(result.slot, result.display, result.detail, "found");
+    track("guess_correct", { answer: result.display, score: found.size });
     setFeedback(`✔ ${result.display} — ${found.size}/10`, "good");
     if (found.size === puzzle.total) { await endGame(true); return; }
   }
@@ -586,7 +602,7 @@ function showEndCard(won) {
   const rival   = RIVALS[getClub()];
   const rivalEl = document.getElementById("rivalPrompt");
   if (rival && rivalEl && !archiveDate) {
-    rivalEl.innerHTML = `<a href="/${rival.club}" class="rival-btn">Try today's ${rival.label} puzzle →</a>`;
+    rivalEl.innerHTML = `<a href="/${rival.club}" class="rival-btn" onclick="if(typeof gtag==='function')gtag('event','rival_click',{from_club:'${getClub()}',to_club:'${rival.club}'})">Try today's ${rival.label} puzzle →</a>`;
   }
 }
 
@@ -660,6 +676,7 @@ document.getElementById("shareBtn").addEventListener("click", () => {
 
   const note = document.getElementById("sharedNote");
   const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+  track("share", { score: found.size, method: (navigator.share && isMobile) ? "native" : "clipboard" });
   if (navigator.share && isMobile) {
     navigator.share({ text }).catch(() => {});
   } else {
