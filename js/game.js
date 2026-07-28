@@ -282,7 +282,7 @@ async function loadPuzzleNav() {
   try {
     const res  = await fetch('/api/archive');
     const json = await res.json();
-    past = (json.puzzles || []).slice(0, 10); // newest-first, max 10
+    past = (json.puzzles || []);
   } catch { return; }
 
   if (past.length === 0) return;

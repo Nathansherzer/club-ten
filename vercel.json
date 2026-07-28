@@ -1,12 +1,23 @@
 {
   "version": 2,
   "functions": {
-    "api/puzzle.js":  { "includeFiles": "puzzles/**" },
-    "api/archive.js": { "includeFiles": "puzzles/**" },
-    "api/guess.js":   { "includeFiles": "puzzles/**" },
-    "api/reveal.js":  { "includeFiles": "puzzles/**" }
+    "api/puzzle.js":      { "includeFiles": "puzzles/**" },
+    "api/archive.js":     { "includeFiles": "puzzles/**" },
+    "api/guess.js":       { "includeFiles": "puzzles/**" },
+    "api/reveal.js":      { "includeFiles": "puzzles/**" },
+    "api/puzzle-page.js": { "includeFiles": "puzzles/**" },
+    "api/sitemap.js":     { "includeFiles": "puzzles/**" }
   },
   "rewrites": [
+    { "source": "/sitemap.xml", "destination": "/api/sitemap" },
+
+    { "source": "/arsenal/:date",           "destination": "/api/puzzle-page?club=arsenal&date=:date" },
+    { "source": "/chelsea/:date",           "destination": "/api/puzzle-page?club=chelsea&date=:date" },
+    { "source": "/liverpool/:date",         "destination": "/api/puzzle-page?club=liverpool&date=:date" },
+    { "source": "/manchester-city/:date",   "destination": "/api/puzzle-page?club=manchester-city&date=:date" },
+    { "source": "/manchester-united/:date", "destination": "/api/puzzle-page?club=manchester-united&date=:date" },
+    { "source": "/tottenham/:date",         "destination": "/api/puzzle-page?club=tottenham&date=:date" },
+
     { "source": "/arsenal",           "destination": "/arsenal.html" },
     { "source": "/chelsea",           "destination": "/chelsea.html" },
     { "source": "/liverpool",         "destination": "/liverpool.html" },
