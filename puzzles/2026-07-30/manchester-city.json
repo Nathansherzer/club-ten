@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-30",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who made the most competitive appearances alongside Kevin De Bruyne at Man City",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside De Bruyne",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ederson",
+      "detail": "265 apps",
+      "accept": ["ederson", "ederson moraes"]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "260 apps",
+      "accept": ["bernardo silva", "bernardo"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "243 apps",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "227 apps",
+      "accept": ["kyle walker", "walker"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "224 apps",
+      "accept": ["ilkay gundogan", "ilkay gündoğan", "gundogan", "gündoğan"]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "211 apps",
+      "accept": ["fernandinho"]
+    },
+    {
+      "display": "John Stones",
+      "detail": "195 apps",
+      "accept": ["john stones", "stones"]
+    },
+    {
+      "display": "Rodri",
+      "detail": "184 apps",
+      "accept": ["rodri", "rodrigo hernandez", "rodrigo hernández"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "183 apps",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Nicolás Otamendi",
+      "detail": "170 apps",
+      "accept": ["nicolas otamendi", "nicolás otamendi", "otamendi"]
+    }
+  ]
+}

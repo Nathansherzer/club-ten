@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-02",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 outfield players with the fewest PL goals among those with 100+ appearances for Man United",
+  "note": "PL goals & apps for Man United only · outfield players · min. 100 PL apps · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Aaron Wan-Bissaka",
+      "detail": "2 goals / 130 apps",
+      "accept": ["aaron wan-bissaka", "aaron wan bissaka", "wan-bissaka", "wan bissaka"]
+    },
+    {
+      "display": "Wes Brown",
+      "detail": "3 goals / 232 apps",
+      "accept": ["wes brown", "brown"]
+    },
+    {
+      "display": "Victor Lindelöf",
+      "detail": "4 goals / 162 apps",
+      "accept": ["victor lindelof", "victor lindelöf", "lindelof", "lindelöf"]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "4 goals / 229 apps",
+      "accept": ["luke shaw", "shaw"]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "5 goals / 400 apps",
+      "accept": ["gary neville", "gary", "neville"]
+    },
+    {
+      "display": "Phil Neville",
+      "detail": "5 goals / 263 apps",
+      "accept": ["phil neville", "phil"]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "5 goals / 168 apps",
+      "accept": ["diogo dalot", "dalot"]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "7 goals / 312 apps",
+      "accept": ["rio ferdinand", "ferdinand"]
+    },
+    {
+      "display": "Patrice Evra",
+      "detail": "7 goals / 273 apps",
+      "accept": ["patrice evra", "evra"]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "8 goals / 185 apps",
+      "accept": ["harry maguire", "maguire"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-30",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who made the most competitive appearances alongside Bukayo Saka at Arsenal",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Saka",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "213 apps",
+      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães"]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "209 apps",
+      "accept": ["gabriel martinelli", "martinelli"]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "190 apps",
+      "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "176 apps",
+      "accept": ["declan rice", "rice"]
+    },
+    {
+      "display": "Ben White",
+      "detail": "170 apps",
+      "accept": ["ben white", "white"]
+    },
+    {
+      "display": "William Saliba",
+      "detail": "162 apps",
+      "accept": ["william saliba", "saliba"]
+    },
+    {
+      "display": "Granit Xhaka",
+      "detail": "140 apps",
+      "accept": ["granit xhaka", "xhaka"]
+    },
+    {
+      "display": "Thomas Partey",
+      "detail": "134 apps",
+      "accept": ["thomas partey", "partey"]
+    },
+    {
+      "display": "Eddie Nketiah",
+      "detail": "133 apps",
+      "accept": ["eddie nketiah", "nketiah"]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "128 apps",
+      "accept": ["leandro trossard", "trossard"]
+    }
+  ]
+}

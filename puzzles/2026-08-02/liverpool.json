@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-02",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players with the fewest PL goals among those with 100+ appearances for Liverpool",
+  "note": "PL goals & apps for Liverpool only · outfield players · min. 100 PL apps · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Joe Gomez",
+      "detail": "0 goals / 170 apps",
+      "accept": ["joe gomez", "gomez"]
+    },
+    {
+      "display": "Rob Jones",
+      "detail": "0 goals / 155 apps",
+      "accept": ["rob jones", "jones"]
+    },
+    {
+      "display": "Stéphane Henchoz",
+      "detail": "0 goals / 135 apps",
+      "accept": ["stephane henchoz", "stéphane henchoz", "henchoz"]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "1 goal / 247 apps",
+      "accept": ["lucas leiva", "leiva", "lucas"]
+    },
+    {
+      "display": "Steve Finnan",
+      "detail": "1 goal / 145 apps",
+      "accept": ["steve finnan", "finnan"]
+    },
+    {
+      "display": "Phil Babb",
+      "detail": "1 goal / 128 apps",
+      "accept": ["phil babb", "babb"]
+    },
+    {
+      "display": "Dominic Matteo",
+      "detail": "2 goals / 127 apps",
+      "accept": ["dominic matteo", "matteo"]
+    },
+    {
+      "display": "Jamie Carragher",
+      "detail": "3 goals / 508 apps",
+      "accept": ["jamie carragher", "carragher"]
+    },
+    {
+      "display": "Mark Wright",
+      "detail": "3 goals / 126 apps",
+      "accept": ["mark wright", "wright"]
+    },
+    {
+      "display": "Jason McAteer",
+      "detail": "3 goals / 100 apps",
+      "accept": ["jason mcateer", "mcateer"]
+    }
+  ]
+}

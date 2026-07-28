@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-30",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who made the most competitive appearances alongside Son Heung-min at Spurs",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Son",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Hugo Lloris",
+      "detail": "318 apps",
+      "accept": ["hugo lloris", "lloris"]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "297 apps",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "281 apps",
+      "accept": ["eric dier", "dier"]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "269 apps",
+      "accept": ["ben davies", "davies"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "204 apps",
+      "accept": ["dele alli", "dele", "alli"]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "190 apps",
+      "accept": ["toby alderweireld", "alderweireld"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "180 apps",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Davinson Sánchez",
+      "detail": "170 apps",
+      "accept": ["davinson sanchez", "davinson sánchez", "sanchez", "sánchez"]
+    },
+    {
+      "display": "Pierre-Emile Højbjerg",
+      "detail": "162 apps",
+      "accept": ["pierre-emile hojbjerg", "pierre-emile højbjerg", "hojbjerg", "højbjerg"]
+    },
+    {
+      "display": "Lucas Moura",
+      "detail": "154 apps",
+      "accept": ["lucas moura", "moura"]
+    }
+  ]
+}

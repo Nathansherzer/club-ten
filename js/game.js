@@ -183,7 +183,9 @@ pickerEl.querySelectorAll(".clubbtn[data-club]").forEach(btn => {
    ========================================================== */
 
 async function loadNameBank(type) {
-  const url = type === "clubs" ? "/data/club-bank.json" : "/data/name-bank.json";
+  const url = type === "clubs"         ? "/data/club-bank.json"
+            : type === "nationalities" ? "/data/nationality-bank.json"
+            :                           "/data/name-bank.json";
   try {
     const res = await fetch(url);
     nameBank  = await res.json();
@@ -521,7 +523,7 @@ async function endGame(won) {
     const stats = getStats(club);
     stats.played++;
     if (won && lives === MAX_LIVES) stats.perfect++;
-    stats.streak = found.size >= 5 ? stats.streak + 1 : 0;
+    stats.streak++;
     stats.scores[found.size] = (stats.scores[found.size] || 0) + 1;
     saveStats(club, stats);
     const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
@@ -591,13 +593,26 @@ function showEndCard(won) {
       '<a href="/archive" style="color:var(--green);text-decoration:none">← Back to archive</a>';
   } else {
     const stats = getStats(getClub());
+    const streakMsg = stats.streak >= 3 ? `🔥 ${stats.streak}-day streak!` : `Streak: ${stats.streak}`;
     document.getElementById("statsLine").textContent =
-      `Streak: ${stats.streak}  ·  Played: ${stats.played}  ·  Perfect: ${stats.perfect}`;
+      `${streakMsg}  ·  Played: ${stats.played}  ·  Perfect: ${stats.perfect}`;
     renderScoreChart(stats.scores);
     startCountdown();
   }
 
   endcardEl.style.display = "block";
+
+  // WhatsApp share button — built from live game state each time
+  const waEl = document.getElementById("whatsappBtn");
+  if (waEl) {
+    const clubSlug = getClub();
+    const clubName = CLUB_NAMES[clubSlug] || puzzle.clubShort;
+    const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
+    const waText   = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${location.origin}/${clubSlug}`;
+    waEl.href      = `https://wa.me/?text=${encodeURIComponent(waText)}`;
+    waEl.style.display = "inline-block";
+    waEl.onclick   = () => track("share", { score: found.size, method: "whatsapp" });
+  }
 
   const rival   = RIVALS[getClub()];
   const rivalEl = document.getElementById("rivalPrompt");
@@ -671,8 +686,7 @@ function startCountdown() {
 document.getElementById("shareBtn").addEventListener("click", () => {
   const clubName = CLUB_NAMES[getClub()] || puzzle.clubShort;
   const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
-  const url      = location.origin;
-  const text     = `ClubTen #${puzzle.puzzleNumber} · ${clubName} · ${found.size}/10\n${squares}\n${url}`;
+  const text     = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${location.origin}/${getClub()}`;
 
   const note = document.getElementById("sharedNote");
   const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);

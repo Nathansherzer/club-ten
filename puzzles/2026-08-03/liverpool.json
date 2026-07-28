@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-03",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 nationalities that scored the most Premier League goals for Liverpool",
+  "note": "PL goals by nationality · players capped by that nation while at Liverpool · data: 27 Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "850 goals",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "Egypt",
+      "detail": "191 goals",
+      "accept": ["egypt", "egyptian"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "138 goals",
+      "accept": ["netherlands", "holland", "dutch"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "133 goals",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "Spain",
+      "detail": "102 goals",
+      "accept": ["spain", "spanish"]
+    },
+    {
+      "display": "Uruguay",
+      "detail": "94 goals",
+      "accept": ["uruguay", "uruguayan"]
+    },
+    {
+      "display": "Senegal",
+      "detail": "93 goals",
+      "accept": ["senegal", "senegalese"]
+    },
+    {
+      "display": "Wales",
+      "detail": "62 goals",
+      "accept": ["wales", "welsh"]
+    },
+    {
+      "display": "Czech Republic",
+      "detail": "57 goals",
+      "accept": ["czech republic", "czechia", "czech"]
+    },
+    {
+      "display": "Portugal",
+      "detail": "52 goals",
+      "accept": ["portugal", "portuguese"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-31",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 goalkeepers with the most Premier League clean sheets for Arsenal",
+  "note": "PL clean sheets for Arsenal only · data: 27 Jul 2026",
+  "placeholder": "Type a goalkeeper's name…",
+  "answers": [
+    {
+      "display": "David Seaman",
+      "detail": "137 clean sheets",
+      "accept": ["david seaman", "seaman"]
+    },
+    {
+      "display": "Jens Lehmann",
+      "detail": "54 clean sheets",
+      "accept": ["jens lehmann", "lehmann"]
+    },
+    {
+      "display": "David Raya",
+      "detail": "48 clean sheets",
+      "accept": ["david raya", "raya"]
+    },
+    {
+      "display": "Wojciech Szczęsny",
+      "detail": "48 clean sheets",
+      "accept": ["wojciech szczesny", "wojciech szczęsny", "szczesny", "szczęsny"]
+    },
+    {
+      "display": "Manuel Almunia",
+      "detail": "43 clean sheets",
+      "accept": ["manuel almunia", "almunia"]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "40 clean sheets",
+      "accept": ["petr cech", "petr čech", "cech", "čech"]
+    },
+    {
+      "display": "Aaron Ramsdale",
+      "detail": "28 clean sheets",
+      "accept": ["aaron ramsdale", "ramsdale"]
+    },
+    {
+      "display": "Bernd Leno",
+      "detail": "25 clean sheets",
+      "accept": ["bernd leno", "leno"]
+    },
+    {
+      "display": "Alex Manninger",
+      "detail": "18 clean sheets",
+      "accept": ["alex manninger", "manninger"]
+    },
+    {
+      "display": "Łukasz Fabiański",
+      "detail": "12 clean sheets",
+      "accept": ["lukasz fabianski", "łukasz fabiański", "fabianski", "fabiański"]
+    }
+  ]
+}

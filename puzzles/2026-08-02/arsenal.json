@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-02",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players with the fewest PL goals among those with 100+ appearances for Arsenal",
+  "note": "PL goals & apps for Arsenal only · outfield players · min. 100 PL apps · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gaël Clichy",
+      "detail": "1 goal / 187 apps",
+      "accept": ["gael clichy", "gaël clichy", "clichy"]
+    },
+    {
+      "display": "Steve Bould",
+      "detail": "2 goals / 175 apps",
+      "accept": ["steve bould", "bould"]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "4 goals / 310 apps",
+      "accept": ["martin keown", "keown"]
+    },
+    {
+      "display": "Nigel Winterburn",
+      "detail": "4 goals / 270 apps",
+      "accept": ["nigel winterburn", "winterburn"]
+    },
+    {
+      "display": "Emmanuel Eboué",
+      "detail": "5 goals / 132 apps",
+      "accept": ["emmanuel eboue", "emmanuel eboué", "eboue", "eboué"]
+    },
+    {
+      "display": "Lauren",
+      "detail": "6 goals / 159 apps",
+      "accept": ["lauren", "lauren etame", "lauren etame mayer"]
+    },
+    {
+      "display": "Alex Song",
+      "detail": "7 goals / 138 apps",
+      "accept": ["alex song", "song"]
+    },
+    {
+      "display": "Nacho Monreal",
+      "detail": "7 goals / 187 apps",
+      "accept": ["nacho monreal", "monreal"]
+    },
+    {
+      "display": "Héctor Bellerín",
+      "detail": "8 goals / 183 apps",
+      "accept": ["hector bellerin", "héctor bellerín", "bellerin", "bellerín"]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "9 goals / 225 apps",
+      "accept": ["kolo toure", "kolo touré", "kolo"]
+    }
+  ]
+}

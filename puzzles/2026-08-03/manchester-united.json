@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-03",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 nationalities that scored the most Premier League goals for Man United",
+  "note": "PL goals by nationality · players capped by that nation while at Man United · data: 27 Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "840 goals",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "France",
+      "detail": "220 goals",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "Portugal",
+      "detail": "204 goals",
+      "accept": ["portugal", "portuguese"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "163 goals",
+      "accept": ["netherlands", "holland", "dutch"]
+    },
+    {
+      "display": "Wales",
+      "detail": "149 goals",
+      "accept": ["wales", "welsh"]
+    },
+    {
+      "display": "Norway",
+      "detail": "98 goals",
+      "accept": ["norway", "norwegian"]
+    },
+    {
+      "display": "Republic of Ireland",
+      "detail": "64 goals",
+      "accept": ["republic of ireland", "ireland", "irish", "roi"]
+    },
+    {
+      "display": "Scotland",
+      "detail": "53 goals",
+      "accept": ["scotland", "scottish"]
+    },
+    {
+      "display": "Argentina",
+      "detail": "48 goals",
+      "accept": ["argentina", "argentinian", "argentinean"]
+    },
+    {
+      "display": "Trinidad and Tobago",
+      "detail": "48 goals",
+      "accept": ["trinidad and tobago", "trinidad", "tobago", "trinidadian"]
+    }
+  ]
+}

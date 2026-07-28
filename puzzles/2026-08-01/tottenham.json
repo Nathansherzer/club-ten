@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-01",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most Premier League yellow cards for Spurs",
+  "note": "PL yellow cards for Spurs only · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Danny Rose",
+      "detail": "41 yellows",
+      "accept": ["danny rose", "rose"]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "40 yellows",
+      "accept": ["cristian romero", "romero", "cuti romero", "cuti"]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "40 yellows",
+      "accept": ["eric dier", "dier"]
+    },
+    {
+      "display": "Michael Dawson",
+      "detail": "40 yellows",
+      "accept": ["michael dawson", "dawson"]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "38 yellows",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "38 yellows",
+      "accept": ["jan vertonghen", "vertonghen"]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "36 yellows",
+      "accept": ["ben davies", "davies"]
+    },
+    {
+      "display": "Justin Edinburgh",
+      "detail": "34 yellows",
+      "accept": ["justin edinburgh", "edinburgh"]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "32 yellows",
+      "accept": ["erik lamela", "lamela"]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "32 yellows",
+      "accept": ["kyle walker", "walker"]
+    }
+  ]
+}

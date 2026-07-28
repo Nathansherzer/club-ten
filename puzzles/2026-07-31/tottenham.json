@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-31",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 goalkeepers with the most Premier League clean sheets for Spurs",
+  "note": "PL clean sheets for Spurs only · data: 27 Jul 2026",
+  "placeholder": "Type a goalkeeper's name…",
+  "answers": [
+    {
+      "display": "Hugo Lloris",
+      "detail": "127 clean sheets",
+      "accept": ["hugo lloris", "lloris"]
+    },
+    {
+      "display": "Ian Walker",
+      "detail": "62 clean sheets",
+      "accept": ["ian walker", "walker"]
+    },
+    {
+      "display": "Paul Robinson",
+      "detail": "36 clean sheets",
+      "accept": ["paul robinson", "robinson"]
+    },
+    {
+      "display": "Heurelho Gomes",
+      "detail": "31 clean sheets",
+      "accept": ["heurelho gomes", "gomes"]
+    },
+    {
+      "display": "Guglielmo Vicario",
+      "detail": "18 clean sheets",
+      "accept": ["guglielmo vicario", "vicario"]
+    },
+    {
+      "display": "Kasey Keller",
+      "detail": "15 clean sheets",
+      "accept": ["kasey keller", "keller"]
+    },
+    {
+      "display": "Neil Sullivan",
+      "detail": "15 clean sheets",
+      "accept": ["neil sullivan", "sullivan"]
+    },
+    {
+      "display": "Brad Friedel",
+      "detail": "14 clean sheets",
+      "accept": ["brad friedel", "friedel"]
+    },
+    {
+      "display": "Erik Thorstvedt",
+      "detail": "14 clean sheets",
+      "accept": ["erik thorstvedt", "thorstvedt"]
+    },
+    {
+      "display": "Espen Baardsen",
+      "detail": "8 clean sheets",
+      "accept": ["espen baardsen", "baardsen"]
+    }
+  ]
+}

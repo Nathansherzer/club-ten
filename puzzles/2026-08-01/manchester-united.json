@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-01",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most Premier League yellow cards for Man United",
+  "note": "PL yellow cards for Man United only · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Paul Scholes",
+      "detail": "99 yellows",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "82 yellows",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "62 yellows",
+      "accept": ["roy keane", "keane"]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "61 yellows",
+      "accept": ["luke shaw", "shaw"]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "53 yellows",
+      "accept": ["gary neville", "gary", "neville"]
+    },
+    {
+      "display": "Nemanja Vidić",
+      "detail": "47 yellows",
+      "accept": ["nemanja vidic", "nemanja vidić", "vidic", "vidić"]
+    },
+    {
+      "display": "Nicky Butt",
+      "detail": "45 yellows",
+      "accept": ["nicky butt", "butt"]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "44 yellows",
+      "accept": ["harry maguire", "maguire"]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "43 yellows",
+      "accept": ["david beckham", "beckham"]
+    },
+    {
+      "display": "Phil Neville",
+      "detail": "43 yellows",
+      "accept": ["phil neville", "phil"]
+    }
+  ]
+}

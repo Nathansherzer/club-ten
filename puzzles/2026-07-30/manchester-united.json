@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-30",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who made the most competitive appearances alongside Bruno Fernandes at Man United",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Fernandes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Maguire",
+      "detail": "228 apps",
+      "accept": ["harry maguire", "maguire"]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "226 apps",
+      "accept": ["diogo dalot", "dalot"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "215 apps",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "193 apps",
+      "accept": ["luke shaw", "shaw"]
+    },
+    {
+      "display": "Victor Lindelöf",
+      "detail": "178 apps",
+      "accept": ["victor lindelof", "victor lindelöf", "lindelof", "lindelöf"]
+    },
+    {
+      "display": "Scott McTominay",
+      "detail": "171 apps",
+      "accept": ["scott mctominay", "mctominay"]
+    },
+    {
+      "display": "Aaron Wan-Bissaka",
+      "detail": "156 apps",
+      "accept": ["aaron wan-bissaka", "aaron wan bissaka", "wan-bissaka", "wan bissaka"]
+    },
+    {
+      "display": "David de Gea",
+      "detail": "152 apps",
+      "accept": ["david de gea", "de gea", "degea"]
+    },
+    {
+      "display": "Fred",
+      "detail": "148 apps",
+      "accept": ["fred", "fred brasileiro"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "146 apps",
+      "accept": ["casemiro"]
+    }
+  ]
+}

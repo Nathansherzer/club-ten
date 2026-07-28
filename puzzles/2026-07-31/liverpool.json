@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-31",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 goalkeepers with the most Premier League clean sheets for Liverpool",
+  "note": "PL clean sheets for Liverpool only · data: 27 Jul 2026",
+  "placeholder": "Type a goalkeeper's name…",
+  "answers": [
+    {
+      "display": "Pepe Reina",
+      "detail": "134 clean sheets",
+      "accept": ["pepe reina", "jose reina", "reina"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "103 clean sheets",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "David James",
+      "detail": "72 clean sheets",
+      "accept": ["david james", "james"]
+    },
+    {
+      "display": "Simon Mignolet",
+      "detail": "50 clean sheets",
+      "accept": ["simon mignolet", "mignolet"]
+    },
+    {
+      "display": "Jerzy Dudek",
+      "detail": "49 clean sheets",
+      "accept": ["jerzy dudek", "dudek"]
+    },
+    {
+      "display": "Sander Westerveld",
+      "detail": "28 clean sheets",
+      "accept": ["sander westerveld", "westerveld"]
+    },
+    {
+      "display": "Loris Karius",
+      "detail": "13 clean sheets",
+      "accept": ["loris karius", "karius"]
+    },
+    {
+      "display": "Caoimhín Kelleher",
+      "detail": "8 clean sheets",
+      "accept": ["caoimhin kelleher", "caoimhín kelleher", "kelleher"]
+    },
+    {
+      "display": "Bruce Grobbelaar",
+      "detail": "8 clean sheets",
+      "accept": ["bruce grobbelaar", "grobbelaar"]
+    },
+    {
+      "display": "Brad Friedel",
+      "detail": "6 clean sheets",
+      "accept": ["brad friedel", "friedel"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-31",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 goalkeepers with the most Premier League clean sheets for Man City",
+  "note": "PL clean sheets for Man City only · data: 27 Jul 2026",
+  "placeholder": "Type a goalkeeper's name…",
+  "answers": [
+    {
+      "display": "Ederson",
+      "detail": "122 clean sheets",
+      "accept": ["ederson", "ederson moraes"]
+    },
+    {
+      "display": "Joe Hart",
+      "detail": "109 clean sheets",
+      "accept": ["joe hart", "hart"]
+    },
+    {
+      "display": "Tony Coton",
+      "detail": "26 clean sheets",
+      "accept": ["tony coton", "coton"]
+    },
+    {
+      "display": "David James",
+      "detail": "20 clean sheets",
+      "accept": ["david james", "james"]
+    },
+    {
+      "display": "Gianluigi Donnarumma",
+      "detail": "15 clean sheets",
+      "accept": ["gianluigi donnarumma", "donnarumma", "gigio donnarumma", "gigio"]
+    },
+    {
+      "display": "Nicky Weaver",
+      "detail": "15 clean sheets",
+      "accept": ["nicky weaver", "weaver"]
+    },
+    {
+      "display": "Shay Given",
+      "detail": "14 clean sheets",
+      "accept": ["shay given", "given"]
+    },
+    {
+      "display": "Peter Schmeichel",
+      "detail": "9 clean sheets",
+      "accept": ["peter schmeichel", "schmeichel"]
+    },
+    {
+      "display": "Eike Immel",
+      "detail": "8 clean sheets",
+      "accept": ["eike immel", "immel"]
+    },
+    {
+      "display": "Claudio Bravo",
+      "detail": "7 clean sheets",
+      "accept": ["claudio bravo", "bravo"]
+    }
+  ]
+}

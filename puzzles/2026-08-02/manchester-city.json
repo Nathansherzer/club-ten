@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-02",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players with the fewest PL goals among those with 100+ appearances for Man City",
+  "note": "PL goals & apps for Man City only · outfield players · min. 100 PL apps · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gaël Clichy",
+      "detail": "2 goals / 138 apps",
+      "accept": ["gael clichy", "gaël clichy", "clichy"]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "3 goals / 212 apps",
+      "accept": ["kyle walker", "walker"]
+    },
+    {
+      "display": "Sun Jihai",
+      "detail": "3 goals / 123 apps",
+      "accept": ["sun jihai", "jihai", "sun ji-hai"]
+    },
+    {
+      "display": "Sylvain Distin",
+      "detail": "5 goals / 178 apps",
+      "accept": ["sylvain distin", "distin"]
+    },
+    {
+      "display": "Nathan Aké",
+      "detail": "6 goals / 107 apps",
+      "accept": ["nathan ake", "nathan aké", "ake", "aké"]
+    },
+    {
+      "display": "Richard Dunne",
+      "detail": "7 goals / 253 apps",
+      "accept": ["richard dunne", "dunne"]
+    },
+    {
+      "display": "Micah Richards",
+      "detail": "7 goals / 179 apps",
+      "accept": ["micah richards", "richards"]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "9 goals / 230 apps",
+      "accept": ["pablo zabaleta", "zabaleta"]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "11 goals / 165 apps",
+      "accept": ["aleksandar kolarov", "kolarov"]
+    },
+    {
+      "display": "Joleon Lescott",
+      "detail": "17 goals / 107 apps",
+      "accept": ["joleon lescott", "lescott"]
+    }
+  ]
+}

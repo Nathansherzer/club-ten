@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-02",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players with the fewest PL goals among those with 100+ appearances for Chelsea",
+  "note": "PL goals & apps for Chelsea only · outfield players · min. 100 PL apps · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Obi Mikel",
+      "detail": "1 goal / 249 apps",
+      "accept": ["john obi mikel", "obi mikel", "mikel"]
+    },
+    {
+      "display": "Erland Johnsen",
+      "detail": "1 goal / 114 apps",
+      "accept": ["erland johnsen", "johnsen"]
+    },
+    {
+      "display": "Paulo Ferreira",
+      "detail": "2 goals / 141 apps",
+      "accept": ["paulo ferreira", "ferreira"]
+    },
+    {
+      "display": "Claude Makélélé",
+      "detail": "2 goals / 144 apps",
+      "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé"]
+    },
+    {
+      "display": "Celestine Babayaro",
+      "detail": "5 goals / 132 apps",
+      "accept": ["celestine babayaro", "babayaro"]
+    },
+    {
+      "display": "Frank Sinclair",
+      "detail": "6 goals / 157 apps",
+      "accept": ["frank sinclair", "sinclair"]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "7 goals / 229 apps",
+      "accept": ["ashley cole", "cole"]
+    },
+    {
+      "display": "Eddie Newton",
+      "detail": "7 goals / 164 apps",
+      "accept": ["eddie newton", "newton"]
+    },
+    {
+      "display": "Craig Burley",
+      "detail": "7 goals / 104 apps",
+      "accept": ["craig burley", "burley"]
+    },
+    {
+      "display": "Ricardo Carvalho",
+      "detail": "7 goals / 135 apps",
+      "accept": ["ricardo carvalho", "carvalho"]
+    }
+  ]
+}

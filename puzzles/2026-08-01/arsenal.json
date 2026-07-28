@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-01",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most Premier League yellow cards for Arsenal",
+  "note": "PL yellow cards for Arsenal only · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Patrick Vieira",
+      "detail": "72 yellows",
+      "accept": ["patrick vieira", "vieira"]
+    },
+    {
+      "display": "Granit Xhaka",
+      "detail": "56 yellows",
+      "accept": ["granit xhaka", "xhaka"]
+    },
+    {
+      "display": "Ray Parlour",
+      "detail": "49 yellows",
+      "accept": ["ray parlour", "parlour"]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "48 yellows",
+      "accept": ["martin keown", "keown"]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "44 yellows",
+      "accept": ["ian wright", "wright"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "42 yellows",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "40 yellows",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Nigel Winterburn",
+      "detail": "39 yellows",
+      "accept": ["nigel winterburn", "winterburn"]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "37 yellows",
+      "accept": ["laurent koscielny", "koscielny"]
+    },
+    {
+      "display": "Alex Song",
+      "detail": "37 yellows",
+      "accept": ["alex song", "song"]
+    }
+  ]
+}

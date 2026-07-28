@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-02",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players with the fewest PL goals among those with 100+ appearances for Spurs",
+  "note": "PL goals & apps for Spurs only · outfield players · min. 100 PL apps · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Justin Edinburgh",
+      "detail": "0 goals / 174 apps",
+      "accept": ["justin edinburgh", "edinburgh"]
+    },
+    {
+      "display": "Davinson Sánchez",
+      "detail": "3 goals / 143 apps",
+      "accept": ["davinson sanchez", "davinson sánchez", "sanchez", "sánchez"]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "4 goals / 183 apps",
+      "accept": ["kyle walker", "walker"]
+    },
+    {
+      "display": "Benoît Assou-Ekotto",
+      "detail": "4 goals / 155 apps",
+      "accept": ["benoit assou-ekotto", "benoît assou-ekotto", "assou-ekotto", "assou ekotto"]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "6 goals / 232 apps",
+      "accept": ["jan vertonghen", "vertonghen"]
+    },
+    {
+      "display": "Younès Kaboul",
+      "detail": "6 goals / 111 apps",
+      "accept": ["younes kaboul", "younès kaboul", "kaboul"]
+    },
+    {
+      "display": "Michael Dawson",
+      "detail": "7 goals / 236 apps",
+      "accept": ["michael dawson", "dawson"]
+    },
+    {
+      "display": "Stephen Carr",
+      "detail": "7 goals / 226 apps",
+      "accept": ["stephen carr", "carr"]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "7 goals / 242 apps",
+      "accept": ["ben davies", "davies"]
+    },
+    {
+      "display": "Danny Rose",
+      "detail": "8 goals / 156 apps",
+      "accept": ["danny rose", "rose"]
+    }
+  ]
+}

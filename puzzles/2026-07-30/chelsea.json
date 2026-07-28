@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-30",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who made the most competitive appearances alongside Eden Hazard at Chelsea",
+  "note": "all competitions · through 2018–19 · sorted by appearances alongside Hazard",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "César Azpilicueta",
+      "detail": "292 apps",
+      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+    },
+    {
+      "display": "Gary Cahill",
+      "detail": "239 apps",
+      "accept": ["gary cahill", "cahill"]
+    },
+    {
+      "display": "Willian",
+      "detail": "215 apps",
+      "accept": ["willian"]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "190 apps",
+      "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "176 apps",
+      "accept": ["david luiz", "luiz"]
+    },
+    {
+      "display": "Oscar",
+      "detail": "165 apps",
+      "accept": ["oscar"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "161 apps",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"]
+    },
+    {
+      "display": "John Terry",
+      "detail": "149 apps",
+      "accept": ["john terry", "terry"]
+    },
+    {
+      "display": "Thibaut Courtois",
+      "detail": "140 apps",
+      "accept": ["thibaut courtois", "courtois"]
+    },
+    {
+      "display": "Pedro",
+      "detail": "123 apps",
+      "accept": ["pedro"]
+    }
+  ]
+}

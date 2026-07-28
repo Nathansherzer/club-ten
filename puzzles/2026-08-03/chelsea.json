@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-03",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 nationalities that scored the most Premier League goals for Chelsea",
+  "note": "PL goals by nationality · players capped by that nation while at Chelsea · data: 27 Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "548 goals",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "Spain",
+      "detail": "192 goals",
+      "accept": ["spain", "spanish"]
+    },
+    {
+      "display": "France",
+      "detail": "170 goals",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "Ivory Coast",
+      "detail": "140 goals",
+      "accept": ["ivory coast", "cote d'ivoire", "côte d'ivoire", "ivorian"]
+    },
+    {
+      "display": "Italy",
+      "detail": "104 goals",
+      "accept": ["italy", "italian"]
+    },
+    {
+      "display": "Belgium",
+      "detail": "101 goals",
+      "accept": ["belgium", "belgian"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "101 goals",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "96 goals",
+      "accept": ["netherlands", "holland", "dutch"]
+    },
+    {
+      "display": "Iceland",
+      "detail": "54 goals",
+      "accept": ["iceland", "icelandic"]
+    },
+    {
+      "display": "Argentina",
+      "detail": "40 goals",
+      "accept": ["argentina", "argentinian", "argentinean"]
+    }
+  ]
+}

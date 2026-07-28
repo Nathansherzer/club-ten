@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-03",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 nationalities that scored the most Premier League goals for Arsenal",
+  "note": "PL goals by nationality · players capped by that nation while at Arsenal · data: 27 Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "France",
+      "detail": "553 goals",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "England",
+      "detail": "497 goals",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "212 goals",
+      "accept": ["netherlands", "holland", "dutch"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "124 goals",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "Spain",
+      "detail": "123 goals",
+      "accept": ["spain", "spanish"]
+    },
+    {
+      "display": "Germany",
+      "detail": "84 goals",
+      "accept": ["germany", "german"]
+    },
+    {
+      "display": "Gabon",
+      "detail": "68 goals",
+      "accept": ["gabon", "gabonese"]
+    },
+    {
+      "display": "Sweden",
+      "detail": "60 goals",
+      "accept": ["sweden", "swedish"]
+    },
+    {
+      "display": "Chile",
+      "detail": "53 goals",
+      "accept": ["chile", "chilean"]
+    },
+    {
+      "display": "Togo",
+      "detail": "46 goals",
+      "accept": ["togo", "togolese"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-30",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who made the most competitive appearances alongside Virgil van Dijk at Liverpool",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Van Dijk",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "334 apps",
+      "accept": ["mohamed salah", "mo salah", "salah"]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "299 apps",
+      "accept": ["andy robertson", "robertson"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "272 apps",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "266 apps",
+      "accept": ["trent alexander-arnold", "trent alexander arnold", "trent", "alexander-arnold", "alexander arnold", "taa"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "199 apps",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "Cody Gakpo",
+      "detail": "198 apps",
+      "accept": ["cody gakpo", "gakpo"]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "188 apps",
+      "accept": ["joe gomez", "gomez"]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "182 apps",
+      "accept": ["jordan henderson", "henderson"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "182 apps",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Curtis Jones",
+      "detail": "169 apps",
+      "accept": ["curtis jones", "jones", "curtis"]
+    }
+  ]
+}

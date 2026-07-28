@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-01",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most Premier League yellow cards for Liverpool",
+  "note": "PL yellow cards for Liverpool only · data: 27 Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jamie Carragher",
+      "detail": "70 yellows",
+      "accept": ["jamie carragher", "carragher"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "61 yellows",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "52 yellows",
+      "accept": ["lucas leiva", "leiva", "lucas"]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "45 yellows",
+      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+    },
+    {
+      "display": "James Milner",
+      "detail": "37 yellows",
+      "accept": ["james milner", "milner"]
+    },
+    {
+      "display": "Fabinho",
+      "detail": "36 yellows",
+      "accept": ["fabinho"]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "36 yellows",
+      "accept": ["jordan henderson", "henderson"]
+    },
+    {
+      "display": "Dietmar Hamann",
+      "detail": "33 yellows",
+      "accept": ["dietmar hamann", "hamann", "didi hamann"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "31 yellows",
+      "accept": ["trent alexander-arnold", "trent alexander arnold", "alexander-arnold", "trent", "taa"]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "30 yellows",
+      "accept": ["joe gomez", "gomez"]
+    }
+  ]
+}

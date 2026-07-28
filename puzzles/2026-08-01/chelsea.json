@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-01",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most Premier League yellow cards for Chelsea",
+  "note": "PL yellow cards for Chelsea only · data: 27 Jul 2026 · Cole & Leboeuf also on 34",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Terry",
+      "detail": "75 yellows",
+      "accept": ["john terry", "terry"]
+    },
+    {
+      "display": "Dennis Wise",
+      "detail": "64 yellows",
+      "accept": ["dennis wise", "wise"]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "57 yellows",
+      "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "46 yellows",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "40 yellows",
+      "accept": ["john obi mikel", "obi mikel", "mikel"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "40 yellows",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Frank Sinclair",
+      "detail": "38 yellows",
+      "accept": ["frank sinclair", "sinclair"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "35 yellows",
+      "accept": ["david luiz", "luiz"]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "34 yellows",
+      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+    },
+    {
+      "display": "Ramires",
+      "detail": "34 yellows",
+      "accept": ["ramires"]
+    }
+  ]
+}
