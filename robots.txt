@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://www.topclubten.com/sitemap.xml
+Sitemap: https://topclubten.com/sitemap.xml
