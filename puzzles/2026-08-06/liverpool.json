@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-06",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool players who hit the woodwork most in Premier League matches",
+  "note": "PL only · since 2006/07 · ties broken by club PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "27 woodwork hits",
+      "accept": ["mohamed salah", "salah", "mo salah"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "26 woodwork hits",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "26 woodwork hits",
+      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "15 woodwork hits",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "15 woodwork hits",
+      "accept": ["fernando torres", "torres"]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "14 woodwork hits",
+      "accept": ["daniel sturridge", "sturridge"]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "14 woodwork hits",
+      "accept": ["darwin nunez", "darwin núñez", "nunez", "núñez"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "13 woodwork hits",
+      "accept": ["roberto firmino", "firmino"]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "13 woodwork hits",
+      "accept": ["dirk kuyt", "kuyt"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "12 woodwork hits",
+      "accept": ["trent alexander-arnold", "alexander-arnold", "trent", "taa"]
+    }
+  ]
+}

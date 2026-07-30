@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-06",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players who hit the woodwork most in Premier League matches",
+  "note": "PL only · since 2006/07 · ties broken by club PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "36 woodwork hits",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "31 woodwork hits",
+      "accept": ["son heung-min", "son heung min", "son", "heung-min"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "18 woodwork hits",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "18 woodwork hits",
+      "accept": ["gareth bale", "bale"]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "15 woodwork hits",
+      "accept": ["jermain defoe", "defoe"]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "10 woodwork hits",
+      "accept": ["erik lamela", "lamela"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "8 woodwork hits",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "6 woodwork hits",
+      "accept": ["aaron lennon", "lennon"]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "6 woodwork hits",
+      "accept": ["pedro porro", "porro"]
+    },
+    {
+      "display": "Brennan Johnson",
+      "detail": "6 woodwork hits",
+      "accept": ["brennan johnson", "johnson"]
+    }
+  ]
+}

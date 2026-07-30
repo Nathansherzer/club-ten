@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-06",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United players who hit the woodwork most in Premier League matches",
+  "note": "PL only · since 2006/07 · ties broken by club PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail": "28 woodwork hits",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "25 woodwork hits",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "16 woodwork hits",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "16 woodwork hits",
+      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "14 woodwork hits",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "11 woodwork hits",
+      "accept": ["paul pogba", "pogba"]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "10 woodwork hits",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "8 woodwork hits",
+      "accept": ["diogo dalot", "dalot"]
+    },
+    {
+      "display": "Nani",
+      "detail": "8 woodwork hits",
+      "accept": ["nani"]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "6 woodwork hits",
+      "accept": ["juan mata", "mata"]
+    }
+  ]
+}

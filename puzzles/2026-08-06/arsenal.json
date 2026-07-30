@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-06",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players who hit the woodwork most in Premier League matches",
+  "note": "PL only · since 2006/07 · ties broken by club PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Robin van Persie",
+      "detail": "30 woodwork hits",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "17 woodwork hits",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "15 woodwork hits",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "13 woodwork hits",
+      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "12 woodwork hits",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "12 woodwork hits",
+      "accept": ["pierre-emerick aubameyang", "aubameyang", "auba"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "11 woodwork hits",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas", "cesc"]
+    },
+    {
+      "display": "Eddie Nketiah",
+      "detail": "11 woodwork hits",
+      "accept": ["eddie nketiah", "nketiah"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "9 woodwork hits",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "9 woodwork hits",
+      "accept": ["leandro trossard", "trossard"]
+    }
+  ]
+}

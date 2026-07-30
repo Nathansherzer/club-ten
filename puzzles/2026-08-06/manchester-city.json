@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-06",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players who hit the woodwork most in Premier League matches",
+  "note": "PL only · since 2006/07 · ties broken by club PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sergio Agüero",
+      "detail": "34 woodwork hits",
+      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun agüero"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "33 woodwork hits",
+      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "17 woodwork hits",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "17 woodwork hits",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "16 woodwork hits",
+      "accept": ["david silva", "david"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "11 woodwork hits",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "11 woodwork hits",
+      "accept": ["ilkay gundogan", "ilkay gündogan", "gundogan", "gündogan"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "10 woodwork hits",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "10 woodwork hits",
+      "accept": ["riyad mahrez", "mahrez"]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "8 woodwork hits",
+      "accept": ["bernardo silva", "bernardo"]
+    }
+  ]
+}
