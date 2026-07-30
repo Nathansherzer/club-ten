@@ -32,6 +32,7 @@ const STATIC = [
   { loc: "/manchester-city-football-quiz", changefreq: "monthly", priority: "0.8" },
   { loc: "/manchester-united-football-quiz", changefreq: "monthly", priority: "0.8" },
   { loc: "/tottenham-football-quiz",       changefreq: "monthly", priority: "0.8" },
+  { loc: "/football-top-10-quiz",           changefreq: "monthly", priority: "0.8" },
   { loc: "/how-to-play",                   changefreq: "monthly", priority: "0.5" },
 ];
 
