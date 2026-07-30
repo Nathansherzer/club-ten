@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-04",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players who made the most Premier League appearances as a substitute",
+  "note": "PL only · sub appearances only · ranked by sub apps",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Phil Foden",
+      "detail": "74 sub apps",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "61 sub apps",
+      "accept": ["bernardo silva", "bernardo"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "60 sub apps",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "58 sub apps",
+      "accept": ["ilkay gundogan", "ilkay gündogan", "gundogan", "gündogan"]
+    },
+    {
+      "display": "James Milner",
+      "detail": "58 sub apps",
+      "accept": ["james milner", "milner"]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "56 sub apps",
+      "accept": ["edin dzeko", "edin džeko", "dzeko", "džeko"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "50 sub apps",
+      "accept": ["riyad mahrez", "mahrez"]
+    },
+    {
+      "display": "Jesús Navas",
+      "detail": "46 sub apps",
+      "accept": ["jesus navas", "jesús navas", "navas"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "41 sub apps",
+      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "40 sub apps",
+      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun agüero"]
+    }
+  ]
+}

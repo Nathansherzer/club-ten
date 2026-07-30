@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-04",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool players who made the most Premier League appearances as a substitute",
+  "note": "PL only · sub appearances only · ranked by sub apps",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "James Milner",
+      "detail": "95 sub apps",
+      "accept": ["james milner", "milner"]
+    },
+    {
+      "display": "Divock Origi",
+      "detail": "73 sub apps",
+      "accept": ["divock origi", "origi"]
+    },
+    {
+      "display": "Curtis Jones",
+      "detail": "66 sub apps",
+      "accept": ["curtis jones", "jones", "curtis"]
+    },
+    {
+      "display": "Ryan Babel",
+      "detail": "60 sub apps",
+      "accept": ["ryan babel", "babel"]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "59 sub apps",
+      "accept": ["jordan henderson", "henderson"]
+    },
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "57 sub apps",
+      "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "oxlade chamberlain", "alex oxlade chamberlain"]
+    },
+    {
+      "display": "Harvey Elliott",
+      "detail": "57 sub apps",
+      "accept": ["harvey elliott", "elliott"]
+    },
+    {
+      "display": "Danny Murphy",
+      "detail": "56 sub apps",
+      "accept": ["danny murphy", "murphy"]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "55 sub apps",
+      "accept": ["joe gomez", "gomez"]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "53 sub apps",
+      "accept": ["lucas leiva", "leiva", "lucas"]
+    }
+  ]
+}

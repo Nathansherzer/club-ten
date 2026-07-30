@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-04",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players who made the most Premier League appearances as a substitute",
+  "note": "PL only · sub appearances only · ranked by sub apps",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Theo Walcott",
+      "detail": "100 sub apps",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "81 sub apps",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Eddie Nketiah",
+      "detail": "78 sub apps",
+      "accept": ["eddie nketiah", "nketiah"]
+    },
+    {
+      "display": "Nicklas Bendtner",
+      "detail": "67 sub apps",
+      "accept": ["nicklas bendtner", "bendtner"]
+    },
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "64 sub apps",
+      "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "oxlade chamberlain", "alex oxlade chamberlain"]
+    },
+    {
+      "display": "Tomáš Rosický",
+      "detail": "63 sub apps",
+      "accept": ["tomas rosicky", "tomáš rosický", "rosicky", "rosický"]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "62 sub apps",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "62 sub apps",
+      "accept": ["gabriel martinelli", "martinelli"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "61 sub apps",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Mathieu Flamini",
+      "detail": "56 sub apps",
+      "accept": ["mathieu flamini", "flamini"]
+    }
+  ]
+}

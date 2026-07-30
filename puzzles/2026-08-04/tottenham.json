@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-04",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players who made the most Premier League appearances as a substitute",
+  "note": "PL only · sub appearances only · ranked by sub apps",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jermain Defoe",
+      "detail": "94 sub apps",
+      "accept": ["jermain defoe", "defoe"]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "82 sub apps",
+      "accept": ["erik lamela", "lamela"]
+    },
+    {
+      "display": "Lucas Moura",
+      "detail": "67 sub apps",
+      "accept": ["lucas moura", "moura"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "57 sub apps",
+      "accept": ["son heung-min", "son heung min", "son", "heung-min"]
+    },
+    {
+      "display": "Harry Winks",
+      "detail": "55 sub apps",
+      "accept": ["harry winks", "winks"]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "49 sub apps",
+      "accept": ["robbie keane", "keane"]
+    },
+    {
+      "display": "Moussa Sissoko",
+      "detail": "48 sub apps",
+      "accept": ["moussa sissoko", "sissoko"]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "48 sub apps",
+      "accept": ["richarlison"]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "46 sub apps",
+      "accept": ["aaron lennon", "lennon"]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "46 sub apps",
+      "accept": ["ben davies", "davies"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-04",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players who made the most Premier League appearances as a substitute",
+  "note": "PL only · sub appearances only · ranked by sub apps",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Didier Drogba",
+      "detail": "67 sub apps",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "66 sub apps",
+      "accept": ["john obi mikel", "obi mikel", "mikel", "john mikel obi"]
+    },
+    {
+      "display": "Willian",
+      "detail": "66 sub apps",
+      "accept": ["willian"]
+    },
+    {
+      "display": "Salomon Kalou",
+      "detail": "62 sub apps",
+      "accept": ["salomon kalou", "kalou"]
+    },
+    {
+      "display": "Joe Cole",
+      "detail": "61 sub apps",
+      "accept": ["joe cole", "cole"]
+    },
+    {
+      "display": "Eidur Gudjohnsen",
+      "detail": "60 sub apps",
+      "accept": ["eidur gudjohnsen", "gudjohnsen"]
+    },
+    {
+      "display": "Ruben Loftus-Cheek",
+      "detail": "56 sub apps",
+      "accept": ["ruben loftus-cheek", "loftus-cheek", "loftus cheek", "ruben loftus cheek"]
+    },
+    {
+      "display": "Tore André Flo",
+      "detail": "53 sub apps",
+      "accept": ["tore andre flo", "tore andré flo", "flo"]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "44 sub apps",
+      "accept": ["gianfranco zola", "zola"]
+    },
+    {
+      "display": "Mateo Kovačić",
+      "detail": "44 sub apps",
+      "accept": ["mateo kovacic", "kovacic", "mateo kovačić", "kovačić"]
+    }
+  ]
+}
