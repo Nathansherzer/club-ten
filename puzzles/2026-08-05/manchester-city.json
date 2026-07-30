@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-05",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players with the most Premier League goal contributions",
+  "note": "PL only · goals + assists combined · ranked by total contributions",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sergio Agüero",
+      "detail": "231 contributions",
+      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun agüero"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "188 contributions",
+      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "149 contributions",
+      "accept": ["david silva", "david"]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "136 contributions",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "132 contributions",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "102 contributions",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "94 contributions",
+      "accept": ["bernardo silva", "bernardo"]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "91 contributions",
+      "accept": ["yaya toure", "yaya touré", "toure", "touré", "yaya"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "87 contributions",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Carlos Tevez",
+      "detail": "82 contributions",
+      "accept": ["carlos tevez", "tevez"]
+    }
+  ]
+}

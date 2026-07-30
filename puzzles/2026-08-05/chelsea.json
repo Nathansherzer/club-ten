@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-05",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players with the most Premier League goal contributions",
+  "note": "PL only · goals + assists combined · ranked by total contributions",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "236 contributions",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "158 contributions",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "136 contributions",
+      "accept": ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "101 contributions",
+      "accept": ["gianfranco zola", "zola"]
+    },
+    {
+      "display": "Jimmy Floyd Hasselbaink",
+      "detail": "96 contributions",
+      "accept": ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink"]
+    },
+    {
+      "display": "Eidur Gudjohnsen",
+      "detail": "81 contributions",
+      "accept": ["eidur gudjohnsen", "gudjohnsen"]
+    },
+    {
+      "display": "Dennis Wise",
+      "detail": "72 contributions",
+      "accept": ["dennis wise", "wise"]
+    },
+    {
+      "display": "Willian",
+      "detail": "70 contributions",
+      "accept": ["willian"]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "68 contributions",
+      "accept": ["diego costa", "costa"]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "67 contributions",
+      "accept": ["cole palmer", "palmer"]
+    }
+  ]
+}

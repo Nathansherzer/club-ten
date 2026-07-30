@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-05",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players with the most Premier League goal contributions",
+  "note": "PL only · goals + assists combined · ranked by total contributions",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "260 contributions",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "198 contributions",
+      "accept": ["son heung-min", "son heung min", "son", "heung-min"]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "141 contributions",
+      "accept": ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "113 contributions",
+      "accept": ["robbie keane", "keane"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "110 contributions",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "110 contributions",
+      "accept": ["jermain defoe", "defoe"]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail": "100 contributions",
+      "accept": ["darren anderton", "anderton"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "85 contributions",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "75 contributions",
+      "accept": ["gareth bale", "bale"]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "71 contributions",
+      "accept": ["aaron lennon", "lennon"]
+    }
+  ]
+}

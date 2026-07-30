@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-05",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United players with the most Premier League goal contributions",
+  "note": "PL only · goals + assists combined · ranked by total contributions",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail": "273 contributions",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "272 contributions",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "161 contributions",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "143 contributions",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "142 contributions",
+      "accept": ["david beckham", "beckham"]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "140 contributions",
+      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "128 contributions",
+      "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær", "ole gunnar"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "127 contributions",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "126 contributions",
+      "accept": ["andy cole", "andrew cole", "cole"]
+    },
+    {
+      "display": "Eric Cantona",
+      "detail": "115 contributions",
+      "accept": ["eric cantona", "cantona"]
+    }
+  ]
+}

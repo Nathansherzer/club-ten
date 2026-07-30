@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-05",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool players with the most Premier League goal contributions",
+  "note": "PL only · goals + assists combined · ranked by total contributions",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "284 contributions",
+      "accept": ["mohamed salah", "salah", "mo salah"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "210 contributions",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "158 contributions",
+      "accept": ["robbie fowler", "fowler"]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "148 contributions",
+      "accept": ["michael owen", "owen"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "132 contributions",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "120 contributions",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "Steve McManaman",
+      "detail": "99 contributions",
+      "accept": ["steve mcmanaman", "mcmanaman"]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "91 contributions",
+      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "82 contributions",
+      "accept": ["trent alexander-arnold", "alexander-arnold", "trent", "taa"]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "78 contributions",
+      "accept": ["dirk kuyt", "kuyt"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-05",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players with the most Premier League goal contributions",
+  "note": "PL only · goals + assists combined · ranked by total contributions",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail": "249 contributions",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "181 contributions",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "135 contributions",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "123 contributions",
+      "accept": ["ian wright", "wright"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "110 contributions",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "107 contributions",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "105 contributions",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas", "cesc"]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "103 contributions",
+      "accept": ["robert pires", "robert pirès", "pires", "pirès"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "95 contributions",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "86 contributions",
+      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez"]
+    }
+  ]
+}
