@@ -442,6 +442,22 @@ button.share:active { transform: scale(0.97); }
 }
 .whatsapp-btn:hover { opacity: 0.85; }
 
+.notify-btn {
+  display: none;
+  margin-top: 10px;
+  padding: 10px 22px;
+  background: transparent;
+  border: 2px solid var(--slot-border);
+  border-radius: 9px;
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+  transition: border-color 0.15s, color 0.15s;
+}
+.notify-btn:hover { border-color: var(--green); color: var(--text); }
+
 #scoreChart { margin: 14px 0 4px; text-align: left; }
 .sc-title { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 6px; }
 .sc-row { display: flex; align-items: center; gap: 6px; margin-bottom: 3px; }
