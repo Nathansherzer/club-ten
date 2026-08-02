@@ -40,7 +40,7 @@
     {
       "display": "John Obi Mikel",
       "detail": "149 wins",
-      "accept": ["john obi mikel", "obi mikel", "mikel"]
+      "accept": ["john obi mikel", "mikel john obi", "obi mikel", "mikel", "obi"]
     },
     {
       "display": "Eden Hazard",

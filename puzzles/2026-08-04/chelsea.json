@@ -15,7 +15,7 @@
     {
       "display": "John Obi Mikel",
       "detail": "66 sub apps",
-      "accept": ["john obi mikel", "obi mikel", "mikel", "john mikel obi"]
+      "accept": ["john obi mikel", "mikel john obi", "obi mikel", "mikel", "obi", "john mikel obi"]
     },
     {
       "display": "Willian",

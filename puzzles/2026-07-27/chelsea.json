@@ -40,7 +40,7 @@
     {
       "display": "John Obi Mikel",
       "detail": "59 apps",
-      "accept": ["john obi mikel", "obi mikel", "mikel"]
+      "accept": ["john obi mikel", "mikel john obi", "obi mikel", "mikel", "obi"]
     },
     {
       "display": "Branislav Ivanović",
