@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-07",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 nationalities whose players made the most combined Premier League appearances for Man United",
+  "note": "PL apps by nationality · player's senior international cap used · data: Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "6,356 apps",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "France",
+      "detail": "1,458 apps",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "Republic of Ireland",
+      "detail": "920 apps",
+      "accept": ["republic of ireland", "ireland", "irish", "roi"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "902 apps",
+      "accept": ["netherlands", "holland", "dutch"]
+    },
+    {
+      "display": "Wales",
+      "detail": "819 apps",
+      "accept": ["wales", "welsh"]
+    },
+    {
+      "display": "Portugal",
+      "detail": "787 apps",
+      "accept": ["portugal", "portuguese"]
+    },
+    {
+      "display": "Spain",
+      "detail": "767 apps",
+      "accept": ["spain", "spanish"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "676 apps",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "Scotland",
+      "detail": "602 apps",
+      "accept": ["scotland", "scottish"]
+    },
+    {
+      "display": "Denmark",
+      "detail": "451 apps",
+      "accept": ["denmark", "danish"]
+    }
+  ]
+}

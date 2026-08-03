@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-07",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 nationalities whose players made the most combined Premier League appearances for Chelsea",
+  "note": "PL apps by nationality · player's senior international cap used · data: Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "4,941 apps",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "France",
+      "detail": "1,735 apps",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "Spain",
+      "detail": "1,582 apps",
+      "accept": ["spain", "spanish"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "1,079 apps",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "Italy",
+      "detail": "862 apps",
+      "accept": ["italy", "italian"]
+    },
+    {
+      "display": "Portugal",
+      "detail": "621 apps",
+      "accept": ["portugal", "portuguese"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "619 apps",
+      "accept": ["netherlands", "holland", "dutch"]
+    },
+    {
+      "display": "Belgium",
+      "detail": "490 apps",
+      "accept": ["belgium", "belgian"]
+    },
+    {
+      "display": "Scotland",
+      "detail": "485 apps",
+      "accept": ["scotland", "scottish"]
+    },
+    {
+      "display": "Germany",
+      "detail": "477 apps",
+      "accept": ["germany", "german"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-07",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 nationalities whose players made the most combined Premier League appearances for Liverpool",
+  "note": "PL apps by nationality · player's senior international cap used · data: Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "6,515 apps",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "1,152 apps",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "1,133 apps",
+      "accept": ["netherlands", "holland", "dutch"]
+    },
+    {
+      "display": "Spain",
+      "detail": "1,112 apps",
+      "accept": ["spain", "spanish"]
+    },
+    {
+      "display": "Scotland",
+      "detail": "599 apps",
+      "accept": ["scotland", "scottish"]
+    },
+    {
+      "display": "Republic of Ireland",
+      "detail": "519 apps",
+      "accept": ["republic of ireland", "ireland", "irish", "roi"]
+    },
+    {
+      "display": "Norway",
+      "detail": "509 apps",
+      "accept": ["norway", "norwegian"]
+    },
+    {
+      "display": "Germany",
+      "detail": "486 apps",
+      "accept": ["germany", "german"]
+    },
+    {
+      "display": "France",
+      "detail": "456 apps",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "Finland",
+      "detail": "344 apps",
+      "accept": ["finland", "finnish"]
+    }
+  ]
+}

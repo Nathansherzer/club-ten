@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-07",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 nationalities whose players made the most combined Premier League appearances for Spurs",
+  "note": "PL apps by nationality · player's senior international cap used · data: Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "7,431 apps",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "France",
+      "detail": "1,199 apps",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "Wales",
+      "detail": "687 apps",
+      "accept": ["wales", "welsh"]
+    },
+    {
+      "display": "Belgium",
+      "detail": "677 apps",
+      "accept": ["belgium", "belgian"]
+    },
+    {
+      "display": "Republic of Ireland",
+      "detail": "648 apps",
+      "accept": ["republic of ireland", "ireland", "irish", "roi"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "574 apps",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "Argentina",
+      "detail": "573 apps",
+      "accept": ["argentina", "argentinian", "argentinean"]
+    },
+    {
+      "display": "Denmark",
+      "detail": "468 apps",
+      "accept": ["denmark", "danish"]
+    },
+    {
+      "display": "South Korea",
+      "detail": "403 apps",
+      "accept": ["south korea", "korea", "korean"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "343 apps",
+      "accept": ["netherlands", "holland", "dutch"]
+    }
+  ]
+}

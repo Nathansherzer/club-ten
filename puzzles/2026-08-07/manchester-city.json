@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-07",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 nationalities whose players made the most combined Premier League appearances for Man City",
+  "note": "PL apps by nationality · player's senior international cap used · data: Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "4,730 apps",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "Spain",
+      "detail": "1,032 apps",
+      "accept": ["spain", "spanish"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "1,015 apps",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "France",
+      "detail": "931 apps",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "Argentina",
+      "detail": "922 apps",
+      "accept": ["argentina", "argentinian", "argentinean"]
+    },
+    {
+      "display": "Republic of Ireland",
+      "detail": "801 apps",
+      "accept": ["republic of ireland", "ireland", "irish", "roi"]
+    },
+    {
+      "display": "Belgium",
+      "detail": "681 apps",
+      "accept": ["belgium", "belgian"]
+    },
+    {
+      "display": "Portugal",
+      "detail": "649 apps",
+      "accept": ["portugal", "portuguese"]
+    },
+    {
+      "display": "Germany",
+      "detail": "595 apps",
+      "accept": ["germany", "german"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "465 apps",
+      "accept": ["netherlands", "holland", "dutch"]
+    }
+  ]
+}

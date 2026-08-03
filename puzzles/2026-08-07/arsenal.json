@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-07",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 nationalities whose players made the most combined Premier League appearances for Arsenal",
+  "note": "PL apps by nationality · player's senior international cap used · data: Jul 2026",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    {
+      "display": "England",
+      "detail": "5,480 apps",
+      "accept": ["england", "english"]
+    },
+    {
+      "display": "France",
+      "detail": "3,065 apps",
+      "accept": ["france", "french"]
+    },
+    {
+      "display": "Spain",
+      "detail": "1,304 apps",
+      "accept": ["spain", "spanish"]
+    },
+    {
+      "display": "Brazil",
+      "detail": "1,039 apps",
+      "accept": ["brazil", "brasil", "brazilian"]
+    },
+    {
+      "display": "Germany",
+      "detail": "843 apps",
+      "accept": ["germany", "german"]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "751 apps",
+      "accept": ["netherlands", "holland", "dutch"]
+    },
+    {
+      "display": "Ivory Coast",
+      "detail": "483 apps",
+      "accept": ["ivory coast", "côte d'ivoire", "cote d'ivoire", "cote divoire"]
+    },
+    {
+      "display": "Switzerland",
+      "detail": "389 apps",
+      "accept": ["switzerland", "swiss"]
+    },
+    {
+      "display": "Sweden",
+      "detail": "328 apps",
+      "accept": ["sweden", "swedish"]
+    },
+    {
+      "display": "Wales",
+      "detail": "315 apps",
+      "accept": ["wales", "welsh"]
+    }
+  ]
+}
