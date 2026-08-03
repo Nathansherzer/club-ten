@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-10",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players who recorded the most official Fantasy Premier League points in 2025/26",
+  "note": "Official FPL points 2025/26 · Man City players only · ties broken by PL minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "239 pts",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "202 pts",
+      "accept": ["antoine semenyo", "semenyo"]
+    },
+    {
+      "display": "Marc Guehi",
+      "detail": "179 pts",
+      "accept": ["marc guehi", "guehi"]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "160 pts",
+      "accept": ["nico o'reilly", "nico oreilly", "o'reilly", "oreilly"]
+    },
+    {
+      "display": "Matheus Nunes",
+      "detail": "154 pts",
+      "accept": ["matheus nunes", "nunes"]
+    },
+    {
+      "display": "Gianluigi Donnarumma",
+      "detail": "135 pts",
+      "accept": ["gianluigi donnarumma", "donnarumma", "gianluigi"]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "135 pts",
+      "accept": ["rayan cherki", "cherki"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "131 pts",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Jeremy Doku",
+      "detail": "120 pts",
+      "accept": ["jeremy doku", "doku"]
+    },
+    {
+      "display": "Ruben Dias",
+      "detail": "113 pts",
+      "accept": ["ruben dias", "dias"]
+    }
+  ]
+}

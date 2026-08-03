@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-10",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United players who recorded the most official Fantasy Premier League points in 2025/26",
+  "note": "Official FPL points 2025/26 · Man United players only · ties broken by PL minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "235 pts",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "165 pts",
+      "accept": ["casemiro"]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "148 pts",
+      "accept": ["bryan mbeumo", "mbeumo"]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "143 pts",
+      "accept": ["matheus cunha", "cunha"]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "113 pts",
+      "accept": ["luke shaw", "shaw"]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "111 pts",
+      "accept": ["diogo dalot", "dalot"]
+    },
+    {
+      "display": "Benjamin Sesko",
+      "detail": "111 pts",
+      "accept": ["benjamin sesko", "sesko"]
+    },
+    {
+      "display": "Senne Lammens",
+      "detail": "109 pts",
+      "accept": ["senne lammens", "lammens"]
+    },
+    {
+      "display": "Patrick Dorgu",
+      "detail": "95 pts",
+      "accept": ["patrick dorgu", "dorgu"]
+    },
+    {
+      "display": "Amad Diallo",
+      "detail": "91 pts",
+      "accept": ["amad diallo", "amad", "diallo"]
+    }
+  ]
+}

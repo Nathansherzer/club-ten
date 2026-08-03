@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-10",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players who recorded the most official Fantasy Premier League points in 2025/26",
+  "note": "Official FPL points 2025/26 · Spurs players only · ties broken by PL minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Joao Palhinha",
+      "detail": "126 pts",
+      "accept": ["joao palhinha", "palhinha", "joão palhinha"]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "119 pts",
+      "accept": ["richarlison"]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "117 pts",
+      "accept": ["pedro porro", "porro"]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "116 pts",
+      "accept": ["micky van de ven", "van de ven"]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "91 pts",
+      "accept": ["cristian romero", "romero", "cuti romero"]
+    },
+    {
+      "display": "Guglielmo Vicario",
+      "detail": "90 pts",
+      "accept": ["guglielmo vicario", "vicario"]
+    },
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "86 pts",
+      "accept": ["rodrigo bentancur", "bentancur"]
+    },
+    {
+      "display": "Xavi Simons",
+      "detail": "80 pts",
+      "accept": ["xavi simons", "simons"]
+    },
+    {
+      "display": "Djed Spence",
+      "detail": "78 pts",
+      "accept": ["djed spence", "spence"]
+    },
+    {
+      "display": "Mathys Tel",
+      "detail": "78 pts",
+      "accept": ["mathys tel", "tel"]
+    }
+  ]
+}

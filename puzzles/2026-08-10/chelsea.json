@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-10",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players who recorded the most official Fantasy Premier League points in 2025/26",
+  "note": "Official FPL points 2025/26 · Chelsea players only · ties broken by PL minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Joao Pedro",
+      "detail": "177 pts",
+      "accept": ["joao pedro", "joão pedro"]
+    },
+    {
+      "display": "Enzo Fernandez",
+      "detail": "157 pts",
+      "accept": ["enzo fernandez", "enzo", "fernandez"]
+    },
+    {
+      "display": "Trevoh Chalobah",
+      "detail": "136 pts",
+      "accept": ["trevoh chalobah", "chalobah"]
+    },
+    {
+      "display": "Pedro Neto",
+      "detail": "125 pts",
+      "accept": ["pedro neto", "neto"]
+    },
+    {
+      "display": "Reece James",
+      "detail": "115 pts",
+      "accept": ["reece james", "james"]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "114 pts",
+      "accept": ["cole palmer", "palmer"]
+    },
+    {
+      "display": "Robert Sanchez",
+      "detail": "113 pts",
+      "accept": ["robert sanchez", "sanchez"]
+    },
+    {
+      "display": "Moises Caicedo",
+      "detail": "110 pts",
+      "accept": ["moises caicedo", "caicedo"]
+    },
+    {
+      "display": "Marc Cucurella",
+      "detail": "104 pts",
+      "accept": ["marc cucurella", "cucurella"]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "96 pts",
+      "accept": ["malo gusto", "gusto"]
+    }
+  ]
+}

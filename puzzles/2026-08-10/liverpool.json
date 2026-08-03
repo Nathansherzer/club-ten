@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-10",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool players who recorded the most official Fantasy Premier League points in 2025/26",
+  "note": "Official FPL points 2025/26 · Liverpool players only · ties broken by PL minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Virgil van Dijk",
+      "detail": "175 pts",
+      "accept": ["virgil van dijk", "van dijk", "virgil"]
+    },
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "160 pts",
+      "accept": ["dominik szoboszlai", "szoboszlai"]
+    },
+    {
+      "display": "Ryan Gravenberch",
+      "detail": "144 pts",
+      "accept": ["ryan gravenberch", "gravenberch"]
+    },
+    {
+      "display": "Cody Gakpo",
+      "detail": "131 pts",
+      "accept": ["cody gakpo", "gakpo"]
+    },
+    {
+      "display": "Ibrahima Konate",
+      "detail": "129 pts",
+      "accept": ["ibrahima konate", "konate", "konaté"]
+    },
+    {
+      "display": "Florian Wirtz",
+      "detail": "125 pts",
+      "accept": ["florian wirtz", "wirtz"]
+    },
+    {
+      "display": "Hugo Ekitike",
+      "detail": "125 pts",
+      "accept": ["hugo ekitike", "ekitike"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "123 pts",
+      "accept": ["mohamed salah", "salah", "mo salah"]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "108 pts",
+      "accept": ["alexis mac allister", "mac allister", "macallister", "alexis macallister"]
+    },
+    {
+      "display": "Alisson Becker",
+      "detail": "91 pts",
+      "accept": ["alisson becker", "alisson", "becker"]
+    }
+  ]
+}

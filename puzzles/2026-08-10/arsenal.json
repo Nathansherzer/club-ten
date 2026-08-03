@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-10",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players who recorded the most official Fantasy Premier League points in 2025/26",
+  "note": "Official FPL points 2025/26 · Arsenal players only · ties broken by PL minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gabriel Magalhaes",
+      "detail": "209 pts",
+      "accept": ["gabriel magalhaes", "gabriel", "magalhaes"]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "184 pts",
+      "accept": ["declan rice", "rice"]
+    },
+    {
+      "display": "David Raya",
+      "detail": "162 pts",
+      "accept": ["david raya", "raya"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "157 pts",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Jurrien Timber",
+      "detail": "149 pts",
+      "accept": ["jurrien timber", "timber"]
+    },
+    {
+      "display": "William Saliba",
+      "detail": "137 pts",
+      "accept": ["william saliba", "saliba"]
+    },
+    {
+      "display": "Martin Zubimendi",
+      "detail": "133 pts",
+      "accept": ["martin zubimendi", "zubimendi"]
+    },
+    {
+      "display": "Viktor Gyokeres",
+      "detail": "128 pts",
+      "accept": ["viktor gyokeres", "gyokeres", "viktor gyökeres"]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "119 pts",
+      "accept": ["leandro trossard", "trossard"]
+    },
+    {
+      "display": "Eberechi Eze",
+      "detail": "113 pts",
+      "accept": ["eberechi eze", "eze"]
+    }
+  ]
+}
