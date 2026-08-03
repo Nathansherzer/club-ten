@@ -325,7 +325,7 @@ async function loadPuzzleNav() {
   if (nextHref)  nav.appendChild(makeNavBtn(nextHref,                     '>',  'Go to next puzzle'));
   if (lastHref)  nav.appendChild(makeNavBtn(lastHref,                     '>>',  "Back to today's puzzle"));
 
-  const anchor = document.querySelector('.club-video') || document.querySelector('.site-nav');
+  const anchor = document.querySelector('.fan-spotlight') || document.querySelector('.site-nav');
   anchor.before(nav);
 }
 
