@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-09",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 English players who scored the most Premier League goals for Liverpool",
+  "note": "PL goals for Liverpool only · English players · ties broken by appearances · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Robbie Fowler",
+      "detail": "128 goals",
+      "accept": ["robbie fowler", "fowler"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "120 goals",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "118 goals",
+      "accept": ["michael owen", "owen"]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "50 goals",
+      "accept": ["daniel sturridge", "sturridge"]
+    },
+    {
+      "display": "Steve McManaman",
+      "detail": "41 goals",
+      "accept": ["steve mcmanaman", "mcmanaman", "steve macmanaman"]
+    },
+    {
+      "display": "Emile Heskey",
+      "detail": "39 goals",
+      "accept": ["emile heskey", "heskey"]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "29 goals",
+      "accept": ["jordan henderson", "henderson"]
+    },
+    {
+      "display": "Jamie Redknapp",
+      "detail": "29 goals",
+      "accept": ["jamie redknapp", "redknapp"]
+    },
+    {
+      "display": "Stan Collymore",
+      "detail": "26 goals",
+      "accept": ["stan collymore", "collymore"]
+    },
+    {
+      "display": "Danny Murphy",
+      "detail": "25 goals",
+      "accept": ["danny murphy", "murphy"]
+    }
+  ]
+}

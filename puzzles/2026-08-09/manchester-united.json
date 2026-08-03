@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-09",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 English players who scored the most Premier League goals for Man United",
+  "note": "PL goals for Man United only · English players · ties broken by appearances · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail": "183 goals",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "107 goals",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "93 goals",
+      "accept": ["andy cole", "cole"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "87 goals",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "62 goals",
+      "accept": ["david beckham", "beckham"]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "31 goals",
+      "accept": ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Mason Greenwood",
+      "detail": "22 goals",
+      "accept": ["mason greenwood", "greenwood"]
+    },
+    {
+      "display": "Nicky Butt",
+      "detail": "21 goals",
+      "accept": ["nicky butt", "butt"]
+    },
+    {
+      "display": "Jesse Lingard",
+      "detail": "20 goals",
+      "accept": ["jesse lingard", "lingard"]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "20 goals",
+      "accept": ["danny welbeck", "welbeck"]
+    }
+  ]
+}

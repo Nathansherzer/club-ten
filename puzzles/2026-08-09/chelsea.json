@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-09",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 English players who scored the most Premier League goals for Chelsea",
+  "note": "PL goals for Chelsea only · English players · ties broken by appearances · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "147 goals",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "47 goals",
+      "accept": ["cole palmer", "palmer"]
+    },
+    {
+      "display": "John Terry",
+      "detail": "41 goals",
+      "accept": ["john terry", "terry", "jt"]
+    },
+    {
+      "display": "Dennis Wise",
+      "detail": "33 goals",
+      "accept": ["dennis wise", "wise"]
+    },
+    {
+      "display": "Joe Cole",
+      "detail": "27 goals",
+      "accept": ["joe cole"]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "27 goals",
+      "accept": ["mason mount", "mount"]
+    },
+    {
+      "display": "Tammy Abraham",
+      "detail": "21 goals",
+      "accept": ["tammy abraham", "abraham"]
+    },
+    {
+      "display": "Mark Stein",
+      "detail": "21 goals",
+      "accept": ["mark stein", "stein"]
+    },
+    {
+      "display": "Gavin Peacock",
+      "detail": "17 goals",
+      "accept": ["gavin peacock", "peacock"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "14 goals",
+      "accept": ["raheem sterling", "sterling"]
+    }
+  ]
+}

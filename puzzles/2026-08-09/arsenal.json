@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-09",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 English players who scored the most Premier League goals for Arsenal",
+  "note": "PL goals for Arsenal only · English players · ties broken by appearances · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ian Wright",
+      "detail": "104 goals",
+      "accept": ["ian wright", "wright"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "65 goals",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "60 goals",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Paul Merson",
+      "detail": "28 goals",
+      "accept": ["paul merson", "merson"]
+    },
+    {
+      "display": "Kevin Campbell",
+      "detail": "23 goals",
+      "accept": ["kevin campbell", "campbell"]
+    },
+    {
+      "display": "Ray Parlour",
+      "detail": "20 goals",
+      "accept": ["ray parlour", "parlour"]
+    },
+    {
+      "display": "Eddie Nketiah",
+      "detail": "19 goals",
+      "accept": ["eddie nketiah", "nketiah"]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "16 goals",
+      "accept": ["danny welbeck", "welbeck"]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "15 goals",
+      "accept": ["declan rice", "rice"]
+    },
+    {
+      "display": "David Platt",
+      "detail": "13 goals",
+      "accept": ["david platt", "platt"]
+    }
+  ]
+}

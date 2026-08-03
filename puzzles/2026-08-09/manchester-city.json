@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-09",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 English players who scored the most Premier League goals for Man City",
+  "note": "PL goals for Man City only · English players · ties broken by appearances · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Raheem Sterling",
+      "detail": "91 goals",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "68 goals",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Shaun Wright-Phillips",
+      "detail": "27 goals",
+      "accept": ["shaun wright-phillips", "shaun wright phillips", "wright-phillips", "wright phillips"]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "21 goals",
+      "accept": ["robbie fowler", "fowler"]
+    },
+    {
+      "display": "Darius Vassell",
+      "detail": "17 goals",
+      "accept": ["darius vassell", "vassell"]
+    },
+    {
+      "display": "Mike Sheron",
+      "detail": "17 goals",
+      "accept": ["mike sheron", "sheron"]
+    },
+    {
+      "display": "David White",
+      "detail": "17 goals",
+      "accept": ["david white", "white"]
+    },
+    {
+      "display": "Paul Walsh",
+      "detail": "16 goals",
+      "accept": ["paul walsh", "walsh"]
+    },
+    {
+      "display": "Joey Barton",
+      "detail": "15 goals",
+      "accept": ["joey barton", "barton"]
+    },
+    {
+      "display": "James Milner",
+      "detail": "13 goals",
+      "accept": ["james milner", "milner"]
+    }
+  ]
+}

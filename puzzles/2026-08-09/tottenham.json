@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-09",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 English players who scored the most Premier League goals for Spurs",
+  "note": "PL goals for Spurs only · English players · ties broken by appearances · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "213 goals",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "97 goals",
+      "accept": ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "91 goals",
+      "accept": ["jermain defoe", "defoe"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "51 goals",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "Chris Armstrong",
+      "detail": "48 goals",
+      "accept": ["chris armstrong", "armstrong"]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail": "34 goals",
+      "accept": ["darren anderton", "anderton"]
+    },
+    {
+      "display": "Les Ferdinand",
+      "detail": "33 goals",
+      "accept": ["les ferdinand", "ferdinand"]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "26 goals",
+      "accept": ["aaron lennon", "lennon"]
+    },
+    {
+      "display": "Jermaine Jenas",
+      "detail": "21 goals",
+      "accept": ["jermaine jenas", "jenas"]
+    },
+    {
+      "display": "Nick Barmby",
+      "detail": "20 goals",
+      "accept": ["nick barmby", "barmby"]
+    }
+  ]
+}
