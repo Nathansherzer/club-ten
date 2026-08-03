@@ -282,7 +282,7 @@ async function loadPuzzleNav() {
   try {
     const res  = await fetch('/api/archive');
     const json = await res.json();
-    past = (json.puzzles || []);
+    past = (json.puzzles || []).slice(0, 10);
   } catch { return; }
 
   if (past.length === 0) return;
