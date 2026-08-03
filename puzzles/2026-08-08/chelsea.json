@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 African players with the most Premier League appearances for Chelsea",
+  "note": "PL apps for Chelsea only · African players by senior international cap · ties broken by starts · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Didier Drogba",
+      "detail": "254 apps · Ivory Coast",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "249 apps · Nigeria",
+      "accept": ["john obi mikel", "mikel john obi", "obi mikel", "mikel", "obi"]
+    },
+    {
+      "display": "Michael Essien",
+      "detail": "168 apps · Ghana",
+      "accept": ["michael essien", "essien"]
+    },
+    {
+      "display": "Salomon Kalou",
+      "detail": "156 apps · Ivory Coast",
+      "accept": ["salomon kalou", "kalou"]
+    },
+    {
+      "display": "Celestine Babayaro",
+      "detail": "132 apps · Nigeria",
+      "accept": ["celestine babayaro", "babayaro"]
+    },
+    {
+      "display": "Victor Moses",
+      "detail": "87 apps · Nigeria",
+      "accept": ["victor moses", "moses"]
+    },
+    {
+      "display": "Edouard Mendy",
+      "detail": "75 apps · Senegal",
+      "accept": ["edouard mendy", "mendy"]
+    },
+    {
+      "display": "Geremi",
+      "detail": "72 apps · Cameroon",
+      "accept": ["geremi", "geremi njitap", "njitap"]
+    },
+    {
+      "display": "Nicolas Jackson",
+      "detail": "65 apps · Senegal",
+      "accept": ["nicolas jackson", "jackson"]
+    },
+    {
+      "display": "Hakim Ziyech",
+      "detail": "64 apps · Morocco",
+      "accept": ["hakim ziyech", "ziyech"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 African players with the most Premier League appearances for Man United",
+  "note": "PL apps for Man United only · African players by senior international cap · ties broken by starts · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Quinton Fortune",
+      "detail": "76 apps · South Africa",
+      "accept": ["quinton fortune", "fortune"]
+    },
+    {
+      "display": "André Onana",
+      "detail": "72 apps · Cameroon",
+      "accept": ["andre onana", "andré onana", "onana"]
+    },
+    {
+      "display": "Amad Diallo",
+      "detail": "70 apps · Ivory Coast",
+      "accept": ["amad diallo", "amad", "diallo"]
+    },
+    {
+      "display": "Eric Bailly",
+      "detail": "70 apps · Ivory Coast",
+      "accept": ["eric bailly", "bailly"]
+    },
+    {
+      "display": "Noussair Mazraoui",
+      "detail": "57 apps · Morocco",
+      "accept": ["noussair mazraoui", "mazraoui"]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "33 apps · Cameroon",
+      "accept": ["bryan mbeumo", "mbeumo"]
+    },
+    {
+      "display": "Sofyan Amrabat",
+      "detail": "21 apps · Morocco",
+      "accept": ["sofyan amrabat", "amrabat"]
+    },
+    {
+      "display": "Eric Djemba-Djemba",
+      "detail": "20 apps · Cameroon",
+      "accept": ["eric djemba-djemba", "djemba-djemba", "djemba djemba", "djemba"]
+    },
+    {
+      "display": "Odion Ighalo",
+      "detail": "12 apps · Nigeria",
+      "accept": ["odion ighalo", "ighalo"]
+    },
+    {
+      "display": "Hannibal Mejbri",
+      "detail": "8 apps · Tunisia",
+      "accept": ["hannibal mejbri", "mejbri", "hannibal"]
+    }
+  ]
+}

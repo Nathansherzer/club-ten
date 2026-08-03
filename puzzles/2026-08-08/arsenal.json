@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 African players with the most Premier League appearances for Arsenal",
+  "note": "PL apps for Arsenal only · African players by senior international cap · ties broken by starts · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Kolo Touré",
+      "detail": "225 apps · Ivory Coast",
+      "accept": ["kolo toure", "kolo touré", "kolo"]
+    },
+    {
+      "display": "Lauren",
+      "detail": "159 apps · Cameroon",
+      "accept": ["lauren", "lauren etame mayer", "etame mayer"]
+    },
+    {
+      "display": "Alex Song",
+      "detail": "138 apps · Cameroon",
+      "accept": ["alex song", "song"]
+    },
+    {
+      "display": "Emmanuel Eboué",
+      "detail": "132 apps · Ivory Coast",
+      "accept": ["emmanuel eboue", "emmanuel eboué", "eboue", "eboué"]
+    },
+    {
+      "display": "Thomas Partey",
+      "detail": "130 apps · Ghana",
+      "accept": ["thomas partey", "partey"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "128 apps · Gabon",
+      "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang"]
+    },
+    {
+      "display": "Nwankwo Kanu",
+      "detail": "119 apps · Nigeria",
+      "accept": ["nwankwo kanu", "kanu"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "104 apps · Togo",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Alex Iwobi",
+      "detail": "100 apps · Nigeria",
+      "accept": ["alex iwobi", "iwobi"]
+    },
+    {
+      "display": "Mohamed Elneny",
+      "detail": "91 apps · Egypt",
+      "accept": ["mohamed elneny", "elneny"]
+    }
+  ]
+}

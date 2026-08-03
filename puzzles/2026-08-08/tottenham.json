@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 African players with the most Premier League appearances for Spurs",
+  "note": "PL apps for Spurs only · African players by senior international cap · ties broken by starts · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Benoît Assou-Ekotto",
+      "detail": "155 apps · Cameroon",
+      "accept": ["benoit assou-ekotto", "benoît assou-ekotto", "assou-ekotto", "assou ekotto"]
+    },
+    {
+      "display": "Pape Matar Sarr",
+      "detail": "107 apps · Senegal",
+      "accept": ["pape matar sarr", "pape sarr", "sarr"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "92 apps · Togo",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Yves Bissouma",
+      "detail": "90 apps · Mali",
+      "accept": ["yves bissouma", "bissouma"]
+    },
+    {
+      "display": "Didier Zokora",
+      "detail": "88 apps · Ivory Coast",
+      "accept": ["didier zokora", "zokora"]
+    },
+    {
+      "display": "Serge Aurier",
+      "detail": "77 apps · Ivory Coast",
+      "accept": ["serge aurier", "aurier"]
+    },
+    {
+      "display": "Victor Wanyama",
+      "detail": "69 apps · Kenya",
+      "accept": ["victor wanyama", "wanyama"]
+    },
+    {
+      "display": "Frédéric Kanouté",
+      "detail": "60 apps · Mali",
+      "accept": ["frederic kanoute", "frédéric kanouté", "kanoute", "kanouté"]
+    },
+    {
+      "display": "Mido",
+      "detail": "48 apps · Egypt",
+      "accept": ["mido", "ahmed mido", "ahmed hossam"]
+    },
+    {
+      "display": "Nabil Bentaleb",
+      "detail": "46 apps · Algeria",
+      "accept": ["nabil bentaleb", "bentaleb"]
+    }
+  ]
+}

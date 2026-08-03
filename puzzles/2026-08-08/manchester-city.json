@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-08",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 African players with the most Premier League appearances for Man City",
+  "note": "PL apps for Man City only · African players by senior international cap · ties broken by starts · data: Jul 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Yaya Touré",
+      "detail": "230 apps · Ivory Coast",
+      "accept": ["yaya toure", "yaya touré", "toure", "touré"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "145 apps · Algeria",
+      "accept": ["riyad mahrez", "mahrez"]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "81 apps · Ivory Coast",
+      "accept": ["kolo toure", "kolo touré", "kolo"]
+    },
+    {
+      "display": "Kelechi Iheanacho",
+      "detail": "46 apps · Nigeria",
+      "accept": ["kelechi iheanacho", "iheanacho"]
+    },
+    {
+      "display": "Omar Marmoush",
+      "detail": "37 apps · Egypt",
+      "accept": ["omar marmoush", "marmoush"]
+    },
+    {
+      "display": "Wilfried Bony",
+      "detail": "36 apps · Ivory Coast",
+      "accept": ["wilfried bony", "bony"]
+    },
+    {
+      "display": "Marc-Vivien Foé",
+      "detail": "35 apps · Cameroon",
+      "accept": ["marc-vivien foe", "marc-vivien foé", "marc vivien foe", "foe", "foé"]
+    },
+    {
+      "display": "Ali Benarbia",
+      "detail": "33 apps · Algeria",
+      "accept": ["ali benarbia", "benarbia"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "33 apps · Togo",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Benjani",
+      "detail": "23 apps · Zimbabwe",
+      "accept": ["benjani", "benjani mwaruwari", "mwaruwari"]
+    }
+  ]
+}
