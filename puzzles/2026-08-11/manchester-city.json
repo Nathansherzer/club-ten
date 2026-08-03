@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-11",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players with the highest single-season FPL points total (2016/17–2025/26) — each player's best season only",
+  "note": "Highest single FPL season per player · Man City only · 2016/17–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "272 pts (2022/23)",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "251 pts (2019/20)",
+      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "234 pts (2018/19)",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "230 pts (2023/24)",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "201 pts (2018/19)",
+      "accept": ["sergio aguero", "aguero", "sergio agüero", "kun aguero"]
+    },
+    {
+      "display": "João Cancelo",
+      "detail": "201 pts (2021/22)",
+      "accept": ["joao cancelo", "cancelo", "joão cancelo"]
+    },
+    {
+      "display": "Leroy Sané",
+      "detail": "179 pts (2017/18)",
+      "accept": ["leroy sane", "sane", "leroy sané"]
+    },
+    {
+      "display": "Aymeric Laporte",
+      "detail": "177 pts (2018/19)",
+      "accept": ["aymeric laporte", "laporte"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "175 pts (2019/20)",
+      "accept": ["riyad mahrez", "mahrez"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "169 pts (2017/18)",
+      "accept": ["david silva", "silva", "david silva"]
+    }
+  ]
+}

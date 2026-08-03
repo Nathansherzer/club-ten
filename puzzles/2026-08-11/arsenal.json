@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-11",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players with the highest single-season FPL points total (2016/17–2025/26) — each player's best season only",
+  "note": "Highest single FPL season per player · Arsenal only · 2016/17–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alexis Sánchez",
+      "detail": "264 pts (2016/17)",
+      "accept": ["alexis sanchez", "sanchez", "alexis", "alexis sánchez"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "226 pts (2023/24)",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "212 pts (2022/23)",
+      "accept": ["martin odegaard", "odegaard", "martin ødegaard", "ødegaard"]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "209 pts (2025/26)",
+      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "205 pts (2019/20)",
+      "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang"]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "198 pts (2022/23)",
+      "accept": ["gabriel martinelli", "martinelli"]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "184 pts (2025/26)",
+      "accept": ["declan rice", "rice"]
+    },
+    {
+      "display": "Ben White",
+      "detail": "182 pts (2023/24)",
+      "accept": ["ben white", "white"]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "180 pts (2023/24)",
+      "accept": ["kai havertz", "havertz"]
+    },
+    {
+      "display": "Mesut Özil",
+      "detail": "167 pts (2016/17)",
+      "accept": ["mesut ozil", "ozil", "mesut özil", "özil"]
+    }
+  ]
+}

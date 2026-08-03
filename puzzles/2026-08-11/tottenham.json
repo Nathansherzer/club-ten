@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-11",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players with the highest single-season FPL points total (2016/17–2025/26) — each player's best season only",
+  "note": "Highest single FPL season per player · Spurs only · 2016/17–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "263 pts (2022/23)",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "258 pts (2021/22)",
+      "accept": ["son heung-min", "son heung min", "heung-min son", "heung min son", "son"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "225 pts (2016/17)",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "218 pts (2016/17)",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Hugo Lloris",
+      "detail": "158 pts (2021/22)",
+      "accept": ["hugo lloris", "lloris"]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "143 pts (2017/18)",
+      "accept": ["ben davies", "davies"]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "142 pts (2016/17)",
+      "accept": ["kyle walker", "walker"]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "138 pts (2017/18)",
+      "accept": ["jan vertonghen", "vertonghen"]
+    },
+    {
+      "display": "Brennan Johnson",
+      "detail": "137 pts (2024/25)",
+      "accept": ["brennan johnson", "johnson"]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "136 pts (2023/24)",
+      "accept": ["pedro porro", "porro"]
+    }
+  ]
+}

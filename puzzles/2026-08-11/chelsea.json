@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-11",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players with the highest single-season FPL points total (2016/17–2025/26) — each player's best season only",
+  "note": "Highest single FPL season per player · Chelsea only · 2016/17–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cole Palmer",
+      "detail": "244 pts (2023/24)",
+      "accept": ["cole palmer", "palmer"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "238 pts (2018/19)",
+      "accept": ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "196 pts (2016/17)",
+      "accept": ["diego costa", "costa"]
+    },
+    {
+      "display": "Gary Cahill",
+      "detail": "178 pts (2016/17)",
+      "accept": ["gary cahill", "cahill"]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "177 pts (2025/26)",
+      "accept": ["joao pedro", "joão pedro", "pedro"]
+    },
+    {
+      "display": "Marcos Alonso",
+      "detail": "177 pts (2016/17)",
+      "accept": ["marcos alonso", "alonso"]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "175 pts (2017/18)",
+      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "169 pts (2021/22)",
+      "accept": ["mason mount", "mount"]
+    },
+    {
+      "display": "Willian",
+      "detail": "168 pts (2019/20)",
+      "accept": ["willian"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "164 pts (2018/19)",
+      "accept": ["david luiz", "luiz"]
+    }
+  ]
+}

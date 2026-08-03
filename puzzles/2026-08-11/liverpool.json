@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-11",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool players with the highest single-season FPL points total (2016/17–2025/26) — each player's best season only",
+  "note": "Highest single FPL season per player · Liverpool only · 2016/17–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "344 pts (2024/25)",
+      "accept": ["mohamed salah", "salah", "mo salah"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "231 pts (2018/19)",
+      "accept": ["sadio mane", "mane", "sadio mané"]
+    },
+    {
+      "display": "Andrew Robertson",
+      "detail": "213 pts (2018/19)",
+      "accept": ["andrew robertson", "robertson", "andy robertson"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "210 pts (2019/20)",
+      "accept": ["trent alexander-arnold", "trent alexander arnold", "alexander-arnold", "alexander arnold", "taa"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "208 pts (2018/19)",
+      "accept": ["virgil van dijk", "van dijk", "virgil"]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "183 pts (2024/25)",
+      "accept": ["luis diaz", "diaz", "luis díaz"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "181 pts (2017/18)",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "176 pts (2021/22)",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "175 pts (2021/22)",
+      "accept": ["diogo jota", "jota"]
+    },
+    {
+      "display": "Philippe Coutinho",
+      "detail": "171 pts (2016/17)",
+      "accept": ["philippe coutinho", "coutinho", "phil coutinho"]
+    }
+  ]
+}

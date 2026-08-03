@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-11",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United players with the highest single-season FPL points total (2016/17–2025/26) — each player's best season only",
+  "note": "Highest single FPL season per player · Man United only · 2016/17–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "244 pts (2020/21)",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "205 pts (2022/23)",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "200 pts (2019/20)",
+      "accept": ["anthony martial", "martial"]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "179 pts (2018/19)",
+      "accept": ["paul pogba", "pogba"]
+    },
+    {
+      "display": "David de Gea",
+      "detail": "172 pts (2017/18)",
+      "accept": ["david de gea", "de gea"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "165 pts (2025/26)",
+      "accept": ["casemiro"]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "163 pts (2016/17)",
+      "accept": ["zlatan ibrahimovic", "ibrahimovic", "zlatan", "zlatan ibrahimović"]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "162 pts (2017/18)",
+      "accept": ["romelu lukaku", "lukaku"]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "159 pts (2021/22)",
+      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "152 pts (2017/18)",
+      "accept": ["alexis sanchez", "alexis", "sanchez", "alexis sánchez"]
+    }
+  ]
+}
