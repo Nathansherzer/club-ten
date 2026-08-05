@@ -793,6 +793,31 @@ if (window.visualViewport) {
 }
 
 /* ==========================================================
+   PARTNER EMBED SUPPORT
+   When loaded with ?partner=tpp, inject a "Powered by" badge
+   above the site-nav and open nav links in new tabs so they
+   don't navigate away from the host page.
+   ========================================================== */
+
+(function () {
+  const partner = new URLSearchParams(location.search).get('partner');
+  if (partner !== 'tpp') return;
+
+  // Badge
+  const badge = document.createElement('div');
+  badge.className = 'partner-badge visible';
+  badge.innerHTML = 'Powered by <a href="https://thepeoplesperson.com" target="_blank" rel="noopener noreferrer">The People\'s Person</a>';
+  const nav = document.querySelector('.site-nav');
+  if (nav) nav.before(badge);
+
+  // Open site-nav links in new tab so host page stays intact
+  document.querySelectorAll('.site-nav a').forEach(a => {
+    a.target = '_blank';
+    a.rel    = 'noopener noreferrer';
+  });
+})();
+
+/* ==========================================================
    BOOT
    ========================================================== */
 

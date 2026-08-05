@@ -643,6 +643,23 @@ button.share:active { transform: scale(0.97); }
 }
 .spotlight-other a { color: var(--green); }
 
+/* ---- partner badge (shown only when ?partner=tpp) ---------- */
+
+.partner-badge {
+  display: none;
+  text-align: center;
+  padding: 10px 0 4px;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+.partner-badge a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--slot-border);
+}
+.partner-badge a:hover { color: var(--text); }
+.partner-badge.visible { display: block; }
+
 /* ---- mobile tweaks ----------------------------------------- */
 
 @media (max-width: 400px) {
