@@ -806,7 +806,7 @@ if (window.visualViewport) {
   // Badge
   const badge = document.createElement('div');
   badge.className = 'partner-badge visible';
-  badge.innerHTML = 'Powered by <a href="https://thepeoplesperson.com" target="_blank" rel="noopener noreferrer">The People\'s Person</a>';
+  badge.innerHTML = 'Powered by <a href="https://thepeoplesperson.com" target="_blank" rel="noopener noreferrer">The Peoples Person</a>';
   const nav = document.querySelector('.site-nav');
   if (nav) nav.before(badge);
 
