@@ -803,12 +803,12 @@ if (window.visualViewport) {
   const partner = new URLSearchParams(location.search).get('partner');
   if (partner !== 'tpp') return;
 
-  // Badge
+  // Badge — placed just below the header
   const badge = document.createElement('div');
   badge.className = 'partner-badge visible';
   badge.innerHTML = 'Powered by <a href="https://thepeoplesperson.com" target="_blank" rel="noopener noreferrer">The Peoples Person</a>';
-  const nav = document.querySelector('.site-nav');
-  if (nav) nav.before(badge);
+  const header = document.querySelector('header');
+  if (header) header.after(badge);
 
   // Open site-nav links in new tab so host page stays intact
   document.querySelectorAll('.site-nav a').forEach(a => {
