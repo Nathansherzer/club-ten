@@ -30,6 +30,8 @@ function norm(s) {
     .replace(/ø/g, "o")
     .replace(/ß/g, "ss")
     .replace(/đ/g, "d")
+    .replace(/ð/g, "d")
+    .replace(/þ/g, "th")
     .replace(/ł/g, "l")
     .replace(/[^a-z0-9 ]/g, "")
     .replace(/\s+/g, " ")
