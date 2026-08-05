@@ -231,7 +231,7 @@ async function fetchAndStartPuzzle(club, savedState) {
   } else {
     track("game_start");
     setFeedback("Find all 10. Three wrong guesses and it's over.");
-    input.focus();
+    input.focus({ preventScroll: true });
   }
 }
 
@@ -374,7 +374,7 @@ function restoreState(saved) {
     adEl.style.display = "block";
   } else {
     setFeedback(`${found.size} found · ${lives} ${lives === 1 ? "life" : "lives"} left. Keep going!`);
-    input.focus();
+    input.focus({ preventScroll: true });
   }
 }
 
@@ -426,7 +426,7 @@ async function handleGuess() {
     guessing = false;
     input.disabled = false;
     document.getElementById("guessBtn").disabled = false;
-    input.focus();
+    input.focus({ preventScroll: true });
     return;
   }
 
@@ -465,7 +465,7 @@ async function handleGuess() {
   }
 
   if (!over && !archiveDate) persistInProgress();
-  input.focus();
+  input.focus({ preventScroll: true });
 }
 
 // Sweeps a "scanning" highlight through unfound slots in descending order.
