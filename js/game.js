@@ -801,7 +801,8 @@ if (window.visualViewport) {
 
 (function () {
   const partner = new URLSearchParams(location.search).get('partner');
-  if (partner !== 'tpp') return;
+  const isManUnited = location.pathname.includes('manchester-united');
+  if (partner !== 'tpp' && !isManUnited) return;
 
   // Badge — placed just below the header
   const badge = document.createElement('div');
