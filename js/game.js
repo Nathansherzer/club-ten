@@ -800,6 +800,14 @@ if (window.visualViewport) {
    ========================================================== */
 
 (function () {
+  // When running inside an iframe, disable scroll restoration and
+  // force the page to start at the top — browsers can otherwise
+  // resume a stale scroll position from a previous visit.
+  if (window.self !== window.top) {
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+    window.scrollTo(0, 0);
+  }
+
   const partner = new URLSearchParams(location.search).get('partner');
   if (partner !== 'tpp') return;
 
