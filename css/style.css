@@ -653,15 +653,15 @@ button.share:active { transform: scale(0.97); }
   font-size: 0.78rem;
   color: var(--muted);
   background: var(--card);
-  border: 1px solid var(--slot-border);
+  border: 1px solid #c0392b;
   border-radius: 8px;
 }
 .partner-badge a {
-  color: var(--text);
+  color: #e74c3c;
   font-weight: 600;
   text-decoration: none;
 }
-.partner-badge a:hover { color: var(--green); }
+.partner-badge a:hover { color: #ff6b6b; }
 .partner-badge.visible { display: block; }
 
 /* ---- mobile tweaks ----------------------------------------- */
