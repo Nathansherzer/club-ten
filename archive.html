@@ -79,7 +79,7 @@ async function loadPuzzles() {
   try {
     const res  = await fetch("/api/archive");
     const json = await res.json();
-    puzzles = json.puzzles || [];
+    puzzles = (json.puzzles || []).slice(0, 10);
   } catch {
     statusEl.textContent = "Could not load archive.";
     return;
