@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-13",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the last 10 different players to wear the No. 9 shirt for Arsenal in a competitive first-team match during the PL era",
+  "note": "No. 9 shirt · PL era · most recent first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gabriel Jesus",
+      "detail": "2022/23–2025/26",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Alexandre Lacazette",
+      "detail": "2017/18–2021/22",
+      "accept": ["alexandre lacazette", "lacazette"]
+    },
+    {
+      "display": "Lucas Pérez",
+      "detail": "2016/17",
+      "accept": ["lucas perez", "lucas pérez", "perez", "pérez"]
+    },
+    {
+      "display": "Lukas Podolski",
+      "detail": "2012/13–2014/15",
+      "accept": ["lukas podolski", "podolski"]
+    },
+    {
+      "display": "Park Chu-young",
+      "detail": "2011/12",
+      "accept": ["park chu-young", "park chu young", "chu-young", "chu young", "park"]
+    },
+    {
+      "display": "Eduardo",
+      "detail": "2007/08–2009/10",
+      "accept": ["eduardo"]
+    },
+    {
+      "display": "Júlio Baptista",
+      "detail": "2006/07",
+      "accept": ["julio baptista", "júlio baptista", "baptista"]
+    },
+    {
+      "display": "José Antonio Reyes",
+      "detail": "2004/05–2005/06",
+      "accept": ["jose antonio reyes", "josé antonio reyes", "reyes", "jose reyes"]
+    },
+    {
+      "display": "Francis Jeffers",
+      "detail": "2001/02–2003/04",
+      "accept": ["francis jeffers", "jeffers"]
+    },
+    {
+      "display": "Davor Šuker",
+      "detail": "1999/00",
+      "accept": ["davor suker", "davor šuker", "suker", "šuker"]
+    }
+  ]
+}

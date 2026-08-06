@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-13",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the last 10 different players to wear the No. 9 shirt for Man City in a competitive first-team match during the PL era",
+  "note": "No. 9 shirt · PL era · most recent first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "2022/23–2025/26",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "2019/20–2021/22",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Nolito",
+      "detail": "2016/17",
+      "accept": ["nolito"]
+    },
+    {
+      "display": "Álvaro Negredo",
+      "detail": "2013/14",
+      "accept": ["alvaro negredo", "álvaro negredo", "negredo"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "2010/11",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Valeri Bojinov",
+      "detail": "2007/08–2008/09",
+      "accept": ["valeri bojinov", "bojinov"]
+    },
+    {
+      "display": "Émile Mpenza",
+      "detail": "2006/07–2007/08",
+      "accept": ["emile mpenza", "émile mpenza", "mpenza"]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "2005/06",
+      "accept": ["andy cole", "cole"]
+    },
+    {
+      "display": "Paulo Wanchope",
+      "detail": "2000/01–2003/04",
+      "accept": ["paulo wanchope", "wanchope"]
+    },
+    {
+      "display": "Paul Dickov",
+      "detail": "1996/97–2001/02",
+      "accept": ["paul dickov", "dickov"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-13",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the last 10 different players to wear the No. 9 shirt for Liverpool in a competitive first-team match during the PL era",
+  "note": "No. 9 shirt · PL era · most recent first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alexander Isak",
+      "detail": "2025/26",
+      "accept": ["alexander isak", "isak"]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "2023/24–2024/25",
+      "accept": ["darwin nunez", "darwin núñez", "nunez", "núñez"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "2017/18–2022/23",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Christian Benteke",
+      "detail": "2015/16",
+      "accept": ["christian benteke", "benteke"]
+    },
+    {
+      "display": "Rickie Lambert",
+      "detail": "2014/15",
+      "accept": ["rickie lambert", "lambert"]
+    },
+    {
+      "display": "Iago Aspas",
+      "detail": "2013/14",
+      "accept": ["iago aspas", "aspas"]
+    },
+    {
+      "display": "Andy Carroll",
+      "detail": "2010/11–2012/13",
+      "accept": ["andy carroll", "carroll"]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "2007/08–2010/11",
+      "accept": ["fernando torres", "torres"]
+    },
+    {
+      "display": "Djibril Cissé",
+      "detail": "2004/05–2005/06",
+      "accept": ["djibril cisse", "djibril cissé", "cisse", "cissé"]
+    },
+    {
+      "display": "El Hadji Diouf",
+      "detail": "2002/03–2003/04",
+      "accept": ["el hadji diouf", "el-hadji diouf", "diouf", "hadji diouf"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-13",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the last 10 different players to wear the No. 9 shirt for Chelsea in a competitive first-team match during the PL era",
+  "note": "No. 9 shirt · PL era · most recent first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Liam Delap",
+      "detail": "2025/26",
+      "accept": ["liam delap", "delap"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "2022/23",
+      "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang"]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "2021/22",
+      "accept": ["romelu lukaku", "lukaku"]
+    },
+    {
+      "display": "Tammy Abraham",
+      "detail": "2019/20–2020/21",
+      "accept": ["tammy abraham", "abraham"]
+    },
+    {
+      "display": "Gonzalo Higuaín",
+      "detail": "2018/19",
+      "accept": ["gonzalo higuain", "gonzalo higuaín", "higuain", "higuaín"]
+    },
+    {
+      "display": "Álvaro Morata",
+      "detail": "2017/18–2018/19",
+      "accept": ["alvaro morata", "álvaro morata", "morata"]
+    },
+    {
+      "display": "Radamel Falcao",
+      "detail": "2015/16",
+      "accept": ["radamel falcao", "falcao"]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "2010/11–2014/15",
+      "accept": ["fernando torres", "torres"]
+    },
+    {
+      "display": "Franco Di Santo",
+      "detail": "2008/09–2009/10",
+      "accept": ["franco di santo", "di santo"]
+    },
+    {
+      "display": "Steve Sidwell",
+      "detail": "2007/08",
+      "accept": ["steve sidwell", "sidwell"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-13",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the last 10 different players to wear the No. 9 shirt for Spurs in a competitive first-team match during the PL era",
+  "note": "No. 9 shirt · PL era · most recent first",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Richarlison",
+      "detail": "2022/23–2025/26",
+      "accept": ["richarlison"]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "2020/21",
+      "accept": ["gareth bale", "bale"]
+    },
+    {
+      "display": "Vincent Janssen",
+      "detail": "2016/17–2018/19",
+      "accept": ["vincent janssen", "janssen"]
+    },
+    {
+      "display": "Roberto Soldado",
+      "detail": "2013/14–2014/15",
+      "accept": ["roberto soldado", "soldado"]
+    },
+    {
+      "display": "Roman Pavlyuchenko",
+      "detail": "2008/09–2011/12",
+      "accept": ["roman pavlyuchenko", "pavlyuchenko"]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "2006/07–2007/08",
+      "accept": ["dimitar berbatov", "berbatov"]
+    },
+    {
+      "display": "Mido",
+      "detail": "2006/07",
+      "accept": ["mido"]
+    },
+    {
+      "display": "Grzegorz Rasiak",
+      "detail": "2005/06",
+      "accept": ["grzegorz rasiak", "rasiak"]
+    },
+    {
+      "display": "Frédéric Kanouté",
+      "detail": "2003/04–2004/05",
+      "accept": ["frederic kanoute", "frédéric kanouté", "kanoute", "kanouté"]
+    },
+    {
+      "display": "Les Ferdinand",
+      "detail": "1997/98–2002/03",
+      "accept": ["les ferdinand", "ferdinand"]
+    }
+  ]
+}
