@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-12",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs players who scored the most headed PL goals since records began (2006/07)",
+  "note": "Headed PL goals from 2006/07 · ties broken by fewer appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "40 headed goals",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "10 headed goals",
+      "accept": ["richarlison"]
+    },
+    {
+      "display": "Peter Crouch",
+      "detail": "9 headed goals",
+      "accept": ["peter crouch", "crouch"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "9 headed goals",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "7 headed goals",
+      "accept": ["cristian romero", "romero", "cuti romero"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "6 headed goals",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "6 headed goals",
+      "accept": ["gareth bale", "bale"]
+    },
+    {
+      "display": "Michael Dawson",
+      "detail": "6 headed goals",
+      "accept": ["michael dawson", "dawson"]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "6 headed goals",
+      "accept": ["eric dier", "dier"]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "5 headed goals",
+      "accept": ["toby alderweireld", "alderweireld"]
+    }
+  ]
+}

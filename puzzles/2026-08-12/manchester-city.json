@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-12",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Man City players who scored the most headed PL goals since records began (2006/07)",
+  "note": "Headed PL goals from 2006/07 · ties broken by fewer appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sergio Agüero",
+      "detail": "19 headed goals",
+      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "18 headed goals",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "11 headed goals",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "10 headed goals",
+      "accept": ["edin dzeko", "edin džeko", "dzeko", "džeko"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "10 headed goals",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Vincent Kompany",
+      "detail": "10 headed goals",
+      "accept": ["vincent kompany", "kompany"]
+    },
+    {
+      "display": "Aymeric Laporte",
+      "detail": "6 headed goals",
+      "accept": ["aymeric laporte", "laporte"]
+    },
+    {
+      "display": "Rodri",
+      "detail": "6 headed goals",
+      "accept": ["rodri"]
+    },
+    {
+      "display": "Nathan Aké",
+      "detail": "5 headed goals",
+      "accept": ["nathan ake", "nathan aké", "ake", "aké"]
+    },
+    {
+      "display": "Nicolás Otamendi",
+      "detail": "5 headed goals",
+      "accept": ["nicolas otamendi", "nicolás otamendi", "otamendi"]
+    }
+  ]
+}

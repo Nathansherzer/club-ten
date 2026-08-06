@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-12",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United players who scored the most headed PL goals since records began (2006/07)",
+  "note": "Headed PL goals from 2006/07 · ties broken by fewer appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail": "19 headed goals",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Nemanja Vidić",
+      "detail": "12 headed goals",
+      "accept": ["nemanja vidic", "nemanja vidić", "vidic", "vidić"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "11 headed goals",
+      "accept": ["casemiro"]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "11 headed goals",
+      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+    },
+    {
+      "display": "Javier Hernández",
+      "detail": "10 headed goals",
+      "accept": ["javier hernandez", "javier hernández", "hernandez", "chicharito"]
+    },
+    {
+      "display": "Chris Smalling",
+      "detail": "8 headed goals",
+      "accept": ["chris smalling", "smalling"]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "7 headed goals",
+      "accept": ["dimitar berbatov", "berbatov"]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "7 headed goals",
+      "accept": ["harry maguire", "maguire"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "7 headed goals",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Edinson Cavani",
+      "detail": "6 headed goals",
+      "accept": ["edinson cavani", "cavani", "el matador"]
+    }
+  ]
+}

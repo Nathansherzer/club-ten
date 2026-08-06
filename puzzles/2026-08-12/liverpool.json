@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-12",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool players who scored the most headed PL goals since records began (2006/07)",
+  "note": "Headed PL goals from 2006/07 · ties broken by fewer appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Virgil van Dijk",
+      "detail": "22 headed goals",
+      "accept": ["virgil van dijk", "van dijk", "virgil"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "18 headed goals",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "14 headed goals",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "12 headed goals",
+      "accept": ["fernando torres", "torres"]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "10 headed goals",
+      "accept": ["daniel sturridge", "sturridge"]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "10 headed goals",
+      "accept": ["diogo jota", "jota"]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "9 headed goals",
+      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "9 headed goals",
+      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "9 headed goals",
+      "accept": ["mohamed salah", "salah", "mo salah"]
+    },
+    {
+      "display": "Divock Origi",
+      "detail": "7 headed goals",
+      "accept": ["divock origi", "origi"]
+    }
+  ]
+}

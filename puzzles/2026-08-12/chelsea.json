@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-12",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players who scored the most headed PL goals since records began (2006/07)",
+  "note": "Headed PL goals from 2006/07 · ties broken by fewer appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Didier Drogba",
+      "detail": "17 headed goals",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "John Terry",
+      "detail": "17 headed goals",
+      "accept": ["john terry", "terry", "jt"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "12 headed goals",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Michael Ballack",
+      "detail": "9 headed goals",
+      "accept": ["michael ballack", "ballack"]
+    },
+    {
+      "display": "Salomon Kalou",
+      "detail": "8 headed goals",
+      "accept": ["salomon kalou", "kalou"]
+    },
+    {
+      "display": "Álvaro Morata",
+      "detail": "7 headed goals",
+      "accept": ["alvaro morata", "álvaro morata", "morata"]
+    },
+    {
+      "display": "Thiago Silva",
+      "detail": "7 headed goals",
+      "accept": ["thiago silva", "thiago"]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "7 headed goals",
+      "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "6 headed goals",
+      "accept": ["kai havertz", "havertz"]
+    },
+    {
+      "display": "Antonio Rüdiger",
+      "detail": "6 headed goals",
+      "accept": ["antonio rudiger", "antonio rüdiger", "rudiger", "rüdiger"]
+    }
+  ]
+}

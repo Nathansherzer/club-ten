@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-12",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Arsenal players who scored the most headed PL goals since records began (2006/07)",
+  "note": "Headed PL goals from 2006/07 · ties broken by fewer appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Olivier Giroud",
+      "detail": "27 headed goals",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "13 headed goals",
+      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "10 headed goals",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Nicklas Bendtner",
+      "detail": "9 headed goals",
+      "accept": ["nicklas bendtner", "bendtner"]
+    },
+    {
+      "display": "William Gallas",
+      "detail": "8 headed goals",
+      "accept": ["william gallas", "gallas"]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "8 headed goals",
+      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "alexis"]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "8 headed goals",
+      "accept": ["laurent koscielny", "koscielny"]
+    },
+    {
+      "display": "Mikel Merino",
+      "detail": "7 headed goals",
+      "accept": ["mikel merino", "merino"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "7 headed goals",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "6 headed goals",
+      "accept": ["danny welbeck", "welbeck"]
+    }
+  ]
+}
