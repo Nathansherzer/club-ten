@@ -828,7 +828,7 @@ if (window.visualViewport) {
           <a href="${url}" target="_blank" rel="noopener noreferrer" style="display:block;text-decoration:none">
             <img src="https://cdn.cityxtra.co.uk/wp-content/uploads/2022/12/logoCX-200x60px-1@2x.png"
                  onerror="this.style.display='none'"
-                 alt="City Xtra" style="height:30px;width:auto;display:block">
+                 alt="City Xtra" style="height:30px;width:auto;display:block;filter:brightness(0) saturate(100%) invert(68%) sepia(29%) saturate(573%) hue-rotate(172deg) brightness(1.1)">
           </a>
         </div>`
     }
