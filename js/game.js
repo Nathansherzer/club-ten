@@ -823,14 +823,11 @@ if (window.visualViewport) {
       url:    'https://cityxtra.co.uk',
       border: '#4a90c4',
       html: (url) => `
-        <a href="${url}" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:center;gap:10px;text-decoration:none">
-          <img src="https://cityxtra.co.uk/wp-content/uploads/2020/08/cropped-City-Xtra-Favicon.png"
+        <a href="${url}" target="_blank" rel="noopener noreferrer" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;text-decoration:none">
+          <img src="https://cdn.cityxtra.co.uk/wp-content/uploads/2022/12/logoCX-200x60px-1@2x.png"
                onerror="this.style.display='none'"
-               alt="City Xtra" style="height:32px;width:32px;border-radius:4px">
-          <span style="display:flex;flex-direction:column;line-height:1.2">
-            <span style="color:#6CADDF;font-weight:700;font-size:0.9rem">City Xtra</span>
-            <span style="color:var(--muted);font-size:0.7rem">In partnership with topclubten.com</span>
-          </span>
+               alt="City Xtra" style="height:30px;width:auto">
+          <span style="color:var(--muted);font-size:0.7rem">In partnership with topclubten.com</span>
         </a>`
     }
   };
