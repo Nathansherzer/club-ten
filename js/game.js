@@ -821,14 +821,16 @@ if (window.visualViewport) {
     },
     cityxtra: {
       url:    'https://cityxtra.co.uk',
-      border: '#4a90c4',
+      border: '#6CADDF',
       html: (url) => `
-        <a href="${url}" target="_blank" rel="noopener noreferrer" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;text-decoration:none">
-          <img src="https://cdn.cityxtra.co.uk/wp-content/uploads/2022/12/logoCX-200x60px-1@2x.png"
-               onerror="this.style.display='none'"
-               alt="City Xtra" style="height:30px;width:auto">
-          <span style="color:var(--muted);font-size:0.7rem">In partnership with topclubten.com</span>
-        </a>`
+        <div style="display:flex;flex-direction:column;align-items:center;gap:5px">
+          <span style="color:#6CADDF;font-size:0.7rem;font-weight:600;letter-spacing:0.03em;text-transform:uppercase">In Partnership With</span>
+          <a href="${url}" target="_blank" rel="noopener noreferrer" style="display:block;text-decoration:none">
+            <img src="https://cdn.cityxtra.co.uk/wp-content/uploads/2022/12/logoCX-200x60px-1@2x.png"
+                 onerror="this.style.display='none'"
+                 alt="City Xtra" style="height:30px;width:auto;display:block">
+          </a>
+        </div>`
     }
   };
 
@@ -837,7 +839,7 @@ if (window.visualViewport) {
 
   // Badge — placed just below the header
   const badge = document.createElement('div');
-  badge.className = 'partner-badge visible';
+  badge.className = `partner-badge visible${partner === 'cityxtra' ? ' partner-cityxtra' : ''}`;
   badge.style.borderColor = config.border;
   if (partner === 'cityxtra') badge.style.padding = '10px 16px';
   badge.innerHTML = config.html(config.url, config.label);

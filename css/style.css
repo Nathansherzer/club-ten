@@ -608,6 +608,7 @@ button.share:active { transform: scale(0.97); }
 }
 .partner-badge a:hover { color: #ff6b6b; }
 .partner-badge.visible { display: block; }
+.partner-badge.partner-cityxtra { background: rgba(108, 173, 223, 0.07); }
 
 /* ---- mobile tweaks ----------------------------------------- */
 
