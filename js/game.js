@@ -812,16 +812,26 @@ if (window.visualViewport) {
 
   const partners = {
     tpp: {
-      label: 'The Peoples Person',
-      url:   'https://thepeoplesperson.com',
-      color: '#e74c3c',
-      border: '#c0392b'
+      label:  'The Peoples Person',
+      url:    'https://thepeoplesperson.com',
+      color:  '#e74c3c',
+      border: '#c0392b',
+      html: (url, label) =>
+        `Powered by <a href="${url}" target="_blank" rel="noopener noreferrer" style="color:#e74c3c;font-weight:600">${label}</a>`
     },
     cityxtra: {
-      label: 'City Xtra',
-      url:   'https://cityxtra.co.uk',
-      color: '#6CADDF',
-      border: '#4a90c4'
+      url:    'https://cityxtra.co.uk',
+      border: '#4a90c4',
+      html: (url) => `
+        <a href="${url}" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:center;gap:10px;text-decoration:none">
+          <img src="https://cityxtra.co.uk/wp-content/uploads/2020/08/cropped-City-Xtra-Favicon.png"
+               onerror="this.style.display='none'"
+               alt="City Xtra" style="height:32px;width:32px;border-radius:4px">
+          <span style="display:flex;flex-direction:column;line-height:1.2">
+            <span style="color:#6CADDF;font-weight:700;font-size:0.9rem">City Xtra</span>
+            <span style="color:var(--muted);font-size:0.7rem">In partnership with topclubten.com</span>
+          </span>
+        </a>`
     }
   };
 
@@ -832,7 +842,8 @@ if (window.visualViewport) {
   const badge = document.createElement('div');
   badge.className = 'partner-badge visible';
   badge.style.borderColor = config.border;
-  badge.innerHTML = `Powered by <a href="${config.url}" target="_blank" rel="noopener noreferrer" style="color:${config.color}">${config.label}</a>`;
+  if (partner === 'cityxtra') badge.style.padding = '10px 16px';
+  badge.innerHTML = config.html(config.url, config.label);
   const header = document.querySelector('header');
   if (header) header.after(badge);
 
