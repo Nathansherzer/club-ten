@@ -809,12 +809,30 @@ if (window.visualViewport) {
   }
 
   const partner = new URLSearchParams(location.search).get('partner');
-  if (partner !== 'tpp') return;
+
+  const partners = {
+    tpp: {
+      label: 'The Peoples Person',
+      url:   'https://thepeoplesperson.com',
+      color: '#e74c3c',
+      border: '#c0392b'
+    },
+    cityxtra: {
+      label: 'City Xtra',
+      url:   'https://cityxtra.co.uk',
+      color: '#6CADDF',
+      border: '#4a90c4'
+    }
+  };
+
+  const config = partners[partner];
+  if (!config) return;
 
   // Badge — placed just below the header
   const badge = document.createElement('div');
   badge.className = 'partner-badge visible';
-  badge.innerHTML = 'Powered by <a href="https://thepeoplesperson.com" target="_blank" rel="noopener noreferrer">The Peoples Person</a>';
+  badge.style.borderColor = config.border;
+  badge.innerHTML = `Powered by <a href="${config.url}" target="_blank" rel="noopener noreferrer" style="color:${config.color}">${config.label}</a>`;
   const header = document.querySelector('header');
   if (header) header.after(badge);
 
