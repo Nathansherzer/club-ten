@@ -821,16 +821,15 @@ if (window.visualViewport) {
     },
     cityxtra: {
       url:    'https://cityxtra.co.uk',
-      border: '#6CADDF',
+      border: 'transparent',
+      bg:     '#6CADDF',
       html: (url) => `
-        <div style="display:flex;flex-direction:column;align-items:center;gap:5px">
-          <span style="color:#6CADDF;font-size:0.7rem;font-weight:600;letter-spacing:0.03em;text-transform:uppercase">In Partnership With</span>
-          <a href="${url}" target="_blank" rel="noopener noreferrer" style="display:block;text-decoration:none">
-            <img src="https://cdn.cityxtra.co.uk/wp-content/uploads/2022/12/logoCX-200x60px-1@2x.png"
-                 onerror="this.style.display='none'"
-                 alt="City Xtra" style="height:30px;width:auto;display:block;filter:brightness(0) saturate(100%) invert(68%) sepia(29%) saturate(573%) hue-rotate(172deg) brightness(1.1)">
-          </a>
-        </div>`
+        <a href="${url}" target="_blank" rel="noopener noreferrer" style="display:block;text-decoration:none">
+          <div style="color:rgba(255,255,255,0.85);font-size:0.62rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:8px">In Partnership With</div>
+          <img src="https://cdn.cityxtra.co.uk/wp-content/uploads/2022/11/cropped-NEW-32x32.jpg"
+               onerror="this.style.display='none'"
+               alt="City Xtra" style="height:44px;width:auto;filter:brightness(0) invert(1)">
+        </a>`
     }
   };
 
@@ -841,7 +840,8 @@ if (window.visualViewport) {
   const badge = document.createElement('div');
   badge.className = `partner-badge visible${partner === 'cityxtra' ? ' partner-cityxtra' : ''}`;
   badge.style.borderColor = config.border;
-  if (partner === 'cityxtra') badge.style.padding = '10px 16px';
+  if (config.bg) badge.style.background = config.bg;
+  if (partner === 'cityxtra') badge.style.padding = '14px 20px';
   badge.innerHTML = config.html(config.url, config.label);
   const header = document.querySelector('header');
   if (header) header.after(badge);
