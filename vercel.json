@@ -9,14 +9,6 @@
     "api/puzzle-page.js": { "includeFiles": "puzzles/**" },
     "api/sitemap.js":     { "includeFiles": "puzzles/**" }
   },
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://topclubten.com/$1",
-      "permanent": true,
-      "has": [{ "type": "host", "value": "www.topclubten.com" }]
-    }
-  ],
   "rewrites": [
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
 
