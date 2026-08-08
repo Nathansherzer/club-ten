@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-14",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 oldest players to score a Premier League goal for Chelsea",
+  "note": "Oldest age when scoring · PL era · ranked by age",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thiago Silva",
+      "detail": "39 years 198 days",
+      "accept": ["thiago silva", "thiago", "silva"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "37 years 49 days",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "36 years 290 days",
+      "accept": ["gianfranco zola", "zola"]
+    },
+    {
+      "display": "Mal Donaghy",
+      "detail": "36 years 167 days",
+      "accept": ["mal donaghy", "donaghy", "malachy donaghy"]
+    },
+    {
+      "display": "John Terry",
+      "detail": "36 years 159 days",
+      "accept": ["john terry", "terry", "jt"]
+    },
+    {
+      "display": "Glenn Hoddle",
+      "detail": "36 years 150 days",
+      "accept": ["glenn hoddle", "hoddle"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "35 years 290 days",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Gianluca Vialli",
+      "detail": "34 years 311 days",
+      "accept": ["gianluca vialli", "vialli"]
+    },
+    {
+      "display": "Marcel Desailly",
+      "detail": "34 years 246 days",
+      "accept": ["marcel desailly", "desailly"]
+    },
+    {
+      "display": "Steve Clarke",
+      "detail": "34 years 240 days",
+      "accept": ["steve clarke", "clarke"]
+    }
+  ]
+}

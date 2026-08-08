@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-14",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 oldest players to score a Premier League goal for Spurs",
+  "note": "Oldest age when scoring · PL era · ranked by age",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Teddy Sheringham",
+      "detail": "37 years 19 days",
+      "accept": ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Gustavo Poyet",
+      "detail": "36 years 84 days",
+      "accept": ["gustavo poyet", "poyet", "gus poyet"]
+    },
+    {
+      "display": "Les Ferdinand",
+      "detail": "35 years 257 days",
+      "accept": ["les ferdinand", "ferdinand"]
+    },
+    {
+      "display": "William Gallas",
+      "detail": "35 years 65 days",
+      "accept": ["william gallas", "gallas"]
+    },
+    {
+      "display": "Clive Wilson",
+      "detail": "34 years 314 days",
+      "accept": ["clive wilson", "wilson"]
+    },
+    {
+      "display": "Noureddine Naybet",
+      "detail": "34 years 277 days",
+      "accept": ["noureddine naybet", "naybet"]
+    },
+    {
+      "display": "Ivan Perišić",
+      "detail": "34 years 44 days",
+      "accept": ["ivan perisic", "ivan perišić", "perisic", "perišić"]
+    },
+    {
+      "display": "Fernando Llorente",
+      "detail": "33 years 338 days",
+      "accept": ["fernando llorente", "llorente"]
+    },
+    {
+      "display": "Micky Hazard",
+      "detail": "33 years 327 days",
+      "accept": ["micky hazard", "mickey hazard", "hazard"]
+    },
+    {
+      "display": "Jürgen Klinsmann",
+      "detail": "33 years 284 days",
+      "accept": ["jurgen klinsmann", "jürgen klinsmann", "klinsmann"]
+    }
+  ]
+}

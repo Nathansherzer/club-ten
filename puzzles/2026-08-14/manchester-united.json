@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-14",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 oldest players to score a Premier League goal for Man United",
+  "note": "Oldest age when scoring · PL era · ranked by age",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "39 years 86 days",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "37 years 304 days",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "37 years 246 days",
+      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+    },
+    {
+      "display": "Bryan Robson",
+      "detail": "36 years 282 days",
+      "accept": ["bryan robson", "robson", "captain marvel"]
+    },
+    {
+      "display": "Laurent Blanc",
+      "detail": "36 years 55 days",
+      "accept": ["laurent blanc", "blanc"]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "35 years 198 days",
+      "accept": ["michael carrick", "carrick"]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "35 years 188 days",
+      "accept": ["zlatan ibrahimovic", "zlatan ibrahimović", "ibrahimovic", "ibrahimović", "zlatan"]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "35 years 33 days",
+      "accept": ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "34 years 0 days",
+      "accept": ["casemiro"]
+    },
+    {
+      "display": "Edinson Cavani",
+      "detail": "34 years 94 days",
+      "accept": ["edinson cavani", "cavani", "el matador"]
+    }
+  ]
+}

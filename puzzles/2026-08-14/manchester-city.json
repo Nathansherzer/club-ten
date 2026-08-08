@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-14",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 oldest players to score a Premier League goal for Man City",
+  "note": "Oldest age when scoring · PL era · ranked by age",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Fernandinho",
+      "detail": "36 years 362 days",
+      "accept": ["fernandinho"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "36 years 335 days",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Sylvinho",
+      "detail": "35 years 244 days",
+      "accept": ["sylvinho"]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "34 years 361 days",
+      "accept": ["yaya toure", "yaya touré", "toure", "touré", "yaya"]
+    },
+    {
+      "display": "Martín Demichelis",
+      "detail": "34 years 343 days",
+      "accept": ["martin demichelis", "martín demichelis", "demichelis"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "34 years 214 days",
+      "accept": ["ilkay gundogan", "ilkay gündogan", "gundogan", "gündoğan", "gundoğan"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "34 years 189 days",
+      "accept": ["david silva", "silva", "el mago"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "33 years 278 days",
+      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "32 years 115 days",
+      "accept": ["pablo zabaleta", "zabaleta"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "32 years 91 days",
+      "accept": ["riyad mahrez", "mahrez"]
+    }
+  ]
+}

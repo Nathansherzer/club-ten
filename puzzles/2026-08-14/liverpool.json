@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-14",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 oldest players to score a Premier League goal for Liverpool",
+  "note": "Oldest age when scoring · PL era · ranked by age",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gary McAllister",
+      "detail": "36 years 127 days",
+      "accept": ["gary mcallister", "mcallister"]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "35 years 83 days",
+      "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "34 years 359 days",
+      "accept": ["steven gerrard", "gerrard", "stevie gerrard", "stevie g"]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "34 years 332 days",
+      "accept": ["kolo toure", "kolo touré", "toure", "touré"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "34 years 219 days",
+      "accept": ["virgil van dijk", "van dijk", "vvd"]
+    },
+    {
+      "display": "Ian Rush",
+      "detail": "34 years 198 days",
+      "accept": ["ian rush", "rush"]
+    },
+    {
+      "display": "James Milner",
+      "detail": "33 years 356 days",
+      "accept": ["james milner", "milner"]
+    },
+    {
+      "display": "Karl-Heinz Riedle",
+      "detail": "33 years 242 days",
+      "accept": ["karl-heinz riedle", "karl heinz riedle", "riedle"]
+    },
+    {
+      "display": "John Barnes",
+      "detail": "33 years 164 days",
+      "accept": ["john barnes", "barnes"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "33 years 139 days",
+      "accept": ["mohamed salah", "salah", "mo salah", "mohammed salah"]
+    }
+  ]
+}

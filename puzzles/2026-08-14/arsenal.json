@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-14",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 oldest players to score a Premier League goal for Arsenal",
+  "note": "Oldest age when scoring · PL era · ranked by age",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "36 years 332 days",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Lee Dixon",
+      "detail": "36 years 288 days",
+      "accept": ["lee dixon", "dixon"]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "34 years 178 days",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Tomáš Rosický",
+      "detail": "34 years 148 days",
+      "accept": ["tomas rosicky", "tomáš rosický", "rosicky", "rosický"]
+    },
+    {
+      "display": "Andy Linighan",
+      "detail": "34 years 82 days",
+      "accept": ["andy linighan", "linighan"]
+    },
+    {
+      "display": "Tony Adams",
+      "detail": "34 years 78 days",
+      "accept": ["tony adams", "adams"]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "34 years 34 days",
+      "accept": ["ian wright", "wright"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "33 years 313 days",
+      "accept": ["david luiz", "luiz"]
+    },
+    {
+      "display": "Nigel Winterburn",
+      "detail": "33 years 285 days",
+      "accept": ["nigel winterburn", "winterburn"]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "33 years 267 days",
+      "accept": ["martin keown", "keown"]
+    }
+  ]
+}
