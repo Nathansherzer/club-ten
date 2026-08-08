@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "cleanUrls": true,
   "functions": {
     "api/puzzle.js":      { "includeFiles": "puzzles/**" },
     "api/archive.js":     { "includeFiles": "puzzles/**" },
@@ -16,25 +17,6 @@
     { "source": "/liverpool/:date",         "destination": "/api/puzzle-page?club=liverpool&date=:date" },
     { "source": "/manchester-city/:date",   "destination": "/api/puzzle-page?club=manchester-city&date=:date" },
     { "source": "/manchester-united/:date", "destination": "/api/puzzle-page?club=manchester-united&date=:date" },
-    { "source": "/tottenham/:date",         "destination": "/api/puzzle-page?club=tottenham&date=:date" },
-
-    { "source": "/arsenal",           "destination": "/arsenal.html" },
-    { "source": "/chelsea",           "destination": "/chelsea.html" },
-    { "source": "/liverpool",         "destination": "/liverpool.html" },
-    { "source": "/manchester-city",   "destination": "/manchester-city.html" },
-    { "source": "/manchester-united", "destination": "/manchester-united.html" },
-    { "source": "/tottenham",         "destination": "/tottenham.html" },
-    { "source": "/arsenal-football-quiz",           "destination": "/arsenal-football-quiz.html" },
-    { "source": "/chelsea-football-quiz",           "destination": "/chelsea-football-quiz.html" },
-    { "source": "/liverpool-football-quiz",         "destination": "/liverpool-football-quiz.html" },
-    { "source": "/manchester-city-football-quiz",   "destination": "/manchester-city-football-quiz.html" },
-    { "source": "/manchester-united-football-quiz", "destination": "/manchester-united-football-quiz.html" },
-    { "source": "/tottenham-football-quiz",         "destination": "/tottenham-football-quiz.html" },
-    { "source": "/about",             "destination": "/about.html" },
-    { "source": "/contact",           "destination": "/contact.html" },
-    { "source": "/privacy",           "destination": "/privacy.html" },
-    { "source": "/how-to-play",       "destination": "/how-to-play.html" },
-    { "source": "/archive",                "destination": "/archive.html" },
-    { "source": "/football-top-10-quiz",  "destination": "/football-top-10-quiz.html" }
+    { "source": "/tottenham/:date",         "destination": "/api/puzzle-page?club=tottenham&date=:date" }
   ]
 }
