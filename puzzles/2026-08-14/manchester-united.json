@@ -48,14 +48,14 @@
       "accept": ["teddy sheringham", "sheringham"]
     },
     {
-      "display": "Casemiro",
-      "detail": "34 years 0 days",
-      "accept": ["casemiro"]
-    },
-    {
       "display": "Edinson Cavani",
       "detail": "34 years 94 days",
       "accept": ["edinson cavani", "cavani", "el matador"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "34 years 0 days",
+      "accept": ["casemiro"]
     }
   ]
 }
