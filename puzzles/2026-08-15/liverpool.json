@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-15",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who scored the most Premier League away goals for Liverpool",
+  "note": "PL away goals only · 1992/93–2025/26 · ties broken by fewer away appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "83 away goals",
+      "accept": ["mohamed salah", "salah", "mo salah", "mohammed salah"]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "55 away goals",
+      "accept": ["michael owen", "owen"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "52 away goals",
+      "accept": ["steven gerrard", "gerrard", "stevie gerrard", "stevie g"]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "43 away goals",
+      "accept": ["robbie fowler", "fowler"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "42 away goals",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "34 away goals",
+      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "30 away goals",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "24 away goals",
+      "accept": ["diogo jota", "jota"]
+    },
+    {
+      "display": "Steve McManaman",
+      "detail": "23 away goals",
+      "accept": ["steve mcmanaman", "mcmanaman"]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "22 away goals",
+      "accept": ["daniel sturridge", "sturridge"]
+    }
+  ]
+}

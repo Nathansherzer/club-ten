@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-15",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who scored the most Premier League away goals for Spurs",
+  "note": "PL away goals only · 1992/93–2025/26 · ties broken by fewer away appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "112 away goals",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "54 away goals",
+      "accept": ["son heung-min", "son heung min", "son", "heung-min son"]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "49 away goals",
+      "accept": ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "36 away goals",
+      "accept": ["robbie keane", "keane"]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "31 away goals",
+      "accept": ["jermain defoe", "defoe"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "30 away goals",
+      "accept": ["dele alli", "alli", "dele"]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "24 away goals",
+      "accept": ["gareth bale", "bale"]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "24 away goals",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Chris Armstrong",
+      "detail": "21 away goals",
+      "accept": ["chris armstrong", "armstrong"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "18 away goals",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    }
+  ]
+}

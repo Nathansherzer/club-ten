@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-15",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who scored the most Premier League away goals for Chelsea",
+  "note": "PL away goals only · 1992/93–2025/26 · ties broken by fewer away appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "68 away goals",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "35 away goals",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "32 away goals",
+      "accept": ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Jimmy Floyd Hasselbaink",
+      "detail": "25 away goals",
+      "accept": ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink"]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "22 away goals",
+      "accept": ["diego costa", "costa"]
+    },
+    {
+      "display": "Tore André Flo",
+      "detail": "22 away goals",
+      "accept": ["tore andre flo", "tore andré flo", "flo"]
+    },
+    {
+      "display": "John Terry",
+      "detail": "21 away goals",
+      "accept": ["john terry", "terry", "jt"]
+    },
+    {
+      "display": "Eiður Guðjohnsen",
+      "detail": "20 away goals",
+      "accept": ["eidur gudjohnsen", "eiður guðjohnsen", "gudjohnsen", "guðjohnsen"]
+    },
+    {
+      "display": "Willian",
+      "detail": "20 away goals",
+      "accept": ["willian"]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "19 away goals",
+      "accept": ["nicolas anelka", "anelka"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-15",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who scored the most Premier League away goals for Arsenal",
+  "note": "PL away goals only · 1992/93–2025/26 · ties broken by fewer away appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail": "55 away goals",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "47 away goals",
+      "accept": ["ian wright", "wright"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "45 away goals",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "41 away goals",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "33 away goals",
+      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "alexis"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "33 away goals",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "28 away goals",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "26 away goals",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "25 away goals",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "25 away goals",
+      "accept": ["pierre-emerick aubameyang", "aubameyang", "auba"]
+    }
+  ]
+}
