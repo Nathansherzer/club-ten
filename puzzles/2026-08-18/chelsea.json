@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 academy graduates with the most Premier League appearances for Chelsea",
+  "note": "Must have joined academy before senior debut · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Terry",
+      "detail": "Academy graduate",
+      "accept": ["john terry", "terry", "jt"]
+    },
+    {
+      "display": "Eddie Newton",
+      "detail": "Academy graduate",
+      "accept": ["eddie newton", "newton"]
+    },
+    {
+      "display": "Frank Sinclair",
+      "detail": "Academy graduate",
+      "accept": ["frank sinclair", "sinclair"]
+    },
+    {
+      "display": "Reece James",
+      "detail": "Academy graduate",
+      "accept": ["reece james", "james"]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "Academy graduate",
+      "accept": ["mason mount", "mount"]
+    },
+    {
+      "display": "Ruben Loftus-Cheek",
+      "detail": "Academy graduate",
+      "accept": ["ruben loftus-cheek", "loftus-cheek", "loftus cheek", "rlc"]
+    },
+    {
+      "display": "Trevoh Chalobah",
+      "detail": "Academy graduate",
+      "accept": ["trevoh chalobah", "chalobah"]
+    },
+    {
+      "display": "Andreas Christensen",
+      "detail": "Academy graduate",
+      "accept": ["andreas christensen", "christensen"]
+    },
+    {
+      "display": "Callum Hudson-Odoi",
+      "detail": "Academy graduate",
+      "accept": ["callum hudson-odoi", "hudson-odoi", "hudson odoi", "cho"]
+    },
+    {
+      "display": "Conor Gallagher",
+      "detail": "Academy graduate",
+      "accept": ["conor gallagher", "gallagher"]
+    }
+  ]
+}

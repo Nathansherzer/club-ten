@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 academy graduates with the most Premier League appearances for Man City",
+  "note": "Must have joined academy before senior debut · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Phil Foden",
+      "detail": "Academy graduate",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Shaun Wright-Phillips",
+      "detail": "Academy graduate",
+      "accept": ["shaun wright-phillips", "wright-phillips", "swp"]
+    },
+    {
+      "display": "Micah Richards",
+      "detail": "Academy graduate",
+      "accept": ["micah richards", "richards"]
+    },
+    {
+      "display": "Stephen Ireland",
+      "detail": "Academy graduate",
+      "accept": ["stephen ireland", "ireland"]
+    },
+    {
+      "display": "Joey Barton",
+      "detail": "Academy graduate",
+      "accept": ["joey barton", "barton"]
+    },
+    {
+      "display": "Nedum Onuoha",
+      "detail": "Academy graduate",
+      "accept": ["nedum onuoha", "onuoha"]
+    },
+    {
+      "display": "Rico Lewis",
+      "detail": "Academy graduate",
+      "accept": ["rico lewis", "lewis"]
+    },
+    {
+      "display": "Oscar Bobb",
+      "detail": "Academy graduate",
+      "accept": ["oscar bobb", "bobb"]
+    },
+    {
+      "display": "Kelechi Iheanacho",
+      "detail": "Academy graduate",
+      "accept": ["kelechi iheanacho", "iheanacho"]
+    },
+    {
+      "display": "Michael Johnson",
+      "detail": "Academy graduate",
+      "accept": ["michael johnson", "johnson"]
+    }
+  ]
+}

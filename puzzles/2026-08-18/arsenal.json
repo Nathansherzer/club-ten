@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 academy graduates with the most Premier League appearances for Arsenal",
+  "note": "Must have joined academy before senior debut · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ray Parlour",
+      "detail": "Academy graduate",
+      "accept": ["ray parlour", "parlour"]
+    },
+    {
+      "display": "Tony Adams",
+      "detail": "Academy graduate",
+      "accept": ["tony adams", "adams"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "Academy graduate",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "Academy graduate",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas", "cesc"]
+    },
+    {
+      "display": "Héctor Bellerín",
+      "detail": "Academy graduate",
+      "accept": ["hector bellerin", "héctor bellerín", "bellerin", "bellerín"]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "Academy graduate",
+      "accept": ["ashley cole", "cole"]
+    },
+    {
+      "display": "Kieran Gibbs",
+      "detail": "Academy graduate",
+      "accept": ["kieran gibbs", "gibbs"]
+    },
+    {
+      "display": "Wojciech Szczęsny",
+      "detail": "Academy graduate",
+      "accept": ["wojciech szczesny", "wojciech szczęsny", "szczesny", "szczęsny"]
+    },
+    {
+      "display": "Jack Wilshere",
+      "detail": "Academy graduate",
+      "accept": ["jack wilshere", "wilshere"]
+    },
+    {
+      "display": "Alex Iwobi",
+      "detail": "Academy graduate",
+      "accept": ["alex iwobi", "iwobi"]
+    }
+  ]
+}

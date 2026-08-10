@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 academy graduates with the most Premier League appearances for Spurs",
+  "note": "Must have joined academy before senior debut · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "Academy graduate",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "Academy graduate",
+      "accept": ["ledley king", "king"]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "Academy graduate",
+      "accept": ["sol campbell", "campbell"]
+    },
+    {
+      "display": "Stephen Carr",
+      "detail": "Academy graduate",
+      "accept": ["stephen carr", "carr"]
+    },
+    {
+      "display": "Harry Winks",
+      "detail": "Academy graduate",
+      "accept": ["harry winks", "winks"]
+    },
+    {
+      "display": "Nick Barmby",
+      "detail": "Academy graduate",
+      "accept": ["nick barmby", "barmby"]
+    },
+    {
+      "display": "Oliver Skipp",
+      "detail": "Academy graduate",
+      "accept": ["oliver skipp", "skipp"]
+    },
+    {
+      "display": "Luke Young",
+      "detail": "Academy graduate",
+      "accept": ["luke young", "young"]
+    },
+    {
+      "display": "Ryan Mason",
+      "detail": "Academy graduate",
+      "accept": ["ryan mason", "mason"]
+    },
+    {
+      "display": "Andros Townsend",
+      "detail": "Academy graduate",
+      "accept": ["andros townsend", "townsend"]
+    }
+  ]
+}

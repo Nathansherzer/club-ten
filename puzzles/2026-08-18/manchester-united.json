@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 academy graduates with the most Premier League appearances for Man United",
+  "note": "Must have joined academy before senior debut · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "Academy graduate",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "Academy graduate",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "Academy graduate",
+      "accept": ["gary neville", "neville"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "Academy graduate",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Nicky Butt",
+      "detail": "Academy graduate",
+      "accept": ["nicky butt", "butt"]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "Academy graduate",
+      "accept": ["david beckham", "beckham"]
+    },
+    {
+      "display": "Phil Neville",
+      "detail": "Academy graduate",
+      "accept": ["phil neville", "phil"]
+    },
+    {
+      "display": "John O'Shea",
+      "detail": "Academy graduate",
+      "accept": ["john o'shea", "john oshea", "o'shea", "oshea"]
+    },
+    {
+      "display": "Wes Brown",
+      "detail": "Academy graduate",
+      "accept": ["wes brown", "brown"]
+    },
+    {
+      "display": "Darren Fletcher",
+      "detail": "Academy graduate",
+      "accept": ["darren fletcher", "fletcher"]
+    }
+  ]
+}

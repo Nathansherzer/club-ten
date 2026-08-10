@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 academy graduates with the most Premier League appearances for Liverpool",
+  "note": "Must have joined academy before senior debut · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jamie Carragher",
+      "detail": "Academy graduate",
+      "accept": ["jamie carragher", "carragher"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "Academy graduate",
+      "accept": ["steven gerrard", "gerrard", "stevie gerrard", "stevie g"]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "Academy graduate",
+      "accept": ["robbie fowler", "fowler"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "Academy graduate",
+      "accept": ["trent alexander-arnold", "alexander-arnold", "trent", "taa"]
+    },
+    {
+      "display": "Steve McManaman",
+      "detail": "Academy graduate",
+      "accept": ["steve mcmanaman", "mcmanaman"]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "Academy graduate",
+      "accept": ["michael owen", "owen"]
+    },
+    {
+      "display": "Curtis Jones",
+      "detail": "Academy graduate",
+      "accept": ["curtis jones", "jones"]
+    },
+    {
+      "display": "Dominic Matteo",
+      "detail": "Academy graduate",
+      "accept": ["dominic matteo", "matteo"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "Academy graduate",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Conor Bradley",
+      "detail": "Academy graduate",
+      "accept": ["conor bradley", "bradley"]
+    }
+  ]
+}
