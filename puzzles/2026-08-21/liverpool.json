@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-21",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Dutch players with the most Premier League appearances for Liverpool",
+  "note": "ranked by PL appearances · data through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Virgil van Dijk",
+      "detail": "272 apps",
+      "accept": ["virgil van dijk", "van dijk", "vvd"]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "208 apps",
+      "accept": ["dirk kuyt", "kuyt"]
+    },
+    {
+      "display": "Georginio Wijnaldum",
+      "detail": "179 apps",
+      "accept": ["georginio wijnaldum", "wijnaldum", "gini wijnaldum", "gini"]
+    },
+    {
+      "display": "Cody Gakpo",
+      "detail": "127 apps",
+      "accept": ["cody gakpo", "gakpo"]
+    },
+    {
+      "display": "Ryan Gravenberch",
+      "detail": "99 apps",
+      "accept": ["ryan gravenberch", "gravenberch", "ryan"]
+    },
+    {
+      "display": "Ryan Babel",
+      "detail": "91 apps",
+      "accept": ["ryan babel", "babel", "ryan"]
+    },
+    {
+      "display": "Sander Westerveld",
+      "detail": "75 apps",
+      "accept": ["sander westerveld", "westerveld"]
+    },
+    {
+      "display": "Erik Meijer",
+      "detail": "24 apps",
+      "accept": ["erik meijer", "meijer"]
+    },
+    {
+      "display": "Boudewijn Zenden",
+      "detail": "23 apps",
+      "accept": ["boudewijn zenden", "zenden"]
+    },
+    {
+      "display": "Jeremie Frimpong",
+      "detail": "21 apps",
+      "accept": ["jeremie frimpong", "frimpong"]
+    }
+  ]
+}

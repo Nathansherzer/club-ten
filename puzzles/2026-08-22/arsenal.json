@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-22",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who scored the most goals in European competitions for Arsenal",
+  "note": "UCL, UEL, UECL, UEFA Cup, Cup Winners' Cup & predecessors · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail": "42 goals",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "21 goals",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "20 goals",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "18 goals",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "17 goals",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "16 goals",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Freddie Ljungberg",
+      "detail": "15 goals",
+      "accept": ["freddie ljungberg", "ljungberg"]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "15 goals",
+      "accept": ["ian wright", "wright"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "14 goals",
+      "accept": ["pierre-emerick aubameyang", "aubameyang", "auba"]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "13 goals",
+      "accept": ["gabriel martinelli", "martinelli", "gabriel"]
+    }
+  ]
+}

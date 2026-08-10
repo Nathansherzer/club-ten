@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-21",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 Brazilian players with the most Premier League appearances for Man City",
+  "note": "ranked by PL appearances · data through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ederson",
+      "detail": "277 apps",
+      "accept": ["ederson"]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "264 apps",
+      "accept": ["fernandinho"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "159 apps",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Fernando",
+      "detail": "64 apps",
+      "accept": ["fernando"]
+    },
+    {
+      "display": "Elano",
+      "detail": "62 apps",
+      "accept": ["elano"]
+    },
+    {
+      "display": "Sávio",
+      "detail": "53 apps",
+      "accept": ["savio", "sávio"]
+    },
+    {
+      "display": "Robinho",
+      "detail": "41 apps",
+      "accept": ["robinho"]
+    },
+    {
+      "display": "Danilo",
+      "detail": "34 apps",
+      "accept": ["danilo"]
+    },
+    {
+      "display": "Jô",
+      "detail": "21 apps",
+      "accept": ["jo", "jô"]
+    },
+    {
+      "display": "Geovanni",
+      "detail": "19 apps",
+      "accept": ["geovanni"]
+    }
+  ]
+}

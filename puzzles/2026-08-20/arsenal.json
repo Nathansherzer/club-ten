@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most expensive players Arsenal signed directly from another Premier League club",
+  "note": "ranked by transfer fee · PL-to-PL deals only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Declan Rice",
+      "detail": "West Ham · €116.60m",
+      "accept": ["declan rice", "rice"]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "Chelsea · €75m",
+      "accept": ["kai havertz", "havertz"]
+    },
+    {
+      "display": "Eberechi Eze",
+      "detail": "Crystal Palace · €69.30m",
+      "accept": ["eberechi eze", "eze"]
+    },
+    {
+      "display": "Ben White",
+      "detail": "Brighton · €58.50m",
+      "accept": ["ben white", "white"]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "Chelsea · €56m",
+      "accept": ["noni madueke", "madueke"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "Man City · €52.20m",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "Southampton · €38m",
+      "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "oxlade chamberlain", "aoc"]
+    },
+    {
+      "display": "Aaron Ramsdale",
+      "detail": "Sheffield United · €28m",
+      "accept": ["aaron ramsdale", "ramsdale"]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "Brighton · €24m",
+      "accept": ["leandro trossard", "trossard"]
+    },
+    {
+      "display": "Calum Chambers",
+      "detail": "Southampton · €20.23m",
+      "accept": ["calum chambers", "chambers"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-21",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 Brazilian players with the most Premier League appearances for Arsenal",
+  "note": "ranked by PL appearances · data through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "192 apps",
+      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães", "gabriel"]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "191 apps",
+      "accept": ["gabriel martinelli", "martinelli", "gabriel"]
+    },
+    {
+      "display": "Gilberto Silva",
+      "detail": "170 apps",
+      "accept": ["gilberto silva", "gilberto", "silva"]
+    },
+    {
+      "display": "Denílson",
+      "detail": "96 apps",
+      "accept": ["denilson", "denílson"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "84 apps",
+      "accept": ["gabriel jesus", "jesus", "gabriel"]
+    },
+    {
+      "display": "Edu Gaspar",
+      "detail": "79 apps",
+      "accept": ["edu gaspar", "edu"]
+    },
+    {
+      "display": "Sylvinho",
+      "detail": "55 apps",
+      "accept": ["sylvinho"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "53 apps",
+      "accept": ["david luiz", "luiz"]
+    },
+    {
+      "display": "Gabriel Paulista",
+      "detail": "46 apps",
+      "accept": ["gabriel paulista", "paulista", "gabriel"]
+    },
+    {
+      "display": "Willian",
+      "detail": "25 apps",
+      "accept": ["willian"]
+    }
+  ]
+}

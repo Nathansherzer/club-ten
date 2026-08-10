@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most expensive players Man United signed directly from another Premier League club",
+  "note": "ranked by transfer fee · PL-to-PL deals only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Maguire",
+      "detail": "Leicester · €87m",
+      "accept": ["harry maguire", "maguire"]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "Everton · €84.70m",
+      "accept": ["romelu lukaku", "lukaku"]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "Brentford · €75m",
+      "accept": ["bryan mbeumo", "mbeumo"]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "Wolves · €74.20m",
+      "accept": ["matheus cunha", "cunha"]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "Chelsea · €64.20m",
+      "accept": ["mason mount", "mount"]
+    },
+    {
+      "display": "Aaron Wan-Bissaka",
+      "detail": "Crystal Palace · €55m",
+      "accept": ["aaron wan-bissaka", "wan-bissaka", "wan bissaka", "awb"]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "Leeds · €46m",
+      "accept": ["rio ferdinand", "ferdinand"]
+    },
+    {
+      "display": "Nemanja Matić",
+      "detail": "Chelsea · €44.70m",
+      "accept": ["nemanja matic", "nemanja matić", "matic", "matić"]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "Chelsea · €44.70m",
+      "accept": ["juan mata", "mata"]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "Spurs · €38m",
+      "accept": ["dimitar berbatov", "berbatov"]
+    }
+  ]
+}

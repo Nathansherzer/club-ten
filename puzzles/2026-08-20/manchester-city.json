@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most expensive players Man City signed directly from another Premier League club",
+  "note": "ranked by transfer fee · PL-to-PL deals only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jack Grealish",
+      "detail": "Aston Villa · €117.50m",
+      "accept": ["jack grealish", "grealish"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "Leicester · €67.80m",
+      "accept": ["riyad mahrez", "mahrez"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "Liverpool · €63.70m",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Matheus Nunes",
+      "detail": "Wolves · €62m",
+      "accept": ["matheus nunes", "nunes"]
+    },
+    {
+      "display": "John Stones",
+      "detail": "Everton · €55.60m",
+      "accept": ["john stones", "stones"]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "Spurs · €52.70m",
+      "accept": ["kyle walker", "walker"]
+    },
+    {
+      "display": "Kalvin Phillips",
+      "detail": "Leeds · €49m",
+      "accept": ["kalvin phillips", "phillips"]
+    },
+    {
+      "display": "Nathan Aké",
+      "detail": "Bournemouth · €45.30m",
+      "accept": ["nathan ake", "nathan aké", "ake", "aké"]
+    },
+    {
+      "display": "Wilfried Bony",
+      "detail": "Swansea · €32.30m",
+      "accept": ["wilfried bony", "bony"]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "Arsenal · €27.50m",
+      "accept": ["samir nasri", "nasri"]
+    }
+  ]
+}

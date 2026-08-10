@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-21",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Brazilian players with the most Premier League appearances for Chelsea",
+  "note": "ranked by PL appearances · data through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Willian",
+      "detail": "234 apps",
+      "accept": ["willian"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "160 apps",
+      "accept": ["david luiz", "luiz"]
+    },
+    {
+      "display": "Ramires",
+      "detail": "159 apps",
+      "accept": ["ramires"]
+    },
+    {
+      "display": "Oscar",
+      "detail": "131 apps",
+      "accept": ["oscar"]
+    },
+    {
+      "display": "Thiago Silva",
+      "detail": "113 apps",
+      "accept": ["thiago silva", "thiago", "silva"]
+    },
+    {
+      "display": "Alex",
+      "detail": "86 apps",
+      "accept": ["alex"]
+    },
+    {
+      "display": "Juliano Belletti",
+      "detail": "54 apps",
+      "accept": ["juliano belletti", "belletti"]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "35 apps",
+      "accept": ["joao pedro", "joão pedro", "pedro"]
+    },
+    {
+      "display": "Andrey Santos",
+      "detail": "27 apps",
+      "accept": ["andrey santos", "andrey", "santos"]
+    },
+    {
+      "display": "Estêvão",
+      "detail": "22 apps",
+      "accept": ["estevao", "estêvão"]
+    }
+  ]
+}

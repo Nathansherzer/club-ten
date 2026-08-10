@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-22",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who scored the most goals in European competitions for Liverpool",
+  "note": "UCL, UEL, UECL, UEFA Cup, Cup Winners' Cup & predecessors · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "53 goals",
+      "accept": ["mohamed salah", "salah", "mo salah"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "41 goals",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "26 goals",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "24 goals",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "22 goals",
+      "accept": ["michael owen", "owen"]
+    },
+    {
+      "display": "Ian Rush",
+      "detail": "20 goals",
+      "accept": ["ian rush", "rush"]
+    },
+    {
+      "display": "Roger Hunt",
+      "detail": "17 goals",
+      "accept": ["roger hunt", "hunt"]
+    },
+    {
+      "display": "Terry McDermott",
+      "detail": "15 goals",
+      "accept": ["terry mcdermott", "mcdermott"]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "15 goals",
+      "accept": ["dirk kuyt", "kuyt"]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "14 goals",
+      "accept": ["robbie fowler", "fowler"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-21",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Brazilian players with the most Premier League appearances for Man United",
+  "note": "ranked by PL appearances · data through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Fred",
+      "detail": "139 apps",
+      "accept": ["fred"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "111 apps",
+      "accept": ["casemiro"]
+    },
+    {
+      "display": "Rafael",
+      "detail": "109 apps",
+      "accept": ["rafael"]
+    },
+    {
+      "display": "Anderson",
+      "detail": "105 apps",
+      "accept": ["anderson"]
+    },
+    {
+      "display": "Antony",
+      "detail": "62 apps",
+      "accept": ["antony"]
+    },
+    {
+      "display": "Andreas Pereira",
+      "detail": "45 apps",
+      "accept": ["andreas pereira", "pereira"]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "33 apps",
+      "accept": ["matheus cunha", "cunha"]
+    },
+    {
+      "display": "Alex Telles",
+      "detail": "30 apps",
+      "accept": ["alex telles", "telles"]
+    },
+    {
+      "display": "Fábio",
+      "detail": "22 apps",
+      "accept": ["fabio", "fábio"]
+    },
+    {
+      "display": "Kléberson",
+      "detail": "20 apps",
+      "accept": ["kleberson", "kléberson"]
+    }
+  ]
+}

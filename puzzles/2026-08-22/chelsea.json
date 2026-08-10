@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-22",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who scored the most goals in European competitions for Chelsea",
+  "note": "UCL, UEL, UECL, UEFA Cup, Cup Winners' Cup & predecessors · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Didier Drogba",
+      "detail": "36 goals",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "25 goals",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "18 goals",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "17 goals",
+      "accept": ["fernando torres", "torres"]
+    },
+    {
+      "display": "Peter Osgood",
+      "detail": "16 goals",
+      "accept": ["peter osgood", "osgood"]
+    },
+    {
+      "display": "John Terry",
+      "detail": "13 goals",
+      "accept": ["john terry", "terry"]
+    },
+    {
+      "display": "Willian",
+      "detail": "13 goals",
+      "accept": ["willian"]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "12 goals",
+      "accept": ["nicolas anelka", "anelka"]
+    },
+    {
+      "display": "Tore André Flo",
+      "detail": "12 goals",
+      "accept": ["tore andre flo", "tore andré flo", "flo"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "12 goals",
+      "accept": ["eden hazard", "hazard"]
+    }
+  ]
+}

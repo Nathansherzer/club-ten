@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most expensive players Liverpool signed directly from another Premier League club",
+  "note": "ranked by transfer fee · PL-to-PL deals only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alexander Isak",
+      "detail": "Newcastle · €145m",
+      "accept": ["alexander isak", "isak"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "Southampton · €84.65m",
+      "accept": ["virgil van dijk", "van dijk", "vvd"]
+    },
+    {
+      "display": "Christian Benteke",
+      "detail": "Aston Villa · €46.50m",
+      "accept": ["christian benteke", "benteke"]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "Wolves · €44.70m",
+      "accept": ["diogo jota", "jota"]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "Brighton · €42m",
+      "accept": ["alexis mac allister", "mac allister", "macallister"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "Southampton · €41.20m",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "Andy Carroll",
+      "detail": "Newcastle · €41m",
+      "accept": ["andy carroll", "carroll"]
+    },
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "Arsenal · €38m",
+      "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "oxlade chamberlain", "aoc"]
+    },
+    {
+      "display": "Adam Lallana",
+      "detail": "Southampton · €31m",
+      "accept": ["adam lallana", "lallana"]
+    },
+    {
+      "display": "Dejan Lovren",
+      "detail": "Southampton · €25.30m",
+      "accept": ["dejan lovren", "lovren"]
+    }
+  ]
+}

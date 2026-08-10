@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most expensive players Chelsea signed directly from another Premier League club",
+  "note": "ranked by transfer fee · PL-to-PL deals only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Moisés Caicedo",
+      "detail": "Brighton · €116m",
+      "accept": ["moises caicedo", "moisés caicedo", "caicedo"]
+    },
+    {
+      "display": "Wesley Fofana",
+      "detail": "Leicester · €80.40m",
+      "accept": ["wesley fofana", "fofana"]
+    },
+    {
+      "display": "Marc Cucurella",
+      "detail": "Brighton · €65.30m",
+      "accept": ["marc cucurella", "cucurella"]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "Brighton · €63.70m",
+      "accept": ["joao pedro", "joão pedro", "pedro"]
+    },
+    {
+      "display": "Roméo Lavia",
+      "detail": "Southampton · €62.10m",
+      "accept": ["romeo lavia", "roméo lavia", "lavia"]
+    },
+    {
+      "display": "Pedro Neto",
+      "detail": "Wolves · €60m",
+      "accept": ["pedro neto", "neto", "pedro"]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "Liverpool · €58.50m",
+      "accept": ["fernando torres", "torres"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "Man City · €56.20m",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Ben Chilwell",
+      "detail": "Leicester · €50.20m",
+      "accept": ["ben chilwell", "chilwell"]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "Man United · €46.20m",
+      "accept": ["alejandro garnacho", "garnacho"]
+    }
+  ]
+}

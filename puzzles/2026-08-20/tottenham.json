@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most expensive players Spurs signed directly from another Premier League club",
+  "note": "ranked by transfer fee · PL-to-PL deals only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Dominic Solanke",
+      "detail": "Bournemouth · €64.30m",
+      "accept": ["dominic solanke", "solanke"]
+    },
+    {
+      "display": "Mohammed Kudus",
+      "detail": "West Ham · €63.80m",
+      "accept": ["mohammed kudus", "kudus"]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "Everton · €58m",
+      "accept": ["richarlison"]
+    },
+    {
+      "display": "Brennan Johnson",
+      "detail": "Nottm Forest · €55m",
+      "accept": ["brennan johnson", "johnson"]
+    },
+    {
+      "display": "James Maddison",
+      "detail": "Leicester · €46.30m",
+      "accept": ["james maddison", "maddison"]
+    },
+    {
+      "display": "Moussa Sissoko",
+      "detail": "Newcastle · €35m",
+      "accept": ["moussa sissoko", "sissoko"]
+    },
+    {
+      "display": "Yves Bissouma",
+      "detail": "Brighton · €29.20m",
+      "accept": ["yves bissouma", "bissouma"]
+    },
+    {
+      "display": "Darren Bent",
+      "detail": "Charlton · €24.75m",
+      "accept": ["darren bent", "bent"]
+    },
+    {
+      "display": "David Bentley",
+      "detail": "Blackburn · €22m",
+      "accept": ["david bentley", "bentley"]
+    },
+    {
+      "display": "Matt Doherty",
+      "detail": "Wolves · €16.80m",
+      "accept": ["matt doherty", "doherty"]
+    }
+  ]
+}

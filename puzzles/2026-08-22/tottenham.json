@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-22",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who scored the most goals in European competitions for Spurs",
+  "note": "UCL, UEL, UECL, UEFA Cup, Cup Winners' Cup & predecessors · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "45 goals",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "27 goals",
+      "accept": ["son heung-min", "son heung min", "heung-min son", "son", "heung min"]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "23 goals",
+      "accept": ["jermain defoe", "defoe"]
+    },
+    {
+      "display": "Martin Chivers",
+      "detail": "22 goals",
+      "accept": ["martin chivers", "chivers", "martin"]
+    },
+    {
+      "display": "Mark Falco",
+      "detail": "13 goals",
+      "accept": ["mark falco", "falco"]
+    },
+    {
+      "display": "Alan Gilzean",
+      "detail": "13 goals",
+      "accept": ["alan gilzean", "gilzean"]
+    },
+    {
+      "display": "Martin Peters",
+      "detail": "13 goals",
+      "accept": ["martin peters", "peters", "martin"]
+    },
+    {
+      "display": "Lucas Moura",
+      "detail": "12 goals",
+      "accept": ["lucas moura", "moura"]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "12 goals",
+      "accept": ["dimitar berbatov", "berbatov"]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "12 goals",
+      "accept": ["erik lamela", "lamela"]
+    }
+  ]
+}
