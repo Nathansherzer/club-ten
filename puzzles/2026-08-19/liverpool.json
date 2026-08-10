@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-19",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 South American players with the most Premier League appearances for Liverpool",
+  "note": "CONMEBOL nations only · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Roberto Firmino",
+      "detail": "Brazil",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "Brazil",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "Brazil",
+      "accept": ["lucas leiva", "lucas"]
+    },
+    {
+      "display": "Philippe Coutinho",
+      "detail": "Brazil",
+      "accept": ["philippe coutinho", "coutinho"]
+    },
+    {
+      "display": "Fabinho",
+      "detail": "Brazil",
+      "accept": ["fabinho"]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "Uruguay",
+      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "Colombia",
+      "accept": ["luis diaz", "luis díaz", "diaz", "díaz"]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "Argentina",
+      "accept": ["alexis mac allister", "mac allister", "macallister"]
+    },
+    {
+      "display": "Javier Mascherano",
+      "detail": "Argentina",
+      "accept": ["javier mascherano", "mascherano"]
+    },
+    {
+      "display": "Fábio Aurélio",
+      "detail": "Brazil",
+      "accept": ["fabio aurelio", "fábio aurélio", "aurelio", "aurélio"]
+    }
+  ]
+}

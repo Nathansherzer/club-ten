@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-19",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 South American players with the most Premier League appearances for Arsenal",
+  "note": "CONMEBOL nations only · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "Brazil",
+      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães"]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "Brazil",
+      "accept": ["gabriel martinelli", "martinelli"]
+    },
+    {
+      "display": "Gilberto Silva",
+      "detail": "Brazil",
+      "accept": ["gilberto silva", "gilberto", "silva"]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "Chile",
+      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "alexis"]
+    },
+    {
+      "display": "Denílson",
+      "detail": "Brazil",
+      "accept": ["denilson", "denílson"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "Brazil",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Edu",
+      "detail": "Brazil",
+      "accept": ["edu"]
+    },
+    {
+      "display": "Sylvinho",
+      "detail": "Brazil",
+      "accept": ["sylvinho"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "Brazil",
+      "accept": ["david luiz", "luiz"]
+    },
+    {
+      "display": "Gabriel Paulista",
+      "detail": "Brazil",
+      "accept": ["gabriel paulista", "paulista"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-19",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 South American players with the most Premier League appearances for Chelsea",
+  "note": "CONMEBOL nations only · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Willian",
+      "detail": "Brazil",
+      "accept": ["willian"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "Brazil",
+      "accept": ["david luiz", "luiz"]
+    },
+    {
+      "display": "Ramires",
+      "detail": "Brazil",
+      "accept": ["ramires"]
+    },
+    {
+      "display": "Oscar",
+      "detail": "Brazil",
+      "accept": ["oscar"]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "Argentina",
+      "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández", "enzo"]
+    },
+    {
+      "display": "Thiago Silva",
+      "detail": "Brazil",
+      "accept": ["thiago silva", "thiago", "silva"]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "Ecuador",
+      "accept": ["moises caicedo", "moisés caicedo", "caicedo"]
+    },
+    {
+      "display": "Alex",
+      "detail": "Brazil",
+      "accept": ["alex"]
+    },
+    {
+      "display": "Juliano Belletti",
+      "detail": "Brazil",
+      "accept": ["juliano belletti", "belletti"]
+    },
+    {
+      "display": "Hernán Crespo",
+      "detail": "Argentina",
+      "accept": ["hernan crespo", "hernán crespo", "crespo"]
+    }
+  ]
+}

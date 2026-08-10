@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-19",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 South American players with the most Premier League appearances for Man City",
+  "note": "CONMEBOL nations only · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ederson",
+      "detail": "Brazil",
+      "accept": ["ederson"]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "Argentina",
+      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun"]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "Brazil",
+      "accept": ["fernandinho"]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "Argentina",
+      "accept": ["pablo zabaleta", "zabaleta"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "Brazil",
+      "accept": ["gabriel jesus", "jesus"]
+    },
+    {
+      "display": "Nicolás Otamendi",
+      "detail": "Argentina",
+      "accept": ["nicolas otamendi", "nicolás otamendi", "otamendi"]
+    },
+    {
+      "display": "Carlos Tevez",
+      "detail": "Argentina",
+      "accept": ["carlos tevez", "tevez"]
+    },
+    {
+      "display": "Julián Álvarez",
+      "detail": "Argentina",
+      "accept": ["julian alvarez", "julián álvarez", "alvarez", "álvarez"]
+    },
+    {
+      "display": "Fernando",
+      "detail": "Brazil",
+      "accept": ["fernando"]
+    },
+    {
+      "display": "Elano",
+      "detail": "Brazil",
+      "accept": ["elano"]
+    }
+  ]
+}

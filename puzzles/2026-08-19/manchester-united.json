@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-19",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 South American players with the most Premier League appearances for Man United",
+  "note": "CONMEBOL nations only · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Antonio Valencia",
+      "detail": "Ecuador",
+      "accept": ["antonio valencia", "valencia"]
+    },
+    {
+      "display": "Fred",
+      "detail": "Brazil",
+      "accept": ["fred"]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "Brazil",
+      "accept": ["casemiro"]
+    },
+    {
+      "display": "Rafael",
+      "detail": "Brazil",
+      "accept": ["rafael"]
+    },
+    {
+      "display": "Anderson",
+      "detail": "Brazil",
+      "accept": ["anderson"]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "Argentina",
+      "accept": ["alejandro garnacho", "garnacho"]
+    },
+    {
+      "display": "Lisandro Martínez",
+      "detail": "Argentina",
+      "accept": ["lisandro martinez", "lisandro martínez", "martinez", "martínez", "lisandro"]
+    },
+    {
+      "display": "Marcos Rojo",
+      "detail": "Argentina",
+      "accept": ["marcos rojo", "rojo"]
+    },
+    {
+      "display": "Carlos Tevez",
+      "detail": "Argentina",
+      "accept": ["carlos tevez", "tevez"]
+    },
+    {
+      "display": "Diego Forlán",
+      "detail": "Uruguay",
+      "accept": ["diego forlan", "diego forlán", "forlan", "forlán"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-19",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 South American players with the most Premier League appearances for Spurs",
+  "note": "CONMEBOL nations only · ranked by PL appearances · ties by starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erik Lamela",
+      "detail": "Argentina",
+      "accept": ["erik lamela", "lamela"]
+    },
+    {
+      "display": "Lucas Moura",
+      "detail": "Brazil",
+      "accept": ["lucas moura", "moura"]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "Argentina",
+      "accept": ["cristian romero", "romero", "cuti romero"]
+    },
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "Uruguay",
+      "accept": ["rodrigo bentancur", "bentancur"]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "Brazil",
+      "accept": ["richarlison"]
+    },
+    {
+      "display": "Heurelho Gomes",
+      "detail": "Brazil",
+      "accept": ["heurelho gomes", "gomes"]
+    },
+    {
+      "display": "Sandro",
+      "detail": "Brazil",
+      "accept": ["sandro"]
+    },
+    {
+      "display": "Emerson Royal",
+      "detail": "Brazil",
+      "accept": ["emerson royal", "emerson"]
+    },
+    {
+      "display": "Giovani Lo Celso",
+      "detail": "Argentina",
+      "accept": ["giovani lo celso", "lo celso"]
+    },
+    {
+      "display": "Paulinho",
+      "detail": "Brazil",
+      "accept": ["paulinho"]
+    }
+  ]
+}
