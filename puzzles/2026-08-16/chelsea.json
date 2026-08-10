@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-16",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 non-English players with the most Premier League appearances for Chelsea",
+  "note": "PL era · excludes English players · ties broken by more starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "César Azpilicueta",
+      "detail": "Spain · 349 apps",
+      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "Czech Republic · 333 apps",
+      "accept": ["petr cech", "petr čech", "cech", "čech"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "Ivory Coast · 254 apps",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "Nigeria · 249 apps",
+      "accept": ["john obi mikel", "obi mikel", "mikel"]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "Serbia · 248 apps",
+      "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "Belgium · 245 apps",
+      "accept": ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Willian",
+      "detail": "Brazil · 234 apps",
+      "accept": ["willian"]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "Italy · 229 apps",
+      "accept": ["gianfranco zola", "zola"]
+    },
+    {
+      "display": "N'Golo Kanté",
+      "detail": "France · 190 apps",
+      "accept": ["ngolo kante", "n'golo kante", "ngolo kanté", "n'golo kanté", "kante", "kanté"]
+    },
+    {
+      "display": "Eiður Guðjohnsen",
+      "detail": "Iceland · 186 apps",
+      "accept": ["eidur gudjohnsen", "eiður guðjohnsen", "gudjohnsen", "guðjohnsen"]
+    }
+  ]
+}

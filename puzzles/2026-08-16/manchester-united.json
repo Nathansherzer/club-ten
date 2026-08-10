@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-16",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 non-English players with the most Premier League appearances for Man United",
+  "note": "PL era · excludes English players · ties broken by more starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David de Gea",
+      "detail": "Spain · 415 apps",
+      "accept": ["david de gea", "de gea"]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "Republic of Ireland · 326 apps",
+      "accept": ["roy keane", "keane"]
+    },
+    {
+      "display": "Denis Irwin",
+      "detail": "Republic of Ireland · 296 apps",
+      "accept": ["denis irwin", "irwin"]
+    },
+    {
+      "display": "Patrice Evra",
+      "detail": "France · 273 apps",
+      "accept": ["patrice evra", "evra"]
+    },
+    {
+      "display": "John O'Shea",
+      "detail": "Republic of Ireland · 256 apps",
+      "accept": ["john o'shea", "john oshea", "o'shea", "oshea"]
+    },
+    {
+      "display": "Peter Schmeichel",
+      "detail": "Denmark · 252 apps",
+      "accept": ["peter schmeichel", "schmeichel"]
+    },
+    {
+      "display": "Mikaël Silvestre",
+      "detail": "France · 249 apps",
+      "accept": ["mikael silvestre", "mikaël silvestre", "silvestre"]
+    },
+    {
+      "display": "Antonio Valencia",
+      "detail": "Ecuador · 241 apps",
+      "accept": ["antonio valencia", "valencia"]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "Portugal · 236 apps",
+      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "Norway · 235 apps",
+      "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær", "ole"]
+    }
+  ]
+}

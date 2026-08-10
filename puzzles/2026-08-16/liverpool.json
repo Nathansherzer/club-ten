@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-16",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 non-English players with the most Premier League appearances for Liverpool",
+  "note": "PL era · excludes English players · ties broken by more starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sami Hyypiä",
+      "detail": "Finland · 318 apps",
+      "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "Egypt · 315 apps",
+      "accept": ["mohamed salah", "salah", "mo salah", "mohammed salah"]
+    },
+    {
+      "display": "Pepe Reina",
+      "detail": "Spain · 285 apps",
+      "accept": ["pepe reina", "reina"]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "Scotland · 275 apps",
+      "accept": ["andy robertson", "robertson"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "Netherlands · 272 apps",
+      "accept": ["virgil van dijk", "van dijk", "vvd"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "Brazil · 256 apps",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "Brazil · 255 apps",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "Brazil · 247 apps",
+      "accept": ["lucas leiva", "lucas"]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "Slovakia · 242 apps",
+      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+    },
+    {
+      "display": "John Arne Riise",
+      "detail": "Norway · 234 apps",
+      "accept": ["john arne riise", "riise"]
+    }
+  ]
+}

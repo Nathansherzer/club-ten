@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-16",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 non-English players with the most Premier League appearances for Arsenal",
+  "note": "PL era · excludes English players · ties broken by more starts",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "Netherlands · 315 apps",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "France · 279 apps",
+      "accept": ["patrick vieira", "vieira"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "Wales · 262 apps",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "France · 258 apps",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "France · 255 apps",
+      "accept": ["laurent koscielny", "koscielny"]
+    },
+    {
+      "display": "Granit Xhaka",
+      "detail": "Switzerland · 225 apps",
+      "accept": ["granit xhaka", "xhaka"]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "Ivory Coast · 225 apps",
+      "accept": ["kolo toure", "kolo touré", "toure", "touré"]
+    },
+    {
+      "display": "Freddie Ljungberg",
+      "detail": "Sweden · 216 apps",
+      "accept": ["freddie ljungberg", "ljungberg"]
+    },
+    {
+      "display": "Bacary Sagna",
+      "detail": "France · 213 apps",
+      "accept": ["bacary sagna", "sagna"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "Spain · 212 apps",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas", "cesc"]
+    }
+  ]
+}
