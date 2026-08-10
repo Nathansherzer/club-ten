@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-17",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the last 10 primary permanent club captains for Arsenal",
+  "note": "Most recent first · officially appointed captains only · no vice-captains or stand-ins",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Martin Ødegaard",
+      "detail": "2022–present",
+      "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"]
+    },
+    {
+      "display": "Alexandre Lacazette",
+      "detail": "2021–2022",
+      "accept": ["alexandre lacazette", "lacazette"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "2019–2021",
+      "accept": ["pierre-emerick aubameyang", "aubameyang", "auba"]
+    },
+    {
+      "display": "Granit Xhaka",
+      "detail": "2019",
+      "accept": ["granit xhaka", "xhaka"]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "2018–2019",
+      "accept": ["laurent koscielny", "koscielny"]
+    },
+    {
+      "display": "Per Mertesacker",
+      "detail": "2016–2018",
+      "accept": ["per mertesacker", "mertesacker", "bfg"]
+    },
+    {
+      "display": "Mikel Arteta",
+      "detail": "2014–2016",
+      "accept": ["mikel arteta", "arteta"]
+    },
+    {
+      "display": "Thomas Vermaelen",
+      "detail": "2012–2014",
+      "accept": ["thomas vermaelen", "vermaelen"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "2011–2012",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "2008–2011",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas", "cesc"]
+    }
+  ]
+}

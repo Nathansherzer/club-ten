@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-17",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the last 10 primary permanent club captains for Man United",
+  "note": "Most recent first · officially appointed captains only · no vice-captains or stand-ins",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "2023–present",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "2020–2023",
+      "accept": ["harry maguire", "maguire"]
+    },
+    {
+      "display": "Ashley Young",
+      "detail": "2019–2020",
+      "accept": ["ashley young", "young"]
+    },
+    {
+      "display": "Antonio Valencia",
+      "detail": "2018–2019",
+      "accept": ["antonio valencia", "valencia"]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "2017–2018",
+      "accept": ["michael carrick", "carrick"]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "2014–2017",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Nemanja Vidić",
+      "detail": "2011–2014",
+      "accept": ["nemanja vidic", "nemanja vidić", "vidic", "vidić"]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "2005–2011",
+      "accept": ["gary neville", "neville"]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "1997–2005",
+      "accept": ["roy keane", "keane"]
+    },
+    {
+      "display": "Eric Cantona",
+      "detail": "1996–1997",
+      "accept": ["eric cantona", "cantona"]
+    }
+  ]
+}

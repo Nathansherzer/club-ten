@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-17",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the last 10 primary permanent club captains for Spurs",
+  "note": "Most recent first · officially appointed captains only · includes pre-PL era",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cristian Romero",
+      "detail": "2025–present",
+      "accept": ["cristian romero", "romero", "cuti romero"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "2023–2025",
+      "accept": ["son heung-min", "son heung min", "son", "heung-min son"]
+    },
+    {
+      "display": "Hugo Lloris",
+      "detail": "2015–2023",
+      "accept": ["hugo lloris", "lloris"]
+    },
+    {
+      "display": "Younès Kaboul",
+      "detail": "2014–2015",
+      "accept": ["younes kaboul", "younès kaboul", "kaboul"]
+    },
+    {
+      "display": "Michael Dawson",
+      "detail": "2012–2014",
+      "accept": ["michael dawson", "dawson"]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "2005–2012",
+      "accept": ["ledley king", "king"]
+    },
+    {
+      "display": "Jamie Redknapp",
+      "detail": "2003–2005",
+      "accept": ["jamie redknapp", "redknapp"]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "2001–2003",
+      "accept": ["teddy sheringham", "sheringham"]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "1998–2001",
+      "accept": ["sol campbell", "campbell"]
+    },
+    {
+      "display": "Gary Mabbutt",
+      "detail": "1987–1998",
+      "accept": ["gary mabbutt", "mabbutt"]
+    }
+  ]
+}

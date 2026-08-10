@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-17",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the last 10 primary permanent club captains for Chelsea",
+  "note": "Most recent first · officially appointed captains only · includes pre-PL era",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Reece James",
+      "detail": "2023–present",
+      "accept": ["reece james", "james"]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "2019–2023",
+      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+    },
+    {
+      "display": "Gary Cahill",
+      "detail": "2017–2019",
+      "accept": ["gary cahill", "cahill"]
+    },
+    {
+      "display": "John Terry",
+      "detail": "2004–2017",
+      "accept": ["john terry", "terry", "jt"]
+    },
+    {
+      "display": "Marcel Desailly",
+      "detail": "2001–2004",
+      "accept": ["marcel desailly", "desailly"]
+    },
+    {
+      "display": "Dennis Wise",
+      "detail": "1993–2001",
+      "accept": ["dennis wise", "wise"]
+    },
+    {
+      "display": "Andy Townsend",
+      "detail": "1991–1993",
+      "accept": ["andy townsend", "townsend"]
+    },
+    {
+      "display": "Peter Nicholas",
+      "detail": "1990–1991",
+      "accept": ["peter nicholas", "nicholas"]
+    },
+    {
+      "display": "Graham Roberts",
+      "detail": "1988–1990",
+      "accept": ["graham roberts", "roberts"]
+    },
+    {
+      "display": "Colin Pates",
+      "detail": "1983–1988",
+      "accept": ["colin pates", "pates"]
+    }
+  ]
+}

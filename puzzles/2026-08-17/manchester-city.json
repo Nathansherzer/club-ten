@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-17",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the last 10 primary permanent club captains for Man City",
+  "note": "Most recent first · officially appointed captains only · as of 8 August 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bernardo Silva",
+      "detail": "2025–present",
+      "accept": ["bernardo silva", "bernardo", "silva"]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "2023–2025",
+      "accept": ["kyle walker", "walker"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "2022–2023",
+      "accept": ["ilkay gundogan", "ilkay gündoğan", "gundogan", "gündoğan"]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "2020–2022",
+      "accept": ["fernandinho"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "2019–2020",
+      "accept": ["david silva", "david", "silva", "el mago"]
+    },
+    {
+      "display": "Vincent Kompany",
+      "detail": "2011–2019",
+      "accept": ["vincent kompany", "kompany"]
+    },
+    {
+      "display": "Carlos Tevez",
+      "detail": "2010–2011",
+      "accept": ["carlos tevez", "tevez"]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "2009–2010",
+      "accept": ["kolo toure", "kolo touré", "toure", "touré"]
+    },
+    {
+      "display": "Richard Dunne",
+      "detail": "2006–2009",
+      "accept": ["richard dunne", "dunne"]
+    },
+    {
+      "display": "Sylvain Distin",
+      "detail": "2003–2006",
+      "accept": ["sylvain distin", "distin"]
+    }
+  ]
+}
