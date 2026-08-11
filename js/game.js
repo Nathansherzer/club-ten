@@ -349,6 +349,18 @@ function track(eventName, params = {}) {
   gtag("event", eventName, { club: getClub(), puzzle_date: puzzle?.date, ...params });
 }
 
+// Tags a shared result link so GA4 can attribute clicks back to player shares
+// (as opposed to our own posts, which are tagged via utm-links.html).
+function shareUrl(method) {
+  const params = new URLSearchParams({
+    utm_source:   "share",
+    utm_medium:   "viral",
+    utm_campaign: "result_share",
+    utm_content:  method
+  });
+  return `${location.origin}/${getClub()}?${params.toString()}`;
+}
+
 /* ==========================================================
    RESTORE A SAVED GAME STATE
    (player comes back mid-game, or has already finished today)
@@ -608,7 +620,7 @@ function showEndCard(won) {
     const clubSlug = getClub();
     const clubName = CLUB_NAMES[clubSlug] || puzzle.clubShort;
     const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
-    const waText   = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${location.origin}/${clubSlug}`;
+    const waText   = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${shareUrl("whatsapp")}`;
     waEl.href      = `https://wa.me/?text=${encodeURIComponent(waText)}`;
     waEl.style.display = "inline-block";
     waEl.onclick   = () => track("share", { score: found.size, method: "whatsapp" });
@@ -700,11 +712,12 @@ function startCountdown() {
 document.getElementById("shareBtn").addEventListener("click", () => {
   const clubName = CLUB_NAMES[getClub()] || puzzle.clubShort;
   const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
-  const text     = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${location.origin}/${getClub()}`;
-
   const note = document.getElementById("sharedNote");
   const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-  track("share", { score: found.size, method: (navigator.share && isMobile) ? "native" : "clipboard" });
+  const method   = (navigator.share && isMobile) ? "native" : "clipboard";
+  const text     = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${shareUrl(method)}`;
+
+  track("share", { score: found.size, method });
   if (navigator.share && isMobile) {
     navigator.share({ text }).catch(() => {});
   } else {
