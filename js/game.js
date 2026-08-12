@@ -38,6 +38,9 @@ const archiveDate = (() => {
   return (d && /^\d{4}-\d{2}-\d{2}$/.test(d)) ? d : null;
 })();
 
+// Set when a ?partner=xxx param is present — see PARTNER EMBED SUPPORT below.
+const partner = new URLSearchParams(location.search).get('partner');
+
 /* ----------------------------------------------------------
    DOM references — grabbed once at startup.
    ---------------------------------------------------------- */
@@ -222,7 +225,11 @@ async function fetchAndStartPuzzle(club, savedState) {
   buildGameBoard();
 
   if (archiveDate) {
-    document.getElementById("archiveBanner").style.display = "block";
+    // The Peoples Person links straight to a specific day's puzzle on
+    // purpose — "past puzzle" framing there reads as a mistake, not archive mode.
+    if (partner !== "tpp") {
+      document.getElementById("archiveBanner").style.display = "block";
+    }
     track("archive_play");
   }
 
@@ -820,8 +827,6 @@ if (window.visualViewport) {
     if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
     window.scrollTo(0, 0);
   }
-
-  const partner = new URLSearchParams(location.search).get('partner');
 
   const partners = {
     tpp: {
