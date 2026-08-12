@@ -7,6 +7,11 @@
       "has": [{ "type": "host", "value": "www.topclubten.com" }],
       "destination": "https://topclubten.com/:path*",
       "permanent": true
+    },
+    {
+      "source": "/tpp/:club/:date",
+      "destination": "/:club?partner=tpp&date=:date&utm_source=thepeoplesperson&utm_medium=social&utm_campaign=tpp-daily-post",
+      "permanent": false
     }
   ],
   "functions": {

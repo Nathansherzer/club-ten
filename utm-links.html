@@ -66,6 +66,15 @@
 </table>
 <p class="sub" style="margin-top:8px">Works for any club (arsenal, chelsea, liverpool, manchester-city, manchester-united, tottenham) and any past date back to launch (2026-07-15).</p>
 
+<h2>The Peoples Person (partner embed)</h2>
+<p class="sub">Send Yvonne the short link — it redirects to the full tagged URL automatically, so she only has to change the date, not paste a long link into a Facebook comment. Still resolves to a topclubten.com link at the redirect step, then lands on the real page with the "Powered by The Peoples Person" badge, banner suppressed, and tagged separately from our own posts so GA4 can tell partnership traffic apart from our own Facebook page.</p>
+<table>
+  <tr><th>Pattern</th><th>Example (Man United, 13 Aug)</th></tr>
+  <tr><td>Short link (send this)</td><td><code onclick="copy(this)">https://topclubten.com/tpp/manchester-united/2026-08-13</code></td></tr>
+  <tr><td>What it redirects to</td><td><code onclick="copy(this)">https://topclubten.com/manchester-united?partner=tpp&date=2026-08-13&utm_source=thepeoplesperson&utm_medium=social&utm_campaign=tpp-daily-post</code></td></tr>
+</table>
+<p class="sub" style="margin-top:8px">Pattern is /tpp/&lt;club-slug&gt;/&lt;date&gt; — swap the date each day and the club slug if it's ever a different club. In GA4 this shows up as source "thepeoplesperson", separate from "facebook".</p>
+
 <div class="tip">
   <strong>Tip:</strong> In GA4 go to <strong>Reports → Acquisition → Traffic acquisition</strong> to see which platform is sending the most users.
 </div>
