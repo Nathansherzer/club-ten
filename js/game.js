@@ -647,20 +647,6 @@ function showEndCard(won) {
     waEl.onclick   = () => track("share", { score: found.size, method: "whatsapp" });
   }
 
-  // Push notification opt-in — shown only to non-subscribed users after a real game
-  const notifyBtn = document.getElementById("notifyBtn");
-  if (notifyBtn && !archiveDate && window.OneSignalDeferred) {
-    window.OneSignalDeferred.push(function(OneSignal) {
-      if (!OneSignal.User.PushSubscription.optedIn) {
-        notifyBtn.style.display = "inline-block";
-        notifyBtn.onclick = function() {
-          OneSignal.Notifications.requestPermission();
-          notifyBtn.style.display = "none";
-        };
-      }
-    });
-  }
-
   const rival   = RIVALS[getClub()];
   const rivalEl = document.getElementById("rivalPrompt");
   if (rival && rivalEl && !archiveDate) {
