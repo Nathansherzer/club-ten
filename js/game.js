@@ -41,6 +41,13 @@ const archiveDate = (() => {
 // Set when a ?partner=xxx param is present — see PARTNER EMBED SUPPORT below.
 const partner = new URLSearchParams(location.search).get('partner');
 
+// Keeps ?partner= attached to the puzzle-nav links (<< < > >>) so the
+// partner badge/behaviour survives clicking between puzzles.
+function withPartner(url) {
+  if (!partner) return url;
+  return url + (url.includes('?') ? '&' : '?') + `partner=${encodeURIComponent(partner)}`;
+}
+
 /* ----------------------------------------------------------
    DOM references — grabbed once at startup.
    ---------------------------------------------------------- */
@@ -327,10 +334,10 @@ async function loadPuzzleNav() {
   nav.id        = 'puzzleNavEl';
   nav.className = 'puzzle-nav';
 
-  if (firstDate) nav.appendChild(makeNavBtn(`/${club}?date=${firstDate}`, '<<', 'Jump to oldest available puzzle'));
-  if (prevDate)  nav.appendChild(makeNavBtn(`/${club}?date=${prevDate}`,  '<',  'Go to previous puzzle'));
-  if (nextHref)  nav.appendChild(makeNavBtn(nextHref,                     '>',  'Go to next puzzle'));
-  if (lastHref)  nav.appendChild(makeNavBtn(lastHref,                     '>>',  "Back to today's puzzle"));
+  if (firstDate) nav.appendChild(makeNavBtn(withPartner(`/${club}?date=${firstDate}`), '<<', 'Jump to oldest available puzzle'));
+  if (prevDate)  nav.appendChild(makeNavBtn(withPartner(`/${club}?date=${prevDate}`),  '<',  'Go to previous puzzle'));
+  if (nextHref)  nav.appendChild(makeNavBtn(withPartner(nextHref),                     '>',  'Go to next puzzle'));
+  if (lastHref)  nav.appendChild(makeNavBtn(withPartner(lastHref),                     '>>',  "Back to today's puzzle"));
 
   const anchor = document.querySelector('.site-nav');
   anchor.before(nav);
