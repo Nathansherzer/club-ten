@@ -308,7 +308,14 @@ async function loadPuzzleNav() {
   let nextHref  = null; // >
   let lastHref  = null; // >>
 
-  if (!archiveDate) {
+  // api/archive never includes today (it only lists strictly-past dates),
+  // so a link that explicitly pins ?date= to today's puzzle (e.g. partner
+  // links, to survive the midnight rollover) needs the same treatment as
+  // no date param at all — otherwise it's not found in `past` and the
+  // nav silently disappears.
+  const isToday = archiveDate && archiveDate > past[0].date;
+
+  if (!archiveDate || isToday) {
     prevDate  = past[0].date;
     firstDate = past.length > 1 ? oldest.date : null;
   } else {
