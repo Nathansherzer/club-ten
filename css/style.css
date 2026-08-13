@@ -391,6 +391,21 @@ button.guess:disabled { opacity: 0.5; cursor: not-allowed; }
 .feedback.good { color: var(--green); }
 .feedback.dup  { color: var(--gold); }
 
+.give-up-btn {
+  display: block;
+  margin: 6px auto 0;
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 0.78rem;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  padding: 4px;
+}
+.give-up-btn:hover    { color: var(--text); }
+.give-up-btn.confirm  { color: var(--red); text-decoration: none; font-weight: 600; }
+
 /* ---- end card ---------------------------------------------- */
 
 .endcard {

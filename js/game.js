@@ -749,6 +749,30 @@ input.addEventListener("keydown", e => {
 
 document.getElementById("guessBtn").addEventListener("click", handleGuess);
 
+// Give up — requires a second click ("Really give up?") within 3s to
+// avoid ending the puzzle on a misclick.
+const giveUpBtn = document.getElementById("giveUpBtn");
+if (giveUpBtn) {
+  let giveUpTimer = null;
+  giveUpBtn.addEventListener("click", () => {
+    if (over || !puzzle || guessing) return;
+
+    if (giveUpBtn.classList.contains("confirm")) {
+      clearTimeout(giveUpTimer);
+      track("give_up", { score: found.size, lives_remaining: lives });
+      endGame(false);
+      return;
+    }
+
+    giveUpBtn.classList.add("confirm");
+    giveUpBtn.textContent = "Really give up?";
+    giveUpTimer = setTimeout(() => {
+      giveUpBtn.classList.remove("confirm");
+      giveUpBtn.textContent = "Give up";
+    }, 3000);
+  });
+}
+
 // Close dropdown when clicking outside the input area
 document.addEventListener("click", e => {
   if (!e.target.closest(".inputwrap")) hideSuggestions();
