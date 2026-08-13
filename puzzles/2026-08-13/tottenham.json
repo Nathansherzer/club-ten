@@ -19,7 +19,7 @@
     },
     {
       "display": "Vincent Janssen",
-      "detail": "2016/17–2018/19",
+      "detail": "2016/17",
       "accept": ["vincent janssen", "janssen"]
     },
     {
@@ -38,24 +38,24 @@
       "accept": ["dimitar berbatov", "berbatov"]
     },
     {
-      "display": "Mido",
-      "detail": "2006/07",
-      "accept": ["mido"]
-    },
-    {
       "display": "Grzegorz Rasiak",
       "detail": "2005/06",
       "accept": ["grzegorz rasiak", "rasiak"]
     },
     {
       "display": "Frédéric Kanouté",
-      "detail": "2003/04–2004/05",
+      "detail": "2003/04–2005/06",
       "accept": ["frederic kanoute", "frédéric kanouté", "kanoute", "kanouté"]
     },
     {
       "display": "Les Ferdinand",
-      "detail": "1997/98–2002/03",
+      "detail": "1999/00–2002/03",
       "accept": ["les ferdinand", "ferdinand"]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail": "1993/94–1998/99",
+      "accept": ["darren anderton", "anderton"]
     }
   ]
 }
