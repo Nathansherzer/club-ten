@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-23",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 South American players who scored the most Premier League goals for Arsenal",
+  "note": "South American nationality & senior caps only · PL goals for this club only · ties broken by PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alexis Sánchez",
+      "detail": "53 goals",
+      "accept": [
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "41 goals",
+      "accept": [
+        "gabriel martinelli",
+        "martinelli"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "21 goals",
+      "accept": [
+        "gabriel jesus",
+        "gabriel jesús",
+        "jesus",
+        "jesús"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "20 goals",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes",
+        "magalhães"
+      ]
+    },
+    {
+      "display": "Gilberto Silva",
+      "detail": "17 goals",
+      "accept": [
+        "gilberto silva",
+        "gilberto"
+      ]
+    },
+    {
+      "display": "Edu",
+      "detail": "7 goals",
+      "accept": [
+        "edu"
+      ]
+    },
+    {
+      "display": "Denílson",
+      "detail": "6 goals",
+      "accept": [
+        "denilson",
+        "denílson"
+      ]
+    },
+    {
+      "display": "Lucas Torreira",
+      "detail": "3 goals",
+      "accept": [
+        "lucas torreira",
+        "torreira"
+      ]
+    },
+    {
+      "display": "Sylvinho",
+      "detail": "3 goals",
+      "accept": [
+        "sylvinho"
+      ]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "3 goals",
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
+    }
+  ]
+}

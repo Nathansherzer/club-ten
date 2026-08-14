@@ -1,0 +1,92 @@
+{
+  "date": "2026-08-23",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 South American players who scored the most Premier League goals for Spurs",
+  "note": "South American nationality & senior caps only · PL goals for this club only · ties broken by PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Richarlison",
+      "detail": "27 goals",
+      "accept": [
+        "richarlison"
+      ]
+    },
+    {
+      "display": "Lucas Moura",
+      "detail": "20 goals",
+      "accept": [
+        "lucas moura",
+        "lucas"
+      ]
+    },
+    {
+      "display": "Gustavo Poyet",
+      "detail": "18 goals",
+      "accept": [
+        "gustavo poyet",
+        "poyet"
+      ]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "17 goals",
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "11 goals",
+      "accept": [
+        "cristian romero",
+        "romero",
+        "cuti romero"
+      ]
+    },
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "9 goals",
+      "accept": [
+        "rodrigo bentancur",
+        "bentancur"
+      ]
+    },
+    {
+      "display": "Paulinho",
+      "detail": "6 goals",
+      "accept": [
+        "paulinho"
+      ]
+    },
+    {
+      "display": "Emerson Royal",
+      "detail": "4 goals",
+      "accept": [
+        "emerson royal",
+        "emerson"
+      ]
+    },
+    {
+      "display": "Davinson Sánchez",
+      "detail": "3 goals",
+      "accept": [
+        "davinson sanchez",
+        "davinson sánchez",
+        "davinson",
+        "sanchez",
+        "sánchez"
+      ]
+    },
+    {
+      "display": "Sandro",
+      "detail": "3 goals",
+      "accept": [
+        "sandro"
+      ]
+    }
+  ]
+}

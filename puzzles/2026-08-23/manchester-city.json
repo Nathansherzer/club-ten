@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-23",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 South American players who scored the most Premier League goals for Man City",
+  "note": "South American nationality & senior caps only · PL goals for this club only · ties broken by PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sergio Agüero",
+      "detail": "184 goals",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "58 goals",
+      "accept": [
+        "gabriel jesus",
+        "gabriel jesús",
+        "jesus",
+        "jesús"
+      ]
+    },
+    {
+      "display": "Carlos Tevez",
+      "detail": "58 goals",
+      "accept": [
+        "carlos tevez",
+        "tevez"
+      ]
+    },
+    {
+      "display": "Julián Álvarez",
+      "detail": "20 goals",
+      "accept": [
+        "julian alvarez",
+        "julián álvarez",
+        "alvarez",
+        "álvarez",
+        "julian"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "20 goals",
+      "accept": [
+        "fernandinho"
+      ]
+    },
+    {
+      "display": "Robinho",
+      "detail": "14 goals",
+      "accept": [
+        "robinho"
+      ]
+    },
+    {
+      "display": "Elano",
+      "detail": "14 goals",
+      "accept": [
+        "elano"
+      ]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "9 goals",
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
+    },
+    {
+      "display": "Nicolás Otamendi",
+      "detail": "8 goals",
+      "accept": [
+        "nicolas otamendi",
+        "nicolás otamendi",
+        "otamendi"
+      ]
+    },
+    {
+      "display": "Danilo",
+      "detail": "4 goals",
+      "accept": [
+        "danilo"
+      ]
+    }
+  ]
+}

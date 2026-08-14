@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-23",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 South American players who scored the most Premier League goals for Liverpool",
+  "note": "South American nationality & senior caps only · PL goals for this club only · ties broken by PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Roberto Firmino",
+      "detail": "82 goals",
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "69 goals",
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
+    },
+    {
+      "display": "Philippe Coutinho",
+      "detail": "41 goals",
+      "accept": [
+        "philippe coutinho",
+        "coutinho"
+      ]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "29 goals",
+      "accept": [
+        "luis diaz",
+        "luis díaz",
+        "diaz",
+        "díaz"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "25 goals",
+      "accept": [
+        "darwin nunez",
+        "darwin núñez",
+        "nunez",
+        "núñez",
+        "darwin"
+      ]
+    },
+    {
+      "display": "Maxi Rodríguez",
+      "detail": "15 goals",
+      "accept": [
+        "maxi rodriguez",
+        "maxi rodríguez",
+        "rodriguez",
+        "rodríguez",
+        "maxi"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "11 goals",
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister"
+      ]
+    },
+    {
+      "display": "Fabinho",
+      "detail": "8 goals",
+      "accept": [
+        "fabinho"
+      ]
+    },
+    {
+      "display": "Fábio Aurélio",
+      "detail": "3 goals",
+      "accept": [
+        "fabio aurelio",
+        "fábio aurélio",
+        "aurelio",
+        "aurélio"
+      ]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "1 goals",
+      "accept": [
+        "lucas leiva",
+        "leiva"
+      ]
+    }
+  ]
+}

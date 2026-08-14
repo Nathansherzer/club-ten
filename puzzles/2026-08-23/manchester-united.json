@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-23",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 South American players who scored the most Premier League goals for Man United",
+  "note": "South American nationality & senior caps only · PL goals for this club only · ties broken by PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Carlos Tevez",
+      "detail": "19 goals",
+      "accept": [
+        "carlos tevez",
+        "tevez"
+      ]
+    },
+    {
+      "display": "Antonio Valencia",
+      "detail": "17 goals",
+      "accept": [
+        "antonio valencia",
+        "valencia"
+      ]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "16 goals",
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "15 goals",
+      "accept": [
+        "casemiro"
+      ]
+    },
+    {
+      "display": "Diego Forlán",
+      "detail": "10 goals",
+      "accept": [
+        "diego forlan",
+        "diego forlán",
+        "forlan",
+        "forlán"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "10 goals",
+      "accept": [
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "10 goals",
+      "accept": [
+        "matheus cunha",
+        "cunha"
+      ]
+    },
+    {
+      "display": "Fred",
+      "detail": "8 goals",
+      "accept": [
+        "fred"
+      ]
+    },
+    {
+      "display": "Juan Sebastián Verón",
+      "detail": "7 goals",
+      "accept": [
+        "juan sebastian veron",
+        "juan sebastián verón",
+        "veron",
+        "verón",
+        "seba veron"
+      ]
+    },
+    {
+      "display": "Rafael da Silva",
+      "detail": "5 goals",
+      "accept": [
+        "rafael da silva",
+        "rafael"
+      ]
+    }
+  ]
+}

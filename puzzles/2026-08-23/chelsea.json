@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-23",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 South American players who scored the most Premier League goals for Chelsea",
+  "note": "South American nationality & senior caps only · PL goals for this club only · ties broken by PL appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Willian",
+      "detail": "37 goals",
+      "accept": [
+        "willian"
+      ]
+    },
+    {
+      "display": "Oscar",
+      "detail": "21 goals",
+      "accept": [
+        "oscar"
+      ]
+    },
+    {
+      "display": "Hernán Crespo",
+      "detail": "20 goals",
+      "accept": [
+        "hernan crespo",
+        "hernán crespo",
+        "crespo"
+      ]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "19 goals",
+      "accept": [
+        "enzo fernandez",
+        "enzo fernández",
+        "enzo",
+        "fernandez",
+        "fernández"
+      ]
+    },
+    {
+      "display": "Ramires",
+      "detail": "17 goals",
+      "accept": [
+        "ramires"
+      ]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "15 goals",
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "pedro"
+      ]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "11 goals",
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
+    },
+    {
+      "display": "Thiago Silva",
+      "detail": "8 goals",
+      "accept": [
+        "thiago silva",
+        "thiago",
+        "silva"
+      ]
+    },
+    {
+      "display": "Alex",
+      "detail": "7 goals",
+      "accept": [
+        "alex"
+      ]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "5 goals",
+      "accept": [
+        "moises caicedo",
+        "moisés caicedo",
+        "caicedo"
+      ]
+    }
+  ]
+}
