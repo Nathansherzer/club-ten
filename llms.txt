@@ -1,0 +1,22 @@
+# Club Ten
+
+> Club Ten (topclubten.com) is a free daily football trivia game. Each day, for each of six Premier League "Big Six" clubs (Arsenal, Chelsea, Liverpool, Manchester City, Manchester United, Tottenham Hotspur), players try to name all 10 correct answers to a club-specific top-10 question (e.g. top goalscorers, longest-serving captains, most-capped players) with three wrong guesses allowed before the game ends.
+
+A new puzzle is published for each club every day at midnight London time. Puzzle answers are not public — they are validated server-side and are not present in any page's HTML, JSON, or source.
+
+## Key pages
+
+- [Homepage](https://topclubten.com/): pick a club and play today's puzzle
+- [Archive](https://topclubten.com/archive): browse and replay past puzzles
+- [Blog](https://topclubten.com/blog): weekly articles on Premier League records, history, and stats
+- [How to play](https://topclubten.com/how-to-play): rules and format
+- [About](https://topclubten.com/about): what the site is and how puzzles are researched
+
+## Club pages
+
+- [Arsenal](https://topclubten.com/arsenal)
+- [Chelsea](https://topclubten.com/chelsea)
+- [Liverpool](https://topclubten.com/liverpool)
+- [Manchester City](https://topclubten.com/manchester-city)
+- [Manchester United](https://topclubten.com/manchester-united)
+- [Tottenham Hotspur](https://topclubten.com/tottenham)
