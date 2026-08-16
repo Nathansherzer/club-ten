@@ -3,6 +3,12 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/",
+      "has": [{ "type": "host", "value": "www.topclubten.com" }],
+      "destination": "https://topclubten.com/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [{ "type": "host", "value": "www.topclubten.com" }],
       "destination": "https://topclubten.com/:path*",
