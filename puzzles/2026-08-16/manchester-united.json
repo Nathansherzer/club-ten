@@ -8,6 +8,11 @@
   "placeholder": "Type a player's name…",
   "answers": [
     {
+      "display": "Ryan Giggs",
+      "detail": "Wales · 632 apps",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
       "display": "David de Gea",
       "detail": "Spain · 415 apps",
       "accept": ["david de gea", "de gea"]
@@ -51,11 +56,6 @@
       "display": "Cristiano Ronaldo",
       "detail": "Portugal · 236 apps",
       "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
-    },
-    {
-      "display": "Ole Gunnar Solskjær",
-      "detail": "Norway · 235 apps",
-      "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær", "ole"]
     }
   ]
 }
