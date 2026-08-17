@@ -1,0 +1,100 @@
+{
+  "date": "2026-08-24",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who made the most competitive appearances alongside David Silva at Man City",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Silva",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sergio Agüero",
+      "detail": "205 apps",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "183 apps",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
+    },
+    {
+      "display": "Joe Hart",
+      "detail": "180 apps",
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
+    },
+    {
+      "display": "Vincent Kompany",
+      "detail": "174 apps",
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "163 apps",
+      "accept": [
+        "fernandinho"
+      ]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "139 apps",
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "126 apps",
+      "accept": [
+        "aleksandar kolarov",
+        "kolarov"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "125 apps",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Gaël Clichy",
+      "detail": "117 apps",
+      "accept": [
+        "gael clichy",
+        "gaël clichy",
+        "clichy"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "104 apps",
+      "accept": [
+        "edin dzeko",
+        "edin džeko",
+        "dzeko",
+        "džeko"
+      ]
+    }
+  ]
+}

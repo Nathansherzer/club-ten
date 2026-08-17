@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-24",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who made the most competitive appearances alongside Paul Scholes at Man United",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Scholes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "336 apps",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "296 apps",
+      "accept": [
+        "gary neville",
+        "neville",
+        "gary nev"
+      ]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "221 apps",
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "197 apps",
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
+    },
+    {
+      "display": "Mikaël Silvestre",
+      "detail": "192 apps",
+      "accept": [
+        "mikael silvestre",
+        "mikaël silvestre",
+        "silvestre"
+      ]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "190 apps",
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
+    },
+    {
+      "display": "Phil Neville",
+      "detail": "184 apps",
+      "accept": [
+        "phil neville",
+        "phil nev"
+      ]
+    },
+    {
+      "display": "Nicky Butt",
+      "detail": "180 apps",
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "177 apps",
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole"
+      ]
+    },
+    {
+      "display": "John O'Shea",
+      "detail": "174 apps",
+      "accept": [
+        "john o'shea",
+        "john oshea",
+        "john o’shea",
+        "o'shea",
+        "oshea",
+        "o’shea"
+      ]
+    }
+  ]
+}

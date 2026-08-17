@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-24",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who made the most competitive appearances alongside John Terry at Chelsea",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Terry",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "351 apps",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "277 apps",
+      "accept": [
+        "petr cech",
+        "petr čech",
+        "cech",
+        "čech"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "225 apps",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "196 apps",
+      "accept": [
+        "branislav ivanovic",
+        "branislav ivanović",
+        "ivanovic",
+        "ivanović"
+      ]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "192 apps",
+      "accept": [
+        "john obi mikel",
+        "obi mikel",
+        "mikel"
+      ]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "175 apps",
+      "accept": [
+        "ashley cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Joe Cole",
+      "detail": "161 apps",
+      "accept": [
+        "joe cole"
+      ]
+    },
+    {
+      "display": "Eiður Guðjohnsen",
+      "detail": "147 apps",
+      "accept": [
+        "eidur gudjohnsen",
+        "eiður guðjohnsen",
+        "gudjohnsen",
+        "guðjohnsen"
+      ]
+    },
+    {
+      "display": "Michael Essien",
+      "detail": "141 apps",
+      "accept": [
+        "michael essien",
+        "essien"
+      ]
+    },
+    {
+      "display": "Salomon Kalou",
+      "detail": "127 apps",
+      "accept": [
+        "salomon kalou",
+        "kalou"
+      ]
+    }
+  ]
+}

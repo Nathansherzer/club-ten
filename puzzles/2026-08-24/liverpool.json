@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-24",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who made the most competitive appearances alongside Mohamed Salah at Liverpool",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Salah",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Andy Robertson",
+      "detail": "256 apps",
+      "accept": [
+        "andy robertson",
+        "andrew robertson",
+        "robertson",
+        "robbo"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "248 apps",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "239 apps",
+      "accept": [
+        "trent alexander-arnold",
+        "trent alexander arnold",
+        "alexander-arnold",
+        "trent"
+      ]
+    },
+    {
+      "display": "Alisson Becker",
+      "detail": "237 apps",
+      "accept": [
+        "alisson becker",
+        "alisson",
+        "becker"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "175 apps",
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "171 apps",
+      "accept": [
+        "jordan henderson",
+        "henderson"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "157 apps",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "144 apps",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Fabinho",
+      "detail": "142 apps",
+      "accept": [
+        "fabinho"
+      ]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "139 apps",
+      "accept": [
+        "joe gomez",
+        "gomez"
+      ]
+    }
+  ]
+}

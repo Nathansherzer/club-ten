@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-24",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who made the most competitive appearances alongside Aaron Ramsey at Arsenal",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Ramsey",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Laurent Koscielny",
+      "detail": "167 apps",
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "134 apps",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    },
+    {
+      "display": "Nacho Monreal",
+      "detail": "132 apps",
+      "accept": [
+        "nacho monreal",
+        "monreal"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "131 apps",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Per Mertesacker",
+      "detail": "122 apps",
+      "accept": [
+        "per mertesacker",
+        "mertesacker"
+      ]
+    },
+    {
+      "display": "Mesut Özil",
+      "detail": "108 apps",
+      "accept": [
+        "mesut ozil",
+        "mesut özil",
+        "ozil",
+        "özil"
+      ]
+    },
+    {
+      "display": "Héctor Bellerín",
+      "detail": "103 apps",
+      "accept": [
+        "hector bellerin",
+        "héctor bellerín",
+        "bellerin",
+        "bellerín"
+      ]
+    },
+    {
+      "display": "Wojciech Szczęsny",
+      "detail": "95 apps",
+      "accept": [
+        "wojciech szczesny",
+        "wojciech szczęsny",
+        "szczesny",
+        "szczęsny"
+      ]
+    },
+    {
+      "display": "Bacary Sagna",
+      "detail": "92 apps",
+      "accept": [
+        "bacary sagna",
+        "sagna"
+      ]
+    },
+    {
+      "display": "Kieran Gibbs",
+      "detail": "88 apps",
+      "accept": [
+        "kieran gibbs",
+        "gibbs"
+      ]
+    }
+  ]
+}

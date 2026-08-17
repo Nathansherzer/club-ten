@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-24",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who made the most competitive appearances alongside Hugo Lloris at Spurs",
+  "note": "all competitions · through 2025–26 · sorted by appearances alongside Lloris",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "277 apps",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "239 apps",
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "234 apps",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "sonny"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "200 apps",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "198 apps",
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "182 apps",
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
+    },
+    {
+      "display": "Mousa Dembélé",
+      "detail": "164 apps",
+      "accept": [
+        "mousa dembele",
+        "mousa dembélé",
+        "dembele",
+        "dembélé"
+      ]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "162 apps",
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "156 apps",
+      "accept": [
+        "dele alli",
+        "dele"
+      ]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "149 apps",
+      "accept": [
+        "toby alderweireld",
+        "alderweireld",
+        "toby"
+      ]
+    }
+  ]
+}
