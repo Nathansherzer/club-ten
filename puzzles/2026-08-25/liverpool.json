@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-25",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who made the most Premier League appearances alongside Jamie Carragher at Liverpool",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Carragher",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Steven Gerrard",
+      "detail": "379 apps",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g"
+      ]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "278 apps",
+      "accept": [
+        "sami hyypia",
+        "sami hyypiä",
+        "hyypia",
+        "hyypiä"
+      ]
+    },
+    {
+      "display": "Pepe Reina",
+      "detail": "242 apps",
+      "accept": [
+        "pepe reina",
+        "reina"
+      ]
+    },
+    {
+      "display": "John Arne Riise",
+      "detail": "207 apps",
+      "accept": [
+        "john arne riise",
+        "riise"
+      ]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "178 apps",
+      "accept": [
+        "dirk kuyt",
+        "kuyt"
+      ]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "170 apps",
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
+    },
+    {
+      "display": "Dietmar Hamann",
+      "detail": "166 apps",
+      "accept": [
+        "dietmar hamann",
+        "hamann"
+      ]
+    },
+    {
+      "display": "Danny Murphy",
+      "detail": "137 apps",
+      "accept": [
+        "danny murphy",
+        "murphy"
+      ]
+    },
+    {
+      "display": "Xabi Alonso",
+      "detail": "136 apps",
+      "accept": [
+        "xabi alonso",
+        "alonso"
+      ]
+    },
+    {
+      "display": "Steve Finnan",
+      "detail": "129 apps",
+      "accept": [
+        "steve finnan",
+        "finnan"
+      ]
+    }
+  ]
+}

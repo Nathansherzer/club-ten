@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-25",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who made the most Premier League appearances alongside Petr Čech at Chelsea",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Čech",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Terry",
+      "detail": "277 apps",
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "271 apps",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "200 apps",
+      "accept": [
+        "ashley cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "195 apps",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "182 apps",
+      "accept": [
+        "john obi mikel",
+        "obi mikel",
+        "mikel"
+      ]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "169 apps",
+      "accept": [
+        "branislav ivanovic",
+        "branislav ivanović",
+        "ivanovic",
+        "ivanović"
+      ]
+    },
+    {
+      "display": "Florent Malouda",
+      "detail": "139 apps",
+      "accept": [
+        "florent malouda",
+        "malouda"
+      ]
+    },
+    {
+      "display": "Michael Essien",
+      "detail": "135 apps",
+      "accept": [
+        "michael essien",
+        "essien"
+      ]
+    },
+    {
+      "display": "Ramires",
+      "detail": "122 apps",
+      "accept": [
+        "ramires"
+      ]
+    },
+    {
+      "display": "Salomon Kalou",
+      "detail": "122 apps",
+      "accept": [
+        "salomon kalou",
+        "kalou"
+      ]
+    }
+  ]
+}

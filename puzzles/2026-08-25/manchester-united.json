@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-25",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who made the most Premier League appearances alongside David de Gea at Man United",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside de Gea",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Marcus Rashford",
+      "detail": "225 apps",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "190 apps",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "185 apps",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    },
+    {
+      "display": "Antonio Valencia",
+      "detail": "180 apps",
+      "accept": [
+        "antonio valencia",
+        "valencia"
+      ]
+    },
+    {
+      "display": "Ashley Young",
+      "detail": "180 apps",
+      "accept": [
+        "ashley young",
+        "young"
+      ]
+    },
+    {
+      "display": "Chris Smalling",
+      "detail": "176 apps",
+      "accept": [
+        "chris smalling",
+        "smalling"
+      ]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "164 apps",
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "156 apps",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Phil Jones",
+      "detail": "155 apps",
+      "accept": [
+        "phil jones",
+        "jones"
+      ]
+    },
+    {
+      "display": "Victor Lindelöf",
+      "detail": "149 apps",
+      "accept": [
+        "victor lindelof",
+        "victor lindelöf",
+        "lindelof",
+        "lindelöf"
+      ]
+    }
+  ]
+}

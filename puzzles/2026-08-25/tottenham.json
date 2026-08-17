@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-25",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who made the most Premier League appearances alongside Christian Eriksen at Spurs",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Eriksen",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Hugo Lloris",
+      "detail": "200 apps",
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "180 apps",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "170 apps",
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "150 apps",
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "133 apps",
+      "accept": [
+        "dele alli",
+        "dele"
+      ]
+    },
+    {
+      "display": "Danny Rose",
+      "detail": "131 apps",
+      "accept": [
+        "danny rose",
+        "rose"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "131 apps",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "sonny"
+      ]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "128 apps",
+      "accept": [
+        "toby alderweireld",
+        "alderweireld",
+        "toby"
+      ]
+    },
+    {
+      "display": "Mousa Dembélé",
+      "detail": "125 apps",
+      "accept": [
+        "mousa dembele",
+        "mousa dembélé",
+        "dembele",
+        "dembélé"
+      ]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "124 apps",
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
+    }
+  ]
+}

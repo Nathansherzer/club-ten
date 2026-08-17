@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-25",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who made the most Premier League appearances alongside Dennis Bergkamp at Arsenal",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Bergkamp",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Patrick Vieira",
+      "detail": "209 apps",
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
+    },
+    {
+      "display": "Ray Parlour",
+      "detail": "183 apps",
+      "accept": [
+        "ray parlour",
+        "parlour"
+      ]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "178 apps",
+      "accept": [
+        "martin keown",
+        "keown"
+      ]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "166 apps",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    },
+    {
+      "display": "David Seaman",
+      "detail": "163 apps",
+      "accept": [
+        "david seaman",
+        "seaman"
+      ]
+    },
+    {
+      "display": "Lee Dixon",
+      "detail": "151 apps",
+      "accept": [
+        "lee dixon",
+        "dixon"
+      ]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "132 apps",
+      "accept": [
+        "robert pires",
+        "robert pirès",
+        "pires",
+        "pirès"
+      ]
+    },
+    {
+      "display": "Nigel Winterburn",
+      "detail": "127 apps",
+      "accept": [
+        "nigel winterburn",
+        "winterburn"
+      ]
+    },
+    {
+      "display": "Fredrik Ljungberg",
+      "detail": "125 apps",
+      "accept": [
+        "fredrik ljungberg",
+        "freddie ljungberg",
+        "ljungberg"
+      ]
+    },
+    {
+      "display": "Tony Adams",
+      "detail": "120 apps",
+      "accept": [
+        "tony adams",
+        "adams"
+      ]
+    }
+  ]
+}

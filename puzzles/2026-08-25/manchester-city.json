@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-25",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who made the most Premier League appearances alongside Vincent Kompany at Man City",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Kompany",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Joe Hart",
+      "detail": "177 apps",
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "173 apps",
+      "accept": [
+        "david silva",
+        "silva"
+      ]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "161 apps",
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "152 apps",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "132 apps",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "109 apps",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Gareth Barry",
+      "detail": "103 apps",
+      "accept": [
+        "gareth barry",
+        "barry"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "102 apps",
+      "accept": [
+        "edin dzeko",
+        "edin džeko",
+        "dzeko",
+        "džeko"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "94 apps",
+      "accept": [
+        "fernandinho"
+      ]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "94 apps",
+      "accept": [
+        "aleksandar kolarov",
+        "kolarov"
+      ]
+    }
+  ]
+}
