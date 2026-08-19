@@ -18,6 +18,16 @@
       "accept": ["lucas moura", "moura"]
     },
     {
+      "display": "Davinson Sánchez",
+      "detail": "Colombia",
+      "accept": ["davinson sanchez", "davinson sánchez", "davinson", "sanchez", "sánchez"]
+    },
+    {
+      "display": "Mauricio Taricco",
+      "detail": "Argentina",
+      "accept": ["mauricio taricco", "taricco"]
+    },
+    {
       "display": "Cristian Romero",
       "detail": "Argentina",
       "accept": ["cristian romero", "romero", "cuti romero"]
@@ -38,24 +48,14 @@
       "accept": ["heurelho gomes", "gomes"]
     },
     {
+      "display": "Gus Poyet",
+      "detail": "Uruguay",
+      "accept": ["gus poyet", "gustavo poyet", "poyet"]
+    },
+    {
       "display": "Sandro",
       "detail": "Brazil",
       "accept": ["sandro"]
-    },
-    {
-      "display": "Emerson Royal",
-      "detail": "Brazil",
-      "accept": ["emerson royal", "emerson"]
-    },
-    {
-      "display": "Giovani Lo Celso",
-      "detail": "Argentina",
-      "accept": ["giovani lo celso", "lo celso"]
-    },
-    {
-      "display": "Paulinho",
-      "detail": "Brazil",
-      "accept": ["paulinho"]
     }
   ]
 }
