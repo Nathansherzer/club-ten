@@ -193,6 +193,16 @@ header h1 a:hover { opacity: 0.85; }
 }
 .site-nav a:hover { color: var(--text); }
 
+/* One-off per-puzzle credit line (e.g. thanking a fan who caught an
+   error), shown only when puzzle.credit is set. */
+.puzzle-credit {
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-top: 14px;
+  line-height: 1.5;
+}
+
 /* ---- club picker ------------------------------------------- */
 
 .picker { margin-top: 24px; text-align: center; }

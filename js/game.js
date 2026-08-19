@@ -269,6 +269,18 @@ function buildGameBoard() {
   document.getElementById("questionNote").textContent = puzzle.note;
   input.placeholder = puzzle.placeholder;
 
+  // Optional one-off credit line (e.g. thanking a fan who caught an error),
+  // shown near the page footer rather than inline with the question.
+  const creditEl = document.getElementById("puzzleCredit");
+  if (creditEl) {
+    if (puzzle.credit) {
+      creditEl.textContent = puzzle.credit;
+      creditEl.style.display = "block";
+    } else {
+      creditEl.style.display = "none";
+    }
+  }
+
   // Build empty slots from puzzle.total (answers are not in the puzzle response)
   slotsEl.innerHTML = "";
   for (let i = 0; i < puzzle.total; i++) {
