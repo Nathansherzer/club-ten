@@ -39,24 +39,24 @@
       "accept": ["moussa sissoko", "sissoko"]
     },
     {
+      "display": "Wilson Odobert",
+      "detail": "Burnley · €29.30m",
+      "accept": ["wilson odobert", "odobert"]
+    },
+    {
       "display": "Yves Bissouma",
       "detail": "Brighton · €29.20m",
       "accept": ["yves bissouma", "bissouma"]
     },
     {
+      "display": "Ryan Sessegnon",
+      "detail": "Fulham · €27m",
+      "accept": ["ryan sessegnon", "sessegnon"]
+    },
+    {
       "display": "Darren Bent",
       "detail": "Charlton · €24.75m",
       "accept": ["darren bent", "bent"]
-    },
-    {
-      "display": "David Bentley",
-      "detail": "Blackburn · €22m",
-      "accept": ["david bentley", "bentley"]
-    },
-    {
-      "display": "Matt Doherty",
-      "detail": "Wolves · €16.80m",
-      "accept": ["matt doherty", "doherty"]
     }
   ]
 }

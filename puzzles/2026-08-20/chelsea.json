@@ -25,7 +25,7 @@
     {
       "display": "João Pedro",
       "detail": "Brighton · €63.70m",
-      "accept": ["joao pedro", "joão pedro", "pedro"]
+      "accept": ["joao pedro", "joão pedro"]
     },
     {
       "display": "Roméo Lavia",
@@ -35,7 +35,7 @@
     {
       "display": "Pedro Neto",
       "detail": "Wolves · €60m",
-      "accept": ["pedro neto", "neto", "pedro"]
+      "accept": ["pedro neto", "neto"]
     },
     {
       "display": "Fernando Torres",
@@ -53,9 +53,9 @@
       "accept": ["ben chilwell", "chilwell"]
     },
     {
-      "display": "Alejandro Garnacho",
-      "detail": "Man United · €46.20m",
-      "accept": ["alejandro garnacho", "garnacho"]
+      "display": "Cole Palmer",
+      "detail": "Man City · €47m",
+      "accept": ["cole palmer", "palmer"]
     }
   ]
 }

@@ -13,6 +13,11 @@
       "accept": ["jack grealish", "grealish"]
     },
     {
+      "display": "Antoine Semenyo",
+      "detail": "Bournemouth · €72m",
+      "accept": ["antoine semenyo", "semenyo"]
+    },
+    {
       "display": "Riyad Mahrez",
       "detail": "Leicester · €67.80m",
       "accept": ["riyad mahrez", "mahrez"]
@@ -48,14 +53,9 @@
       "accept": ["nathan ake", "nathan aké", "ake", "aké"]
     },
     {
-      "display": "Wilfried Bony",
-      "detail": "Swansea · €32.30m",
-      "accept": ["wilfried bony", "bony"]
-    },
-    {
-      "display": "Samir Nasri",
-      "detail": "Arsenal · €27.50m",
-      "accept": ["samir nasri", "nasri"]
+      "display": "Rayan Aït-Nouri",
+      "detail": "Wolves · €36.80m",
+      "accept": ["rayan ait-nouri", "rayan aït-nouri", "ait-nouri", "aït-nouri", "ait nouri", "aït nouri"]
     }
   ]
 }

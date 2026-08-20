@@ -34,13 +34,18 @@
     },
     {
       "display": "Gabriel Jesus",
-      "detail": "Man City · €52.20m",
+      "detail": "Man City · €52m",
       "accept": ["gabriel jesus", "jesus"]
     },
     {
-      "display": "Alex Oxlade-Chamberlain",
-      "detail": "Southampton · €38m",
-      "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "oxlade chamberlain", "aoc"]
+      "display": "Oleksandr Zinchenko",
+      "detail": "Man City · €35m",
+      "accept": ["oleksandr zinchenko", "zinchenko"]
+    },
+    {
+      "display": "David Raya",
+      "detail": "Brentford · €31.90m",
+      "accept": ["david raya", "raya"]
     },
     {
       "display": "Aaron Ramsdale",
@@ -51,11 +56,6 @@
       "display": "Leandro Trossard",
       "detail": "Brighton · €24m",
       "accept": ["leandro trossard", "trossard"]
-    },
-    {
-      "display": "Calum Chambers",
-      "detail": "Southampton · €20.23m",
-      "accept": ["calum chambers", "chambers"]
     }
   ]
 }

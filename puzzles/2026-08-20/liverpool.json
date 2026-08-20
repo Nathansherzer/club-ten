@@ -18,6 +18,11 @@
       "accept": ["virgil van dijk", "van dijk", "vvd"]
     },
     {
+      "display": "Milos Kerkez",
+      "detail": "Bournemouth · €46.90m",
+      "accept": ["milos kerkez", "miloš kerkez", "kerkez"]
+    },
+    {
       "display": "Christian Benteke",
       "detail": "Aston Villa · €46.50m",
       "accept": ["christian benteke", "benteke"]
@@ -51,11 +56,6 @@
       "display": "Adam Lallana",
       "detail": "Southampton · €31m",
       "accept": ["adam lallana", "lallana"]
-    },
-    {
-      "display": "Dejan Lovren",
-      "detail": "Southampton · €25.30m",
-      "accept": ["dejan lovren", "lovren"]
     }
   ]
 }
