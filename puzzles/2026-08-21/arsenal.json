@@ -10,12 +10,12 @@
     {
       "display": "Gabriel Magalhães",
       "detail": "192 apps",
-      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães", "gabriel"]
+      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães"]
     },
     {
       "display": "Gabriel Martinelli",
       "detail": "191 apps",
-      "accept": ["gabriel martinelli", "martinelli", "gabriel"]
+      "accept": ["gabriel martinelli", "martinelli"]
     },
     {
       "display": "Gilberto Silva",
@@ -30,12 +30,12 @@
     {
       "display": "Gabriel Jesus",
       "detail": "84 apps",
-      "accept": ["gabriel jesus", "jesus", "gabriel"]
+      "accept": ["gabriel jesus", "jesus"]
     },
     {
       "display": "Edu Gaspar",
       "detail": "79 apps",
-      "accept": ["edu gaspar", "edu"]
+      "accept": ["edu gaspar", "edu", "gaspar", "eduardo", "eduardo gaspar"]
     },
     {
       "display": "Sylvinho",
@@ -50,7 +50,7 @@
     {
       "display": "Gabriel Paulista",
       "detail": "46 apps",
-      "accept": ["gabriel paulista", "paulista", "gabriel"]
+      "accept": ["gabriel paulista", "paulista"]
     },
     {
       "display": "Willian",
