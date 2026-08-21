@@ -2,18 +2,28 @@
    consent.js — cookie/tracking consent gate
    Include with: <script src="/js/consent.js" defer></script>
 
-   Google Analytics and Google AdSense are NOT loaded until the
-   visitor accepts. Rejecting (or ignoring the banner) means
-   neither script ever loads. Choice is remembered in localStorage
-   so returning visitors aren't asked again.
+   Google Analytics is NOT loaded until the visitor accepts.
+   Rejecting (or ignoring the banner) means it never loads.
+
+   AdSense is handled differently, deliberately: the adsbygoogle.js
+   script tag itself must stay present in every page's raw HTML
+   unconditionally — that's how Google verifies site ownership and
+   crawls for ad review, and hiding it behind a JS-only consent
+   click would break both. Instead, ad *personalization* is what's
+   gated: a page-level inline snippet (see any page's <head>) sets
+   requestNonPersonalizedAds = 1 whenever there's no "accepted"
+   consent on record, following Google's documented pattern for
+   this. This file does not touch AdSense at all.
+
+   Choice is remembered in localStorage so returning visitors
+   aren't asked again.
    ========================================================== */
 
 (function () {
-  var CONSENT_KEY     = "ct_consent"; // "accepted" | "rejected"
-  var GA_ID            = "G-M8E5NFRXB5";
-  var ADSENSE_CLIENT   = "ca-pub-8836373520875731";
+  var CONSENT_KEY = "ct_consent"; // "accepted" | "rejected"
+  var GA_ID        = "G-M8E5NFRXB5";
 
-  function loadAnalyticsAndAds() {
+  function loadAnalytics() {
     var gtagScript = document.createElement("script");
     gtagScript.async = true;
     gtagScript.src   = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
@@ -23,12 +33,6 @@
     window.gtag = function () { window.dataLayer.push(arguments); };
     window.gtag("js", new Date());
     window.gtag("config", GA_ID);
-
-    var adsScript = document.createElement("script");
-    adsScript.async = true;
-    adsScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=" + ADSENSE_CLIENT;
-    adsScript.crossOrigin = "anonymous";
-    document.head.appendChild(adsScript);
   }
 
   function showBanner() {
@@ -46,7 +50,7 @@
 
     banner.innerHTML =
       '<p style="color:#eef2f7;font-size:0.83rem;line-height:1.5;margin:0;max-width:520px;flex:1 1 260px">' +
-        "We use cookies for analytics and to show ads. You can accept or reject non-essential cookies. " +
+        "We use cookies for analytics and to personalize ads. You can accept or reject non-essential cookies. " +
         '<a href="/privacy" style="color:#4caf6d">Privacy policy</a>.' +
       "</p>" +
       '<div style="display:flex;gap:10px;flex-wrap:wrap">' +
@@ -59,7 +63,9 @@
     document.getElementById("consentAccept").addEventListener("click", function () {
       localStorage.setItem(CONSENT_KEY, "accepted");
       banner.remove();
-      loadAnalyticsAndAds();
+      loadAnalytics();
+      // Ad personalization takes effect on next page load, when the
+      // inline NPA snippet re-reads the stored consent value.
     });
     document.getElementById("consentReject").addEventListener("click", function () {
       localStorage.setItem(CONSENT_KEY, "rejected");
@@ -69,9 +75,9 @@
 
   var existing = localStorage.getItem(CONSENT_KEY);
   if (existing === "accepted") {
-    loadAnalyticsAndAds();
+    loadAnalytics();
   } else if (existing !== "rejected") {
     showBanner();
   }
-  // existing === "rejected": do nothing, no scripts load
+  // existing === "rejected": do nothing, GA never loads
 })();

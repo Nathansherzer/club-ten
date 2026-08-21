@@ -136,6 +136,13 @@ export default async function handler(req, res) {
   <meta name="twitter:title"       content="${title}">
   <meta name="twitter:description" content="${description}">
   <link rel="stylesheet" href="/css/style.css">
+  <script>
+    window.adsbygoogle = window.adsbygoogle || [];
+    if (localStorage.getItem('ct_consent') !== 'accepted') {
+      window.adsbygoogle.requestNonPersonalizedAds = 1;
+    }
+  </script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>
   <script src="/js/consent.js" defer></script>
 </head>
 <body>
