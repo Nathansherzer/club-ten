@@ -136,9 +136,7 @@ export default async function handler(req, res) {
   <meta name="twitter:title"       content="${title}">
   <meta name="twitter:description" content="${description}">
   <link rel="stylesheet" href="/css/style.css">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8E5NFRXB5"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-M8E5NFRXB5');</script>
+  <script src="/js/consent.js" defer></script>
 </head>
 <body>
 <div class="wrap">
