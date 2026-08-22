@@ -16,7 +16,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const POSTS = {
   "premier-league-european-goals-records": "2026-08-10",
   "brazilian-players-premier-league":      "2026-08-17",
-  "most-expensive-premier-league-transfers": "2026-08-24",
+  "most-expensive-premier-league-transfers": "2026-08-22",
   "dutch-players-premier-league":          "2026-08-27",
   "oldest-premier-league-goalscorers":     "2026-08-31",
   "academy-graduates-premier-league":      "2026-09-03",
