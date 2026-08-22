@@ -13,7 +13,7 @@ import { fileURLToPath } from "url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
-const POSTS = {
+export const POSTS = {
   "premier-league-european-goals-records": "2026-08-10",
   "brazilian-players-premier-league":      "2026-08-17",
   "most-expensive-premier-league-transfers": "2026-08-22",

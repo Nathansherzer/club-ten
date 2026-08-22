@@ -9,6 +9,7 @@
 import { readdir } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
+import { POSTS } from "./blog-post.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const BASE = "https://topclubten.com";
@@ -34,6 +35,7 @@ const STATIC = [
   { loc: "/tottenham-football-quiz",       changefreq: "monthly", priority: "0.8" },
   { loc: "/football-top-10-quiz",           changefreq: "monthly", priority: "0.8" },
   { loc: "/how-to-play",                   changefreq: "monthly", priority: "0.5" },
+  { loc: "/blog",                          changefreq: "weekly",  priority: "0.7" },
 ];
 
 function londonToday() {
@@ -64,6 +66,15 @@ export default async function handler(req, res) {
 
   const staticUrls = STATIC.map(p => urlTag(p));
 
+  const blogUrls = Object.entries(POSTS)
+    .filter(([, date]) => date <= today)
+    .map(([slug, date]) => urlTag({
+      loc:        `/blog/${slug}`,
+      lastmod:    date,
+      changefreq: "monthly",
+      priority:   "0.7"
+    }));
+
   const puzzleUrls = [];
   for (const date of puzzleDates) {
     for (const club of CLUBS) {
@@ -80,6 +91,7 @@ export default async function handler(req, res) {
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
     ...staticUrls,
+    ...blogUrls,
     ...puzzleUrls,
     "</urlset>"
   ].join("\n");
