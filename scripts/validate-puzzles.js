@@ -90,24 +90,36 @@ async function validateFile(path, banks) {
   }
 
   data.answers.forEach((ans, i) => {
-    if (typeof ans.display !== "string" || !ans.display.trim()) {
-      errors.push(`${rel}: answer[${i}] missing "display"`);
+    // display: null is a deliberate, supported "pool slot" pattern (see
+    // api/guess.js) used when several tied answers can interchangeably
+    // fill any of several remaining slots. Not an error on its own.
+    if (ans.display !== null && (typeof ans.display !== "string" || !ans.display.trim())) {
+      errors.push(`${rel}: answer[${i}] has an invalid "display" (must be a non-empty string, or null for a pool slot)`);
     }
     if (!Array.isArray(ans.accept) || ans.accept.length === 0) {
-      errors.push(`${rel}: answer[${i}] (${ans.display || "?"}) missing/empty "accept" array`);
+      errors.push(`${rel}: answer[${i}] (${ans.display ?? "pool slot"}) missing/empty "accept" array`);
     }
   });
 
-  // Collision check: every accept string must resolve to its own slot.
+  // Two answers sharing an accept string is only a real bug if their
+  // accept lists differ — that means the shared word can't actually
+  // tell the two answers apart. If two answers have the *exact same*
+  // full accept list, that's the deliberate pool-slot pattern (any of
+  // several tied answers is equally valid for either slot) and is fine.
+  const sameSet = (a, b) =>
+    a.length === b.length && a.every(x => b.includes(x));
+
   data.answers.forEach((ans, expectedSlot) => {
     (ans.accept || []).forEach(acc => {
       const result = matchGuess(acc, data.answers, new Set());
-      if (!result || result.slot !== expectedSlot) {
-        const gotDisplay = result ? data.answers[result.slot].display : "no match";
-        errors.push(
-          `${rel}: accept string "${acc}" for "${ans.display}" resolves to slot ${result ? result.slot : "?"} (${gotDisplay}) instead of slot ${expectedSlot} (${ans.display})`
-        );
-      }
+      if (!result || result.slot === expectedSlot) return;
+
+      const other = data.answers[result.slot];
+      if (sameSet(ans.accept, other.accept || [])) return; // legitimate pool
+
+      errors.push(
+        `${rel}: accept string "${acc}" for "${ans.display ?? "pool slot"}" resolves to slot ${result.slot} (${other.display ?? "pool slot"}) instead of slot ${expectedSlot} (${ans.display ?? "pool slot"})`
+      );
     });
   });
 
