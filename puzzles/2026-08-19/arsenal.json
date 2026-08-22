@@ -40,7 +40,7 @@
     {
       "display": "Edu",
       "detail": "Brazil",
-      "accept": ["edu"]
+      "accept": ["edu", "edu gaspar", "gaspar", "eduardo", "eduardo gaspar"]
     },
     {
       "display": "Sylvinho",
