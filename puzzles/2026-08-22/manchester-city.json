@@ -35,7 +35,7 @@
     {
       "display": "Bernardo Silva",
       "detail": "17 goals",
-      "accept": ["bernardo silva", "bernardo", "silva"]
+      "accept": ["bernardo silva", "bernardo"]
     },
     {
       "display": "Kevin De Bruyne",
@@ -55,7 +55,7 @@
     {
       "display": "David Silva",
       "detail": "11 goals",
-      "accept": ["david silva", "david", "silva"]
+      "accept": ["david silva", "david"]
     }
   ]
 }

@@ -25,7 +25,7 @@
     {
       "display": "Martin Chivers",
       "detail": "22 goals",
-      "accept": ["martin chivers", "chivers", "martin"]
+      "accept": ["martin chivers", "chivers"]
     },
     {
       "display": "Mark Falco",
@@ -40,7 +40,7 @@
     {
       "display": "Martin Peters",
       "detail": "13 goals",
-      "accept": ["martin peters", "peters", "martin"]
+      "accept": ["martin peters", "peters"]
     },
     {
       "display": "Lucas Moura",
