@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-26",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who completed the most Premier League passes for Man City during the 2025/26 season",
+  "note": "PL matches only · completed passes only · 2025/26 season only · goalkeepers included · club-specific if a player moved mid-season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bernardo Silva",
+      "detail": "1,968 passes",
+      "accept": [
+        "bernardo silva",
+        "silva"
+      ]
+    },
+    {
+      "display": "Matheus Nunes",
+      "detail": "1,922 passes",
+      "accept": [
+        "matheus nunes",
+        "nunes"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "1,641 passes",
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "1,461 passes",
+      "accept": [
+        "rodri",
+        "rodrigo hernandez",
+        "rodrigo hernández"
+      ]
+    },
+    {
+      "display": "Nico González",
+      "detail": "1,178 passes",
+      "accept": [
+        "nico gonzalez",
+        "nico gonzález",
+        "gonzalez",
+        "gonzález"
+      ]
+    },
+    {
+      "display": "Marc Guéhi",
+      "detail": "1,170 passes",
+      "accept": [
+        "marc guehi",
+        "marc guéhi",
+        "guehi",
+        "guéhi"
+      ]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "1,141 passes",
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "1,097 passes",
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "1,058 passes",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Abdukodir Khusanov",
+      "detail": "1,000 passes",
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov"
+      ]
+    }
+  ]
+}

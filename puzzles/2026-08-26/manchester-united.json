@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-26",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who completed the most Premier League passes for Man United during the 2025/26 season",
+  "note": "PL matches only · completed passes only · 2025/26 season only · goalkeepers included · club-specific if a player moved mid-season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "1,687 passes",
+      "accept": [
+        "bruno fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "1,496 passes",
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "1,299 passes",
+      "accept": [
+        "casemiro"
+      ]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "954 passes",
+      "accept": [
+        "diogo dalot",
+        "dalot"
+      ]
+    },
+    {
+      "display": "Kobbie Mainoo",
+      "detail": "933 passes",
+      "accept": [
+        "kobbie mainoo",
+        "mainoo"
+      ]
+    },
+    {
+      "display": "Leny Yoro",
+      "detail": "880 passes",
+      "accept": [
+        "leny yoro",
+        "yoro"
+      ]
+    },
+    {
+      "display": "Lisandro Martínez",
+      "detail": "846 passes",
+      "accept": [
+        "lisandro martinez",
+        "lisandro martínez",
+        "martinez",
+        "martínez"
+      ]
+    },
+    {
+      "display": "Amad Diallo",
+      "detail": "794 passes",
+      "accept": [
+        "amad diallo",
+        "diallo",
+        "amad"
+      ]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "732 passes",
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "698 passes",
+      "accept": [
+        "matheus cunha",
+        "cunha"
+      ]
+    }
+  ]
+}

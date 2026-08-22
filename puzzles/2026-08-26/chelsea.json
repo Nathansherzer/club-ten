@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-26",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who completed the most Premier League passes for Chelsea during the 2025/26 season",
+  "note": "PL matches only · completed passes only · 2025/26 season only · goalkeepers included · club-specific if a player moved mid-season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Trevoh Chalobah",
+      "detail": "2,147 passes",
+      "accept": [
+        "trevoh chalobah",
+        "chalobah"
+      ]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "1,882 passes",
+      "accept": [
+        "moises caicedo",
+        "moisés caicedo",
+        "caicedo"
+      ]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "1,738 passes",
+      "accept": [
+        "enzo fernandez",
+        "enzo fernández",
+        "fernandez",
+        "fernández"
+      ]
+    },
+    {
+      "display": "Marc Cucurella",
+      "detail": "1,270 passes",
+      "accept": [
+        "marc cucurella",
+        "cucurella"
+      ]
+    },
+    {
+      "display": "Reece James",
+      "detail": "1,199 passes",
+      "accept": [
+        "reece james",
+        "james"
+      ]
+    },
+    {
+      "display": "Wesley Fofana",
+      "detail": "1,138 passes",
+      "accept": [
+        "wesley fofana",
+        "fofana"
+      ]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "1,098 passes",
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
+    },
+    {
+      "display": "Robert Sánchez",
+      "detail": "865 passes",
+      "accept": [
+        "robert sanchez",
+        "robert sánchez",
+        "sanchez",
+        "sánchez"
+      ]
+    },
+    {
+      "display": "Pedro Neto",
+      "detail": "804 passes",
+      "accept": [
+        "pedro neto",
+        "neto"
+      ]
+    },
+    {
+      "display": "Andrey Santos",
+      "detail": "713 passes",
+      "accept": [
+        "andrey santos",
+        "santos"
+      ]
+    }
+  ]
+}

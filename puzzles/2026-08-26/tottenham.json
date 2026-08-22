@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-26",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who completed the most Premier League passes for Spurs during the 2025/26 season",
+  "note": "PL matches only · completed passes only · 2025/26 season only · goalkeepers included · club-specific if a player moved mid-season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Micky van de Ven",
+      "detail": "1,622 passes",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "1,121 passes",
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "992 passes",
+      "accept": [
+        "cristian romero",
+        "romero",
+        "cuti romero"
+      ]
+    },
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "879 passes",
+      "accept": [
+        "rodrigo bentancur",
+        "bentancur"
+      ]
+    },
+    {
+      "display": "João Palhinha",
+      "detail": "854 passes",
+      "accept": [
+        "joao palhinha",
+        "joão palhinha",
+        "palhinha"
+      ]
+    },
+    {
+      "display": "Kevin Danso",
+      "detail": "843 passes",
+      "accept": [
+        "kevin danso",
+        "danso"
+      ]
+    },
+    {
+      "display": "Guglielmo Vicario",
+      "detail": "742 passes",
+      "accept": [
+        "guglielmo vicario",
+        "vicario"
+      ]
+    },
+    {
+      "display": "Djed Spence",
+      "detail": "717 passes",
+      "accept": [
+        "djed spence",
+        "spence"
+      ]
+    },
+    {
+      "display": "Xavi Simons",
+      "detail": "665 passes",
+      "accept": [
+        "xavi simons",
+        "simons"
+      ]
+    },
+    {
+      "display": "Pape Matar Sarr",
+      "detail": "543 passes",
+      "accept": [
+        "pape matar sarr",
+        "matar sarr",
+        "sarr"
+      ]
+    }
+  ]
+}

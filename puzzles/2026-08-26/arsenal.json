@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-26",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who completed the most Premier League passes for Arsenal during the 2025/26 season",
+  "note": "PL matches only · completed passes only · 2025/26 season only · goalkeepers included · club-specific if a player moved mid-season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "William Saliba",
+      "detail": "2,009 passes",
+      "accept": [
+        "william saliba",
+        "saliba"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "1,910 passes",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Martín Zubimendi",
+      "detail": "1,702 passes",
+      "accept": [
+        "martin zubimendi",
+        "martín zubimendi",
+        "zubimendi"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "1,541 passes",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes",
+        "magalhães"
+      ]
+    },
+    {
+      "display": "Jurriën Timber",
+      "detail": "923 passes",
+      "accept": [
+        "jurrien timber",
+        "jurriën timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Piero Hincapié",
+      "detail": "754 passes",
+      "accept": [
+        "piero hincapie",
+        "piero hincapié",
+        "hincapie",
+        "hincapié"
+      ]
+    },
+    {
+      "display": "David Raya",
+      "detail": "718 passes",
+      "accept": [
+        "david raya",
+        "raya"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "713 passes",
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
+    },
+    {
+      "display": "Riccardo Calafiori",
+      "detail": "638 passes",
+      "accept": [
+        "riccardo calafiori",
+        "calafiori"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "590 passes",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-26",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who completed the most Premier League passes for Liverpool during the 2025/26 season",
+  "note": "PL matches only · completed passes only · 2025/26 season only · goalkeepers included · club-specific if a player moved mid-season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Virgil van Dijk",
+      "detail": "2,506 passes",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Ibrahima Konaté",
+      "detail": "1,963 passes",
+      "accept": [
+        "ibrahima konate",
+        "ibrahima konaté",
+        "konate",
+        "konaté"
+      ]
+    },
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "1,921 passes",
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
+    },
+    {
+      "display": "Ryan Gravenberch",
+      "detail": "1,649 passes",
+      "accept": [
+        "ryan gravenberch",
+        "gravenberch"
+      ]
+    },
+    {
+      "display": "Curtis Jones",
+      "detail": "1,500 passes",
+      "accept": [
+        "curtis jones",
+        "jones"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "1,232 passes",
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister"
+      ]
+    },
+    {
+      "display": "Florian Wirtz",
+      "detail": "1,196 passes",
+      "accept": [
+        "florian wirtz",
+        "wirtz"
+      ]
+    },
+    {
+      "display": "Milos Kerkez",
+      "detail": "897 passes",
+      "accept": [
+        "milos kerkez",
+        "miloš kerkez",
+        "kerkez"
+      ]
+    },
+    {
+      "display": "Alisson Becker",
+      "detail": "647 passes",
+      "accept": [
+        "alisson becker",
+        "alisson",
+        "becker"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "607 passes",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah"
+      ]
+    }
+  ]
+}
