@@ -41,6 +41,14 @@ const archiveDate = (() => {
 // Set when a ?partner=xxx param is present — see PARTNER EMBED SUPPORT below.
 const partner = new URLSearchParams(location.search).get('partner');
 
+// A ?date= pinned to *today* (partner links use this so they survive the
+// midnight rollover — api/archive.js never lists today, so a bare partner
+// link would otherwise 404 without an explicit date) is a live, current
+// play, not a stale replay. Only a date strictly before today is a genuine
+// archive play — stats, streak, and analytics should treat "today via a
+// pinned link" the same as an ordinary visit.
+const isArchivePlay = archiveDate !== null && archiveDate !== londonDateString();
+
 // Keeps ?partner= attached to the puzzle-nav links (<< < > >>) so the
 // partner badge/behaviour survives clicking between puzzles.
 function withPartner(url) {
@@ -165,7 +173,7 @@ async function init() {
   if (!club) { showPicker(); return; }
 
   // Archive mode never restores saved state — each play is fresh.
-  const saved = archiveDate ? null : getPlayState(club);
+  const saved = isArchivePlay ? null : getPlayState(club);
   await fetchAndStartPuzzle(club, saved);
 }
 
@@ -231,7 +239,7 @@ async function fetchAndStartPuzzle(club, savedState) {
   loadingEl.style.display = "none";
   buildGameBoard();
 
-  if (archiveDate) {
+  if (isArchivePlay) {
     // The Peoples Person links straight to a specific day's puzzle on
     // purpose — "past puzzle" framing there reads as a mistake, not archive mode.
     if (partner !== "tpp") {
@@ -256,7 +264,7 @@ async function fetchAndStartPuzzle(club, savedState) {
 function buildGameBoard() {
   // Status bar
   document.getElementById("puzzleLabel").textContent = `Puzzle #${puzzle.puzzleNumber}`;
-  if (archiveDate) {
+  if (isArchivePlay) {
     document.getElementById("streakLabel").textContent = "Archive";
   } else {
     document.getElementById("streakLabel").textContent = `Streak: ${getStats(getClub()).streak}`;
@@ -509,7 +517,7 @@ async function handleGuess() {
     if (found.size === puzzle.total) { await endGame(true); return; }
   }
 
-  if (!over && !archiveDate) persistInProgress();
+  if (!over && !isArchivePlay) persistInProgress();
   input.focus({ preventScroll: true });
 }
 
@@ -563,7 +571,7 @@ async function endGame(won) {
 
   const revealedArr = await revealUnfound();
 
-  if (!archiveDate) {
+  if (!isArchivePlay) {
     const club  = getClub();
     const stats = getStats(club);
     stats.played++;
@@ -575,7 +583,7 @@ async function endGame(won) {
     savePlayState(club, { found: foundArr, revealed: revealedArr, lives, over: true, won });
   }
 
-  if (!archiveDate && typeof gtag === "function") {
+  if (!isArchivePlay && typeof gtag === "function") {
     gtag("event", "game_complete", {
       club:         getClub(),
       score:        found.size,
@@ -632,7 +640,7 @@ function showEndCard(won) {
   document.getElementById("endTitle").textContent  = title;
   document.getElementById("scoreline").textContent = `${found.size}/10`;
 
-  if (archiveDate) {
+  if (isArchivePlay) {
     document.getElementById("statsLine").textContent = "Archive play — no stats recorded";
     document.getElementById("countdown").innerHTML =
       '<a href="/archive" style="color:var(--green);text-decoration:none">← Back to archive</a>';
@@ -661,7 +669,7 @@ function showEndCard(won) {
 
   const rival   = RIVALS[getClub()];
   const rivalEl = document.getElementById("rivalPrompt");
-  if (rival && rivalEl && !archiveDate) {
+  if (rival && rivalEl && !isArchivePlay) {
     rivalEl.innerHTML = `<a href="/${rival.club}" class="rival-btn" onclick="if(typeof gtag==='function')gtag('event','rival_click',{from_club:'${getClub()}',to_club:'${rival.club}'})">Try today's ${rival.label} puzzle →</a>`;
   }
 }
