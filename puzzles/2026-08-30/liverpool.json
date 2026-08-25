@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-30",
+  "club": "liverpool",
+  "type": "clubs",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 different opponents Liverpool most recently defeated by five or more goals in the Premier League",
+  "note": "most recent first · PL wins by 5+ goals only · through 2025/26 season",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "West Ham United",
+      "detail": "5-0 · 29 Dec 2024",
+      "accept": ["west ham united", "west ham", "hammers"]
+    },
+    {
+      "display": "Leeds United",
+      "detail": "6-1 · 17 Apr 2023",
+      "accept": ["leeds united", "leeds"]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "7-0 · 5 Mar 2023",
+      "accept": ["manchester united", "man united", "man utd"]
+    },
+    {
+      "display": "Bournemouth",
+      "detail": "9-0 · 27 Aug 2022",
+      "accept": ["bournemouth", "afc bournemouth"]
+    },
+    {
+      "display": "Watford",
+      "detail": "5-0 · 16 Oct 2021",
+      "accept": ["watford"]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "7-0 · 19 Dec 2020",
+      "accept": ["crystal palace", "palace"]
+    },
+    {
+      "display": "Huddersfield Town",
+      "detail": "5-0 · 26 Apr 2019",
+      "accept": ["huddersfield town", "huddersfield"]
+    },
+    {
+      "display": "Swansea City",
+      "detail": "5-0 · 26 Dec 2017",
+      "accept": ["swansea city", "swansea"]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "6-0 · 14 Feb 2016",
+      "accept": ["aston villa", "villa"]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "5-0 · 15 Dec 2013",
+      "accept": ["tottenham hotspur", "tottenham", "spurs"]
+    }
+  ]
+}

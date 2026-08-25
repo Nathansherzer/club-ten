@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-30",
+  "club": "tottenham",
+  "type": "clubs",
+  "clubLabel": "Tottenham:",
+  "clubShort": "Tottenham",
+  "question": "name the 10 different opponents Tottenham most recently defeated by five or more goals in the Premier League",
+  "note": "most recent first · PL wins by 5+ goals only · through 2025/26 season",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Southampton",
+      "detail": "5-0 · 15 Dec 2024",
+      "accept": ["southampton", "saints"]
+    },
+    {
+      "display": "Norwich City",
+      "detail": "5-0 · 22 May 2022",
+      "accept": ["norwich city", "norwich"]
+    },
+    {
+      "display": "Everton",
+      "detail": "5-0 · 7 Mar 2022",
+      "accept": ["everton"]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "6-1 · 4 Oct 2020",
+      "accept": ["manchester united", "man united", "man utd"]
+    },
+    {
+      "display": "Burnley",
+      "detail": "5-0 · 7 Dec 2019",
+      "accept": ["burnley"]
+    },
+    {
+      "display": "Bournemouth",
+      "detail": "5-0 · 26 Dec 2018",
+      "accept": ["bournemouth", "afc bournemouth"]
+    },
+    {
+      "display": "Hull City",
+      "detail": "7-1 · 21 May 2017",
+      "accept": ["hull city", "hull"]
+    },
+    {
+      "display": "Leicester City",
+      "detail": "6-1 · 18 May 2017",
+      "accept": ["leicester city", "leicester"]
+    },
+    {
+      "display": "Swansea City",
+      "detail": "5-0 · 3 Dec 2016",
+      "accept": ["swansea city", "swansea"]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "5-0 · 11 Feb 2012",
+      "accept": ["newcastle united", "newcastle"]
+    }
+  ]
+}

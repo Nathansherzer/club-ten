@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-30",
+  "club": "arsenal",
+  "type": "clubs",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 different opponents Arsenal most recently defeated by five or more goals in the Premier League",
+  "note": "most recent first · PL wins by 5+ goals only · through 2025/26 season",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Leeds United",
+      "detail": "5-0 · 23 Aug 2025",
+      "accept": ["leeds united", "leeds"]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "5-0 · 23 Apr 2024",
+      "accept": ["chelsea"]
+    },
+    {
+      "display": "Sheffield United",
+      "detail": "6-0 · 4 Mar 2024",
+      "accept": ["sheffield united", "sheffield utd", "blades"]
+    },
+    {
+      "display": "Burnley",
+      "detail": "5-0 · 17 Feb 2024",
+      "accept": ["burnley"]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "6-0 · 11 Feb 2024",
+      "accept": ["west ham united", "west ham", "hammers"]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "5-0 · 20 Jan 2024",
+      "accept": ["crystal palace", "palace"]
+    },
+    {
+      "display": "Wolverhampton Wanderers",
+      "detail": "5-0 · 28 May 2023",
+      "accept": ["wolverhampton wanderers", "wolves"]
+    },
+    {
+      "display": "Nottingham Forest",
+      "detail": "5-0 · 30 Oct 2022",
+      "accept": ["nottingham forest", "forest"]
+    },
+    {
+      "display": "Norwich City",
+      "detail": "5-0 · 26 Dec 2021",
+      "accept": ["norwich city", "norwich"]
+    },
+    {
+      "display": "Huddersfield Town",
+      "detail": "5-0 · 29 Nov 2017",
+      "accept": ["huddersfield town", "huddersfield"]
+    }
+  ]
+}

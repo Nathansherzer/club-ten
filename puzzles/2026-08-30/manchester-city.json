@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-30",
+  "club": "manchester-city",
+  "type": "clubs",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 different opponents Man City most recently defeated by five or more goals in the Premier League",
+  "note": "most recent first · PL wins by 5+ goals only · through 2025/26 season",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Ipswich Town",
+      "detail": "6-0 · 19 Jan 2025",
+      "accept": ["ipswich town", "ipswich"]
+    },
+    {
+      "display": "Bournemouth",
+      "detail": "6-1 · 4 Nov 2023",
+      "accept": ["bournemouth", "afc bournemouth"]
+    },
+    {
+      "display": "Nottingham Forest",
+      "detail": "6-0 · 31 Aug 2022",
+      "accept": ["nottingham forest", "forest"]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "5-0 · 8 May 2022",
+      "accept": ["newcastle united", "newcastle"]
+    },
+    {
+      "display": "Leeds United",
+      "detail": "7-0 · 14 Dec 2021",
+      "accept": ["leeds united", "leeds"]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "5-0 · 28 Aug 2021",
+      "accept": ["arsenal"]
+    },
+    {
+      "display": "Norwich City",
+      "detail": "5-0 · 21 Aug 2021",
+      "accept": ["norwich city", "norwich"]
+    },
+    {
+      "display": "Everton",
+      "detail": "5-0 · 23 May 2021",
+      "accept": ["everton"]
+    },
+    {
+      "display": "West Bromwich Albion",
+      "detail": "5-0 · 26 Jan 2021",
+      "accept": ["west bromwich albion", "west brom", "wba"]
+    },
+    {
+      "display": "Burnley",
+      "detail": "5-0 · 28 Nov 2020",
+      "accept": ["burnley"]
+    }
+  ]
+}

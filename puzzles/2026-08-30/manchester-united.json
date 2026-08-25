@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-30",
+  "club": "manchester-united",
+  "type": "clubs",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 different opponents Man United most recently defeated by five or more goals in the Premier League",
+  "note": "most recent first · PL wins by 5+ goals only · through 2025/26 season",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Southampton",
+      "detail": "9-0 · 2 Feb 2021",
+      "accept": ["southampton", "saints"]
+    },
+    {
+      "display": "Wolverhampton Wanderers",
+      "detail": "5-0 · 18 Mar 2012",
+      "accept": ["wolverhampton wanderers", "wolves"]
+    },
+    {
+      "display": "Wigan Athletic",
+      "detail": "5-0 · 26 Dec 2011",
+      "accept": ["wigan athletic", "wigan"]
+    },
+    {
+      "display": "Fulham",
+      "detail": "5-0 · 21 Dec 2011",
+      "accept": ["fulham"]
+    },
+    {
+      "display": "Bolton Wanderers",
+      "detail": "5-0 · 10 Sep 2011",
+      "accept": ["bolton wanderers", "bolton"]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "8-2 · 28 Aug 2011",
+      "accept": ["arsenal"]
+    },
+    {
+      "display": "Birmingham City",
+      "detail": "5-0 · 22 Jan 2011",
+      "accept": ["birmingham city", "birmingham"]
+    },
+    {
+      "display": "Blackburn Rovers",
+      "detail": "7-1 · 27 Nov 2010",
+      "accept": ["blackburn rovers", "blackburn"]
+    },
+    {
+      "display": "Portsmouth",
+      "detail": "5-0 · 6 Feb 2010",
+      "accept": ["portsmouth", "pompey"]
+    },
+    {
+      "display": "West Bromwich Albion",
+      "detail": "5-0 · 27 Jan 2009",
+      "accept": ["west bromwich albion", "west brom", "wba"]
+    }
+  ]
+}
