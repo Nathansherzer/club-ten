@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-27",
+  "club": "tottenham",
+  "clubLabel": "Tottenham:",
+  "clubShort": "Tottenham",
+  "question": "name the 10 outfield players who started Tottenham's opening Premier League match of the 2026/27 season",
+  "note": "2026/27 season opener · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Archie Gray",
+      "detail": "",
+      "accept": ["archie gray", "gray"]
+    },
+    {
+      "display": "Jan Paul van Hecke",
+      "detail": "",
+      "accept": ["jan paul van hecke", "van hecke", "jpvh"]
+    },
+    {
+      "display": "Marcos Senesi",
+      "detail": "",
+      "accept": ["marcos senesi", "senesi"]
+    },
+    {
+      "display": "Andrew Robertson",
+      "detail": "",
+      "accept": ["andrew robertson", "robertson"]
+    },
+    {
+      "display": "Sandro Tonali",
+      "detail": "",
+      "accept": ["sandro tonali", "tonali", "sandro"]
+    },
+    {
+      "display": "Lucas Bergvall",
+      "detail": "",
+      "accept": ["lucas bergvall", "bergvall"]
+    },
+    {
+      "display": "Mikey Moore",
+      "detail": "",
+      "accept": ["mikey moore", "moore"]
+    },
+    {
+      "display": "Conor Gallagher",
+      "detail": "",
+      "accept": ["conor gallagher", "gallagher"]
+    },
+    {
+      "display": "Mathys Tel",
+      "detail": "",
+      "accept": ["mathys tel", "tel"]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "",
+      "accept": ["richarlison"]
+    }
+  ]
+}

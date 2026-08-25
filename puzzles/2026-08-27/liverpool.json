@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-27",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players who started Liverpool's opening Premier League match of the 2026/27 season",
+  "note": "2026/27 season opener · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jeremie Frimpong",
+      "detail": "",
+      "accept": ["jeremie frimpong", "frimpong"]
+    },
+    {
+      "display": "Jérémy Jacquet",
+      "detail": "",
+      "accept": ["jeremy jacquet", "jérémy jacquet", "jacquet"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": ["virgil van dijk", "van dijk", "vvd"]
+    },
+    {
+      "display": "Milos Kerkez",
+      "detail": "",
+      "accept": ["milos kerkez", "miloš kerkez", "kerkez"]
+    },
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "",
+      "accept": ["dominik szoboszlai", "szoboszlai"]
+    },
+    {
+      "display": "Ryan Gravenberch",
+      "detail": "",
+      "accept": ["ryan gravenberch", "gravenberch"]
+    },
+    {
+      "display": "Rio Ngumoha",
+      "detail": "",
+      "accept": ["rio ngumoha", "ngumoha"]
+    },
+    {
+      "display": "Florian Wirtz",
+      "detail": "",
+      "accept": ["florian wirtz", "wirtz"]
+    },
+    {
+      "display": "Cody Gakpo",
+      "detail": "",
+      "accept": ["cody gakpo", "gakpo"]
+    },
+    {
+      "display": "Alexander Isak",
+      "detail": "",
+      "accept": ["alexander isak", "isak"]
+    }
+  ]
+}

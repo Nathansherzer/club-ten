@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-27",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players who started Man City's opening Premier League match of the 2026/27 season",
+  "note": "2026/27 season opener · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Rico Lewis",
+      "detail": "",
+      "accept": ["rico lewis", "lewis"]
+    },
+    {
+      "display": "Abdukodir Khusanov",
+      "detail": "",
+      "accept": ["abdukodir khusanov", "khusanov"]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": ["ruben dias", "rúben dias", "dias"]
+    },
+    {
+      "display": "Joško Gvardiol",
+      "detail": "",
+      "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"]
+    },
+    {
+      "display": "Elliot Anderson",
+      "detail": "",
+      "accept": ["elliot anderson", "anderson"]
+    },
+    {
+      "display": "Marc Guéhi",
+      "detail": "",
+      "accept": ["marc guehi", "marc guéhi", "guehi", "guéhi"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "",
+      "accept": ["nico o'reilly", "nico oreilly", "o'reilly", "oreilly"]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "",
+      "accept": ["antoine semenyo", "semenyo"]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": ["erling haaland", "haaland"]
+    }
+  ]
+}

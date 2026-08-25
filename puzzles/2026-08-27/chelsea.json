@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-27",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players who started Chelsea's opening Premier League match of the 2026/27 season",
+  "note": "2026/27 season opener · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Josh Acheampong",
+      "detail": "",
+      "accept": ["josh acheampong", "acheampong"]
+    },
+    {
+      "display": "Maxence Lacroix",
+      "detail": "",
+      "accept": ["maxence lacroix", "lacroix"]
+    },
+    {
+      "display": "Levi Colwill",
+      "detail": "",
+      "accept": ["levi colwill", "colwill"]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "",
+      "accept": ["malo gusto", "gusto"]
+    },
+    {
+      "display": "Reece James",
+      "detail": "",
+      "accept": ["reece james", "james"]
+    },
+    {
+      "display": "Roméo Lavia",
+      "detail": "",
+      "accept": ["romeo lavia", "roméo lavia", "lavia"]
+    },
+    {
+      "display": "Jorrel Hato",
+      "detail": "",
+      "accept": ["jorrel hato", "hato"]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "",
+      "accept": ["cole palmer", "palmer"]
+    },
+    {
+      "display": "Morgan Rogers",
+      "detail": "",
+      "accept": ["morgan rogers", "rogers"]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "",
+      "accept": ["joao pedro", "joão pedro"]
+    }
+  ]
+}

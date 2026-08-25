@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-27",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 outfield players who started Man United's opening Premier League match of the 2026/27 season",
+  "note": "2026/27 season opener · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Noussair Mazraoui",
+      "detail": "",
+      "accept": ["noussair mazraoui", "mazraoui"]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "",
+      "accept": ["harry maguire", "maguire"]
+    },
+    {
+      "display": "Ayden Heaven",
+      "detail": "",
+      "accept": ["ayden heaven", "heaven"]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "",
+      "accept": ["luke shaw", "shaw"]
+    },
+    {
+      "display": "Youri Tielemans",
+      "detail": "",
+      "accept": ["youri tielemans", "tielemans"]
+    },
+    {
+      "display": "Andrey Santos",
+      "detail": "",
+      "accept": ["andrey santos", "santos"]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "",
+      "accept": ["bryan mbeumo", "mbeumo"]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Patrick Dorgu",
+      "detail": "",
+      "accept": ["patrick dorgu", "dorgu"]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "",
+      "accept": ["matheus cunha", "cunha"]
+    }
+  ]
+}
