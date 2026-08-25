@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-31",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 tallest outfield players to appear in the Premier League for Arsenal",
+  "note": "ranked tallest first · ties broken by PL appearances, then alphabetically · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Per Mertesacker",
+      "detail": "198 cm · 156 apps",
+      "accept": ["per mertesacker", "mertesacker"]
+    },
+    {
+      "display": "Nwankwo Kanu",
+      "detail": "197 cm · 119 apps",
+      "accept": ["nwankwo kanu", "kanu"]
+    },
+    {
+      "display": "Nicklas Bendtner",
+      "detail": "194 cm · 108 apps",
+      "accept": ["nicklas bendtner", "bendtner"]
+    },
+    {
+      "display": "Yaya Sanogo",
+      "detail": "194 cm · 11 apps",
+      "accept": ["yaya sanogo", "sanogo"]
+    },
+    {
+      "display": "Konstantinos Mavropanos",
+      "detail": "194 cm · 7 apps",
+      "accept": ["konstantinos mavropanos", "mavropanos"]
+    },
+    {
+      "display": "Steve Bould",
+      "detail": "193 cm · 175 apps",
+      "accept": ["steve bould", "bould"]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "193 cm · 72 apps",
+      "accept": ["kai havertz", "havertz"]
+    },
+    {
+      "display": "Pablo Marí",
+      "detail": "193 cm · 14 apps",
+      "accept": ["pablo mari", "pablo marí", "mari", "marí"]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "192 cm · 279 apps",
+      "accept": ["patrick vieira", "vieira"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "192 cm · 180 apps",
+      "accept": ["olivier giroud", "giroud"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-31",
+  "club": "tottenham",
+  "clubLabel": "Tottenham:",
+  "clubShort": "Tottenham",
+  "question": "name the 10 tallest outfield players to appear in the Premier League for Tottenham",
+  "note": "ranked tallest first · ties broken by PL appearances, then alphabetically · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Peter Crouch",
+      "detail": "201 cm · 73 apps",
+      "accept": ["peter crouch", "crouch"]
+    },
+    {
+      "display": "Anthony Gardner",
+      "detail": "196 cm · 114 apps",
+      "accept": ["anthony gardner", "gardner"]
+    },
+    {
+      "display": "Fernando Llorente",
+      "detail": "195 cm · 36 apps",
+      "accept": ["fernando llorente", "llorente"]
+    },
+    {
+      "display": "Federico Fazio",
+      "detail": "195 cm · 20 apps",
+      "accept": ["federico fazio", "fazio"]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "193 cm · 75 apps",
+      "accept": ["micky van de ven", "van de ven"]
+    },
+    {
+      "display": "Calum Davenport",
+      "detail": "193 cm · 15 apps",
+      "accept": ["calum davenport", "davenport"]
+    },
+    {
+      "display": "Joe Rodon",
+      "detail": "193 cm · 15 apps",
+      "accept": ["joe rodon", "rodon"]
+    },
+    {
+      "display": "Younès Kaboul",
+      "detail": "192 cm · 110 apps",
+      "accept": ["younes kaboul", "younès kaboul", "kaboul"]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "192 cm · 92 apps",
+      "accept": ["emmanuel adebayor", "adebayor"]
+    },
+    {
+      "display": "Vedran Ćorluka",
+      "detail": "192 cm · 81 apps",
+      "accept": ["vedran corluka", "vedran ćorluka", "corluka", "ćorluka"]
+    }
+  ]
+}

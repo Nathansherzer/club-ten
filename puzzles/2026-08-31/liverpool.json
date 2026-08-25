@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-31",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 tallest outfield players to appear in the Premier League for Liverpool",
+  "note": "ranked tallest first · ties broken by PL appearances, then alphabetically · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Peter Crouch",
+      "detail": "201 cm · 85 apps",
+      "accept": ["peter crouch", "crouch"]
+    },
+    {
+      "display": "Sebastián Coates",
+      "detail": "196 cm · 12 apps",
+      "accept": ["sebastian coates", "sebastián coates", "coates"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "195 cm · 272 apps",
+      "accept": ["virgil van dijk", "van dijk", "vvd"]
+    },
+    {
+      "display": "Joël Matip",
+      "detail": "195 cm · 150 apps",
+      "accept": ["joel matip", "joël matip", "matip"]
+    },
+    {
+      "display": "Rhys Williams",
+      "detail": "195 cm · 9 apps",
+      "accept": ["rhys williams", "williams"]
+    },
+    {
+      "display": "Ibrahima Konaté",
+      "detail": "194 cm · 118 apps",
+      "accept": ["ibrahima konate", "ibrahima konaté", "konate", "konaté"]
+    },
+    {
+      "display": "Andy Carroll",
+      "detail": "194 cm · 44 apps",
+      "accept": ["andy carroll", "carroll"]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "193 cm · 318 apps",
+      "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"]
+    },
+    {
+      "display": "Cody Gakpo",
+      "detail": "193 cm · 127 apps",
+      "accept": ["cody gakpo", "gakpo"]
+    },
+    {
+      "display": "Sotirios Kyrgiakos",
+      "detail": "193 cm · 30 apps",
+      "accept": ["sotirios kyrgiakos", "kyrgiakos"]
+    }
+  ]
+}

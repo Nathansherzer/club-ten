@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-31",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 tallest outfield players to appear in the Premier League for Chelsea",
+  "note": "ranked tallest first · ties broken by PL appearances, then alphabetically · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Tosin Adarabioyo",
+      "detail": "197 cm · 38 apps",
+      "accept": ["tosin adarabioyo", "adarabioyo"]
+    },
+    {
+      "display": "Jiří Jarošík",
+      "detail": "196 cm · 14 apps",
+      "accept": ["jiri jarosik", "jiří jarošík", "jarosik", "jarošík"]
+    },
+    {
+      "display": "Nemanja Matić",
+      "detail": "194 cm · 123 apps",
+      "accept": ["nemanja matic", "nemanja matić", "matic", "matić"]
+    },
+    {
+      "display": "Tammy Abraham",
+      "detail": "194 cm · 58 apps",
+      "accept": ["tammy abraham", "abraham"]
+    },
+    {
+      "display": "Benoît Badiashile",
+      "detail": "194 cm · 42 apps",
+      "accept": ["benoit badiashile", "benoît badiashile", "badiashile"]
+    },
+    {
+      "display": "Mamadou Sarr",
+      "detail": "194 cm · 2 apps",
+      "accept": ["mamadou sarr", "sarr"]
+    },
+    {
+      "display": "Gary Cahill",
+      "detail": "193 cm · 191 apps",
+      "accept": ["gary cahill", "cahill"]
+    },
+    {
+      "display": "Tore André Flo",
+      "detail": "193 cm · 112 apps",
+      "accept": ["tore andre flo", "tore andré flo", "flo"]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "193 cm · 91 apps",
+      "accept": ["kai havertz", "havertz"]
+    },
+    {
+      "display": "Franco Di Santo",
+      "detail": "193 cm · 8 apps",
+      "accept": ["franco di santo", "di santo"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-31",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 tallest outfield players to appear in the Premier League for Man City",
+  "note": "ranked tallest first · ties broken by PL appearances, then alphabetically · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Daniel Van Buyten",
+      "detail": "197 cm · 5 apps",
+      "accept": ["daniel van buyten", "van buyten"]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "195 cm · 132 apps",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Christian Negouai",
+      "detail": "194 cm · 1 app",
+      "accept": ["christian negouai", "negouai"]
+    },
+    {
+      "display": "Niall Quinn",
+      "detail": "193 cm · 121 apps",
+      "accept": ["niall quinn", "quinn"]
+    },
+    {
+      "display": "Georgios Samaras",
+      "detail": "193 cm · 55 apps",
+      "accept": ["georgios samaras", "samaras"]
+    },
+    {
+      "display": "Paulo Wanchope",
+      "detail": "193 cm · 49 apps",
+      "accept": ["paulo wanchope", "wanchope"]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "193 cm · 43 apps",
+      "accept": ["nico o'reilly", "nico oreilly", "o'reilly", "oreilly"]
+    },
+    {
+      "display": "Roque Santa Cruz",
+      "detail": "193 cm · 20 apps",
+      "accept": ["roque santa cruz", "santa cruz"]
+    },
+    {
+      "display": "Mikkel Bischoff",
+      "detail": "193 cm · 1 app",
+      "accept": ["mikkel bischoff", "bischoff"]
+    },
+    {
+      "display": "Sylvain Distin",
+      "detail": "192 cm · 178 apps",
+      "accept": ["sylvain distin", "distin"]
+    }
+  ]
+}

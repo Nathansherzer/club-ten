@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-31",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 tallest outfield players to appear in the Premier League for Man United",
+  "note": "ranked tallest first · ties broken by PL appearances, then alphabetically · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wout Weghorst",
+      "detail": "197 cm · 17 apps",
+      "accept": ["wout weghorst", "weghorst"]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "195 cm · 33 apps",
+      "accept": ["zlatan ibrahimovic", "zlatan ibrahimović", "ibrahimovic", "ibrahimović"]
+    },
+    {
+      "display": "Benjamin Šeško",
+      "detail": "195 cm · 30 apps",
+      "accept": ["benjamin sesko", "benjamin šeško", "sesko", "šeško"]
+    },
+    {
+      "display": "Chris Smalling",
+      "detail": "194 cm · 206 apps",
+      "accept": ["chris smalling", "smalling"]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "194 cm · 190 apps",
+      "accept": ["harry maguire", "maguire"]
+    },
+    {
+      "display": "Nemanja Matić",
+      "detail": "194 cm · 128 apps",
+      "accept": ["nemanja matic", "nemanja matić", "matic", "matić"]
+    },
+    {
+      "display": "Marouane Fellaini",
+      "detail": "194 cm · 119 apps",
+      "accept": ["marouane fellaini", "fellaini"]
+    },
+    {
+      "display": "Gerard Piqué",
+      "detail": "194 cm · 12 apps",
+      "accept": ["gerard pique", "gerard piqué", "pique", "piqué"]
+    },
+    {
+      "display": "Gary Pallister",
+      "detail": "193 cm · 206 apps",
+      "accept": ["gary pallister", "pallister"]
+    },
+    {
+      "display": "Scott McTominay",
+      "detail": "193 cm · 178 apps",
+      "accept": ["scott mctominay", "mctominay"]
+    }
+  ]
+}
