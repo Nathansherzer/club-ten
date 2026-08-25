@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-29",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to score a Premier League hat-trick for Man United",
+  "note": "most recent first · PL hat-tricks only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Amad Diallo",
+      "detail": "vs Southampton · 16 Jan 2025",
+      "accept": ["amad diallo", "diallo", "amad"]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "vs Norwich · 16 Apr 2022",
+      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "vs Leeds · 14 Aug 2021",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "vs Sheffield United · 24 Jun 2020",
+      "accept": ["anthony martial", "martial"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "vs Aston Villa · 22 Apr 2013",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Shinji Kagawa",
+      "detail": "vs Norwich · 2 Mar 2013",
+      "accept": ["shinji kagawa", "kagawa"]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "vs Wigan · 26 Dec 2011",
+      "accept": ["dimitar berbatov", "berbatov"]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "vs Bolton · 10 Sep 2011",
+      "accept": ["wayne rooney", "rooney"]
+    },
+    {
+      "display": "Ruud van Nistelrooy",
+      "detail": "vs Leicester · 27 Sep 2003",
+      "accept": ["ruud van nistelrooy", "van nistelrooy"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "vs Newcastle · 12 Apr 2003",
+      "accept": ["paul scholes", "scholes"]
+    }
+  ]
+}

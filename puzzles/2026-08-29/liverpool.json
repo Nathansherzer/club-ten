@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-29",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to score a Premier League hat-trick for Liverpool",
+  "note": "most recent first · PL hat-tricks only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "vs Man United · 24 Oct 2021",
+      "accept": ["mohamed salah", "salah"]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "vs Watford · 16 Oct 2021",
+      "accept": ["roberto firmino", "firmino"]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "vs Cardiff · 22 Mar 2014",
+      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "vs Fulham · 12 May 2013",
+      "accept": ["daniel sturridge", "sturridge"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "vs Everton · 13 Mar 2012",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Maxi Rodríguez",
+      "detail": "vs Fulham · 9 May 2011",
+      "accept": ["maxi rodriguez", "maxi rodríguez", "rodriguez", "rodríguez"]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "vs Man United · 6 Mar 2011",
+      "accept": ["dirk kuyt", "kuyt"]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "vs Hull · 26 Sep 2009",
+      "accept": ["fernando torres", "torres"]
+    },
+    {
+      "display": "Yossi Benayoun",
+      "detail": "vs Burnley · 12 Sep 2009",
+      "accept": ["yossi benayoun", "benayoun"]
+    },
+    {
+      "display": "Peter Crouch",
+      "detail": "vs Arsenal · 31 Mar 2007",
+      "accept": ["peter crouch", "crouch"]
+    }
+  ]
+}

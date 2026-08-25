@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-29",
+  "club": "tottenham",
+  "clubLabel": "Tottenham:",
+  "clubShort": "Tottenham",
+  "question": "name the 10 most recent different players to score a Premier League hat-trick for Tottenham",
+  "note": "most recent first · PL hat-tricks only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Son Heung-min",
+      "detail": "vs Burnley · 2 Sep 2023",
+      "accept": ["son heung-min", "son heung min", "son"]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "vs Sheffield United · 2 May 2021",
+      "accept": ["gareth bale", "bale"]
+    },
+    {
+      "display": "Lucas Moura",
+      "detail": "vs Huddersfield · 13 Apr 2019",
+      "accept": ["lucas moura", "moura"]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "vs Southampton · 26 Dec 2017",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "vs Wigan · 22 Nov 2009",
+      "accept": ["jermain defoe", "defoe"]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "vs Burnley · 26 Sep 2009",
+      "accept": ["robbie keane", "keane"]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "vs Reading · 29 Dec 2007",
+      "accept": ["dimitar berbatov", "berbatov"]
+    },
+    {
+      "display": "Les Ferdinand",
+      "detail": "vs Leicester · 25 Nov 2000",
+      "accept": ["les ferdinand", "ferdinand"]
+    },
+    {
+      "display": "Steffen Iversen",
+      "detail": "vs Southampton · 11 Mar 2000",
+      "accept": ["steffen iversen", "iversen"]
+    },
+    {
+      "display": "Chris Armstrong",
+      "detail": "vs Everton · 28 Dec 1998",
+      "accept": ["chris armstrong", "armstrong"]
+    }
+  ]
+}

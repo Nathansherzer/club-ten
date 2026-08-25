@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-29",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to score a Premier League hat-trick for Man City",
+  "note": "most recent first · PL hat-tricks only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Omar Marmoush",
+      "detail": "vs Newcastle · 15 Feb 2025",
+      "accept": ["omar marmoush", "marmoush"]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "vs West Ham · 31 Aug 2024",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "vs Aston Villa · 3 Apr 2024",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "vs Wolves · 11 May 2022",
+      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "vs Watford · 23 Apr 2022",
+      "accept": ["gabriel jesus", "gabriel jesús", "jesus", "jesús"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "vs Norwich · 12 Feb 2022",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Ferran Torres",
+      "detail": "vs Newcastle · 14 May 2021",
+      "accept": ["ferran torres", "torres"]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "vs Burnley · 28 Nov 2020",
+      "accept": ["riyad mahrez", "mahrez"]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "vs Aston Villa · 12 Jan 2020",
+      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun"]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "vs Watford · 21 Sep 2019",
+      "accept": ["bernardo silva", "bernardo"]
+    }
+  ]
+}

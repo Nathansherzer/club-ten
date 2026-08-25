@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-29",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to score a Premier League hat-trick for Arsenal",
+  "note": "most recent first · PL hat-tricks only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Eberechi Eze",
+      "detail": "vs Tottenham · 23 Nov 2025",
+      "accept": ["eberechi eze", "eze"]
+    },
+    {
+      "display": "Eddie Nketiah",
+      "detail": "vs Sheffield United · 28 Oct 2023",
+      "accept": ["eddie nketiah", "nketiah"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "vs Leeds · 14 Feb 2021",
+      "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang", "pea"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "vs Everton · 3 Feb 2018",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "vs West Ham · 3 Dec 2016",
+      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez", "alexis"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "vs Aston Villa · 15 May 2016",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "vs West Brom · 24 May 2015",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Santi Cazorla",
+      "detail": "vs Reading · 17 Dec 2012",
+      "accept": ["santi cazorla", "cazorla"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "vs Blackburn · 4 Feb 2012",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Andrey Arshavin",
+      "detail": "vs Liverpool · 21 Apr 2009",
+      "accept": ["andrey arshavin", "arshavin"]
+    }
+  ]
+}
