@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-28",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who made the most competitive appearances for Man City under Pep Guardiola",
+  "note": "Under Pep Guardiola · all competitions · ties broken by starts, then minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bernardo Silva",
+      "detail": "460 apps",
+      "accept": ["bernardo silva", "bernardo"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "381 apps",
+      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "Ederson",
+      "detail": "372 apps",
+      "accept": ["ederson"]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "369 apps",
+      "accept": ["phil foden", "foden"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "358 apps",
+      "accept": ["ilkay gundogan", "ilkay gündoğan", "gundogan", "gündoğan"]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "319 apps",
+      "accept": ["kyle walker", "walker"]
+    },
+    {
+      "display": "Rodri",
+      "detail": "298 apps",
+      "accept": ["rodri"]
+    },
+    {
+      "display": "John Stones",
+      "detail": "295 apps",
+      "accept": ["john stones", "stones"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "292 apps",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "255 apps",
+      "accept": ["ruben dias", "rúben dias", "dias"]
+    }
+  ]
+}

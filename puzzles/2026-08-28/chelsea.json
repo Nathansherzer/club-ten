@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-28",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who made the most competitive appearances for Chelsea under José Mourinho",
+  "note": "Under José Mourinho · both spells combined · all competitions · ties broken by starts, then minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Terry",
+      "detail": "267 apps",
+      "accept": ["john terry", "terry"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "215 apps",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "196 apps",
+      "accept": ["petr cech", "petr čech", "cech", "čech"]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "187 apps",
+      "accept": ["didier drogba", "drogba"]
+    },
+    {
+      "display": "Claude Makélélé",
+      "detail": "139 apps",
+      "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé"]
+    },
+    {
+      "display": "Ricardo Carvalho",
+      "detail": "128 apps",
+      "accept": ["ricardo carvalho", "carvalho"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "125 apps",
+      "accept": ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Joe Cole",
+      "detail": "124 apps",
+      "accept": ["joe cole"]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "120 apps",
+      "accept": ["john obi mikel", "mikel john obi", "obi mikel", "mikel"]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "115 apps",
+      "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-28",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who made the most competitive appearances for Arsenal under Arsène Wenger",
+  "note": "Under Arsène Wenger · all competitions · ties broken by starts, then minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Patrick Vieira",
+      "detail": "401 apps",
+      "accept": ["patrick vieira", "vieira"]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "395 apps",
+      "accept": ["theo walcott", "walcott"]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "377 apps",
+      "accept": ["thierry henry", "henry"]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "375 apps",
+      "accept": ["dennis bergkamp", "bergkamp"]
+    },
+    {
+      "display": "Freddie Ljungberg",
+      "detail": "328 apps",
+      "accept": ["freddie ljungberg", "ljungberg"]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "326 apps",
+      "accept": ["kolo toure", "kolo touré", "toure", "touré"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "326 apps",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "323 apps",
+      "accept": ["laurent koscielny", "koscielny"]
+    },
+    {
+      "display": "Ray Parlour",
+      "detail": "317 apps",
+      "accept": ["ray parlour", "parlour"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "303 apps",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"]
+    }
+  ]
+}

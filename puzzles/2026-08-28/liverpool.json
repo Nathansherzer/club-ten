@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-28",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who made the most competitive appearances for Liverpool under Brendan Rodgers",
+  "note": "Under Brendan Rodgers · all competitions · ties broken by starts, then minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jordan Henderson",
+      "detail": "140 apps",
+      "accept": ["jordan henderson", "henderson"]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "129 apps",
+      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "126 apps",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "126 apps",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Philippe Coutinho",
+      "detail": "112 apps",
+      "accept": ["philippe coutinho", "coutinho"]
+    },
+    {
+      "display": "Simon Mignolet",
+      "detail": "104 apps",
+      "accept": ["simon mignolet", "mignolet"]
+    },
+    {
+      "display": "Glen Johnson",
+      "detail": "101 apps",
+      "accept": ["glen johnson", "johnson"]
+    },
+    {
+      "display": "Joe Allen",
+      "detail": "99 apps",
+      "accept": ["joe allen", "allen"]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "98 apps",
+      "accept": ["lucas leiva", "leiva"]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "81 apps",
+      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+    }
+  ]
+}

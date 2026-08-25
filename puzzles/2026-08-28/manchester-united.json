@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-28",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who made the most competitive appearances for Man United under Sir Alex Ferguson",
+  "note": "Under Sir Alex Ferguson · entire tenure, including pre-1992 · all competitions · ties broken by starts, then minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "940 apps",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "716 apps",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "601 apps",
+      "accept": ["gary neville", "neville"]
+    },
+    {
+      "display": "Denis Irwin",
+      "detail": "528 apps",
+      "accept": ["denis irwin", "irwin"]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "478 apps",
+      "accept": ["roy keane", "keane"]
+    },
+    {
+      "display": "Brian McClair",
+      "detail": "471 apps",
+      "accept": ["brian mcclair", "mcclair"]
+    },
+    {
+      "display": "Gary Pallister",
+      "detail": "434 apps",
+      "accept": ["gary pallister", "pallister"]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "432 apps",
+      "accept": ["rio ferdinand", "ferdinand"]
+    },
+    {
+      "display": "Steve Bruce",
+      "detail": "417 apps",
+      "accept": ["steve bruce", "bruce"]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "402 apps",
+      "accept": ["wayne rooney", "rooney"]
+    }
+  ]
+}

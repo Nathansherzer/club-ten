@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-28",
+  "club": "tottenham",
+  "clubLabel": "Tottenham:",
+  "clubShort": "Tottenham",
+  "question": "name the 10 players who made the most competitive appearances for Tottenham under Mauricio Pochettino",
+  "note": "Under Mauricio Pochettino · all competitions · ties broken by starts, then minutes",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Christian Eriksen",
+      "detail": "255 apps",
+      "accept": ["christian eriksen", "eriksen"]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "242 apps",
+      "accept": ["harry kane", "kane"]
+    },
+    {
+      "display": "Hugo Lloris",
+      "detail": "229 apps",
+      "accept": ["hugo lloris", "lloris"]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "216 apps",
+      "accept": ["eric dier", "dier"]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "212 apps",
+      "accept": ["jan vertonghen", "vertonghen"]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "203 apps",
+      "accept": ["son heung-min", "son heung min", "son", "heung-min"]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "194 apps",
+      "accept": ["dele alli", "dele", "alli"]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "183 apps",
+      "accept": ["erik lamela", "lamela"]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "176 apps",
+      "accept": ["ben davies", "davies"]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "172 apps",
+      "accept": ["toby alderweireld", "alderweireld"]
+    }
+  ]
+}
