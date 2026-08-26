@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-01",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to win the Premier League Player of the Month award for Chelsea",
+  "note": "most recent first · PL Player of the Month only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cole Palmer",
+      "detail": "September 2024",
+      "accept": ["cole palmer", "palmer"]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "September 2018",
+      "accept": ["eden hazard", "hazard"]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "November 2016",
+      "accept": ["diego costa", "costa"]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "October 2012",
+      "accept": ["juan mata", "mata"]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "March 2011",
+      "accept": ["david luiz", "luiz"]
+    },
+    {
+      "display": "Florent Malouda",
+      "detail": "March 2010",
+      "accept": ["florent malouda", "malouda"]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "November 2008",
+      "accept": ["nicolas anelka", "anelka"]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "October 2008",
+      "accept": ["frank lampard", "lampard"]
+    },
+    {
+      "display": "Deco",
+      "detail": "August 2008",
+      "accept": ["deco"]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "March 2007",
+      "accept": ["petr cech", "petr čech", "cech", "čech"]
+    }
+  ]
+}

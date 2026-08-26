@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-01",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to win the Premier League Player of the Month award for Liverpool",
+  "note": "most recent first · PL Player of the Month only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "April 2025",
+      "accept": ["alexis mac allister", "mac allister"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "February 2025",
+      "accept": ["mohamed salah", "salah"]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "January 2024",
+      "accept": ["diogo jota", "jota"]
+    },
+    {
+      "display": "Joël Matip",
+      "detail": "February 2022",
+      "accept": ["joel matip", "joël matip", "matip"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "November 2021",
+      "accept": ["trent alexander-arnold", "trent alexander arnold", "alexander-arnold", "taa"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "November 2019",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "December 2018",
+      "accept": ["virgil van dijk", "van dijk", "vvd"]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "March 2014",
+      "accept": ["steven gerrard", "gerrard"]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "March 2014",
+      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "February 2014",
+      "accept": ["daniel sturridge", "sturridge"]
+    }
+  ]
+}

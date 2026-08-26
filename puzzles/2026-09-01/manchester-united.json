@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-01",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to win the Premier League Player of the Month award for Man United",
+  "note": "most recent first · PL Player of the Month only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "March 2026",
+      "accept": ["bruno fernandes", "fernandes", "bruno"]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "October 2025",
+      "accept": ["bryan mbeumo", "mbeumo"]
+    },
+    {
+      "display": "Rasmus Højlund",
+      "detail": "February 2024",
+      "accept": ["rasmus hojlund", "rasmus højlund", "hojlund", "højlund"]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "November 2023",
+      "accept": ["harry maguire", "maguire"]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "February 2023",
+      "accept": ["marcus rashford", "rashford"]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "April 2022",
+      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+    },
+    {
+      "display": "David de Gea",
+      "detail": "January 2022",
+      "accept": ["david de gea", "de gea"]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "December 2016",
+      "accept": ["zlatan ibrahimovic", "zlatan ibrahimović", "ibrahimovic", "ibrahimović"]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "September 2015",
+      "accept": ["anthony martial", "martial"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "April 2013",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-01",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to win the Premier League Player of the Month award for Man City",
+  "note": "most recent first · PL Player of the Month only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Antoine Semenyo",
+      "detail": "February 2026",
+      "accept": ["antoine semenyo", "semenyo"]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "September 2025",
+      "accept": ["erling haaland", "haaland"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "December 2021",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "February 2021",
+      "accept": ["ilkay gundogan", "ilkay gündoğan", "gundogan", "gündoğan"]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "January 2020",
+      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun"]
+    },
+    {
+      "display": "Leroy Sané",
+      "detail": "October 2017",
+      "accept": ["leroy sane", "leroy sané", "sane", "sané"]
+    },
+    {
+      "display": "David Silva",
+      "detail": "September 2011",
+      "accept": ["david silva", "el mago"]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "August 2011",
+      "accept": ["edin dzeko", "edin džeko", "dzeko", "džeko"]
+    },
+    {
+      "display": "Carlos Tévez",
+      "detail": "December 2009",
+      "accept": ["carlos tevez", "carlos tévez", "tevez"]
+    },
+    {
+      "display": "Micah Richards",
+      "detail": "August 2007",
+      "accept": ["micah richards", "richards"]
+    }
+  ]
+}

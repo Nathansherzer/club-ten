@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-01",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to win the Premier League Player of the Month award for Arsenal",
+  "note": "most recent first · PL Player of the Month only · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bukayo Saka",
+      "detail": "March 2023",
+      "accept": ["bukayo saka", "saka"]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "November/December 2022",
+      "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "September 2019",
+      "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang", "pea"]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "March 2015",
+      "accept": ["olivier giroud", "giroud"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "September 2013",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "October 2011",
+      "accept": ["robin van persie", "van persie", "rvp"]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "December 2010",
+      "accept": ["samir nasri", "nasri"]
+    },
+    {
+      "display": "Andrey Arshavin",
+      "detail": "April 2009",
+      "accept": ["andrey arshavin", "arshavin"]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "September 2007",
+      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"]
+    },
+    {
+      "display": "José Antonio Reyes",
+      "detail": "August 2004",
+      "accept": ["jose antonio reyes", "josé antonio reyes", "reyes"]
+    }
+  ]
+}
