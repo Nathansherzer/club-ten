@@ -8,7 +8,7 @@
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Joao Palhinha",
+      "display": "João Palhinha",
       "detail": "126 pts",
       "accept": ["joao palhinha", "palhinha", "joão palhinha"]
     },

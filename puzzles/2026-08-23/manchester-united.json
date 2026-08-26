@@ -8,10 +8,11 @@
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Carlos Tevez",
+      "display": "Carlos Tévez",
       "detail": "19 goals",
       "accept": [
         "carlos tevez",
+        "carlos tévez",
         "tevez"
       ]
     },

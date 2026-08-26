@@ -18,9 +18,9 @@
       "accept": ["antoine semenyo", "semenyo"]
     },
     {
-      "display": "Marc Guehi",
+      "display": "Marc Guéhi",
       "detail": "179 pts",
-      "accept": ["marc guehi", "guehi"]
+      "accept": ["marc guehi", "marc guéhi", "guehi"]
     },
     {
       "display": "Nico O'Reilly",
@@ -48,14 +48,14 @@
       "accept": ["phil foden", "foden"]
     },
     {
-      "display": "Jeremy Doku",
+      "display": "Jérémy Doku",
       "detail": "120 pts",
-      "accept": ["jeremy doku", "doku"]
+      "accept": ["jeremy doku", "jérémy doku", "doku"]
     },
     {
-      "display": "Ruben Dias",
+      "display": "Rúben Dias",
       "detail": "113 pts",
-      "accept": ["ruben dias", "dias"]
+      "accept": ["ruben dias", "rúben dias", "dias"]
     }
   ]
 }

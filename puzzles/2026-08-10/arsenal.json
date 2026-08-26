@@ -8,9 +8,9 @@
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Gabriel Magalhaes",
+      "display": "Gabriel Magalhães",
       "detail": "209 pts",
-      "accept": ["gabriel magalhaes", "gabriel", "magalhaes"]
+      "accept": ["gabriel magalhaes", "gabriel magalhães", "gabriel", "magalhaes"]
     },
     {
       "display": "Declan Rice",
@@ -28,9 +28,9 @@
       "accept": ["bukayo saka", "saka"]
     },
     {
-      "display": "Jurrien Timber",
+      "display": "Jurriën Timber",
       "detail": "149 pts",
-      "accept": ["jurrien timber", "timber"]
+      "accept": ["jurrien timber", "jurriën timber", "timber"]
     },
     {
       "display": "William Saliba",
@@ -38,12 +38,12 @@
       "accept": ["william saliba", "saliba"]
     },
     {
-      "display": "Martin Zubimendi",
+      "display": "Martín Zubimendi",
       "detail": "133 pts",
-      "accept": ["martin zubimendi", "zubimendi"]
+      "accept": ["martin zubimendi", "martín zubimendi", "zubimendi"]
     },
     {
-      "display": "Viktor Gyokeres",
+      "display": "Viktor Gyökeres",
       "detail": "128 pts",
       "accept": ["viktor gyokeres", "gyokeres", "viktor gyökeres"]
     },

@@ -8,14 +8,14 @@
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Joao Pedro",
+      "display": "João Pedro",
       "detail": "177 pts",
       "accept": ["joao pedro", "joão pedro"]
     },
     {
-      "display": "Enzo Fernandez",
+      "display": "Enzo Fernández",
       "detail": "157 pts",
-      "accept": ["enzo fernandez", "enzo", "fernandez"]
+      "accept": ["enzo fernandez", "enzo fernández", "enzo", "fernandez"]
     },
     {
       "display": "Trevoh Chalobah",
@@ -38,14 +38,14 @@
       "accept": ["cole palmer", "palmer"]
     },
     {
-      "display": "Robert Sanchez",
+      "display": "Robert Sánchez",
       "detail": "113 pts",
-      "accept": ["robert sanchez", "sanchez"]
+      "accept": ["robert sanchez", "robert sánchez", "sanchez"]
     },
     {
-      "display": "Moises Caicedo",
+      "display": "Moisés Caicedo",
       "detail": "110 pts",
-      "accept": ["moises caicedo", "caicedo"]
+      "accept": ["moises caicedo", "moisés caicedo", "caicedo"]
     },
     {
       "display": "Marc Cucurella",
