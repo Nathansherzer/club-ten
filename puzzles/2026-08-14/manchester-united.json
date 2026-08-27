@@ -24,18 +24,13 @@
     },
     {
       "display": "Bryan Robson",
-      "detail": "36 years 282 days",
+      "detail": "36 years 216 days",
       "accept": ["bryan robson", "robson", "captain marvel"]
     },
     {
       "display": "Laurent Blanc",
-      "detail": "36 years 55 days",
+      "detail": "35 years 314 days",
       "accept": ["laurent blanc", "blanc"]
-    },
-    {
-      "display": "Michael Carrick",
-      "detail": "35 years 198 days",
-      "accept": ["michael carrick", "carrick"]
     },
     {
       "display": "Zlatan Ibrahimović",
@@ -43,19 +38,24 @@
       "accept": ["zlatan ibrahimovic", "zlatan ibrahimović", "ibrahimovic", "ibrahimović", "zlatan"]
     },
     {
+      "display": "Henrik Larsson",
+      "detail": "35 years 133 days",
+      "accept": ["henrik larsson", "larsson"]
+    },
+    {
+      "display": "Steve Bruce",
+      "detail": "35 years 56 days",
+      "accept": ["steve bruce", "bruce"]
+    },
+    {
       "display": "Teddy Sheringham",
-      "detail": "35 years 33 days",
+      "detail": "35 years 19 days",
       "accept": ["teddy sheringham", "sheringham"]
     },
     {
       "display": "Edinson Cavani",
-      "detail": "34 years 94 days",
+      "detail": "34 years 316 days",
       "accept": ["edinson cavani", "cavani", "el matador"]
-    },
-    {
-      "display": "Casemiro",
-      "detail": "34 years 0 days",
-      "accept": ["casemiro"]
     }
   ]
 }
