@@ -13,6 +13,11 @@
       "accept": ["thiago silva", "thiago", "silva"]
     },
     {
+      "display": "John Terry",
+      "detail": "37 years 69 days",
+      "accept": ["john terry", "terry", "jt"]
+    },
+    {
       "display": "Didier Drogba",
       "detail": "37 years 49 days",
       "accept": ["didier drogba", "drogba"]
@@ -28,18 +33,13 @@
       "accept": ["mal donaghy", "donaghy", "malachy donaghy"]
     },
     {
-      "display": "John Terry",
-      "detail": "36 years 159 days",
-      "accept": ["john terry", "terry", "jt"]
-    },
-    {
       "display": "Glenn Hoddle",
       "detail": "36 years 150 days",
       "accept": ["glenn hoddle", "hoddle"]
     },
     {
       "display": "Frank Lampard",
-      "detail": "35 years 290 days",
+      "detail": "35 years 289 days",
       "accept": ["frank lampard", "lampard"]
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "display": "Steve Clarke",
-      "detail": "34 years 240 days",
+      "detail": "34 years 239 days",
       "accept": ["steve clarke", "clarke"]
     }
   ]
