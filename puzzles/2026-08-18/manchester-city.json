@@ -13,14 +13,14 @@
       "accept": ["phil foden", "foden"]
     },
     {
-      "display": "Shaun Wright-Phillips",
-      "detail": "Academy graduate",
-      "accept": ["shaun wright-phillips", "wright-phillips", "swp"]
-    },
-    {
       "display": "Micah Richards",
       "detail": "Academy graduate",
       "accept": ["micah richards", "richards"]
+    },
+    {
+      "display": "Shaun Wright-Phillips",
+      "detail": "Academy graduate",
+      "accept": ["shaun wright-phillips", "wright-phillips", "swp"]
     },
     {
       "display": "Stephen Ireland",
