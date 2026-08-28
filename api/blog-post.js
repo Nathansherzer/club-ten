@@ -19,7 +19,7 @@ export const POSTS = {
   "most-expensive-premier-league-transfers": "2026-08-22",
   "dutch-players-premier-league":          "2026-08-26",
   "oldest-premier-league-goalscorers":     "2026-08-27",
-  "academy-graduates-premier-league":      "2026-09-03",
+  "academy-graduates-premier-league":      "2026-08-28",
   "south-american-players-premier-league": "2026-09-06"
 };
 
