@@ -1,8 +1,12 @@
 # Club Ten
 
-> Club Ten (topclubten.com) is a free daily football trivia game. Each day, for each of six Premier League "Big Six" clubs (Arsenal, Chelsea, Liverpool, Manchester City, Manchester United, Tottenham Hotspur), players try to name all 10 correct answers to a club-specific top-10 question (e.g. top goalscorers, longest-serving captains, most-capped players) with three wrong guesses allowed before the game ends.
+> Club Ten (topclubten.com) is a free daily football trivia game, sometimes called a "tenaball" or "ten-a-ball" quiz. Each day, for each of six Premier League "Big Six" clubs (Arsenal, Chelsea, Liverpool, Manchester City, Manchester United, Tottenham Hotspur), players try to name all 10 correct answers to a club-specific top-10 question (e.g. top goalscorers, longest-serving captains, most-capped players) with three wrong guesses allowed before the game ends.
 
-A new puzzle is published for each club every day at midnight London time. Puzzle answers are not public — they are validated server-side and are not present in any page's HTML, JSON, or source.
+A new puzzle is published for each club every day at midnight London time. Puzzle answers are not public — they are validated server-side and are not present in any page's HTML, JSON, or source. The game tracks each player's current streak, total games played, and perfect scores (all stored locally in the browser, no account required).
+
+## Also known as
+
+Club Ten is a club-specific take on the "tenaball" / "ten-a-ball" style of trivia game (naming all 10 items in a category), distinct from grid-style or "tenable"-style quiz formats. Related terms people search for: football tenaball, footy ten-a-ball, Premier League trivia game, daily football top-10 quiz.
 
 ## Key pages
 
@@ -20,3 +24,11 @@ A new puzzle is published for each club every day at midnight London time. Puzzl
 - [Manchester City](https://topclubten.com/manchester-city)
 - [Manchester United](https://topclubten.com/manchester-united)
 - [Tottenham Hotspur](https://topclubten.com/tottenham)
+
+## Blog posts
+
+- [The Oldest Goal Scorers in Premier League History at Arsenal, Chelsea, Liverpool, Man City, Man United and Spurs](https://topclubten.com/blog/oldest-premier-league-goalscorers) (27 August 2026): the oldest player to score a Premier League goal for each Big Six club, ranked and verified against match reports.
+- [Dutch Players at the Premier League's Big Six: Appearances and Career Highlights](https://topclubten.com/blog/dutch-players-premier-league) (26 August 2026): Dutch players' Premier League appearance records, club by club.
+- [Most Expensive Premier League to Premier League Transfers of All Time](https://topclubten.com/blog/most-expensive-premier-league-transfers) (22 August 2026): every record-breaking domestic (PL-to-PL) transfer ranked by fee, club by club.
+- [Brazilian Players in the Premier League: Appearance Leaders at Every Big Six Club](https://topclubten.com/blog/brazilian-players-premier-league) (17 August 2026): Brazil's most-capped Premier League players, club by club.
+- [The All-Time European Goals Records at Arsenal, Chelsea, Liverpool, Man City, Man United and Spurs](https://topclubten.com/blog/premier-league-european-goals-records) (10 August 2026): who leads the European goals table for each Big Six club.
