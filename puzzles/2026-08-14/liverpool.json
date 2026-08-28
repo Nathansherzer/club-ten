@@ -9,12 +9,12 @@
   "answers": [
     {
       "display": "Gary McAllister",
-      "detail": "36 years 127 days",
+      "detail": "36 years 112 days",
       "accept": ["gary mcallister", "mcallister"]
     },
     {
       "display": "Sami Hyypiä",
-      "detail": "35 years 83 days",
+      "detail": "35 years 82 days",
       "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"]
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "display": "Virgil van Dijk",
-      "detail": "34 years 219 days",
+      "detail": "34 years 285 days",
       "accept": ["virgil van dijk", "van dijk", "vvd"]
     },
     {
@@ -43,19 +43,19 @@
       "accept": ["james milner", "milner"]
     },
     {
-      "display": "Karl-Heinz Riedle",
-      "detail": "33 years 242 days",
-      "accept": ["karl-heinz riedle", "karl heinz riedle", "riedle"]
+      "display": "Mohamed Salah",
+      "detail": "33 years 308 days",
+      "accept": ["mohamed salah", "salah", "mo salah", "mohammed salah"]
     },
     {
       "display": "John Barnes",
-      "detail": "33 years 164 days",
+      "detail": "33 years 163 days",
       "accept": ["john barnes", "barnes"]
     },
     {
-      "display": "Mohamed Salah",
-      "detail": "33 years 139 days",
-      "accept": ["mohamed salah", "salah", "mo salah", "mohammed salah"]
+      "display": "Karl-Heinz Riedle",
+      "detail": "33 years 103 days",
+      "accept": ["karl-heinz riedle", "karl heinz riedle", "riedle"]
     }
   ]
 }
