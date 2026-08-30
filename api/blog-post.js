@@ -20,7 +20,7 @@ export const POSTS = {
   "dutch-players-premier-league":          "2026-08-26",
   "oldest-premier-league-goalscorers":     "2026-08-27",
   "academy-graduates-premier-league":      "2026-08-28",
-  "south-american-players-premier-league": "2026-09-06"
+  "south-american-players-premier-league": "2026-08-29"
 };
 
 function londonToday() {
