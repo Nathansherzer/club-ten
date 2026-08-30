@@ -8,14 +8,14 @@
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Gabriel Magalhães",
-      "detail": "Brazil",
-      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães"]
-    },
-    {
       "display": "Gabriel Martinelli",
       "detail": "Brazil",
       "accept": ["gabriel martinelli", "martinelli"]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "Brazil",
+      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães"]
     },
     {
       "display": "Gilberto Silva",

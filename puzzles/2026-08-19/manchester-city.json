@@ -43,14 +43,14 @@
       "accept": ["carlos tevez", "carlos tévez", "tevez"]
     },
     {
-      "display": "Julián Álvarez",
-      "detail": "Argentina",
-      "accept": ["julian alvarez", "julián álvarez", "alvarez", "álvarez"]
-    },
-    {
       "display": "Fernando",
       "detail": "Brazil",
       "accept": ["fernando"]
+    },
+    {
+      "display": "Julián Álvarez",
+      "detail": "Argentina",
+      "accept": ["julian alvarez", "julián álvarez", "alvarez", "álvarez"]
     },
     {
       "display": "Elano",

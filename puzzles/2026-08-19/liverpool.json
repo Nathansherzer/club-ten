@@ -38,14 +38,14 @@
       "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
     },
     {
-      "display": "Luis Díaz",
-      "detail": "Colombia",
-      "accept": ["luis diaz", "luis díaz", "diaz", "díaz"]
-    },
-    {
       "display": "Alexis Mac Allister",
       "detail": "Argentina",
       "accept": ["alexis mac allister", "mac allister", "macallister"]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "Colombia",
+      "accept": ["luis diaz", "luis díaz", "diaz", "díaz"]
     },
     {
       "display": "Javier Mascherano",
