@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-06",
+  "club": "manchester-city",
+  "clubLabel": "Arsenal + Man City:",
+  "clubShort": "Arsenal + Man City",
+  "question": "name the 10 players with the most combined Premier League appearances for Arsenal and Manchester City",
+  "note": "Must have played PL for both clubs · combined apps, 1992/93–2025/26 · ties by most recent PL appearance",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David Seaman",
+      "detail": "Arsenal 325 + Man City 19 = 344",
+      "accept": [
+        "david seaman",
+        "seaman"
+      ]
+    },
+    {
+      "display": "Gaël Clichy",
+      "detail": "Arsenal 187 + Man City 138 = 325",
+      "accept": [
+        "gael clichy",
+        "gaël clichy",
+        "clichy"
+      ]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "Arsenal 225 + Man City 82 = 307",
+      "accept": [
+        "kolo toure",
+        "kolo touré"
+      ]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "Arsenal 279 + Man City 28 = 307",
+      "accept": [
+        "patrick vieira"
+      ]
+    },
+    {
+      "display": "Bacary Sagna",
+      "detail": "Arsenal 213 + Man City 54 = 267",
+      "accept": [
+        "bacary sagna",
+        "sagna"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "Arsenal 84 + Man City 159 = 243",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "Arsenal 17 + Man City 225 = 242",
+      "accept": [
+        "raheem sterling"
+      ]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "Arsenal 86 + Man City 129 = 215",
+      "accept": [
+        "samir nasri",
+        "nasri"
+      ]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "Arsenal 65 + Man City 89 = 154",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
+    },
+    {
+      "display": "Oleksandr Zinchenko",
+      "detail": "Arsenal 69 + Man City 76 = 145",
+      "accept": [
+        "oleksandr zinchenko",
+        "zinchenko"
+      ]
+    }
+  ]
+}

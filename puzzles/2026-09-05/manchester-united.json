@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-05",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most combined FA Cup and League Cup appearances for Man United during the Premier League era",
+  "note": "FA Cup + League Cup combined · PL era only (1992/93–2025/26) · ties broken by FA Cup apps, then alphabetically",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Ryan Giggs", "detail": "104 apps", "accept": ["ryan giggs", "giggs"] },
+    { "display": "Gary Neville", "detail": "72", "accept": ["gary neville"] },
+    { "display": "Paul Scholes", "detail": "69", "accept": ["paul scholes", "scholes"] },
+    { "display": "Wes Brown", "detail": "62", "accept": ["wes brown"] },
+    { "display": "Marcus Rashford", "detail": "61", "accept": ["marcus rashford", "rashford"] },
+    { "display": "Wayne Rooney", "detail": "60", "accept": ["wayne rooney", "rooney"] },
+    { "display": "Roy Keane", "detail": "59", "accept": ["roy keane"] },
+    { "display": "Michael Carrick", "detail": "54", "accept": ["michael carrick", "carrick"] },
+    { "display": "John O'Shea", "detail": "54", "accept": ["john o'shea", "john oshea", "o'shea", "oshea"] },
+    { "display": "Denis Irwin", "detail": "53", "accept": ["denis irwin", "irwin"] }
+  ]
+}

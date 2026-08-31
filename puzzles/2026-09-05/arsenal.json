@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-05",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most combined FA Cup and League Cup appearances for Arsenal during the Premier League era",
+  "note": "FA Cup + League Cup combined · PL era only (1992/93–2025/26) · ties broken by FA Cup apps, then alphabetically",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "David Seaman", "detail": "70 apps", "accept": ["david seaman", "seaman"] },
+    { "display": "Ray Parlour", "detail": "69", "accept": ["ray parlour", "parlour"] },
+    { "display": "Lee Dixon", "detail": "69", "accept": ["lee dixon", "dixon"] },
+    { "display": "Nigel Winterburn", "detail": "66", "accept": ["nigel winterburn", "winterburn"] },
+    { "display": "Tony Adams", "detail": "61", "accept": ["tony adams", "adams"] },
+    { "display": "Patrick Vieira", "detail": "58", "accept": ["patrick vieira", "vieira"] },
+    { "display": "Martin Keown", "detail": "58", "accept": ["martin keown", "keown"] },
+    { "display": "Dennis Bergkamp", "detail": "54", "accept": ["dennis bergkamp", "bergkamp"] },
+    { "display": "Theo Walcott", "detail": "53", "accept": ["theo walcott", "walcott"] },
+    { "display": "Kieran Gibbs", "detail": "48", "accept": ["kieran gibbs", "gibbs"] }
+  ]
+}

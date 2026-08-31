@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-06",
+  "club": "chelsea",
+  "clubLabel": "Man United + Chelsea:",
+  "clubShort": "Man United + Chelsea",
+  "question": "name the 10 players with the most combined Premier League appearances for Manchester United and Chelsea",
+  "note": "Must have played PL for both clubs · combined apps, 1992/93–2025/26 · ties by most recent PL appearance",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Juan Mata",
+      "detail": "Man United 196 + Chelsea 82 = 278",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    },
+    {
+      "display": "Nemanja Matić",
+      "detail": "Man United 128 + Chelsea 123 = 251",
+      "accept": [
+        "nemanja matic",
+        "nemanja matić",
+        "matic",
+        "matić"
+      ]
+    },
+    {
+      "display": "Mark Hughes",
+      "detail": "Man United 111 + Chelsea 95 = 206",
+      "accept": [
+        "mark hughes",
+        "sparky"
+      ]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "Man United 54 + Chelsea 129 = 183",
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "Man United 93 + Chelsea 24 = 117",
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "Man United 66 + Chelsea 36 = 102",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Jadon Sancho",
+      "detail": "Man United 58 + Chelsea 31 = 89",
+      "accept": [
+        "jadon sancho",
+        "sancho"
+      ]
+    },
+    {
+      "display": "Paul Parker",
+      "detail": "Man United 79 + Chelsea 4 = 83",
+      "accept": [
+        "paul parker"
+      ]
+    },
+    {
+      "display": "Juan Sebastián Verón",
+      "detail": "Man United 51 + Chelsea 7 = 58",
+      "accept": [
+        "juan sebastian veron",
+        "juan sebastián verón",
+        "veron",
+        "verón",
+        "seba veron"
+      ]
+    },
+    {
+      "display": "Radamel Falcao",
+      "detail": "Man United 26 + Chelsea 10 = 36",
+      "accept": [
+        "radamel falcao",
+        "falcao",
+        "el tigre"
+      ]
+    }
+  ]
+}

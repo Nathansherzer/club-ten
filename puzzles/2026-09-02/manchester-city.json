@@ -1,61 +1,96 @@
 {
   "date": "2026-09-02",
   "club": "manchester-city",
-  "clubLabel": "Arsenal + Man City:",
-  "clubShort": "Arsenal + Man City",
-  "question": "name the 10 players with the most combined Premier League appearances for Arsenal and Manchester City",
-  "note": "Must have played PL for both clubs · combined apps, 1992/93–2025/26 · ties by most recent PL appearance",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players who started Man City's Premier League Matchweek 2 fixture in 2026/27",
+  "note": "vs Crystal Palace · goalkeeper excluded · any order",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "David Seaman",
-      "detail": "Arsenal 325 + Man City 19 = 344",
-      "accept": ["david seaman", "seaman"]
+      "display": "Abdukodir Khusanov",
+      "detail": "",
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov"
+      ]
     },
     {
-      "display": "Gaël Clichy",
-      "detail": "Arsenal 187 + Man City 138 = 325",
-      "accept": ["gael clichy", "gaël clichy", "clichy"]
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
     },
     {
-      "display": "Kolo Touré",
-      "detail": "Arsenal 225 + Man City 82 = 307",
-      "accept": ["kolo toure", "kolo touré"]
+      "display": "Joško Gvardiol",
+      "detail": "",
+      "accept": [
+        "josko gvardiol",
+        "joško gvardiol",
+        "gvardiol"
+      ]
     },
     {
-      "display": "Patrick Vieira",
-      "detail": "Arsenal 279 + Man City 28 = 307",
-      "accept": ["patrick vieira"]
+      "display": "Nico O'Reilly",
+      "detail": "",
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
     },
     {
-      "display": "Bacary Sagna",
-      "detail": "Arsenal 213 + Man City 54 = 267",
-      "accept": ["bacary sagna", "sagna"]
+      "display": "Marc Guéhi",
+      "detail": "",
+      "accept": [
+        "marc guehi",
+        "marc guéhi",
+        "guehi",
+        "guéhi"
+      ]
     },
     {
-      "display": "Gabriel Jesus",
-      "detail": "Arsenal 84 + Man City 159 = 243",
-      "accept": ["gabriel jesus", "jesus"]
+      "display": "Elliot Anderson",
+      "detail": "",
+      "accept": [
+        "elliot anderson"
+      ]
     },
     {
-      "display": "Raheem Sterling",
-      "detail": "Arsenal 17 + Man City 225 = 242",
-      "accept": ["raheem sterling"]
+      "display": "Phil Foden",
+      "detail": "",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
-      "display": "Samir Nasri",
-      "detail": "Arsenal 86 + Man City 129 = 215",
-      "accept": ["samir nasri", "nasri"]
+      "display": "Rayan Cherki",
+      "detail": "",
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
     },
     {
-      "display": "Nicolas Anelka",
-      "detail": "Arsenal 65 + Man City 89 = 154",
-      "accept": ["nicolas anelka", "anelka"]
+      "display": "Antoine Semenyo",
+      "detail": "",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
     },
     {
-      "display": "Oleksandr Zinchenko",
-      "detail": "Arsenal 69 + Man City 76 = 145",
-      "accept": ["oleksandr zinchenko", "zinchenko"]
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
     }
   ]
 }

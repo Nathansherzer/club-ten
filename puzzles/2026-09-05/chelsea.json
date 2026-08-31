@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-05",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most combined FA Cup and League Cup appearances for Chelsea during the Premier League era",
+  "note": "FA Cup + League Cup combined · PL era only (1992/93–2025/26) · ties broken by FA Cup apps, then alphabetically",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "John Terry", "detail": "95 apps", "accept": ["john terry", "terry", "jt"] },
+    { "display": "Frank Lampard", "detail": "92", "accept": ["frank lampard", "lampard"] },
+    { "display": "César Azpilicueta", "detail": "70", "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta"] },
+    { "display": "Dennis Wise", "detail": "54", "accept": ["dennis wise", "wise"] },
+    { "display": "John Obi Mikel", "detail": "52", "accept": ["john obi mikel", "obi mikel", "mikel"] },
+    { "display": "Petr Čech", "detail": "50", "accept": ["petr cech", "petr čech", "cech", "čech"] },
+    { "display": "Carlo Cudicini", "detail": "49", "accept": ["carlo cudicini", "cudicini"] },
+    { "display": "Didier Drogba", "detail": "49", "accept": ["didier drogba", "drogba"] },
+    { "display": "Eden Hazard", "detail": "48", "accept": ["eden hazard", "hazard"] },
+    { "display": "Gary Cahill", "detail": "47", "accept": ["gary cahill", "cahill"] }
+  ]
+}

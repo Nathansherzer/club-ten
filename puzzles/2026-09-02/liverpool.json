@@ -1,61 +1,96 @@
 {
   "date": "2026-09-02",
   "club": "liverpool",
-  "clubLabel": "Liverpool + Tottenham:",
-  "clubShort": "Liverpool + Tottenham",
-  "question": "name the 10 players with the most combined Premier League appearances for Liverpool and Tottenham",
-  "note": "Must have played PL for both clubs · combined apps, 1992/93–2025/26 · ties by most recent PL appearance",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players who started Liverpool's Premier League Matchweek 2 fixture in 2026/27",
+  "note": "vs Nottingham Forest · goalkeeper excluded · any order",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Jamie Redknapp",
-      "detail": "Liverpool 231 + Tottenham 48 = 279",
-      "accept": ["jamie redknapp"]
+      "display": "Jeremie Frimpong",
+      "detail": "",
+      "accept": [
+        "jeremie frimpong",
+        "frimpong"
+      ]
     },
     {
-      "display": "Robbie Keane",
-      "detail": "Liverpool 19 + Tottenham 238 = 257",
-      "accept": ["robbie keane"]
+      "display": "Jérémy Jacquet",
+      "detail": "",
+      "accept": [
+        "jeremy jacquet",
+        "jérémy jacquet",
+        "jacquet"
+      ]
     },
     {
-      "display": "Danny Murphy",
-      "detail": "Liverpool 170 + Tottenham 22 = 192",
-      "accept": ["danny murphy"]
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd"
+      ]
     },
     {
-      "display": "Peter Crouch",
-      "detail": "Liverpool 85 + Tottenham 73 = 158",
-      "accept": ["peter crouch", "crouch"]
+      "display": "Miloš Kerkez",
+      "detail": "",
+      "accept": [
+        "milos kerkez",
+        "miloš kerkez",
+        "kerkez"
+      ]
     },
     {
-      "display": "Neil Ruddock",
-      "detail": "Liverpool 115 + Tottenham 38 = 153",
-      "accept": ["neil ruddock", "ruddock", "razor ruddock", "razor"]
+      "display": "Alexis Mac Allister",
+      "detail": "",
+      "accept": [
+        "alexis mac allister",
+        "mac allister"
+      ]
     },
     {
-      "display": "Nick Barmby",
-      "detail": "Liverpool 32 + Tottenham 87 = 119",
-      "accept": ["nick barmby", "nicky barmby"]
+      "display": "Dominik Szoboszlai",
+      "detail": "",
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
     },
     {
-      "display": "Ronny Rosenthal",
-      "detail": "Liverpool 30 + Tottenham 88 = 118",
-      "accept": ["ronny rosenthal"]
+      "display": "Florian Wirtz",
+      "detail": "",
+      "accept": [
+        "florian wirtz",
+        "wirtz"
+      ]
     },
     {
-      "display": "John Scales",
-      "detail": "Liverpool 65 + Tottenham 33 = 98",
-      "accept": ["john scales"]
+      "display": "Cody Gakpo",
+      "detail": "",
+      "accept": [
+        "cody gakpo",
+        "gakpo"
+      ]
     },
     {
-      "display": "Øyvind Leonhardsen",
-      "detail": "Liverpool 37 + Tottenham 54 = 91",
-      "accept": ["oyvind leonhardsen", "øyvind leonhardsen", "leonhardsen"]
+      "display": "Víctor Muñoz",
+      "detail": "",
+      "accept": [
+        "victor munoz",
+        "víctor muñoz",
+        "munoz",
+        "muñoz"
+      ]
     },
     {
-      "display": "Brad Friedel",
-      "detail": "Liverpool 25 + Tottenham 50 = 75",
-      "accept": ["brad friedel", "friedel"]
+      "display": "Alexander Isak",
+      "detail": "",
+      "accept": [
+        "alexander isak",
+        "isak"
+      ]
     }
   ]
 }

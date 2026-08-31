@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-05",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most combined FA Cup and League Cup appearances for Man City during the Premier League era",
+  "note": "FA Cup + League Cup combined · PL era only (1992/93–2025/26) · ties broken by FA Cup apps, then alphabetically",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Phil Foden", "detail": "65 apps", "accept": ["phil foden", "foden"] },
+    { "display": "Kevin De Bruyne", "detail": "60", "accept": ["kevin de bruyne", "de bruyne", "kdb"] },
+    { "display": "Bernardo Silva", "detail": "59", "accept": ["bernardo silva"] },
+    { "display": "David Silva", "detail": "53", "accept": ["david silva"] },
+    { "display": "İlkay Gündoğan", "detail": "52", "accept": ["ilkay gundogan", "İlkay gündoğan", "gundogan", "gündoğan"] },
+    { "display": "Pablo Zabaleta", "detail": "48", "accept": ["pablo zabaleta", "zabaleta"] },
+    { "display": "John Stones", "detail": "46", "accept": ["john stones", "stones"] },
+    { "display": "Kyle Walker", "detail": "46", "accept": ["kyle walker", "walker"] },
+    { "display": "Raheem Sterling", "detail": "45", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Sergio Agüero", "detail": "44", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] }
+  ]
+}

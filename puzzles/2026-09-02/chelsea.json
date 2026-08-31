@@ -1,61 +1,92 @@
 {
   "date": "2026-09-02",
   "club": "chelsea",
-  "clubLabel": "Man United + Chelsea:",
-  "clubShort": "Man United + Chelsea",
-  "question": "name the 10 players with the most combined Premier League appearances for Manchester United and Chelsea",
-  "note": "Must have played PL for both clubs · combined apps, 1992/93–2025/26 · ties by most recent PL appearance",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players who started Chelsea's Premier League Matchweek 2 fixture in 2026/27",
+  "note": "vs Brighton · goalkeeper excluded · any order",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Juan Mata",
-      "detail": "Man United 196 + Chelsea 82 = 278",
-      "accept": ["juan mata", "mata"]
+      "display": "Wesley Fofana",
+      "detail": "",
+      "accept": [
+        "wesley fofana",
+        "fofana"
+      ]
     },
     {
-      "display": "Nemanja Matić",
-      "detail": "Man United 128 + Chelsea 123 = 251",
-      "accept": ["nemanja matic", "nemanja matić", "matic", "matić"]
+      "display": "Maxence Lacroix",
+      "detail": "",
+      "accept": [
+        "maxence lacroix",
+        "lacroix"
+      ]
     },
     {
-      "display": "Mark Hughes",
-      "detail": "Man United 111 + Chelsea 95 = 206",
-      "accept": ["mark hughes", "sparky"]
+      "display": "Levi Colwill",
+      "detail": "",
+      "accept": [
+        "levi colwill",
+        "colwill"
+      ]
     },
     {
-      "display": "Mason Mount",
-      "detail": "Man United 54 + Chelsea 129 = 183",
-      "accept": ["mason mount", "mount"]
+      "display": "Pedro Neto",
+      "detail": "",
+      "accept": [
+        "pedro neto",
+        "neto"
+      ]
     },
     {
-      "display": "Alejandro Garnacho",
-      "detail": "Man United 93 + Chelsea 24 = 117",
-      "accept": ["alejandro garnacho", "garnacho"]
+      "display": "Malo Gusto",
+      "detail": "",
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
     },
     {
-      "display": "Romelu Lukaku",
-      "detail": "Man United 66 + Chelsea 36 = 102",
-      "accept": ["romelu lukaku", "lukaku"]
+      "display": "Roméo Lavia",
+      "detail": "",
+      "accept": [
+        "romeo lavia",
+        "roméo lavia",
+        "lavia"
+      ]
     },
     {
-      "display": "Jadon Sancho",
-      "detail": "Man United 58 + Chelsea 31 = 89",
-      "accept": ["jadon sancho", "sancho"]
+      "display": "Jorrel Hato",
+      "detail": "",
+      "accept": [
+        "jorrel hato",
+        "hato"
+      ]
     },
     {
-      "display": "Paul Parker",
-      "detail": "Man United 79 + Chelsea 4 = 83",
-      "accept": ["paul parker"]
+      "display": "Cole Palmer",
+      "detail": "",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     },
     {
-      "display": "Juan Sebastián Verón",
-      "detail": "Man United 51 + Chelsea 7 = 58",
-      "accept": ["juan sebastian veron", "juan sebastián verón", "veron", "verón", "seba veron"]
+      "display": "Morgan Rogers",
+      "detail": "",
+      "accept": [
+        "morgan rogers",
+        "rogers"
+      ]
     },
     {
-      "display": "Radamel Falcao",
-      "detail": "Man United 26 + Chelsea 10 = 36",
-      "accept": ["radamel falcao", "falcao", "el tigre"]
+      "display": "João Pedro",
+      "detail": "",
+      "accept": [
+        "joao pedro",
+        "joão pedro"
+      ]
     }
   ]
 }

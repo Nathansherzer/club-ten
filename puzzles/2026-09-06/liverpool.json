@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-06",
+  "club": "liverpool",
+  "clubLabel": "Liverpool + Tottenham:",
+  "clubShort": "Liverpool + Tottenham",
+  "question": "name the 10 players with the most combined Premier League appearances for Liverpool and Tottenham",
+  "note": "Must have played PL for both clubs · combined apps, 1992/93–2025/26 · ties by most recent PL appearance",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jamie Redknapp",
+      "detail": "Liverpool 231 + Tottenham 48 = 279",
+      "accept": [
+        "jamie redknapp"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "Liverpool 19 + Tottenham 238 = 257",
+      "accept": [
+        "robbie keane"
+      ]
+    },
+    {
+      "display": "Danny Murphy",
+      "detail": "Liverpool 170 + Tottenham 22 = 192",
+      "accept": [
+        "danny murphy"
+      ]
+    },
+    {
+      "display": "Peter Crouch",
+      "detail": "Liverpool 85 + Tottenham 73 = 158",
+      "accept": [
+        "peter crouch",
+        "crouch"
+      ]
+    },
+    {
+      "display": "Neil Ruddock",
+      "detail": "Liverpool 115 + Tottenham 38 = 153",
+      "accept": [
+        "neil ruddock",
+        "ruddock",
+        "razor ruddock",
+        "razor"
+      ]
+    },
+    {
+      "display": "Nick Barmby",
+      "detail": "Liverpool 32 + Tottenham 87 = 119",
+      "accept": [
+        "nick barmby",
+        "nicky barmby"
+      ]
+    },
+    {
+      "display": "Ronny Rosenthal",
+      "detail": "Liverpool 30 + Tottenham 88 = 118",
+      "accept": [
+        "ronny rosenthal"
+      ]
+    },
+    {
+      "display": "John Scales",
+      "detail": "Liverpool 65 + Tottenham 33 = 98",
+      "accept": [
+        "john scales"
+      ]
+    },
+    {
+      "display": "Øyvind Leonhardsen",
+      "detail": "Liverpool 37 + Tottenham 54 = 91",
+      "accept": [
+        "oyvind leonhardsen",
+        "øyvind leonhardsen",
+        "leonhardsen"
+      ]
+    },
+    {
+      "display": "Brad Friedel",
+      "detail": "Liverpool 25 + Tottenham 50 = 75",
+      "accept": [
+        "brad friedel",
+        "friedel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-05",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most combined FA Cup and League Cup appearances for Spurs during the Premier League era",
+  "note": "FA Cup + League Cup combined · PL era only (1992/93–2025/26) · ties broken by FA Cup apps, then alphabetically",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Darren Anderton", "detail": "59 apps", "accept": ["darren anderton", "anderton"] },
+    { "display": "Sol Campbell", "detail": "57", "accept": ["sol campbell", "campbell"] },
+    { "display": "Jermain Defoe", "detail": "52", "accept": ["jermain defoe", "defoe"] },
+    { "display": "Son Heung-min", "detail": "50", "accept": ["son heung-min", "son heung min", "son", "sonny"] },
+    { "display": "Michael Dawson", "detail": "48", "accept": ["michael dawson", "dawson"] },
+    { "display": "Ian Walker", "detail": "46", "accept": ["ian walker"] },
+    { "display": "Ben Davies", "detail": "45", "accept": ["ben davies"] },
+    { "display": "Robbie Keane", "detail": "44", "accept": ["robbie keane"] },
+    { "display": "Harry Kane", "detail": "42", "accept": ["harry kane", "kane"] },
+    { "display": "Ledley King", "detail": "41", "accept": ["ledley king", "king"] }
+  ]
+}
