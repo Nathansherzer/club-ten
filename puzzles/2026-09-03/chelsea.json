@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-03",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who shared the pitch most often with Mason Mount in Premier League matches for Chelsea",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Mount",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "César Azpilicueta",
+      "detail": "98 matches",
+      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta"]
+    },
+    {
+      "display": "Jorginho",
+      "detail": "97",
+      "accept": ["jorginho"]
+    },
+    {
+      "display": "Mateo Kovačić",
+      "detail": "85",
+      "accept": ["mateo kovacic", "mateo kovačić", "kovacic", "kovačić"]
+    },
+    {
+      "display": "Reece James",
+      "detail": "84",
+      "accept": ["reece james"]
+    },
+    {
+      "display": "Christian Pulisic",
+      "detail": "74",
+      "accept": ["christian pulisic", "pulisic"]
+    },
+    {
+      "display": "N'Golo Kanté",
+      "detail": "69",
+      "accept": ["ngolo kante", "n'golo kante", "n'golo kanté", "kante", "kanté"]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "67",
+      "accept": ["kai havertz", "havertz"]
+    },
+    {
+      "display": "Édouard Mendy",
+      "detail": "66",
+      "accept": ["edouard mendy", "édouard mendy", "mendy"]
+    },
+    {
+      "display": "Thiago Silva",
+      "detail": "66",
+      "accept": ["thiago silva"]
+    },
+    {
+      "display": "Antonio Rüdiger",
+      "detail": "65",
+      "accept": ["antonio rudiger", "antonio rüdiger", "rudiger", "rüdiger"]
+    }
+  ]
+}

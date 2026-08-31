@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-03",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who shared the pitch most often with Sergio Agüero in Premier League matches for Man City",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Agüero",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David Silva",
+      "detail": "205 matches",
+      "accept": ["david silva", "silva"]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "171",
+      "accept": ["fernandinho"]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "148",
+      "accept": ["yaya toure", "yaya touré", "toure", "touré"]
+    },
+    {
+      "display": "Joe Hart",
+      "detail": "139",
+      "accept": ["joe hart", "hart"]
+    },
+    {
+      "display": "Vincent Kompany",
+      "detail": "132",
+      "accept": ["vincent kompany", "kompany"]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "123",
+      "accept": ["raheem sterling", "sterling"]
+    },
+    {
+      "display": "Gaël Clichy",
+      "detail": "114",
+      "accept": ["gael clichy", "gaël clichy", "clichy"]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "114",
+      "accept": ["pablo zabaleta", "zabaleta"]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "108",
+      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+    },
+    {
+      "display": "Nicolás Otamendi",
+      "detail": "100",
+      "accept": ["nicolas otamendi", "nicolás otamendi", "otamendi"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-03",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who shared the pitch most often with Olivier Giroud in Premier League matches for Arsenal",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Giroud",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Laurent Koscielny",
+      "detail": "140 matches",
+      "accept": ["laurent koscielny", "koscielny"]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "135",
+      "accept": ["aaron ramsey", "ramsey"]
+    },
+    {
+      "display": "Nacho Monreal",
+      "detail": "129",
+      "accept": ["nacho monreal", "monreal"]
+    },
+    {
+      "display": "Mesut Özil",
+      "detail": "115",
+      "accept": ["mesut ozil", "mesut özil", "ozil", "özil"]
+    },
+    {
+      "display": "Per Mertesacker",
+      "detail": "113",
+      "accept": ["per mertesacker", "mertesacker"]
+    },
+    {
+      "display": "Santi Cazorla",
+      "detail": "106",
+      "accept": ["santi cazorla", "cazorla"]
+    },
+    {
+      "display": "Héctor Bellerín",
+      "detail": "93",
+      "accept": ["hector bellerin", "héctor bellerín", "bellerin", "bellerín"]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "89",
+      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez"]
+    },
+    {
+      "display": "Kieran Gibbs",
+      "detail": "85",
+      "accept": ["kieran gibbs", "gibbs"]
+    },
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "80",
+      "accept": ["alex oxlade-chamberlain", "alex oxlade chamberlain", "oxlade-chamberlain", "oxlade chamberlain", "the ox"]
+    }
+  ]
+}

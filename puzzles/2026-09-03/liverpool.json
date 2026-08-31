@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-03",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who shared the pitch most often with Jordan Henderson in Premier League matches for Liverpool",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Henderson",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Roberto Firmino",
+      "detail": "172 matches",
+      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "171",
+      "accept": ["mohamed salah", "mo salah", "salah"]
+    },
+    {
+      "display": "Andrew Robertson",
+      "detail": "152",
+      "accept": ["andrew robertson", "andy robertson", "robertson"]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "151",
+      "accept": ["trent alexander-arnold", "trent alexander arnold", "alexander-arnold", "trent", "taa"]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "145",
+      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+    },
+    {
+      "display": "James Milner",
+      "detail": "144",
+      "accept": ["james milner", "milner"]
+    },
+    {
+      "display": "Alisson",
+      "detail": "140",
+      "accept": ["alisson", "alisson becker"]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "136",
+      "accept": ["virgil van dijk", "van dijk", "vvd"]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "121",
+      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+    },
+    {
+      "display": "Georginio Wijnaldum",
+      "detail": "119",
+      "accept": ["georginio wijnaldum", "wijnaldum", "gini wijnaldum", "gini"]
+    }
+  ]
+}

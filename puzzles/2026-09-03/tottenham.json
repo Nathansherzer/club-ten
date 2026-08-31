@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-03",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who shared the pitch most often with Jermain Defoe in Premier League matches for Spurs",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Defoe",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Michael Dawson",
+      "detail": "161 matches",
+      "accept": ["michael dawson", "dawson"]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "144",
+      "accept": ["aaron lennon", "lennon"]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "134",
+      "accept": ["ledley king", "king"]
+    },
+    {
+      "display": "Paul Robinson",
+      "detail": "118",
+      "accept": ["paul robinson", "robinson"]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "104",
+      "accept": ["robbie keane"]
+    },
+    {
+      "display": "Benoît Assou-Ekotto",
+      "detail": "98",
+      "accept": ["benoit assou-ekotto", "benoît assou-ekotto", "assou-ekotto", "assou ekotto"]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "96",
+      "accept": ["gareth bale", "bale"]
+    },
+    {
+      "display": "Tom Huddlestone",
+      "detail": "93",
+      "accept": ["tom huddlestone", "huddlestone"]
+    },
+    {
+      "display": "Jermaine Jenas",
+      "detail": "91",
+      "accept": ["jermaine jenas", "jenas"]
+    },
+    {
+      "display": "Luka Modrić",
+      "detail": "72",
+      "accept": ["luka modric", "luka modrić", "modric", "modrić"]
+    }
+  ]
+}

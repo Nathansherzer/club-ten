@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-03",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who shared the pitch most often with Gary Neville in Premier League matches for Man United",
+  "note": "PL era only · through 2025–26 · sorted by appearances alongside Gary Neville",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Paul Scholes",
+      "detail": "296 matches",
+      "accept": ["paul scholes", "scholes"]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "291",
+      "accept": ["ryan giggs", "giggs"]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "215",
+      "accept": ["david beckham", "beckham"]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "213",
+      "accept": ["roy keane", "keane"]
+    },
+    {
+      "display": "Nicky Butt",
+      "detail": "210",
+      "accept": ["nicky butt", "butt"]
+    },
+    {
+      "display": "Phil Neville",
+      "detail": "182",
+      "accept": ["phil neville"]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "177",
+      "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær", "ole"]
+    },
+    {
+      "display": "Mikaël Silvestre",
+      "detail": "171",
+      "accept": ["mikael silvestre", "mikaël silvestre", "silvestre"]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "157",
+      "accept": ["andy cole", "cole"]
+    },
+    {
+      "display": "Denis Irwin",
+      "detail": "150",
+      "accept": ["denis irwin", "irwin"]
+    }
+  ]
+}
