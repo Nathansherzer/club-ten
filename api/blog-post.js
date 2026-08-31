@@ -21,7 +21,8 @@ export const POSTS = {
   "oldest-premier-league-goalscorers":     "2026-08-27",
   "academy-graduates-premier-league":      "2026-08-28",
   "south-american-players-premier-league": "2026-08-29",
-  "club-captains-premier-league":          "2026-08-30"
+  "club-captains-premier-league":          "2026-08-30",
+  "tallest-outfield-players-premier-league": "2026-08-31"
 };
 
 function londonToday() {
