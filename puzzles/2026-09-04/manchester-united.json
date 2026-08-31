@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-04",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 nationalities whose players provided the most Premier League assists for Man United",
+  "note": "PL assists by nationality · combined across all players by that nation · through 2025–26",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    { "display": "England", "detail": "579 assists", "accept": ["england", "english"] },
+    { "display": "Wales", "detail": "186", "accept": ["wales", "welsh"] },
+    { "display": "France", "detail": "167", "accept": ["france", "french"] },
+    { "display": "Portugal", "detail": "165", "accept": ["portugal", "portuguese"] },
+    { "display": "Republic of Ireland", "detail": "70", "accept": ["republic of ireland", "ireland", "irish"] },
+    { "display": "Brazil", "detail": "51", "accept": ["brazil", "brasil", "brazilian"] },
+    { "display": "Spain", "detail": "44", "accept": ["spain", "spanish"] },
+    { "display": "Netherlands", "detail": "43", "accept": ["netherlands", "holland", "dutch"] },
+    { "display": "Norway", "detail": "41", "accept": ["norway", "norwegian"] },
+    { "display": "Ecuador", "detail": "39", "accept": ["ecuador", "ecuadorian"] }
+  ]
+}

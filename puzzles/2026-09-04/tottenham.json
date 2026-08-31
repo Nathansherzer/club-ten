@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-04",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 nationalities whose players provided the most Premier League assists for Spurs",
+  "note": "PL assists by nationality · combined across all players by that nation · through 2025–26",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    { "display": "England", "detail": "580 assists", "accept": ["england", "english"] },
+    { "display": "Denmark", "detail": "81", "accept": ["denmark", "danish"] },
+    { "display": "South Korea", "detail": "71", "accept": ["south korea", "korea republic", "korea", "south korean"] },
+    { "display": "France", "detail": "66", "accept": ["france", "french"] },
+    { "display": "Wales", "detail": "65", "accept": ["wales", "welsh"] },
+    { "display": "Republic of Ireland", "detail": "46", "accept": ["republic of ireland", "ireland", "irish"] },
+    { "display": "Argentina", "detail": "37", "accept": ["argentina", "argentinian", "argentine"] },
+    { "display": "Croatia", "detail": "37", "accept": ["croatia", "croatian"] },
+    { "display": "Spain", "detail": "36", "accept": ["spain", "spanish"] },
+    { "display": "Germany", "detail": "36", "accept": ["germany", "german"] }
+  ]
+}

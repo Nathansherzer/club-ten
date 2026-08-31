@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-04",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 nationalities whose players provided the most Premier League assists for Man City",
+  "note": "PL assists by nationality · combined across all players by that nation · through 2025–26",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    { "display": "England", "detail": "336 assists", "accept": ["england", "english"] },
+    { "display": "Spain", "detail": "151", "accept": ["spain", "spanish"] },
+    { "display": "Belgium", "detail": "146", "accept": ["belgium", "belgian"] },
+    { "display": "Argentina", "detail": "101", "accept": ["argentina", "argentinian", "argentine"] },
+    { "display": "Brazil", "detail": "91", "accept": ["brazil", "brasil", "brazilian"] },
+    { "display": "France", "detail": "90", "accept": ["france", "french"] },
+    { "display": "Portugal", "detail": "78", "accept": ["portugal", "portuguese"] },
+    { "display": "Germany", "detail": "66", "accept": ["germany", "german"] },
+    { "display": "Republic of Ireland", "detail": "60", "accept": ["republic of ireland", "ireland", "irish"] },
+    { "display": "Algeria", "detail": "44", "accept": ["algeria", "algerian"] }
+  ]
+}

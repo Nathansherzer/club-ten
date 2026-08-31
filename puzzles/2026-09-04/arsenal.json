@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-04",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 nationalities whose players provided the most Premier League assists for Arsenal",
+  "note": "PL assists by nationality · combined across all players by that nation · through 2025–26",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    { "display": "England", "detail": "396 assists", "accept": ["england", "english"] },
+    { "display": "France", "detail": "302", "accept": ["france", "french"] },
+    { "display": "Spain", "detail": "178", "accept": ["spain", "spanish"] },
+    { "display": "Netherlands", "detail": "167", "accept": ["netherlands", "holland", "dutch"] },
+    { "display": "Germany", "detail": "85", "accept": ["germany", "german"] },
+    { "display": "Brazil", "detail": "79", "accept": ["brazil", "brasil", "brazilian"] },
+    { "display": "Wales", "detail": "50", "accept": ["wales", "welsh"] },
+    { "display": "Ivory Coast", "detail": "40", "accept": ["ivory coast", "côte d'ivoire", "cote d'ivoire", "cote divoire"] },
+    { "display": "Norway", "detail": "37", "accept": ["norway", "norwegian"] },
+    { "display": "Nigeria", "detail": "34", "accept": ["nigeria", "nigerian"] }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-04",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 nationalities whose players provided the most Premier League assists for Liverpool",
+  "note": "PL assists by nationality · combined across all players by that nation · through 2025–26",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    { "display": "England", "detail": "675 assists", "accept": ["england", "english"] },
+    { "display": "Brazil", "detail": "119", "accept": ["brazil", "brasil", "brazilian"] },
+    { "display": "Egypt", "detail": "93", "accept": ["egypt", "egyptian"] },
+    { "display": "Scotland", "detail": "88", "accept": ["scotland", "scottish"] },
+    { "display": "Spain", "detail": "78", "accept": ["spain", "spanish"] },
+    { "display": "Netherlands", "detail": "78", "accept": ["netherlands", "holland", "dutch"] },
+    { "display": "Norway", "detail": "55", "accept": ["norway", "norwegian"] },
+    { "display": "Czech Republic", "detail": "47", "accept": ["czech republic", "czechia", "czech"] },
+    { "display": "Republic of Ireland", "detail": "36", "accept": ["republic of ireland", "ireland", "irish"] },
+    { "display": "Germany", "detail": "36", "accept": ["germany", "german"] }
+  ]
+}
