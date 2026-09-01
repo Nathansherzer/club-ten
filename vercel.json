@@ -29,6 +29,9 @@
     "api/sitemap.js":     { "includeFiles": "puzzles/**" },
     "api/blog-post.js":   { "includeFiles": "blog-src/**" }
   },
+  "crons": [
+    { "path": "/api/indexnow", "schedule": "5 0 * * *" }
+  ],
   "rewrites": [
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
     { "source": "/blog/:slug",  "destination": "/api/blog-post?slug=:slug" },
