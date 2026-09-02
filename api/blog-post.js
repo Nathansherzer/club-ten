@@ -23,7 +23,8 @@ export const POSTS = {
   "south-american-players-premier-league": "2026-08-29",
   "club-captains-premier-league":          "2026-08-30",
   "tallest-outfield-players-premier-league": "2026-08-31",
-  "player-of-the-month-premier-league":      "2026-09-01"
+  "player-of-the-month-premier-league":      "2026-09-01",
+  "spurs-tottenham-trivia":                  "2026-09-02"
 };
 
 function londonToday() {
