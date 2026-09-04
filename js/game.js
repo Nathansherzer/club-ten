@@ -153,8 +153,9 @@ function openSettings() {
   document.getElementById("settingsContent").innerHTML =
     `Your club: <strong>${name}</strong><br>` +
     (stats
-      ? `Streak: ${stats.streak} &nbsp;·&nbsp; Played: ${stats.played} &nbsp;·&nbsp; Perfect: ${stats.perfect}`
-      : "");
+      ? `Streak: ${stats.streak} &nbsp;·&nbsp; Played: ${stats.played} &nbsp;·&nbsp; Perfect: ${stats.perfect}<br>`
+      : "") +
+    `New puzzle: every day at midnight UK time`;
 
   settingsOverlay.classList.add("open");
 }
