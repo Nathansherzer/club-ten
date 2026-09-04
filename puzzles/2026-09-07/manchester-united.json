@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-07",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 teammates who combined most often with Wayne Rooney for Premier League goals at Man United",
+  "note": "Transfermarkt Joint Goal Participation · goals in either direction · PL matches only · ties by matches played together",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Cristiano Ronaldo", "detail": "21", "accept": ["cristiano ronaldo", "ronaldo", "cr7"] },
+    { "display": "Nani", "detail": "19", "accept": ["nani"] },
+    { "display": "Antonio Valencia", "detail": "13", "accept": ["antonio valencia", "valencia"] },
+    { "display": "Dimitar Berbatov", "detail": "12", "accept": ["dimitar berbatov", "berbatov"] },
+    { "display": "Robin van Persie", "detail": "11", "accept": ["robin van persie", "van persie", "rvp"] },
+    { "display": "Patrice Evra", "detail": "10", "accept": ["patrice evra", "evra"] },
+    { "display": "Ryan Giggs", "detail": "10", "accept": ["ryan giggs", "giggs"] },
+    { "display": "Park Ji-sung", "detail": "10", "accept": ["park ji-sung", "park ji sung", "ji-sung", "park"] },
+    { "display": "Darren Fletcher", "detail": "9", "accept": ["darren fletcher", "fletcher"] },
+    { "display": "Ashley Young", "detail": "9", "accept": ["ashley young", "young"] }
+  ]
+}

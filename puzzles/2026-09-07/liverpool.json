@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-07",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 teammates who combined most often with Steven Gerrard for Premier League goals at Liverpool",
+  "note": "Transfermarkt Joint Goal Participation · goals in either direction · PL matches only · ties by matches played together",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Fernando Torres", "detail": "18", "accept": ["fernando torres", "torres"] },
+    { "display": "Michael Owen", "detail": "14", "accept": ["michael owen", "owen"] },
+    { "display": "Luis Suárez", "detail": "10", "accept": ["luis suarez", "luis suárez", "suarez", "suárez"] },
+    { "display": "Dirk Kuyt", "detail": "8", "accept": ["dirk kuyt", "kuyt"] },
+    { "display": "Peter Crouch", "detail": "8", "accept": ["peter crouch", "crouch"] },
+    { "display": "Martin Škrtel", "detail": "7", "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"] },
+    { "display": "Yossi Benayoun", "detail": "7", "accept": ["yossi benayoun", "benayoun"] },
+    { "display": "Sami Hyypiä", "detail": "6", "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"] },
+    { "display": "Danny Murphy", "detail": "6", "accept": ["danny murphy", "murphy"] },
+    { "display": "Emile Heskey", "detail": "5", "accept": ["emile heskey", "heskey"] }
+  ]
+}

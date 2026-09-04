@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-07",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 teammates who combined most often with Harry Kane for Premier League goals at Spurs",
+  "note": "Transfermarkt Joint Goal Participation · goals in either direction · PL matches only · ties by matches played together",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Son Heung-min", "detail": "51", "accept": ["son heung-min", "son heung min", "son", "sonny"] },
+    { "display": "Christian Eriksen", "detail": "23", "accept": ["christian eriksen", "eriksen"] },
+    { "display": "Dele Alli", "detail": "19", "accept": ["dele alli", "dele"] },
+    { "display": "Erik Lamela", "detail": "10", "accept": ["erik lamela", "lamela"] },
+    { "display": "Kieran Trippier", "detail": "10", "accept": ["kieran trippier", "trippier"] },
+    { "display": "Pierre-Emile Højbjerg", "detail": "8", "accept": ["pierre-emile hojbjerg", "pierre-emile højbjerg", "hojbjerg", "højbjerg"] },
+    { "display": "Dejan Kulusevski", "detail": "8", "accept": ["dejan kulusevski", "kulusevski"] },
+    { "display": "Ben Davies", "detail": "7", "accept": ["ben davies"] },
+    { "display": "Lucas Moura", "detail": "6", "accept": ["lucas moura", "lucas"] },
+    { "display": "Nacer Chadli", "detail": "6", "accept": ["nacer chadli", "chadli"] }
+  ]
+}

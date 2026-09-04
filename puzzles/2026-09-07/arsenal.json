@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-07",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 teammates who combined most often with Thierry Henry for Premier League goals at Arsenal",
+  "note": "Transfermarkt Joint Goal Participation · goals in either direction · PL matches only · ties by matches played together",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Robert Pirès", "detail": "32", "accept": ["robert pires", "robert pirès", "pires", "pirès"] },
+    { "display": "Freddie Ljungberg", "detail": "27", "accept": ["freddie ljungberg", "ljungberg"] },
+    { "display": "Dennis Bergkamp", "detail": "18", "accept": ["dennis bergkamp", "bergkamp"] },
+    { "display": "José Antonio Reyes", "detail": "16", "accept": ["jose antonio reyes", "josé antonio reyes", "reyes", "jose reyes"] },
+    { "display": "Patrick Vieira", "detail": "14", "accept": ["patrick vieira", "vieira"] },
+    { "display": "Sylvain Wiltord", "detail": "12", "accept": ["sylvain wiltord", "wiltord"] },
+    { "display": "Gilberto Silva", "detail": "7", "accept": ["gilberto silva", "gilberto"] },
+    { "display": "Nwankwo Kanu", "detail": "7", "accept": ["nwankwo kanu", "kanu"] },
+    { "display": "Cesc Fàbregas", "detail": "7", "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas", "cesc"] },
+    { "display": "Lauren", "detail": "6", "accept": ["lauren"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-07",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 teammates who combined most often with Sergio Agüero for Premier League goals at Man City",
+  "note": "Transfermarkt Joint Goal Participation · goals in either direction · PL matches only · ties by matches played together",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "David Silva", "detail": "34", "accept": ["david silva"] },
+    { "display": "Kevin De Bruyne", "detail": "20", "accept": ["kevin de bruyne", "de bruyne", "kdb"] },
+    { "display": "Yaya Touré", "detail": "14", "accept": ["yaya toure", "yaya touré", "toure", "touré"] },
+    { "display": "Fernandinho", "detail": "11", "accept": ["fernandinho"] },
+    { "display": "Raheem Sterling", "detail": "11", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Samir Nasri", "detail": "9", "accept": ["samir nasri", "nasri"] },
+    { "display": "Bernardo Silva", "detail": "8", "accept": ["bernardo silva"] },
+    { "display": "Edin Džeko", "detail": "8", "accept": ["edin dzeko", "edin džeko", "dzeko", "džeko"] },
+    { "display": "Aleksandar Kolarov", "detail": "6", "accept": ["aleksandar kolarov", "kolarov"] },
+    { "display": "James Milner", "detail": "6", "accept": ["james milner", "milner"] }
+  ]
+}
