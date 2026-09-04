@@ -31,6 +31,16 @@ let over     = false;
 let guessing = false;      // true while a POST /api/guess fetch is in flight
 let countdownTimer = null;
 
+// The club this page's game session belongs to, captured once at init()
+// and never re-read from localStorage afterwards. getClub() reads a
+// shared key that any other tab can overwrite just by loading a
+// different club's page (each one stamps its own club on load) — if
+// game logic kept re-reading getClub() live, a club switch in another
+// tab could silently redirect this tab's in-progress guesses, reveal,
+// and saved state to the wrong club mid-game. Everything below reads
+// this constant instead.
+let club = null;
+
 // Set when a ?date=YYYY-MM-DD param is present — enables archive play mode.
 // In archive mode: stats are not updated, progress is not persisted.
 const archiveDate = (() => {
@@ -137,7 +147,6 @@ settingsOverlay.addEventListener("click", e => {
 });
 
 function openSettings() {
-  const club  = getClub();
   const stats = club ? getStats(club) : null;
   const name  = club ? CLUB_NAMES[club] : "none chosen";
 
@@ -171,7 +180,7 @@ async function init() {
   const onHomepage = location.pathname === '/' || location.pathname === '/index.html';
   if (onHomepage) { showPicker(); return; }
 
-  const club = getClub();
+  club = getClub();
   if (!club) { showPicker(); return; }
 
   // Archive mode never restores saved state — each play is fresh.
@@ -280,7 +289,7 @@ function buildGameBoard() {
   if (isArchivePlay) {
     document.getElementById("streakLabel").textContent = "Archive";
   } else {
-    document.getElementById("streakLabel").textContent = `Streak: ${getStats(getClub()).streak}`;
+    document.getElementById("streakLabel").textContent = `Streak: ${getStats(club).streak}`;
   }
   renderLives();
 
@@ -334,7 +343,6 @@ async function loadPuzzleNav() {
 
   if (past.length === 0) return;
 
-  const club   = getClub();
   const oldest = past[past.length - 1];
   let prevDate  = null; // <
   let firstDate = null; // <<
@@ -400,7 +408,7 @@ function makeNavBtn(href, text, tooltip) {
 
 function track(eventName, params = {}) {
   if (typeof gtag !== "function") return;
-  gtag("event", eventName, { club: getClub(), puzzle_date: puzzle?.date, ...params });
+  gtag("event", eventName, { club, puzzle_date: puzzle?.date, ...params });
 }
 
 // Tags a shared result link so GA4 can attribute clicks back to player shares
@@ -412,7 +420,7 @@ function shareUrl(method) {
     utm_campaign: "result_share",
     utm_content:  method
   });
-  return `${location.origin}/${getClub()}?${params.toString()}`;
+  return `${location.origin}/${club}?${params.toString()}`;
 }
 
 /* ==========================================================
@@ -483,7 +491,7 @@ async function handleGuess() {
     const res = await fetch("/api/guess", {
       method:  "POST",
       headers: { "Content-Type": "application/json" },
-      body:    JSON.stringify({ club: getClub(), guess: raw, found: [...found.keys()], date: archiveDate || puzzle.date })
+      body:    JSON.stringify({ club, guess: raw, found: [...found.keys()], date: archiveDate || puzzle.date })
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     result = await res.json();
@@ -585,7 +593,6 @@ async function endGame(won) {
   const revealedArr = await revealUnfound();
 
   if (!isArchivePlay) {
-    const club  = getClub();
     const stats = getStats(club);
     stats.played++;
     if (won && lives === MAX_LIVES) stats.perfect++;
@@ -598,7 +605,7 @@ async function endGame(won) {
 
   if (!isArchivePlay && typeof gtag === "function") {
     gtag("event", "game_complete", {
-      club:         getClub(),
+      club,
       score:        found.size,
       won:          won ? 1 : 0,
       perfect:      (won && lives === MAX_LIVES) ? 1 : 0,
@@ -620,7 +627,7 @@ async function revealUnfound() {
 
   try {
     const dateParam = `&date=${archiveDate || puzzle.date}`;
-    const res = await fetch(`/api/reveal?club=${getClub()}${dateParam}`);
+    const res = await fetch(`/api/reveal?club=${club}${dateParam}`);
     if (!res.ok) return [];
     const data = await res.json();
     return unfound.map(i => {
@@ -658,7 +665,7 @@ function showEndCard(won) {
     document.getElementById("countdown").innerHTML =
       '<a href="/archive" style="color:var(--green);text-decoration:none">← Back to archive</a>';
   } else {
-    const stats = getStats(getClub());
+    const stats = getStats(club);
     const streakMsg = stats.streak >= 3 ? `🔥 ${stats.streak}-day streak!` : `Streak: ${stats.streak}`;
     document.getElementById("statsLine").textContent =
       `${streakMsg}  ·  Played: ${stats.played}  ·  Perfect: ${stats.perfect}`;
@@ -671,8 +678,7 @@ function showEndCard(won) {
   // WhatsApp share button — built from live game state each time
   const waEl = document.getElementById("whatsappBtn");
   if (waEl) {
-    const clubSlug = getClub();
-    const clubName = CLUB_NAMES[clubSlug] || puzzle.clubShort;
+    const clubName = CLUB_NAMES[club] || puzzle.clubShort;
     const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
     const waText   = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${shareUrl("whatsapp")}`;
     waEl.href      = `https://wa.me/?text=${encodeURIComponent(waText)}`;
@@ -680,10 +686,10 @@ function showEndCard(won) {
     waEl.onclick   = () => track("share", { score: found.size, method: "whatsapp" });
   }
 
-  const rival   = RIVALS[getClub()];
+  const rival   = RIVALS[club];
   const rivalEl = document.getElementById("rivalPrompt");
   if (rival && rivalEl && !isArchivePlay) {
-    rivalEl.innerHTML = `<a href="/${rival.club}" class="rival-btn" onclick="if(typeof gtag==='function')gtag('event','rival_click',{from_club:'${getClub()}',to_club:'${rival.club}'})">Try today's ${rival.label} puzzle →</a>`;
+    rivalEl.innerHTML = `<a href="/${rival.club}" class="rival-btn" onclick="if(typeof gtag==='function')gtag('event','rival_click',{from_club:'${club}',to_club:'${rival.club}'})">Try today's ${rival.label} puzzle →</a>`;
   }
 }
 
@@ -705,7 +711,7 @@ function renderScoreChart(scores) {
 
 function persistInProgress() {
   const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
-  savePlayState(getClub(), { date: puzzle.date, found: foundArr, revealed: [], lives, over: false, won: false });
+  savePlayState(club, { date: puzzle.date, found: foundArr, revealed: [], lives, over: false, won: false });
 }
 
 /* ==========================================================
@@ -750,7 +756,7 @@ function startCountdown() {
    ========================================================== */
 
 document.getElementById("shareBtn").addEventListener("click", () => {
-  const clubName = CLUB_NAMES[getClub()] || puzzle.clubShort;
+  const clubName = CLUB_NAMES[club] || puzzle.clubShort;
   const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
   const note = document.getElementById("sharedNote");
   const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
