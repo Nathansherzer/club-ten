@@ -25,7 +25,8 @@ export const POSTS = {
   "tallest-outfield-players-premier-league": "2026-08-31",
   "player-of-the-month-premier-league":      "2026-09-01",
   "spurs-tottenham-trivia":                  "2026-09-02",
-  "arsenal-trivia":                          "2026-09-03"
+  "arsenal-trivia":                          "2026-09-03",
+  "chelsea-trivia":                          "2026-09-04"
 };
 
 function londonToday() {
