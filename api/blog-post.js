@@ -24,7 +24,8 @@ export const POSTS = {
   "club-captains-premier-league":          "2026-08-30",
   "tallest-outfield-players-premier-league": "2026-08-31",
   "player-of-the-month-premier-league":      "2026-09-01",
-  "spurs-tottenham-trivia":                  "2026-09-02"
+  "spurs-tottenham-trivia":                  "2026-09-02",
+  "arsenal-trivia":                          "2026-09-03"
 };
 
 function londonToday() {
