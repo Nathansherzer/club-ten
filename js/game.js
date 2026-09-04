@@ -92,6 +92,8 @@ function londonDateString() {
 /**
  * Saved state shape:
  *   {
+ *     date:     "YYYY-MM-DD",  // the puzzle this progress belongs to; validated
+ *                               // against the freshly-fetched puzzle before restoring
  *     found:    [{ slot, display, detail }, ...],
  *     revealed: [{ slot, display, detail }, ...],  // unfound slots shown at game-over
  *     lives:    number,
@@ -246,6 +248,17 @@ async function fetchAndStartPuzzle(club, savedState) {
       document.getElementById("archiveBanner").style.display = "block";
     }
     track("archive_play");
+  }
+
+  // Defensive guard: a saved state must belong to the puzzle we just
+  // fetched. If it doesn't (stale cache, clock skew, any other mismatch
+  // between the localStorage key and the actual puzzle loaded), discard
+  // it rather than restoring answers from a different day's puzzle into
+  // today's slots. Saves written before this field existed have no
+  // `date` and are allowed through unchanged.
+  if (savedState && savedState.date && savedState.date !== puzzle.date) {
+    track("stale_progress_discarded", { saved_date: savedState.date, puzzle_date: puzzle.date });
+    savedState = null;
   }
 
   if (savedState) {
@@ -580,7 +593,7 @@ async function endGame(won) {
     stats.scores[found.size] = (stats.scores[found.size] || 0) + 1;
     saveStats(club, stats);
     const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
-    savePlayState(club, { found: foundArr, revealed: revealedArr, lives, over: true, won });
+    savePlayState(club, { date: puzzle.date, found: foundArr, revealed: revealedArr, lives, over: true, won });
   }
 
   if (!isArchivePlay && typeof gtag === "function") {
@@ -692,7 +705,7 @@ function renderScoreChart(scores) {
 
 function persistInProgress() {
   const foundArr = [...found].map(([slot, ans]) => ({ slot, ...ans }));
-  savePlayState(getClub(), { found: foundArr, revealed: [], lives, over: false, won: false });
+  savePlayState(getClub(), { date: puzzle.date, found: foundArr, revealed: [], lives, over: false, won: false });
 }
 
 /* ==========================================================
