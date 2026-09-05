@@ -77,7 +77,7 @@
     <a href="/about">About</a>
     <a href="/privacy">Privacy</a>
     <a href="/contact">Contact</a>
-    <a href="#" onclick="window.googlefc &amp;&amp; window.googlefc.showRevocationMessage(); return false;">Cookie settings</a>
+    <a href="#" onclick="if (window.googlefc) { window.googlefc.showRevocationMessage(); } else { alert('No cookie choice is needed for your region.'); } return false;">Cookie settings</a>
   </nav>
 </div>
 </body>
