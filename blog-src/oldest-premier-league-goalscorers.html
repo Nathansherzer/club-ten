@@ -17,13 +17,27 @@
   <link rel="stylesheet" href="/css/style.css">
   <script defer src="/_vercel/insights/script.js"></script>
   <script>
-    window.adsbygoogle = window.adsbygoogle || [];
-    if (localStorage.getItem('ct_consent') !== 'accepted') {
-      window.adsbygoogle.requestNonPersonalizedAds = 1;
-    }
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      'ad_storage': 'granted',
+      'ad_user_data': 'granted',
+      'ad_personalization': 'granted',
+      'analytics_storage': 'granted'
+    });
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'analytics_storage': 'denied',
+      'region': ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH'],
+      'wait_for_update': 500
+    });
+    gtag('js', new Date());
+    gtag('config', 'G-M8E5NFRXB5');
   </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8E5NFRXB5"></script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>
-  <script src="/js/consent.js" defer></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -194,6 +208,7 @@
     <a href="/about">About</a>
     <a href="/privacy">Privacy</a>
     <a href="/contact">Contact</a>
+    <a href="#" onclick="window.googlefc &amp;&amp; window.googlefc.showRevocationMessage(); return false;">Cookie settings</a>
   </nav>
 </div>
 </body>
