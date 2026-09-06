@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-09",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 clubs Samuel Eto'o played for during his career, in order of first appearance",
+  "note": "loans count · youth-team appearances excluded · a return to the same club is not counted again",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Leganés", "detail": "1997 · Loan", "accept": ["leganes", "leganés", "cd leganes"] },
+    { "display": "Real Madrid", "detail": "1998", "accept": ["real madrid", "madrid"] },
+    { "display": "Espanyol", "detail": "1999 · Loan", "accept": ["espanyol", "rcd espanyol"] },
+    { "display": "Mallorca", "detail": "2000 · Initially a loan", "accept": ["mallorca", "real mallorca", "rcd mallorca"] },
+    { "display": "Barcelona", "detail": "2004", "accept": ["barcelona", "barca", "fc barcelona"] },
+    { "display": "Inter Milan", "detail": "2009", "accept": ["inter milan", "inter", "internazionale"] },
+    { "display": "Anzhi Makhachkala", "detail": "2011", "accept": ["anzhi makhachkala", "anzhi"] },
+    { "display": "Chelsea", "detail": "2013", "accept": ["chelsea"] },
+    { "display": "Everton", "detail": "2014", "accept": ["everton"] },
+    { "display": "Sampdoria", "detail": "2015", "accept": ["sampdoria", "samp"] }
+  ]
+}

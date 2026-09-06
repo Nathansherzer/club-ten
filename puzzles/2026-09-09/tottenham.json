@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-09",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 clubs Robbie Keane played for during his career, in order of first appearance",
+  "note": "loans count · youth-team appearances excluded · a return to the same club is not counted again",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Wolverhampton Wanderers", "detail": "1997", "accept": ["wolverhampton wanderers", "wolves"] },
+    { "display": "Coventry City", "detail": "1999", "accept": ["coventry city", "coventry"] },
+    { "display": "Inter Milan", "detail": "2000", "accept": ["inter milan", "inter", "internazionale"] },
+    { "display": "Leeds United", "detail": "2001 · Initially a loan", "accept": ["leeds united", "leeds"] },
+    { "display": "Tottenham Hotspur", "detail": "2002", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
+    { "display": "Liverpool", "detail": "2008", "accept": ["liverpool"] },
+    { "display": "Celtic", "detail": "2010 · Loan", "accept": ["celtic"] },
+    { "display": "West Ham United", "detail": "2011 · Loan", "accept": ["west ham united", "west ham"] },
+    { "display": "LA Galaxy", "detail": "2011", "accept": ["la galaxy", "los angeles galaxy", "galaxy"] },
+    { "display": "Aston Villa", "detail": "2012 · Loan", "accept": ["aston villa", "villa"] }
+  ]
+}

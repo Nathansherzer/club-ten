@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-09",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 clubs Nicolas Anelka played for during his career, in order of first appearance",
+  "note": "loans count · youth-team appearances excluded · a return to the same club is not counted again",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Paris Saint-Germain", "detail": "1996", "accept": ["paris saint-germain", "psg", "paris sg"] },
+    { "display": "Arsenal", "detail": "1997", "accept": ["arsenal"] },
+    { "display": "Real Madrid", "detail": "1999", "accept": ["real madrid", "madrid"] },
+    { "display": "Liverpool", "detail": "2002 · Loan", "accept": ["liverpool"] },
+    { "display": "Manchester City", "detail": "2002", "accept": ["manchester city", "man city"] },
+    { "display": "Fenerbahçe", "detail": "2005", "accept": ["fenerbahce", "fenerbahçe", "fener"] },
+    { "display": "Bolton Wanderers", "detail": "2006", "accept": ["bolton wanderers", "bolton"] },
+    { "display": "Chelsea", "detail": "2008", "accept": ["chelsea"] },
+    { "display": "Shanghai Shenhua", "detail": "2012", "accept": ["shanghai shenhua", "shenhua"] },
+    { "display": "Juventus", "detail": "2013 · Loan", "accept": ["juventus", "juve"] }
+  ]
+}

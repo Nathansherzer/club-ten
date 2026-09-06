@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-09",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 clubs Emmanuel Adebayor played for during his career, in order of first appearance",
+  "note": "loans count · youth-team appearances excluded · a return to the same club is not counted again",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Metz", "detail": "2001", "accept": ["metz", "fc metz"] },
+    { "display": "Monaco", "detail": "2003", "accept": ["monaco", "as monaco"] },
+    { "display": "Arsenal", "detail": "2006", "accept": ["arsenal"] },
+    { "display": "Manchester City", "detail": "2009", "accept": ["manchester city", "man city"] },
+    { "display": "Real Madrid", "detail": "2011 · Loan", "accept": ["real madrid", "madrid"] },
+    { "display": "Tottenham Hotspur", "detail": "2011 · Initially a loan", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
+    { "display": "Crystal Palace", "detail": "2016", "accept": ["crystal palace", "palace"] },
+    { "display": "İstanbul Başakşehir", "detail": "2017", "accept": ["istanbul basaksehir", "istanbul başakşehir", "basaksehir"] },
+    { "display": "Kayserispor", "detail": "2019", "accept": ["kayserispor"] },
+    { "display": "Olimpia", "detail": "2020", "accept": ["olimpia", "club olimpia"] }
+  ]
+}

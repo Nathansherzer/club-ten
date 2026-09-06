@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-09",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 clubs Andy Cole played for during his career, in order of first appearance",
+  "note": "loans count · youth-team appearances excluded · a return to the same club is not counted again",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Arsenal", "detail": "1990", "accept": ["arsenal"] },
+    { "display": "Fulham", "detail": "1991 · Loan", "accept": ["fulham"] },
+    { "display": "Bristol City", "detail": "1992 · Initially a loan", "accept": ["bristol city"] },
+    { "display": "Newcastle United", "detail": "1993", "accept": ["newcastle united", "newcastle"] },
+    { "display": "Manchester United", "detail": "1995", "accept": ["manchester united", "man united", "man utd"] },
+    { "display": "Blackburn Rovers", "detail": "2001", "accept": ["blackburn rovers", "blackburn"] },
+    { "display": "Manchester City", "detail": "2005", "accept": ["manchester city", "man city"] },
+    { "display": "Portsmouth", "detail": "2006", "accept": ["portsmouth", "pompey"] },
+    { "display": "Birmingham City", "detail": "2007 · Loan", "accept": ["birmingham city", "birmingham"] },
+    { "display": "Sunderland", "detail": "2007", "accept": ["sunderland"] }
+  ]
+}
