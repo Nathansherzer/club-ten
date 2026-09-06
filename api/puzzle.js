@@ -111,8 +111,17 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Puzzle file is malformed." });
   }
 
-  // Return metadata only — answers stay on the server
-  res.setHeader("Cache-Control", "private, max-age=3600");
+  // Return metadata only — answers stay on the server.
+  // Archive puzzles (explicit &date=) have a stable URL and never change,
+  // so cache them hard. Today's puzzle (no date) is served from the SAME
+  // URL every day but changes at London midnight, so it must never be
+  // cached — otherwise a returning player can be handed yesterday's puzzle
+  // from the browser cache for up to the cache lifetime after the rollover.
+  if (date) {
+    res.setHeader("Cache-Control", "public, max-age=86400, immutable");
+  } else {
+    res.setHeader("Cache-Control", "no-store");
+  }
   res.status(200).json({
     date:        requestedDate,
     clubLabel:   data.clubLabel,
