@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-08",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 nationalities represented by the most different players for Man United in the Premier League",
+  "note": "Distinct PL players by nationality · StatBunker data · through 2025/26 season · ties by combined PL apps, then alphabetical",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    { "display": "England", "detail": "92 players", "accept": ["england", "english"] },
+    { "display": "France", "detail": "15 players", "accept": ["france", "french"] },
+    { "display": "Netherlands", "detail": "15 players", "accept": ["netherlands", "holland", "dutch"] },
+    { "display": "Brazil", "detail": "10 players", "accept": ["brazil", "brasil", "brazilian"] },
+    { "display": "Scotland", "detail": "9 players", "accept": ["scotland", "scottish"] },
+    { "display": "Argentina", "detail": "8 players", "accept": ["argentina", "argentinian", "argentinean"] },
+    { "display": "Spain", "detail": "7 players", "accept": ["spain", "spanish"] },
+    { "display": "Northern Ireland", "detail": "7 players", "accept": ["northern ireland", "n ireland", "n. ireland"] },
+    { "display": "Republic of Ireland", "detail": "6 players", "accept": ["republic of ireland", "ireland", "irish", "roi"] },
+    { "display": "Wales", "detail": "6 players", "accept": ["wales", "welsh"] }
+  ]
+}

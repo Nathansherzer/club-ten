@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-08",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 nationalities represented by the most different players for Liverpool in the Premier League",
+  "note": "Distinct PL players by nationality · StatBunker data · through 2025/26 season · ties by combined PL apps, then alphabetical",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    { "display": "England", "detail": "88 players", "accept": ["england", "english"] },
+    { "display": "Spain", "detail": "22 players", "accept": ["spain", "spanish"] },
+    { "display": "France", "detail": "15 players", "accept": ["france", "french"] },
+    { "display": "Netherlands", "detail": "11 players", "accept": ["netherlands", "holland", "dutch"] },
+    { "display": "Wales", "detail": "10 players", "accept": ["wales", "welsh"] },
+    { "display": "Republic of Ireland", "detail": "9 players", "accept": ["republic of ireland", "ireland", "irish", "roi"] },
+    { "display": "Scotland", "detail": "8 players", "accept": ["scotland", "scottish"] },
+    { "display": "Brazil", "detail": "7 players", "accept": ["brazil", "brasil", "brazilian"] },
+    { "display": "Germany", "detail": "7 players", "accept": ["germany", "german"] },
+    { "display": "Italy", "detail": "7 players", "accept": ["italy", "italian"] }
+  ]
+}

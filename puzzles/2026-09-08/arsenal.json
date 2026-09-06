@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-08",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 nationalities represented by the most different players for Arsenal in the Premier League",
+  "note": "Distinct PL players by nationality · StatBunker data · through 2025/26 season · ties by combined PL apps, then alphabetical",
+  "placeholder": "Type a nationality…",
+  "type": "nationalities",
+  "answers": [
+    { "display": "England", "detail": "76 players", "accept": ["england", "english"] },
+    { "display": "France", "detail": "28 players", "accept": ["france", "french"] },
+    { "display": "Spain", "detail": "18 players", "accept": ["spain", "spanish"] },
+    { "display": "Brazil", "detail": "13 players", "accept": ["brazil", "brasil", "brazilian"] },
+    { "display": "Germany", "detail": "10 players", "accept": ["germany", "german"] },
+    { "display": "Sweden", "detail": "7 players", "accept": ["sweden", "swedish"] },
+    { "display": "Netherlands", "detail": "6 players", "accept": ["netherlands", "holland", "dutch"] },
+    { "display": "Portugal", "detail": "5 players", "accept": ["portugal", "portuguese"] },
+    { "display": "Ivory Coast", "detail": "4 players", "accept": ["ivory coast", "côte d'ivoire", "cote d'ivoire", "cote divoire"] },
+    { "display": "Switzerland", "detail": "4 players", "accept": ["switzerland", "swiss"] }
+  ]
+}
