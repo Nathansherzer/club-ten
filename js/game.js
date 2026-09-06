@@ -233,7 +233,13 @@ async function fetchAndStartPuzzle(club, savedState) {
   loadingEl.style.display = "block";
 
   try {
-    const dateParam = archiveDate ? `&date=${archiveDate}` : '';
+    // Archive requests already carry a fixed date, so their URL is unique
+    // and safe to cache. For today's puzzle we append the London date as a
+    // cache-buster: the fetch URL then changes at midnight, so the browser
+    // can never reuse yesterday's cached response for today regardless of
+    // whatever Cache-Control the CDN puts on it. (Vercel overrides the
+    // function's own Cache-Control, so this is the reliable guarantee.)
+    const dateParam = archiveDate ? `&date=${archiveDate}` : `&d=${londonDateString()}`;
     const res = await fetch(`/api/puzzle?club=${club}${dateParam}`);
     if (!res.ok) {
       const body = await res.json().catch(() => ({}));
