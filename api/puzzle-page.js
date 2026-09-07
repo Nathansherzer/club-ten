@@ -163,15 +163,21 @@ export default async function handler(req, res) {
 <body>
 <div class="wrap">
   <header>
-    <h1><a href="/">CLUB <span>TEN</span></a></h1>
+    <div class="logo"><a href="/">CLUB <span>TEN</span></a></div>
     <div class="tagline">Daily football top-10s for your club.</div>
   </header>
 
   <div class="page-content">
-    <p style="font-size:0.82rem;color:var(--muted);margin-bottom:8px">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Club Ten</a> &rsaquo;
+      <a href="/${club}">${esc(clubName)} Trivia Quiz</a> &rsaquo;
+      Puzzle #${num}
+    </nav>
+
+    <h1 style="border-top:3px solid ${colour};padding-top:14px;font-size:1.15rem;line-height:1.35">${esc(question)}?</h1>
+    <p style="font-size:0.82rem;color:var(--muted);margin-top:6px">
       ${esc(clubName)} &middot; Puzzle #${num} &middot; ${esc(formatDate(date))}
     </p>
-    <h2 style="border-top:3px solid ${colour};padding-top:14px">${esc(question)}?</h2>
     ${note ? `<p style="font-size:0.8rem;color:var(--muted);margin-top:6px">${esc(note)}</p>` : ""}
 
     <div style="text-align:center;margin:28px 0">
@@ -180,6 +186,10 @@ export default async function handler(req, res) {
         Play Puzzle #${num} &rarr;
       </a>
     </div>
+
+    <p style="text-align:center;margin:18px 0">
+      <a href="/${club}">Play today's ${esc(clubName)} trivia quiz and top 10 game</a>
+    </p>
 
     ${navHtml}
     ${otherHtml}

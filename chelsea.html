@@ -4,16 +4,16 @@
   <meta charset="UTF-8">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>Chelsea Trivia — Club Ten | Daily Football Top-10</title>
-  <meta name="description" content="Daily top-10 trivia challenge for Chelsea fans. Name the Blues' Premier League legends — new puzzle every day at topclubten.com.">
+  <title>Chelsea Trivia Quiz & Top 10 Game | Club Ten</title>
+  <meta name="description" content="Daily Chelsea trivia quiz and Tenable-style top 10 game. Find all 10 answers before three misses. A new Chelsea ten-ball challenge every day.">
   <link rel="canonical" href="https://topclubten.com/chelsea">
   <meta property="og:type"        content="website">
   <meta property="og:url"         content="https://topclubten.com/chelsea">
-  <meta property="og:title"       content="Chelsea Trivia — Club Ten | Daily Football Top-10">
-  <meta property="og:description" content="Daily top-10 trivia challenge for Chelsea fans. Name the Blues' Premier League legends — new puzzle every day at topclubten.com.">
+  <meta property="og:title"       content="Chelsea Trivia Quiz & Top 10 Game | Club Ten">
+  <meta property="og:description" content="Daily Chelsea trivia quiz and Tenable-style top 10 game. Find all 10 answers before three misses. A new Chelsea ten-ball challenge every day.">
   <meta name="twitter:card"        content="summary">
-  <meta name="twitter:title"       content="Chelsea Trivia — Club Ten | Daily Football Top-10">
-  <meta name="twitter:description" content="Daily top-10 trivia challenge for Chelsea fans. Name the Blues' Premier League legends — new puzzle every day at topclubten.com.">
+  <meta name="twitter:title"       content="Chelsea Trivia Quiz & Top 10 Game | Club Ten">
+  <meta name="twitter:description" content="Daily Chelsea trivia quiz and Tenable-style top 10 game. Find all 10 answers before three misses. A new Chelsea ten-ball challenge every day.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>">
   <link rel="stylesheet" href="/css/style.css">
   <script>localStorage.setItem("ct_club", "chelsea");if(new URLSearchParams(location.search).get("date")){document.head.insertAdjacentHTML("beforeend","<meta name=\"robots\" content=\"noindex,follow\">");}</script>
@@ -41,15 +41,52 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8E5NFRXB5"></script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>
   <script src="/js/consent-analytics.js" defer></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is this a Chelsea Tenable-style or ten-ball quiz?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Club Ten is an independent daily football trivia game inspired by the format of finding ten answers. It is not affiliated with Tenable."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does the Chelsea top 10 game work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Each daily quiz has one football question and ten correct answers. Find the complete top ten before making three incorrect guesses."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is there a new Chelsea trivia quiz every day?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. A new Club Ten challenge is released every day at midnight UK time."
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
 <div class="wrap">
 
   <header>
-    <h1><a href="/">CLUB <span>TEN</span></a></h1>
+    <div class="logo"><a href="/">CLUB <span>TEN</span></a></div>
     <div class="tagline">Chelsea Trivia. Ten answers. Every day at midnight UK time.</div>
     <button class="settings-btn" id="settingsBtn" aria-label="Open settings">⚙</button>
   </header>
+  <div class="club-intro-block">
+    <h1>Chelsea Trivia Quiz and Top 10 Game</h1>
+    <p class="club-intro">Play a new Chelsea football trivia quiz every day. This Tenable-style top 10 game gives you one question and ten correct answers to find before you lose your three lives. Some players call it a ten-ball or tenball quiz. Whatever you call it, the goal is to complete the top ten.</p>
+  </div>
+
 
   <div class="settings-overlay" id="settingsOverlay" role="dialog" aria-label="Settings">
     <div class="settings-card">
@@ -64,12 +101,12 @@
     <h2>Pick your club</h2>
     <p>Every day, a top-10 challenge about your team.</p>
     <div class="clubgrid">
-      <button class="clubbtn" data-club="arsenal">Arsenal</button>
-      <button class="clubbtn" data-club="chelsea">Chelsea</button>
-      <button class="clubbtn" data-club="liverpool">Liverpool</button>
-      <button class="clubbtn" data-club="manchester-city">Man City</button>
-      <button class="clubbtn" data-club="manchester-united">Man United</button>
-      <button class="clubbtn" data-club="tottenham">Spurs</button>
+      <a class="clubbtn" data-club="arsenal" href="/arsenal">Arsenal</a>
+      <a class="clubbtn" data-club="chelsea" href="/chelsea">Chelsea</a>
+      <a class="clubbtn" data-club="liverpool" href="/liverpool">Liverpool</a>
+      <a class="clubbtn" data-club="manchester-city" href="/manchester-city">Man City</a>
+      <a class="clubbtn" data-club="manchester-united" href="/manchester-united">Man United</a>
+      <a class="clubbtn" data-club="tottenham" href="/tottenham">Spurs</a>
     </div>
   </div>
 
@@ -124,6 +161,34 @@
       <div id="rivalPrompt"></div>
     </div>
   </div>
+
+  <section class="seo-section">
+    <h2>Chelsea trivia quiz FAQ</h2>
+    <div class="faq-item">
+      <h3>Is this a Chelsea Tenable-style or ten-ball quiz?</h3>
+      <p>Club Ten is an independent daily football trivia game inspired by the format of finding ten answers. It is not affiliated with Tenable.</p>
+    </div>
+    <div class="faq-item">
+      <h3>How does the Chelsea top 10 game work?</h3>
+      <p>Each daily quiz has one football question and ten correct answers. Find the complete top ten before making three incorrect guesses.</p>
+    </div>
+    <div class="faq-item">
+      <h3>Is there a new Chelsea trivia quiz every day?</h3>
+      <p>Yes. A new Club Ten challenge is released every day at midnight UK time.</p>
+    </div>
+  </section>
+
+  <section class="seo-section club-switch">
+    <h2>Choose another club</h2>
+    <div class="club-switch-links">
+        <a href="/arsenal">Arsenal</a>
+        <a href="/chelsea">Chelsea</a>
+        <a href="/liverpool">Liverpool</a>
+        <a href="/manchester-city">Man City</a>
+        <a href="/manchester-united">Man United</a>
+        <a href="/tottenham">Spurs</a>
+    </div>
+  </section>
 
   <nav class="site-nav">
     <a href="/how-to-play">How to play</a>

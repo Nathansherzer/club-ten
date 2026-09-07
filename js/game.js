@@ -196,11 +196,15 @@ function showPicker() {
   settingsBtnEl.style.display = "none";
 }
 
-/* Club picker buttons */
+/* Club picker links/buttons. These are now real <a href> elements for
+   crawlability; we still persist the chosen club on click. Anchors
+   navigate on their own, so only force navigation for non-anchor controls. */
 pickerEl.querySelectorAll(".clubbtn[data-club]").forEach(btn => {
   btn.addEventListener("click", () => {
     setClub(btn.dataset.club);
-    location.href = '/' + btn.dataset.club;
+    if (!btn.getAttribute("href")) {
+      location.href = '/' + btn.dataset.club;
+    }
   });
 });
 
