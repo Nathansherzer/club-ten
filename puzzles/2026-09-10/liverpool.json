@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-10",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent players to score a Premier League goal both for and against Liverpool",
+  "note": "most recent PL goal against the club first · each player also scored a PL goal for the club · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Dominic Solanke", "detail": "v Tottenham, 27 Apr 2025", "accept": ["dominic solanke", "solanke"] },
+    { "display": "Alexander Isak", "detail": "v Newcastle, 4 Dec 2024", "accept": ["alexander isak", "isak"] },
+    { "display": "Raheem Sterling", "detail": "v Manchester City, 7 Feb 2021", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Danny Ings", "detail": "v Southampton, 4 Jan 2021", "accept": ["danny ings", "ings"] },
+    { "display": "Ryan Babel", "detail": "v Fulham, 17 Mar 2019", "accept": ["ryan babel", "babel"] },
+    { "display": "Christian Benteke", "detail": "v Crystal Palace, 23 Apr 2017", "accept": ["christian benteke", "benteke"] },
+    { "display": "Andy Carroll", "detail": "v West Ham, 2 Jan 2016", "accept": ["andy carroll", "carroll"] },
+    { "display": "Peter Crouch", "detail": "v Stoke City, 24 May 2015", "accept": ["peter crouch", "crouch"] },
+    { "display": "Charlie Adam", "detail": "v Stoke City, 24 May 2015", "accept": ["charlie adam", "adam"] },
+    { "display": "Jonjo Shelvey", "detail": "v Swansea City, 16 Sep 2013", "accept": ["jonjo shelvey", "shelvey"] }
+  ]
+}

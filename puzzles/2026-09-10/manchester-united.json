@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-10",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent players to score a Premier League goal both for and against Man United",
+  "note": "most recent PL goal against the club first · each player also scored a PL goal for the club · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Danny Welbeck", "detail": "v Brighton, 25 Oct 2025", "accept": ["danny welbeck", "welbeck"] },
+    { "display": "Anthony Elanga", "detail": "v Nottingham Forest, 1 Apr 2025", "accept": ["anthony elanga", "elanga"] },
+    { "display": "Matheus Cunha", "detail": "v Wolves, 26 Dec 2024", "accept": ["matheus cunha", "cunha"] },
+    { "display": "Bryan Mbeumo", "detail": "v Brentford, 13 Aug 2022", "accept": ["bryan mbeumo", "mbeumo"] },
+    { "display": "Christian Eriksen", "detail": "v Tottenham, 31 Jan 2018", "accept": ["christian eriksen", "eriksen"] },
+    { "display": "Alexis Sánchez", "detail": "v Arsenal, 4 Oct 2015", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez"] },
+    { "display": "Romelu Lukaku", "detail": "v West Brom, 19 May 2013", "accept": ["romelu lukaku", "lukaku"] },
+    { "display": "Marouane Fellaini", "detail": "v Everton, 20 Aug 2012", "accept": ["marouane fellaini", "fellaini"] },
+    { "display": "Juan Mata", "detail": "v Chelsea, 5 Feb 2012", "accept": ["juan mata", "mata"] },
+    { "display": "Robin van Persie", "detail": "v Arsenal, 22 Jan 2012", "accept": ["robin van persie", "van persie", "rvp"] }
+  ]
+}

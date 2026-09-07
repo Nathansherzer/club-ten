@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-10",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent players to score a Premier League goal both for and against Chelsea",
+  "note": "most recent PL goal against the club first · each player also scored a PL goal for the club · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Liam Delap", "detail": "v Ipswich Town, 30 Dec 2024", "accept": ["liam delap", "delap"] },
+    { "display": "Mohamed Salah", "detail": "v Liverpool, 20 Oct 2024", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Mateo Kovačić", "detail": "v Manchester City, 18 Aug 2024", "accept": ["mateo kovacic", "mateo kovačić", "kovacic", "kovačić"] },
+    { "display": "Callum Hudson-Odoi", "detail": "v Nottingham Forest, 11 May 2024", "accept": ["callum hudson-odoi", "hudson-odoi", "hudson odoi"] },
+    { "display": "Kai Havertz", "detail": "v Arsenal, 23 Apr 2024", "accept": ["kai havertz", "havertz"] },
+    { "display": "Alejandro Garnacho", "detail": "v Manchester United, 4 Apr 2024", "accept": ["alejandro garnacho", "garnacho"] },
+    { "display": "Ross Barkley", "detail": "v Luton Town, 30 Dec 2023", "accept": ["ross barkley", "barkley"] },
+    { "display": "João Pedro", "detail": "v Brighton, 3 Dec 2023", "accept": ["joão pedro", "joao pedro"] },
+    { "display": "Willian", "detail": "v Fulham, 12 Jan 2023", "accept": ["willian"] },
+    { "display": "Pedro Neto", "detail": "v Wolves, 15 Dec 2020", "accept": ["pedro neto", "neto"] }
+  ]
+}

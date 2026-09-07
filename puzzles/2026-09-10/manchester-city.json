@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-10",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent players to score a Premier League goal both for and against Man City",
+  "note": "most recent PL goal against the club first · each player also scored a PL goal for the club · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Antoine Semenyo", "detail": "v Bournemouth, 2 Nov 2024", "accept": ["antoine semenyo", "semenyo"] },
+    { "display": "Raheem Sterling", "detail": "v Chelsea, 17 Feb 2024", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Cole Palmer", "detail": "v Chelsea, 12 Nov 2023", "accept": ["cole palmer", "palmer"] },
+    { "display": "Kelechi Iheanacho", "detail": "v Leicester City, 26 Dec 2021", "accept": ["kelechi iheanacho", "iheanacho"] },
+    { "display": "James Milner", "detail": "v Liverpool, 2 Mar 2016", "accept": ["james milner", "milner"] },
+    { "display": "Riyad Mahrez", "detail": "v Leicester City, 6 Feb 2016", "accept": ["riyad mahrez", "mahrez"] },
+    { "display": "Wilfried Bony", "detail": "v Swansea City, 22 Nov 2014", "accept": ["wilfried bony", "bony"] },
+    { "display": "Daniel Sturridge", "detail": "v Liverpool, 3 Feb 2013", "accept": ["daniel sturridge", "sturridge"] },
+    { "display": "Adam Johnson", "detail": "v Sunderland, 26 Dec 2012", "accept": ["adam johnson"] },
+    { "display": "Frank Lampard", "detail": "v Chelsea, 12 Dec 2011", "accept": ["frank lampard", "lampard"] }
+  ]
+}

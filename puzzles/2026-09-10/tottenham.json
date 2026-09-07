@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-10",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent players to score a Premier League goal both for and against Spurs",
+  "note": "most recent PL goal against the club first · each player also scored a PL goal for the club · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Mohammed Kudus", "detail": "v West Ham, 19 Oct 2024", "accept": ["mohammed kudus", "kudus"] },
+    { "display": "James Maddison", "detail": "v Leicester City, 11 Feb 2023", "accept": ["james maddison", "maddison"] },
+    { "display": "Matt Doherty", "detail": "v Wolves, 1 Mar 2020", "accept": ["matt doherty", "doherty"] },
+    { "display": "Gylfi Sigurðsson", "detail": "v Everton, 23 Dec 2018", "accept": ["gylfi sigurdsson", "gylfi sigurðsson", "sigurdsson", "sigurðsson"] },
+    { "display": "Nacer Chadli", "detail": "v West Brom, 15 Oct 2016", "accept": ["nacer chadli", "chadli"] },
+    { "display": "Aaron Lennon", "detail": "v Everton, 3 Jan 2016", "accept": ["aaron lennon", "lennon"] },
+    { "display": "Dimitar Berbatov", "detail": "v Fulham, 17 Mar 2013", "accept": ["dimitar berbatov", "berbatov"] },
+    { "display": "Louis Saha", "detail": "v Everton, 5 Jan 2011", "accept": ["louis saha", "saha"] },
+    { "display": "Darren Bent", "detail": "v Sunderland, 3 Apr 2010", "accept": ["darren bent", "bent"] },
+    { "display": "William Gallas", "detail": "v Arsenal, 29 Oct 2008", "accept": ["william gallas", "gallas"] }
+  ]
+}
