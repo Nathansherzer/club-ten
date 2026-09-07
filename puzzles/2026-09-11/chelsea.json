@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-11",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players on the pitch for Chelsea at full-time of its 2026/27 Premier League Matchweek 3 match",
+  "note": "Arsenal 2-1 Chelsea · 6 Sep 2026 · outfield players on the pitch at full-time · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Josh Acheampong", "detail": "", "accept": ["josh acheampong", "acheampong"] },
+    { "display": "Maxence Lacroix", "detail": "", "accept": ["maxence lacroix", "lacroix"] },
+    { "display": "Wesley Fofana", "detail": "", "accept": ["wesley fofana", "fofana"] },
+    { "display": "Reece James", "detail": "", "accept": ["reece james", "james"] },
+    { "display": "Cole Palmer", "detail": "", "accept": ["cole palmer", "palmer"] },
+    { "display": "João Pedro", "detail": "", "accept": ["joão pedro", "joao pedro"] },
+    { "display": "Malo Gusto", "detail": "Sub", "accept": ["malo gusto", "gusto"] },
+    { "display": "Pep Chavarría", "detail": "Sub", "accept": ["pep chavarria", "pep chavarría", "chavarria", "chavarría"] },
+    { "display": "Estêvão", "detail": "Sub", "accept": ["estevao", "estêvão", "estevao willian", "estêvão willian"] },
+    { "display": "Danny Welbeck", "detail": "Sub", "accept": ["danny welbeck", "welbeck"] }
+  ]
+}

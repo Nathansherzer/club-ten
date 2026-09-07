@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-11",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players on the pitch for Man City at full-time of its 2026/27 Premier League Matchweek 3 match",
+  "note": "Manchester City 1-0 Coventry City · 5 Sep 2026 · outfield players on the pitch at full-time · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Abdukodir Khusanov", "detail": "", "accept": ["abdukodir khusanov", "khusanov"] },
+    { "display": "Rúben Dias", "detail": "", "accept": ["ruben dias", "rúben dias", "dias"] },
+    { "display": "Marc Guéhi", "detail": "", "accept": ["marc guehi", "marc guéhi", "guehi", "guéhi"] },
+    { "display": "Joško Gvardiol", "detail": "", "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"] },
+    { "display": "Elliot Anderson", "detail": "", "accept": ["elliot anderson", "anderson"] },
+    { "display": "Antoine Semenyo", "detail": "", "accept": ["antoine semenyo", "semenyo"] },
+    { "display": "Erling Haaland", "detail": "", "accept": ["erling haaland", "haaland"] },
+    { "display": "Ayyoub Bouaddi", "detail": "Sub", "accept": ["ayyoub bouaddi", "bouaddi"] },
+    { "display": "Phil Foden", "detail": "Sub", "accept": ["phil foden", "foden"] },
+    { "display": "Ryan McAidoo", "detail": "Sub", "accept": ["ryan mcaidoo", "mcaidoo"] }
+  ]
+}

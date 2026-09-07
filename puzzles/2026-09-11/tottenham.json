@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-11",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players on the pitch for Spurs at full-time of its 2026/27 Premier League Matchweek 3 match",
+  "note": "Nottingham Forest 0-0 Tottenham · 5 Sep 2026 · outfield players on the pitch at full-time · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Pedro Porro", "detail": "", "accept": ["pedro porro", "porro"] },
+    { "display": "Jan Paul van Hecke", "detail": "", "accept": ["jan paul van hecke", "van hecke", "hecke"] },
+    { "display": "Micky van de Ven", "detail": "", "accept": ["micky van de ven", "van de ven"] },
+    { "display": "Rodrigo Bentancur", "detail": "", "accept": ["rodrigo bentancur", "bentancur"] },
+    { "display": "Sandro Tonali", "detail": "", "accept": ["sandro tonali", "tonali"] },
+    { "display": "Andy Robertson", "detail": "Sub", "accept": ["andy robertson", "andrew robertson", "robertson"] },
+    { "display": "Mohammed Kudus", "detail": "Sub", "accept": ["mohammed kudus", "kudus"] },
+    { "display": "Mykhailo Mudryk", "detail": "Sub", "accept": ["mykhailo mudryk", "mudryk"] },
+    { "display": "Mateus Fernandes", "detail": "Sub", "accept": ["mateus fernandes", "fernandes"] },
+    { "display": "Dominic Solanke", "detail": "Sub", "accept": ["dominic solanke", "solanke"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-11",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 outfield players on the pitch for Man United at full-time of its 2026/27 Premier League Matchweek 3 match",
+  "note": "Everton 2-2 Manchester United · 6 Sep 2026 · outfield players on the pitch at full-time · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Harry Maguire", "detail": "", "accept": ["harry maguire", "maguire"] },
+    { "display": "Lisandro Martínez", "detail": "", "accept": ["lisandro martinez", "lisandro martínez", "martinez", "martínez"] },
+    { "display": "Youri Tielemans", "detail": "", "accept": ["youri tielemans", "tielemans"] },
+    { "display": "Bryan Mbeumo", "detail": "", "accept": ["bryan mbeumo", "mbeumo"] },
+    { "display": "Bruno Fernandes", "detail": "", "accept": ["bruno fernandes", "bruno", "fernandes"] },
+    { "display": "Patrick Dorgu", "detail": "Sub", "accept": ["patrick dorgu", "dorgu"] },
+    { "display": "Benjamin Šeško", "detail": "Sub", "accept": ["benjamin sesko", "benjamin šeško", "sesko", "šeško"] },
+    { "display": "Leny Yoro", "detail": "Sub", "accept": ["leny yoro", "yoro"] },
+    { "display": "Andrey Santos", "detail": "Sub", "accept": ["andrey santos", "santos"] },
+    { "display": "Noussair Mazraoui", "detail": "Sub", "accept": ["noussair mazraoui", "mazraoui"] }
+  ]
+}
