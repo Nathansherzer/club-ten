@@ -28,7 +28,8 @@ export const POSTS = {
   "arsenal-trivia":                          "2026-09-03",
   "chelsea-trivia":                          "2026-09-04",
   "liverpool-trivia":                        "2026-09-05",
-  "manchester-united-trivia":                "2026-09-06"
+  "manchester-united-trivia":                "2026-09-06",
+  "manchester-city-trivia":                  "2026-09-07"
 };
 
 function londonToday() {
