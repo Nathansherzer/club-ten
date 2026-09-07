@@ -726,9 +726,6 @@ header .logo a:hover { opacity: 0.85; }
 /* Shared SEO section wrapper (FAQ + club switcher) */
 .seo-section { margin-top: 30px; border-top: 1px solid var(--slot-border); padding-top: 18px; }
 .seo-section > h2 { font-size: 1rem; color: var(--green); margin-bottom: 10px; text-align: center; }
-.faq-item { margin-bottom: 14px; }
-.faq-item h3 { font-size: 0.9rem; margin: 0 0 3px; color: var(--text); }
-.faq-item p { color: var(--muted); font-size: 0.85rem; line-height: 1.55; margin: 0; }
 
 .club-switch-links { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
 .club-switch-links a {
