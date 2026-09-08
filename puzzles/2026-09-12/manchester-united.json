@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-12",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the longest time between their first and last Premier League goals for Man United",
+  "note": "ranked by exact days between first and last PL goal for the club · spells apart still count · 1992/93 through 2025/26 seasons",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Ryan Giggs", "detail": "29 Aug 1992 to 23 Feb 2013 · 7,483 days", "accept": ["ryan giggs", "giggs"] },
+    { "display": "Cristiano Ronaldo", "detail": "1 Nov 2003 to 9 Oct 2022 · 6,917 days", "accept": ["cristiano ronaldo", "ronaldo", "cr7"] },
+    { "display": "Paul Scholes", "detail": "24 Sep 1994 to 15 Sep 2012 · 6,566 days", "accept": ["paul scholes", "scholes"] },
+    { "display": "Wayne Rooney", "detail": "24 Oct 2004 to 14 May 2017 · 4,585 days", "accept": ["wayne rooney", "rooney"] },
+    { "display": "Roy Keane", "detail": "18 Aug 1993 to 5 Feb 2005 · 4,189 days", "accept": ["roy keane", "keane"] },
+    { "display": "Ole Gunnar Solskjær", "detail": "25 Aug 1996 to 31 Mar 2007 · 3,870 days", "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær"] },
+    { "display": "Nicky Butt", "detail": "31 Dec 1994 to 26 Dec 2003 · 3,282 days", "accept": ["nicky butt", "butt"] },
+    { "display": "Marcus Rashford", "detail": "28 Feb 2016 to 1 Dec 2024 · 3,199 days", "accept": ["marcus rashford", "rashford"] },
+    { "display": "Antonio Valencia", "detail": "17 Oct 2009 to 15 Jan 2018 · 3,012 days", "accept": ["antonio valencia", "valencia"] },
+    { "display": "Anthony Martial", "detail": "12 Sep 2015 to 26 Nov 2023 · 2,997 days", "accept": ["anthony martial", "martial"] }
+  ]
+}

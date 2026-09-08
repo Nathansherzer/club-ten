@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-12",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the longest time between their first and last Premier League goals for Arsenal",
+  "note": "ranked by exact days between first and last PL goal for the club · spells apart still count · 1992/93 through 2025/26 seasons",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Thierry Henry", "detail": "18 Sep 1999 to 11 Feb 2012 · 4,529 days", "accept": ["thierry henry", "henry"] },
+    { "display": "Dennis Bergkamp", "detail": "23 Sep 1995 to 15 Apr 2006 · 3,857 days", "accept": ["dennis bergkamp", "bergkamp"] },
+    { "display": "Aaron Ramsey", "detail": "22 Aug 2009 to 1 Apr 2019 · 3,509 days", "accept": ["aaron ramsey", "ramsey"] },
+    { "display": "Theo Walcott", "detail": "23 Feb 2008 to 5 Apr 2017 · 3,329 days", "accept": ["theo walcott", "walcott"] },
+    { "display": "Laurent Koscielny", "detail": "11 Sep 2010 to 27 Feb 2019 · 3,091 days", "accept": ["laurent koscielny", "koscielny"] },
+    { "display": "Patrick Vieira", "detail": "7 Dec 1996 to 11 May 2005 · 3,077 days", "accept": ["patrick vieira", "vieira"] },
+    { "display": "Ray Parlour", "detail": "29 Aug 1992 to 30 Jan 2001 · 3,076 days", "accept": ["ray parlour", "parlour"] },
+    { "display": "Tomáš Rosický", "detail": "11 Feb 2007 to 1 Mar 2015 · 2,940 days", "accept": ["tomas rosicky", "tomáš rosický", "rosicky", "rosický"] },
+    { "display": "Freddie Ljungberg", "detail": "20 Sep 1998 to 4 May 2006 · 2,783 days", "accept": ["freddie ljungberg", "ljungberg"] },
+    { "display": "Robin van Persie", "detail": "30 Oct 2004 to 5 May 2012 · 2,744 days", "accept": ["robin van persie", "van persie", "rvp"] }
+  ]
+}

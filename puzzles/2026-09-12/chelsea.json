@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-12",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the longest time between their first and last Premier League goals for Chelsea",
+  "note": "ranked by exact days between first and last PL goal for the club · spells apart still count · 1992/93 through 2025/26 seasons",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "John Terry", "detail": "13 Jan 2001 to 15 May 2017 · 5,966 days", "accept": ["john terry", "terry", "jt"] },
+    { "display": "Frank Lampard", "detail": "23 Dec 2001 to 5 Apr 2014 · 4,486 days", "accept": ["frank lampard", "lampard"] },
+    { "display": "Didier Drogba", "detail": "24 Aug 2004 to 29 Apr 2015 · 3,900 days", "accept": ["didier drogba", "drogba"] },
+    { "display": "Dennis Wise", "detail": "2 Sep 1992 to 19 May 2001 · 3,181 days", "accept": ["dennis wise", "wise"] },
+    { "display": "David Luiz", "detail": "1 Mar 2011 to 5 May 2019 · 2,987 days", "accept": ["david luiz", "luiz"] },
+    { "display": "Willian", "detail": "6 Oct 2013 to 4 Jul 2020 · 2,463 days", "accept": ["willian"] },
+    { "display": "Eden Hazard", "detail": "25 Aug 2012 to 8 Apr 2019 · 2,417 days", "accept": ["eden hazard", "hazard"] },
+    { "display": "Gianfranco Zola", "detail": "7 Dec 1996 to 21 Apr 2003 · 2,326 days", "accept": ["gianfranco zola", "zola"] },
+    { "display": "Branislav Ivanović", "detail": "31 Oct 2009 to 27 Feb 2016 · 2,310 days", "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"] },
+    { "display": "Joe Cole", "detail": "25 Apr 2004 to 3 Apr 2010 · 2,169 days", "accept": ["joe cole"] }
+  ]
+}

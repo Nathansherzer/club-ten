@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-12",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the longest time between their first and last Premier League goals for Man City",
+  "note": "ranked by exact days between first and last PL goal for the club · spells apart still count · 1992/93 through 2025/26 seasons",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Vincent Kompany", "detail": "28 Sep 2008 to 6 May 2019 · 3,872 days", "accept": ["vincent kompany", "kompany"] },
+    { "display": "Sergio Agüero", "detail": "15 Aug 2011 to 23 May 2021 · 3,569 days", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
+    { "display": "David Silva", "detail": "17 Oct 2010 to 15 Jul 2020 · 3,559 days", "accept": ["david silva"] },
+    { "display": "Kevin De Bruyne", "detail": "19 Sep 2015 to 2 May 2025 · 3,513 days", "accept": ["kevin de bruyne", "de bruyne", "kdb"] },
+    { "display": "İlkay Gündoğan", "detail": "17 Sep 2016 to 25 May 2025 · 3,172 days", "accept": ["ilkay gundogan", "İlkay gündoğan", "gundogan", "gündoğan"] },
+    { "display": "Bernardo Silva", "detail": "14 Oct 2017 to 14 Mar 2026 · 3,073 days", "accept": ["bernardo silva"] },
+    { "display": "Fernandinho", "detail": "14 Dec 2013 to 30 Apr 2022 · 3,059 days", "accept": ["fernandinho"] },
+    { "display": "Pablo Zabaleta", "detail": "17 Jan 2009 to 14 Dec 2016 · 2,888 days", "accept": ["pablo zabaleta", "zabaleta"] },
+    { "display": "Shaun Wright-Phillips", "detail": "29 Jan 2003 to 9 May 2010 · 2,657 days", "accept": ["shaun wright-phillips", "wright-phillips"] },
+    { "display": "Raheem Sterling", "detail": "29 Aug 2015 to 11 May 2022 · 2,447 days", "accept": ["raheem sterling", "sterling"] }
+  ]
+}

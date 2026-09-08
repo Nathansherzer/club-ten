@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-12",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the longest time between their first and last Premier League goals for Liverpool",
+  "note": "ranked by exact days between first and last PL goal for the club · spells apart still count · 1992/93 through 2025/26 seasons",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Steven Gerrard", "detail": "5 Dec 1999 to 24 May 2015 · 5,649 days", "accept": ["steven gerrard", "gerrard"] },
+    { "display": "Robbie Fowler", "detail": "16 Oct 1993 to 24 Feb 2007 · 4,879 days", "accept": ["robbie fowler", "fowler"] },
+    { "display": "Jordan Henderson", "detail": "27 Aug 2011 to 1 Dec 2021 · 3,749 days", "accept": ["jordan henderson", "henderson"] },
+    { "display": "Jamie Carragher", "detail": "18 Jan 1997 to 9 Dec 2006 · 3,612 days", "accept": ["jamie carragher", "carragher", "carra"] },
+    { "display": "Sami Hyypiä", "detail": "11 Sep 1999 to 28 Dec 2008 · 3,396 days", "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"] },
+    { "display": "Jamie Redknapp", "detail": "5 Sep 1992 to 27 Oct 2001 · 3,339 days", "accept": ["jamie redknapp", "redknapp"] },
+    { "display": "Mohamed Salah", "detail": "12 Aug 2017 to 19 Apr 2026 · 3,172 days", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Andy Robertson", "detail": "13 May 2018 to 25 Apr 2026 · 2,904 days", "accept": ["andy robertson", "andrew robertson", "robertson"] },
+    { "display": "Daniel Agger", "detail": "26 Aug 2006 to 11 May 2014 · 2,815 days", "accept": ["daniel agger", "agger"] },
+    { "display": "Roberto Firmino", "detail": "21 Nov 2015 to 28 May 2023 · 2,745 days", "accept": ["roberto firmino", "firmino", "bobby firmino"] }
+  ]
+}

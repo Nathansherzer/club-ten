@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-12",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the longest time between their first and last Premier League goals for Spurs",
+  "note": "ranked by exact days between first and last PL goal for the club · spells apart still count · 1992/93 through 2025/26 seasons",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Gareth Bale", "detail": "1 Sep 2007 to 23 May 2021 · 5,013 days", "accept": ["gareth bale", "bale"] },
+    { "display": "Darren Anderton", "detail": "7 Feb 1993 to 8 Nov 2003 · 3,926 days", "accept": ["darren anderton", "anderton"] },
+    { "display": "Teddy Sheringham", "detail": "2 Sep 1992 to 21 Apr 2003 · 3,883 days", "accept": ["teddy sheringham", "sheringham"] },
+    { "display": "Jermain Defoe", "detail": "7 Feb 2004 to 11 Jan 2014 · 3,626 days", "accept": ["jermain defoe", "defoe"] },
+    { "display": "Son Heung-min", "detail": "20 Sep 2015 to 9 Mar 2025 · 3,458 days", "accept": ["son heung-min", "son heung min", "son", "sonny"] },
+    { "display": "Ledley King", "detail": "9 Dec 2000 to 24 Apr 2010 · 3,423 days", "accept": ["ledley king", "king"] },
+    { "display": "Harry Kane", "detail": "7 Apr 2014 to 28 May 2023 · 3,338 days", "accept": ["harry kane", "kane"] },
+    { "display": "Ben Davies", "detail": "21 May 2017 to 4 Jan 2026 · 3,150 days", "accept": ["ben davies"] },
+    { "display": "Eric Dier", "detail": "16 Aug 2014 to 17 Sep 2022 · 2,954 days", "accept": ["eric dier", "dier"] },
+    { "display": "Sol Campbell", "detail": "5 Dec 1992 to 9 Dec 2000 · 2,926 days", "accept": ["sol campbell", "campbell"] }
+  ]
+}
