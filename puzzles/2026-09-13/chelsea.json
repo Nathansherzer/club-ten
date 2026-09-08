@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-13",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 stadiums where Chelsea have scored the most Premier League goals",
+  "note": "different sponsored names for the same stadium combined · ties broken by fewer matches · through 2025/26 season",
+  "placeholder": "Type a stadium…",
+  "type": "stadiums",
+  "answers": [
+    { "display": "Stamford Bridge", "detail": "1,246 goals · 652 matches", "accept": ["stamford bridge", "the bridge"] },
+    { "display": "Villa Park", "detail": "46 goals · 31 matches", "accept": ["villa park"] },
+    { "display": "White Hart Lane", "detail": "42 goals · 25 matches", "accept": ["white hart lane", "the lane"] },
+    { "display": "Selhurst Park", "detail": "41 goals · 25 matches", "accept": ["selhurst park", "selhurst"] },
+    { "display": "St Mary's Stadium", "detail": "39 goals · 16 matches", "accept": ["st mary's stadium", "st marys stadium", "st mary's"] },
+    { "display": "Goodison Park", "detail": "37 goals · 33 matches", "accept": ["goodison park", "goodison"] },
+    { "display": "Anfield", "detail": "37 goals · 34 matches", "accept": ["anfield"] },
+    { "display": "Upton Park", "detail": "34 goals · 20 matches", "accept": ["upton park", "boleyn ground", "the boleyn ground"] },
+    { "display": "St James' Park", "detail": "34 goals · 31 matches", "accept": ["st james' park", "st james park", "st james's park"] },
+    { "display": "Old Trafford", "detail": "34 goals · 34 matches", "accept": ["old trafford", "theatre of dreams"] }
+  ]
+}

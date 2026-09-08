@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-13",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 stadiums where Liverpool have scored the most Premier League goals",
+  "note": "different sponsored names for the same stadium combined · ties broken by fewer matches · through 2025/26 season",
+  "placeholder": "Type a stadium…",
+  "type": "stadiums",
+  "answers": [
+    { "display": "Anfield", "detail": "1,327 goals · 652 matches", "accept": ["anfield"] },
+    { "display": "St James' Park", "detail": "54 goals · 31 matches", "accept": ["st james' park", "st james park", "st james's park"] },
+    { "display": "Villa Park", "detail": "51 goals · 31 matches", "accept": ["villa park"] },
+    { "display": "Selhurst Park", "detail": "45 goals · 25 matches", "accept": ["selhurst park", "selhurst"] },
+    { "display": "Old Trafford", "detail": "43 goals · 34 matches", "accept": ["old trafford", "theatre of dreams"] },
+    { "display": "Goodison Park", "detail": "40 goals · 33 matches", "accept": ["goodison park", "goodison"] },
+    { "display": "White Hart Lane", "detail": "34 goals · 25 matches", "accept": ["white hart lane", "the lane"] },
+    { "display": "Elland Road", "detail": "33 goals · 16 matches", "accept": ["elland road"] },
+    { "display": "Craven Cottage", "detail": "33 goals · 17 matches", "accept": ["craven cottage", "the cottage"] },
+    { "display": "Upton Park", "detail": "28 goals · 20 matches", "accept": ["upton park", "boleyn ground", "the boleyn ground"] }
+  ]
+}

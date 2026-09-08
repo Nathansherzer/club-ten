@@ -67,6 +67,7 @@ const PUZZLES_DIR = join(ROOT, "puzzles");
 const BANK_FILES = {
   clubs: "club-bank.json",
   nationalities: "nationality-bank.json",
+  stadiums: "stadium-bank.json",
   players: "name-bank.json",
 };
 

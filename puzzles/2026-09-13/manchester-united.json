@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-13",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 stadiums where Man United have scored the most Premier League goals",
+  "note": "different sponsored names for the same stadium combined · ties broken by fewer matches · through 2025/26 season",
+  "placeholder": "Type a stadium…",
+  "type": "stadiums",
+  "answers": [
+    { "display": "Old Trafford", "detail": "1,343 goals · 652 matches", "accept": ["old trafford", "theatre of dreams"] },
+    { "display": "Goodison Park", "detail": "56 goals · 33 matches", "accept": ["goodison park", "goodison"] },
+    { "display": "St James' Park", "detail": "52 goals · 31 matches", "accept": ["st james' park", "st james park", "st james's park"] },
+    { "display": "Villa Park", "detail": "48 goals · 31 matches", "accept": ["villa park"] },
+    { "display": "Selhurst Park", "detail": "41 goals · 25 matches", "accept": ["selhurst park", "selhurst"] },
+    { "display": "White Hart Lane", "detail": "39 goals · 25 matches", "accept": ["white hart lane", "the lane"] },
+    { "display": "Upton Park", "detail": "38 goals · 20 matches", "accept": ["upton park", "boleyn ground", "the boleyn ground"] },
+    { "display": "Stamford Bridge", "detail": "37 goals · 34 matches", "accept": ["stamford bridge", "the bridge"] },
+    { "display": "Anfield", "detail": "37 goals · 34 matches", "accept": ["anfield"] },
+    { "display": "Craven Cottage", "detail": "33 goals · 17 matches", "accept": ["craven cottage", "the cottage"] }
+  ]
+}

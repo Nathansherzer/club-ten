@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-13",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 stadiums where Man City have scored the most Premier League goals",
+  "note": "different sponsored names for the same stadium combined · ties broken by fewer matches · through 2025/26 season",
+  "placeholder": "Type a stadium…",
+  "type": "stadiums",
+  "answers": [
+    { "display": "Etihad Stadium", "detail": "996 goals · 437 matches", "accept": ["etihad stadium", "etihad", "city of manchester stadium"] },
+    { "display": "Maine Road", "detail": "160 goals · 120 matches", "accept": ["maine road"] },
+    { "display": "St James' Park", "detail": "43 goals · 26 matches", "accept": ["st james' park", "st james park", "st james's park"] },
+    { "display": "Craven Cottage", "detail": "41 goals · 16 matches", "accept": ["craven cottage", "the cottage"] },
+    { "display": "Goodison Park", "detail": "38 goals · 28 matches", "accept": ["goodison park", "goodison"] },
+    { "display": "Old Trafford", "detail": "37 goals · 29 matches", "accept": ["old trafford", "theatre of dreams"] },
+    { "display": "Villa Park", "detail": "34 goals · 26 matches", "accept": ["villa park"] },
+    { "display": "Stamford Bridge", "detail": "33 goals · 29 matches", "accept": ["stamford bridge", "the bridge"] },
+    { "display": "Anfield", "detail": "30 goals · 29 matches", "accept": ["anfield"] },
+    { "display": "London Stadium", "detail": "29 goals · 10 matches", "accept": ["london stadium", "olympic stadium"] }
+  ]
+}

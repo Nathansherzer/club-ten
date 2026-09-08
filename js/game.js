@@ -219,6 +219,7 @@ pickerEl.querySelectorAll(".clubbtn[data-club]").forEach(btn => {
 async function loadNameBank(type) {
   const url = type === "clubs"         ? "/data/club-bank.json"
             : type === "nationalities" ? "/data/nationality-bank.json"
+            : type === "stadiums"      ? "/data/stadium-bank.json"
             :                           "/data/name-bank.json";
   try {
     const res = await fetch(url);

@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-13",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 stadiums where Spurs have scored the most Premier League goals",
+  "note": "different sponsored names for the same stadium combined · ties broken by fewer matches · through 2025/26 season",
+  "placeholder": "Type a stadium…",
+  "type": "stadiums",
+  "answers": [
+    { "display": "White Hart Lane", "detail": "812 goals · 481 matches", "accept": ["white hart lane", "the lane"] },
+    { "display": "Tottenham Hotspur Stadium", "detail": "250 goals · 138 matches", "accept": ["tottenham hotspur stadium", "new white hart lane"] },
+    { "display": "Wembley Stadium", "detail": "65 goals · 33 matches", "accept": ["wembley stadium", "wembley"] },
+    { "display": "St James' Park", "detail": "44 goals · 31 matches", "accept": ["st james' park", "st james park", "st james's park"] },
+    { "display": "Villa Park", "detail": "43 goals · 31 matches", "accept": ["villa park"] },
+    { "display": "Goodison Park", "detail": "41 goals · 33 matches", "accept": ["goodison park", "goodison"] },
+    { "display": "Selhurst Park", "detail": "37 goals · 25 matches", "accept": ["selhurst park", "selhurst"] },
+    { "display": "Anfield", "detail": "35 goals · 34 matches", "accept": ["anfield"] },
+    { "display": "Etihad Stadium", "detail": "34 goals · 23 matches", "accept": ["etihad stadium", "etihad", "city of manchester stadium"] },
+    { "display": "Old Trafford", "detail": "30 goals · 34 matches", "accept": ["old trafford", "theatre of dreams"] }
+  ]
+}
