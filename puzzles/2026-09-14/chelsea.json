@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who waited the longest between their first Premier League appearance and first Premier League goal for Chelsea",
+  "note": "ranked by exact days from PL debut to first PL goal for the club · goalkeepers included · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Romelu Lukaku", "detail": "3,648 days · 27 Aug 2011 to 22 Aug 2021", "accept": ["romelu lukaku", "lukaku"] },
+    { "display": "John Obi Mikel", "detail": "2,589 days · 20 Aug 2006 to 21 Sep 2013", "accept": ["john obi mikel", "obi mikel", "mikel"] },
+    { "display": "Steve Clarke", "detail": "2,079 days · 15 Aug 1992 to 25 Apr 1998", "accept": ["steve clarke", "clarke"] },
+    { "display": "Graeme Le Saux", "detail": "1,792 days · 17 Oct 1992 to 13 Sep 1997", "accept": ["graeme le saux", "le saux"] },
+    { "display": "Nemanja Matić", "detail": "1,743 days · 21 Nov 2009 to 30 Aug 2014", "accept": ["nemanja matic", "nemanja matić", "matic", "matić"] },
+    { "display": "Andy Myers", "detail": "1,349 days · 28 Dec 1992 to 7 Sep 1996", "accept": ["andy myers", "myers"] },
+    { "display": "Fikayo Tomori", "detail": "1,217 days · 15 May 2016 to 14 Sep 2019", "accept": ["fikayo tomori", "tomori"] },
+    { "display": "Tammy Abraham", "detail": "1,200 days · 11 May 2016 to 24 Aug 2019", "accept": ["tammy abraham", "abraham"] },
+    { "display": "César Azpilicueta", "detail": "1,051 days · 6 Oct 2012 to 23 Aug 2015", "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta"] },
+    { "display": "Armando Broja", "detail": "944 days · 8 Mar 2020 to 8 Oct 2022", "accept": ["armando broja", "broja"] }
+  ]
+}

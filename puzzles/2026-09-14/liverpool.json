@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who waited the longest between their first Premier League appearance and first Premier League goal for Liverpool",
+  "note": "ranked by exact days from PL debut to first PL goal for the club · goalkeepers included · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Dominic Matteo", "detail": "1,911 days · 23 Oct 1993 to 16 Jan 1999", "accept": ["dominic matteo", "matteo"] },
+    { "display": "Igor Bišćan", "detail": "1,406 days · 10 Dec 2000 to 16 Oct 2004", "accept": ["igor biscan", "igor bišćan", "biscan", "bišćan"] },
+    { "display": "Stig Inge Bjørnebye", "detail": "1,337 days · 19 Dec 1992 to 17 Aug 1996", "accept": ["stig inge bjornebye", "stig inge bjørnebye", "bjornebye", "bjørnebye"] },
+    { "display": "Ibrahima Konaté", "detail": "1,106 days · 18 Sep 2021 to 28 Sep 2024", "accept": ["ibrahima konate", "ibrahima konaté", "konate", "konaté"] },
+    { "display": "Jordon Ibe", "detail": "1,092 days · 19 May 2013 to 15 May 2016", "accept": ["jordon ibe", "ibe"] },
+    { "display": "Alisson", "detail": "1,008 days · 12 Aug 2018 to 16 May 2021", "accept": ["alisson", "alisson becker"] },
+    { "display": "Jon Flanagan", "detail": "979 days · 11 Apr 2011 to 15 Dec 2013", "accept": ["jon flanagan", "flanagan"] },
+    { "display": "Harvey Elliott", "detail": "968 days · 2 Jan 2020 to 27 Aug 2022", "accept": ["harvey elliott", "elliott"] },
+    { "display": "Kolo Touré", "detail": "911 days · 17 Aug 2013 to 14 Feb 2016", "accept": ["kolo toure", "kolo touré", "toure", "touré"] },
+    { "display": "Danny Murphy", "detail": "819 days · 9 Aug 1997 to 6 Nov 1999", "accept": ["danny murphy", "murphy"] }
+  ]
+}

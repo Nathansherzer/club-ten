@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who waited the longest between their first Premier League appearance and first Premier League goal for Man United",
+  "note": "ranked by exact days from PL debut to first PL goal for the club · goalkeepers included · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Wes Brown", "detail": "2,547 days · 4 May 1998 to 24 Apr 2005", "accept": ["wes brown", "brown"] },
+    { "display": "Paul Pogba", "detail": "1,698 days · 31 Jan 2012 to 24 Sep 2016", "accept": ["paul pogba", "pogba"] },
+    { "display": "Diogo Dalot", "detail": "1,597 days · 1 Dec 2018 to 16 Apr 2023", "accept": ["diogo dalot", "dalot"] },
+    { "display": "Andreas Pereira", "detail": "1,448 days · 15 Mar 2015 to 2 Mar 2019", "accept": ["andreas pereira", "pereira"] },
+    { "display": "Luke Shaw", "detail": "1,413 days · 27 Sep 2014 to 10 Aug 2018", "accept": ["luke shaw", "shaw"] },
+    { "display": "Jonny Evans", "detail": "1,274 days · 21 Sep 2008 to 18 Mar 2012", "accept": ["jonny evans", "evans"] },
+    { "display": "Kieran Richardson", "detail": "1,261 days · 23 Nov 2002 to 7 May 2006", "accept": ["kieran richardson", "richardson"] },
+    { "display": "Rio Ferdinand", "detail": "1,201 days · 31 Aug 2002 to 14 Dec 2005", "accept": ["rio ferdinand", "ferdinand"] },
+    { "display": "Phil Neville", "detail": "1,113 days · 11 Feb 1995 to 28 Feb 1998", "accept": ["phil neville"] },
+    { "display": "Amad Diallo", "detail": "1,100 days · 11 May 2021 to 15 May 2024", "accept": ["amad diallo", "amad"] }
+  ]
+}

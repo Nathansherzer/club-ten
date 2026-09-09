@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who waited the longest between their first Premier League appearance and first Premier League goal for Spurs",
+  "note": "ranked by exact days from PL debut to first PL goal for the club · goalkeepers included · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Stephen Carr", "detail": "2,191 days · 26 Sep 1993 to 26 Sep 1999", "accept": ["stephen carr", "carr"] },
+    { "display": "Oliver Skipp", "detail": "1,544 days · 5 Dec 2018 to 26 Feb 2023", "accept": ["oliver skipp", "skipp"] },
+    { "display": "Mauricio Taricco", "detail": "1,520 days · 16 Jan 1999 to 16 Mar 2003", "accept": ["mauricio taricco", "taricco"] },
+    { "display": "Tom Carroll", "detail": "1,148 days · 3 Nov 2012 to 26 Dec 2015", "accept": ["tom carroll", "carroll"] },
+    { "display": "Benoît Assou-Ekotto", "detail": "1,093 days · 19 Aug 2006 to 16 Aug 2009", "accept": ["benoit assou-ekotto", "benoît assou-ekotto", "assou-ekotto"] },
+    { "display": "Ryan Sessegnon", "detail": "1,007 days · 3 Nov 2019 to 6 Aug 2022", "accept": ["ryan sessegnon", "sessegnon"] },
+    { "display": "Ben Davies", "detail": "994 days · 31 Aug 2014 to 21 May 2017", "accept": ["ben davies"] },
+    { "display": "Stephen Clemence", "detail": "993 days · 10 Aug 1997 to 29 Apr 2000", "accept": ["stephen clemence", "clemence"] },
+    { "display": "Alan Hutton", "detail": "959 days · 2 Feb 2008 to 18 Sep 2010", "accept": ["alan hutton", "hutton"] },
+    { "display": "Paul Robinson", "detail": "945 days · 14 Aug 2004 to 17 Mar 2007", "accept": ["paul robinson", "robinson"] }
+  ]
+}

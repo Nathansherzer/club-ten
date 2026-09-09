@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who waited the longest between their first Premier League appearance and first Premier League goal for Man City",
+  "note": "ranked by exact days from PL debut to first PL goal for the club · goalkeepers included · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Richard Dunne", "detail": "1,640 days · 23 Oct 2000 to 20 Apr 2005", "accept": ["richard dunne", "dunne"] },
+    { "display": "John Stones", "detail": "1,618 days · 13 Aug 2016 to 17 Jan 2021", "accept": ["john stones", "stones"] },
+    { "display": "Nedum Onuoha", "detail": "1,231 days · 1 Nov 2004 to 16 Mar 2008", "accept": ["nedum onuoha", "onuoha"] },
+    { "display": "Gaël Clichy", "detail": "1,203 days · 15 Aug 2011 to 30 Nov 2014", "accept": ["gael clichy", "gaël clichy", "clichy"] },
+    { "display": "Benjamin Mendy", "detail": "1,190 days · 26 Aug 2017 to 28 Nov 2020", "accept": ["benjamin mendy", "mendy"] },
+    { "display": "James McAtee", "detail": "1,155 days · 21 Nov 2021 to 19 Jan 2025", "accept": ["james mcatee", "mcatee"] },
+    { "display": "Shaun Wright-Phillips", "detail": "893 days · 19 Aug 2000 to 29 Jan 2003", "accept": ["shaun wright-phillips", "wright-phillips"] },
+    { "display": "Nigel de Jong", "detail": "823 days · 28 Jan 2009 to 1 May 2011", "accept": ["nigel de jong", "de jong"] },
+    { "display": "Valeri Bojinov", "detail": "644 days · 11 Aug 2007 to 16 May 2009", "accept": ["valeri bojinov", "bojinov"] },
+    { "display": "Matheus Nunes", "detail": "584 days · 16 Sep 2023 to 22 Apr 2025", "accept": ["matheus nunes", "nunes"] }
+  ]
+}

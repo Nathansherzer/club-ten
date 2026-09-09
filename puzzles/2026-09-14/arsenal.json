@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who waited the longest between their first Premier League appearance and first Premier League goal for Arsenal",
+  "note": "ranked by exact days from PL debut to first PL goal for the club · goalkeepers included · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Rob Holding", "detail": "2,086 days · 14 Aug 2016 to 1 May 2022", "accept": ["rob holding", "holding"] },
+    { "display": "Mohamed Elneny", "detail": "1,890 days · 28 Feb 2016 to 2 May 2021", "accept": ["mohamed elneny", "elneny"] },
+    { "display": "Johan Djourou", "detail": "1,848 days · 14 Jan 2006 to 5 Feb 2011", "accept": ["johan djourou", "djourou"] },
+    { "display": "Gaël Clichy", "detail": "1,806 days · 22 Nov 2003 to 1 Nov 2008", "accept": ["gael clichy", "gaël clichy", "clichy"] },
+    { "display": "Ainsley Maitland-Niles", "detail": "1,477 days · 13 Dec 2014 to 29 Dec 2018", "accept": ["ainsley maitland-niles", "maitland-niles"] },
+    { "display": "Justin Hoyte", "detail": "1,336 days · 7 May 2003 to 2 Jan 2007", "accept": ["justin hoyte", "hoyte"] },
+    { "display": "Emmanuel Eboué", "detail": "1,302 days · 26 Feb 2005 to 20 Sep 2008", "accept": ["emmanuel eboue", "emmanuel eboué", "eboue", "eboué"] },
+    { "display": "Alex Song", "detail": "1,300 days · 19 Sep 2005 to 11 Apr 2009", "accept": ["alex song", "song"] },
+    { "display": "Kieran Gibbs", "detail": "1,140 days · 8 Feb 2009 to 24 Mar 2012", "accept": ["kieran gibbs", "gibbs"] },
+    { "display": "Scott Marshall", "detail": "1,052 days · 6 May 1993 to 23 Mar 1996", "accept": ["scott marshall", "marshall"] }
+  ]
+}
