@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-16",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 youngest players to make a Premier League appearance for Man City",
+  "note": "age at first PL appearance for the club · youngest first · starts and sub appearances both count · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Micah Richards", "detail": "17y 119d", "accept": ["micah richards", "richards"] },
+    { "display": "Daniel Sturridge", "detail": "17y 154d", "accept": ["daniel sturridge", "sturridge"] },
+    { "display": "Phil Foden", "detail": "17y 201d", "accept": ["phil foden", "foden"] },
+    { "display": "Liam Delap", "detail": "17y 231d", "accept": ["liam delap", "delap"] },
+    { "display": "Rico Lewis", "detail": "17y 264d", "accept": ["rico lewis", "lewis"] },
+    { "display": "Nedum Onuoha", "detail": "17y 354d", "accept": ["nedum onuoha", "onuoha"] },
+    { "display": "Karim Rekik", "detail": "18y 20d", "accept": ["karim rekik", "rekik"] },
+    { "display": "Manu García", "detail": "18y 62d", "accept": ["manu garcia", "manu garcía", "garcia", "garcía"] },
+    { "display": "Abdul Razak", "detail": "18y 85d", "accept": ["abdul razak", "razak"] },
+    { "display": "Divine Mukasa", "detail": "18y 120d", "accept": ["divine mukasa", "mukasa"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-16",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 youngest players to make a Premier League appearance for Arsenal",
+  "note": "age at first PL appearance for the club · youngest first · starts and sub appearances both count · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Ethan Nwaneri", "detail": "15y 181d", "accept": ["ethan nwaneri", "nwaneri"] },
+    { "display": "Max Dowman", "detail": "15y 235d", "accept": ["max dowman", "dowman"] },
+    { "display": "Jack Wilshere", "detail": "16y 256d", "accept": ["jack wilshere", "wilshere"] },
+    { "display": "Serge Gnabry", "detail": "17y 98d", "accept": ["serge gnabry", "gnabry"] },
+    { "display": "Cesc Fàbregas", "detail": "17y 103d", "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"] },
+    { "display": "Ainsley Maitland-Niles", "detail": "17y 105d", "accept": ["ainsley maitland-niles", "maitland-niles"] },
+    { "display": "Gavin McGowan", "detail": "17y 110d", "accept": ["gavin mcgowan", "mcgowan"] },
+    { "display": "Bukayo Saka", "detail": "17y 117d", "accept": ["bukayo saka", "saka"] },
+    { "display": "Theo Walcott", "detail": "17y 155d", "accept": ["theo walcott", "walcott"] },
+    { "display": "Aaron Ramsey", "detail": "17y 261d", "accept": ["aaron ramsey", "ramsey"] }
+  ]
+}

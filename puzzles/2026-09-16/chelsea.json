@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-16",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 youngest players to make a Premier League appearance for Chelsea",
+  "note": "age at first PL appearance for the club · youngest first · starts and sub appearances both count · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Jody Morris", "detail": "17y 43d", "accept": ["jody morris", "morris"] },
+    { "display": "Callum Hudson-Odoi", "detail": "17y 84d", "accept": ["callum hudson-odoi", "hudson-odoi", "hudson odoi"] },
+    { "display": "Ethan Ampadu", "detail": "17y 88d", "accept": ["ethan ampadu", "ampadu"] },
+    { "display": "Shim Mheuka", "detail": "17y 128d", "accept": ["shim mheuka", "mheuka"] },
+    { "display": "Ben Sahar", "detail": "17y 155d", "accept": ["ben sahar", "sahar"] },
+    { "display": "Josh McEachran", "detail": "17y 207d", "accept": ["josh mceachran", "mceachran"] },
+    { "display": "Robert Huth", "detail": "17y 265d", "accept": ["robert huth", "huth"] },
+    { "display": "Sam Hutchinson", "detail": "17y 282d", "accept": ["sam hutchinson", "hutchinson"] },
+    { "display": "Nathan Aké", "detail": "17y 311d", "accept": ["nathan ake", "nathan aké", "ake", "aké"] },
+    { "display": "Mikael Forssell", "detail": "17y 321d", "accept": ["mikael forssell", "forssell"] }
+  ]
+}

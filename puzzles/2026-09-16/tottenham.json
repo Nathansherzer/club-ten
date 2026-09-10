@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-16",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 youngest players to make a Premier League appearance for Spurs",
+  "note": "age at first PL appearance for the club · youngest first · starts and sub appearances both count · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Mikey Moore", "detail": "16y 277d", "accept": ["mikey moore", "moore"] },
+    { "display": "Dane Scarlett", "detail": "16y 320d", "accept": ["dane scarlett", "scarlett"] },
+    { "display": "Stephen Carr", "detail": "17y 27d", "accept": ["stephen carr", "carr"] },
+    { "display": "Jun'ai Byfield", "detail": "17y 56d", "accept": ["jun'ai byfield", "junai byfield", "byfield"] },
+    { "display": "Andy Turner", "detail": "17y 145d", "accept": ["andy turner", "turner"] },
+    { "display": "Phil Ifil", "detail": "17y 269d", "accept": ["phil ifil", "ifil"] },
+    { "display": "George Abbott", "detail": "17y 283d", "accept": ["george abbott", "abbott"] },
+    { "display": "Adel Taarabt", "detail": "17y 283d", "accept": ["adel taarabt", "taarabt"] },
+    { "display": "Troy Parrott", "detail": "17y 305d", "accept": ["troy parrott", "parrott"] },
+    { "display": "Gareth Bale", "detail": "18y 40d", "accept": ["gareth bale", "bale"] }
+  ]
+}

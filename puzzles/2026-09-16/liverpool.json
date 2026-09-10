@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-16",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 youngest players to make a Premier League appearance for Liverpool",
+  "note": "age at first PL appearance for the club · youngest first · starts and sub appearances both count · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Jack Robinson", "detail": "16y 250d", "accept": ["jack robinson", "robinson"] },
+    { "display": "Harvey Elliott", "detail": "16y 273d", "accept": ["harvey elliott", "elliott"] },
+    { "display": "Rio Ngumoha", "detail": "16y 361d", "accept": ["rio ngumoha", "ngumoha"] },
+    { "display": "Ben Woodburn", "detail": "17y 42d", "accept": ["ben woodburn", "woodburn"] },
+    { "display": "Ben Doak", "detail": "17y 44d", "accept": ["ben doak", "doak"] },
+    { "display": "Kaide Gordon", "detail": "17y 102d", "accept": ["kaide gordon", "gordon"] },
+    { "display": "Raheem Sterling", "detail": "17y 106d", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Michael Owen", "detail": "17y 143d", "accept": ["michael owen", "owen"] },
+    { "display": "Jordon Ibe", "detail": "17y 162d", "accept": ["jordon ibe", "ibe"] },
+    { "display": "Bobby Clark", "detail": "17y 200d", "accept": ["bobby clark", "clark"] }
+  ]
+}

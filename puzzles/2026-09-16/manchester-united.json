@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-16",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 youngest players to make a Premier League appearance for Man United",
+  "note": "age at first PL appearance for the club · youngest first · starts and sub appearances both count · through 2025/26 season",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Angel Gomes", "detail": "16y 263d", "accept": ["angel gomes", "gomes"] },
+    { "display": "Shola Shoretire", "detail": "17y 19d", "accept": ["shola shoretire", "shoretire"] },
+    { "display": "Chido Obi", "detail": "17y 79d", "accept": ["chido obi", "obi", "chido obi-martin", "obi-martin"] },
+    { "display": "Mason Greenwood", "detail": "17y 159d", "accept": ["mason greenwood", "greenwood"] },
+    { "display": "Federico Macheda", "detail": "17y 226d", "accept": ["federico macheda", "macheda", "kiko macheda"] },
+    { "display": "Alejandro Garnacho", "detail": "17y 300d", "accept": ["alejandro garnacho", "garnacho"] },
+    { "display": "Nicky Butt", "detail": "17y 304d", "accept": ["nicky butt", "butt"] },
+    { "display": "Kobbie Mainoo", "detail": "17y 305d", "accept": ["kobbie mainoo", "mainoo"] },
+    { "display": "Bendito Mantato", "detail": "17y 339d", "accept": ["bendito mantato", "mantato"] },
+    { "display": "James Garner", "detail": "17y 350d", "accept": ["james garner", "garner"] }
+  ]
+}
