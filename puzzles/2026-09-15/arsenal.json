@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-15",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to appear in every Premier League match of a season for Arsenal",
+  "note": "ever-present across a full PL season (38 games, or 42 in 1992/93-1994/95) · most recent qualifying season first · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Martín Zubimendi", "detail": "2025/26 · 38 apps · 34 starts", "accept": ["martin zubimendi", "martín zubimendi", "zubimendi"] },
+    { "display": "David Raya", "detail": "2024/25 · 38 apps · 38 starts", "accept": ["david raya", "raya"] },
+    { "display": "Leandro Trossard", "detail": "2024/25 · 38 apps · 28 starts", "accept": ["leandro trossard", "trossard"] },
+    { "display": "William Saliba", "detail": "2023/24 · 38 apps · 38 starts", "accept": ["william saliba", "saliba"] },
+    { "display": "Declan Rice", "detail": "2023/24 · 38 apps · 37 starts", "accept": ["declan rice", "rice"] },
+    { "display": "Aaron Ramsdale", "detail": "2022/23 · 38 apps · 38 starts", "accept": ["aaron ramsdale", "ramsdale"] },
+    { "display": "Gabriel Magalhães", "detail": "2022/23 · 38 apps · 38 starts", "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães", "gabriel"] },
+    { "display": "Bukayo Saka", "detail": "2022/23 · 38 apps · 37 starts", "accept": ["bukayo saka", "saka"] },
+    { "display": "Ben White", "detail": "2022/23 · 38 apps · 36 starts", "accept": ["ben white", "white"] },
+    { "display": "Granit Xhaka", "detail": "2017/18 · 38 apps · 37 starts", "accept": ["granit xhaka", "xhaka"] }
+  ]
+}

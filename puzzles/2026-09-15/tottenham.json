@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-15",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent different players to appear in every Premier League match of a season for Spurs",
+  "note": "ever-present across a full PL season (38 games, or 42 in 1992/93-1994/95) · most recent qualifying season first · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Guglielmo Vicario", "detail": "2023/24 · 38 apps · 38 starts", "accept": ["guglielmo vicario", "vicario"] },
+    { "display": "Harry Kane", "detail": "2022/23 · 38 apps · 38 starts", "accept": ["harry kane", "kane"] },
+    { "display": "Hugo Lloris", "detail": "2021/22 · 38 apps · 38 starts", "accept": ["hugo lloris", "lloris"] },
+    { "display": "Pierre-Emile Højbjerg", "detail": "2020/21 · 38 apps · 38 starts", "accept": ["pierre-emile hojbjerg", "pierre-emile højbjerg", "hojbjerg", "højbjerg"] },
+    { "display": "Toby Alderweireld", "detail": "2015/16 · 38 apps · 38 starts", "accept": ["toby alderweireld", "alderweireld"] },
+    { "display": "Christian Eriksen", "detail": "2014/15 · 38 apps · 37 starts", "accept": ["christian eriksen", "eriksen"] },
+    { "display": "Brad Friedel", "detail": "2011/12 · 38 apps · 38 starts", "accept": ["brad friedel", "friedel"] },
+    { "display": "Peter Crouch", "detail": "2009/10 · 38 apps · 21 starts", "accept": ["peter crouch", "crouch"] },
+    { "display": "Paul Robinson", "detail": "2006/07 · 38 apps · 38 starts", "accept": ["paul robinson", "robinson"] },
+    { "display": "Ledley King", "detail": "2004/05 · 38 apps · 38 starts", "accept": ["ledley king", "king"] }
+  ]
+}

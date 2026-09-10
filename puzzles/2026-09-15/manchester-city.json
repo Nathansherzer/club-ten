@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-15",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to appear in every Premier League match of a season for Man City",
+  "note": "ever-present across a full PL season (38 games, or 42 in 1992/93-1994/95) · most recent qualifying season first · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Bernardo Silva", "detail": "2025/26 · 38 apps · 34 starts", "accept": ["bernardo silva"] },
+    { "display": "Ederson", "detail": "2018/19 · 38 apps · 38 starts", "accept": ["ederson"] },
+    { "display": "Joe Hart", "detail": "2012/13 · 38 apps · 38 starts", "accept": ["joe hart"] },
+    { "display": "Richard Dunne", "detail": "2006/07 · 38 apps · 38 starts", "accept": ["richard dunne", "dunne"] },
+    { "display": "David James", "detail": "2005/06 · 38 apps · 38 starts", "accept": ["david james"] },
+    { "display": "Sylvain Distin", "detail": "2004/05 · 38 apps · 38 starts", "accept": ["sylvain distin", "distin"] },
+    { "display": "Nicolas Anelka", "detail": "2002/03 · 38 apps · 38 starts", "accept": ["nicolas anelka", "anelka"] },
+    { "display": "Eike Immel", "detail": "1995/96 · 38 apps · 38 starts", "accept": ["eike immel", "immel"] },
+    { "display": "Kit Symons", "detail": "1995/96 · 38 apps · 38 starts", "accept": ["kit symons", "symons"] },
+    { "display": "David White", "detail": "1992/93 · 42 apps · 42 starts", "accept": ["david white"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-15",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to appear in every Premier League match of a season for Chelsea",
+  "note": "ever-present across a full PL season (38 games, or 42 in 1992/93-1994/95) · most recent qualifying season first · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Moisés Caicedo", "detail": "2024/25 · 38 apps · 38 starts", "accept": ["moises caicedo", "moisés caicedo", "caicedo"] },
+    { "display": "César Azpilicueta", "detail": "2018/19 · 38 apps · 38 starts", "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta"] },
+    { "display": "John Terry", "detail": "2014/15 · 38 apps · 38 starts", "accept": ["john terry", "terry", "jt"] },
+    { "display": "Branislav Ivanović", "detail": "2014/15 · 38 apps · 38 starts", "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"] },
+    { "display": "Eden Hazard", "detail": "2014/15 · 38 apps · 38 starts", "accept": ["eden hazard", "hazard"] },
+    { "display": "Petr Čech", "detail": "2010/11 · 38 apps · 38 starts", "accept": ["petr cech", "petr čech", "cech", "čech"] },
+    { "display": "Ashley Cole", "detail": "2010/11 · 38 apps · 38 starts", "accept": ["ashley cole"] },
+    { "display": "Florent Malouda", "detail": "2010/11 · 38 apps · 33 starts", "accept": ["florent malouda", "malouda"] },
+    { "display": "Frank Lampard", "detail": "2004/05 · 38 apps · 38 starts", "accept": ["frank lampard", "lampard"] },
+    { "display": "William Gallas", "detail": "2002/03 · 38 apps · 36 starts", "accept": ["william gallas", "gallas"] }
+  ]
+}

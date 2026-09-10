@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-15",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to appear in every Premier League match of a season for Liverpool",
+  "note": "ever-present across a full PL season (38 games, or 42 in 1992/93-1994/95) · most recent qualifying season first · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Virgil van Dijk", "detail": "2025/26 · 38 apps · 38 starts", "accept": ["virgil van dijk", "van dijk", "vvd"] },
+    { "display": "Mohamed Salah", "detail": "2024/25 · 38 apps · 38 starts", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Andrew Robertson", "detail": "2020/21 · 38 apps · 38 starts", "accept": ["andrew robertson", "andy robertson", "robertson"] },
+    { "display": "Georginio Wijnaldum", "detail": "2020/21 · 38 apps · 34 starts", "accept": ["georginio wijnaldum", "gini wijnaldum", "wijnaldum"] },
+    { "display": "Trent Alexander-Arnold", "detail": "2019/20 · 38 apps · 35 starts", "accept": ["trent alexander-arnold", "alexander-arnold", "trent"] },
+    { "display": "Roberto Firmino", "detail": "2019/20 · 38 apps · 34 starts", "accept": ["roberto firmino", "firmino", "bobby firmino"] },
+    { "display": "Alisson", "detail": "2018/19 · 38 apps · 38 starts", "accept": ["alisson", "alisson becker"] },
+    { "display": "Simon Mignolet", "detail": "2013/14 · 38 apps · 38 starts", "accept": ["simon mignolet", "mignolet"] },
+    { "display": "Pepe Reina", "detail": "2010/11 · 38 apps · 38 starts", "accept": ["pepe reina", "reina", "jose reina"] },
+    { "display": "Martin Škrtel", "detail": "2010/11 · 38 apps · 38 starts", "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"] }
+  ]
+}
