@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-17",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 clubs Man City have beaten most often in Premier League history",
+  "note": "most PL wins against · home and away · 1992/93 through 2025/26 · ties by goal difference",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Newcastle United", "detail": "33 wins", "accept": ["newcastle united", "newcastle", "toon"] },
+    { "display": "West Ham United", "detail": "32 wins", "accept": ["west ham united", "west ham", "hammers"] },
+    { "display": "Aston Villa", "detail": "31 wins", "accept": ["aston villa", "villa"] },
+    { "display": "Everton", "detail": "28 wins", "accept": ["everton", "toffees"] },
+    { "display": "Fulham", "detail": "23 wins", "accept": ["fulham"] },
+    { "display": "Southampton", "detail": "23 wins", "accept": ["southampton", "saints"] },
+    { "display": "Manchester United", "detail": "21 wins", "accept": ["manchester united", "man united", "man utd"] },
+    { "display": "Chelsea", "detail": "21 wins", "accept": ["chelsea"] },
+    { "display": "Crystal Palace", "detail": "20 wins", "accept": ["crystal palace", "palace"] },
+    { "display": "Arsenal", "detail": "20 wins", "accept": ["arsenal", "gunners"] }
+  ]
+}

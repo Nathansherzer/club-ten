@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-17",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 clubs Spurs have beaten most often in Premier League history",
+  "note": "most PL wins against · home and away · 1992/93 through 2025/26 · ties by goal difference",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Everton", "detail": "33 wins", "accept": ["everton", "toffees"] },
+    { "display": "Manchester City", "detail": "30 wins", "accept": ["manchester city", "man city"] },
+    { "display": "West Ham United", "detail": "28 wins", "accept": ["west ham united", "west ham", "hammers"] },
+    { "display": "Southampton", "detail": "27 wins", "accept": ["southampton", "saints"] },
+    { "display": "Aston Villa", "detail": "27 wins", "accept": ["aston villa", "villa"] },
+    { "display": "Newcastle United", "detail": "25 wins", "accept": ["newcastle united", "newcastle", "toon"] },
+    { "display": "Sunderland", "detail": "21 wins", "accept": ["sunderland"] },
+    { "display": "Crystal Palace", "detail": "20 wins", "accept": ["crystal palace", "palace"] },
+    { "display": "Fulham", "detail": "19 wins", "accept": ["fulham"] },
+    { "display": "Blackburn Rovers", "detail": "18 wins", "accept": ["blackburn rovers", "blackburn"] }
+  ]
+}
