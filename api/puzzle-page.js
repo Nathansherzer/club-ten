@@ -132,6 +132,7 @@ export default async function handler(req, res) {
   <meta property="og:url"         content="${canonical}">
   <meta property="og:title"       content="${title}">
   <meta property="og:description" content="${description}">
+  <meta property="og:site_name"   content="Club Ten">
   <meta property="og:image"       content="https://topclubten.com/assets/og-image.png">
   <meta name="twitter:image"       content="https://topclubten.com/assets/og-image.png">
   <meta name="twitter:card"        content="summary_large_image">
