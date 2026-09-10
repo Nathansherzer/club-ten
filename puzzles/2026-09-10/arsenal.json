@@ -8,6 +8,7 @@
   "placeholder": "Type a player's name…",
   "answers": [
     { "display": "Eberechi Eze", "detail": "v Crystal Palace, 23 Apr 2025", "accept": ["eberechi eze", "eze"] },
+    { "display": "Joe Willock", "detail": "v Newcastle, 24 Feb 2024", "accept": ["joe willock", "willock"] },
     { "display": "Noni Madueke", "detail": "v Chelsea, 2 May 2023", "accept": ["noni madueke", "madueke"] },
     { "display": "Leandro Trossard", "detail": "v Brighton, 9 Apr 2022", "accept": ["leandro trossard", "trossard"] },
     { "display": "Gabriel Jesus", "detail": "v Manchester City, 28 Aug 2021", "accept": ["gabriel jesus", "jesus"] },
@@ -15,7 +16,6 @@
     { "display": "Danny Welbeck", "detail": "v Watford, 26 Jul 2020", "accept": ["danny welbeck", "welbeck"] },
     { "display": "Declan Rice", "detail": "v West Ham, 12 Jan 2019", "accept": ["declan rice", "rice"] },
     { "display": "Cesc Fàbregas", "detail": "v Chelsea, 4 Feb 2017", "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"] },
-    { "display": "Robin van Persie", "detail": "v Manchester United, 10 Nov 2013", "accept": ["robin van persie", "van persie", "rvp"] },
-    { "display": "Emmanuel Adebayor", "detail": "v Tottenham, 26 Feb 2012", "accept": ["emmanuel adebayor", "adebayor"] }
+    { "display": "Robin van Persie", "detail": "v Manchester United, 10 Nov 2013", "accept": ["robin van persie", "van persie", "rvp"] }
   ]
 }
