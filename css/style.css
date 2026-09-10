@@ -747,3 +747,20 @@ header .logo a:hover { opacity: 0.85; }
 
 /* Anchor styled as a club button (crawlable picker links) */
 a.clubbtn { text-decoration: none; }
+
+/* ---- end-card share row (X / WhatsApp / Facebook / Copy) ---- */
+.share-row { display:flex; gap:10px; justify-content:center; flex-wrap:wrap; margin-top:14px; }
+.share-row .sbtn {
+  display:inline-flex; align-items:center; gap:7px;
+  border:none; border-radius:11px; padding:11px 15px; cursor:pointer;
+  font-size:0.88rem; font-weight:700; color:#fff; text-decoration:none;
+  font-family:inherit; transition:filter .15s, transform .1s;
+}
+.share-row .sbtn:hover  { filter:brightness(1.1); }
+.share-row .sbtn:active { transform:scale(0.96); }
+.share-row .sbtn svg { width:17px; height:17px; fill:currentColor; flex:0 0 auto; }
+.share-row .b-x    { background:#000; border:1px solid var(--slot-border); }
+.share-row .b-wa   { background:#25D366; color:#08260f; }
+.share-row .b-wa svg { fill:#08260f; }
+.share-row .b-fb   { background:#1877F2; }
+.share-row .b-copy { background:#39506e; }

@@ -690,17 +690,7 @@ function showEndCard(won) {
   }
 
   endcardEl.style.display = "block";
-
-  // WhatsApp share button — built from live game state each time
-  const waEl = document.getElementById("whatsappBtn");
-  if (waEl) {
-    const clubName = CLUB_NAMES[club] || puzzle.clubShort;
-    const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
-    const waText   = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${shareUrl("whatsapp")}`;
-    waEl.href      = `https://wa.me/?text=${encodeURIComponent(waText)}`;
-    waEl.style.display = "inline-block";
-    waEl.onclick   = () => track("share", { score: found.size, method: "whatsapp" });
-  }
+  buildShareRow();
 
   const rival   = RIVALS[club];
   const rivalEl = document.getElementById("rivalPrompt");
@@ -771,25 +761,24 @@ function startCountdown() {
    Uses native share sheet on mobile; falls back to clipboard.
    ========================================================== */
 
-document.getElementById("shareBtn").addEventListener("click", () => {
-  const clubName = CLUB_NAMES[club] || puzzle.clubShort;
-  const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
+// Brand icons for the share row (Simple Icons paths; trademarks belong
+// to their owners, used here only to label standard share buttons).
+const SHARE_ICONS = {
+  x:    '<svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>',
+  wa:   '<svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>',
+  fb:   '<svg viewBox="0 0 24 24"><path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></svg>',
+  copy: '<svg viewBox="0 0 24 24"><path d="M16 1H4a2 2 0 0 0-2 2v14h2V3h12V1zm3 4H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm0 16H8V7h11v14z"/></svg>'
+};
+
+// Resilient copy: async Clipboard API → execCommand → selectable box.
+// The last two fallbacks keep it working inside the partner iframe,
+// where clipboard-write is blocked.
+function copyResult(text) {
   const note = document.getElementById("sharedNote");
-  const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-  const method   = (navigator.share && isMobile) ? "native" : "clipboard";
-  const text     = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${shareUrl(method)}`;
-
-  track("share", { score: found.size, method });
-
   const flash = (msg) => {
     note.textContent = msg;
     setTimeout(() => { if (note.textContent === msg) note.textContent = ""; }, 2500);
   };
-
-  // Legacy copy via a temp textarea + execCommand. Works inside many
-  // cross-origin embeds (e.g. the partner iframe) where the async
-  // Clipboard API is blocked because the host <iframe> lacks
-  // allow="clipboard-write".
   const legacyCopy = () => {
     try {
       const ta = document.createElement("textarea");
@@ -803,9 +792,6 @@ document.getElementById("shareBtn").addEventListener("click", () => {
       return ok;
     } catch { return false; }
   };
-
-  // Last resort: surface the text in a selectable box so the button
-  // never silently does nothing (again, mainly for locked-down embeds).
   const manual = () => {
     note.innerHTML = '<div style="margin-top:8px;font-size:0.8rem">Copy your result:</div>';
     const ta = document.createElement("textarea");
@@ -816,28 +802,55 @@ document.getElementById("shareBtn").addEventListener("click", () => {
     ta.focus();
     ta.select();
   };
-
-  const copyToClipboard = () => {
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(text)
-        .then(() => flash("Copied to clipboard!"))
-        .catch(() => { legacyCopy() ? flash("Copied to clipboard!") : manual(); });
-    } else {
-      legacyCopy() ? flash("Copied to clipboard!") : manual();
-    }
-  };
-
-  if (navigator.share && isMobile) {
-    navigator.share({ text }).catch(err => {
-      // User cancelling the share sheet also rejects — don't treat that
-      // as a failure. Only fall back when sharing is actually blocked.
-      if (err && err.name === "AbortError") return;
-      copyToClipboard();
-    });
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text)
+      .then(() => flash("Copied to clipboard!"))
+      .catch(() => { legacyCopy() ? flash("Copied to clipboard!") : manual(); });
   } else {
-    copyToClipboard();
+    legacyCopy() ? flash("Copied to clipboard!") : manual();
   }
-});
+}
+
+// Build the end-card share row (X / WhatsApp / Facebook / Copy). All
+// are plain links except Copy, so they also work inside the embed.
+function buildShareRow() {
+  const endcard = document.getElementById("endcard");
+  if (!endcard) return;
+
+  // Retire the older single-share controls in favour of the row.
+  const legacyShare = document.getElementById("shareBtn");
+  if (legacyShare) legacyShare.style.display = "none";
+  const legacyWa = document.getElementById("whatsappBtn");
+  if (legacyWa) legacyWa.style.display = "none";
+
+  const clubName = CLUB_NAMES[club] || puzzle.clubShort;
+  const squares  = Array.from({ length: puzzle.total }, (_, i) => found.has(i) ? "🟩" : "🟥").join("");
+  const line = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?`;
+  const withGrid = (method) => `${line}\n${squares}\n${shareUrl(method)}`;
+  const enc = encodeURIComponent;
+
+  let row = document.getElementById("shareRow");
+  if (!row) {
+    row = document.createElement("div");
+    row.id = "shareRow";
+    row.className = "share-row";
+    const note = document.getElementById("sharedNote");
+    endcard.insertBefore(row, note || null);
+  }
+  row.innerHTML =
+    `<a class="sbtn b-x" target="_blank" rel="noopener noreferrer" href="https://twitter.com/intent/tweet?text=${enc(withGrid("x"))}">${SHARE_ICONS.x}X</a>` +
+    `<a class="sbtn b-wa" target="_blank" rel="noopener noreferrer" href="https://wa.me/?text=${enc(withGrid("whatsapp"))}">${SHARE_ICONS.wa}WhatsApp</a>` +
+    `<a class="sbtn b-fb" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/sharer/sharer.php?u=${enc(shareUrl("facebook"))}">${SHARE_ICONS.fb}Facebook</a>` +
+    `<button type="button" class="sbtn b-copy" id="copyResultBtn">${SHARE_ICONS.copy}Copy</button>`;
+
+  row.querySelector(".b-x").addEventListener("click", () => track("share", { score: found.size, method: "x" }));
+  row.querySelector(".b-wa").addEventListener("click", () => track("share", { score: found.size, method: "whatsapp" }));
+  row.querySelector(".b-fb").addEventListener("click", () => track("share", { score: found.size, method: "facebook" }));
+  row.querySelector("#copyResultBtn").addEventListener("click", () => {
+    track("share", { score: found.size, method: "copy" });
+    copyResult(withGrid("copy"));
+  });
+}
 
 /* ==========================================================
    AUTOCOMPLETE
