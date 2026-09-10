@@ -912,6 +912,14 @@ if (window.visualViewport) {
       html: (url, label) =>
         `Powered by <a href="${url}" target="_blank" rel="noopener noreferrer" style="color:#e74c3c;font-weight:600">${label}</a>`
     },
+    arseblog: {
+      label:  'Arseblog',
+      url:    'https://arseblog.com',
+      color:  '#EF0107',
+      border: '#EF0107',
+      html: (url, label) =>
+        `In partnership with <a href="${url}" target="_blank" rel="noopener noreferrer" style="color:#EF0107;font-weight:600">${label}</a>`
+    },
     cityxtra: {
       url:    'https://cityxtra.co.uk',
       border: '#6CADDF',
