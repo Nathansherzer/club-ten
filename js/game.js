@@ -420,7 +420,10 @@ function makeNavBtn(href, text, tooltip) {
 
 function track(eventName, params = {}) {
   if (typeof gtag !== "function") return;
-  gtag("event", eventName, { club, puzzle_date: puzzle?.date, ...params });
+  // Tag every event with the partner (e.g. "tpp", "arseblog") when the
+  // page was opened via a partner link, so engagement can be segmented
+  // by referral source in GA4.
+  gtag("event", eventName, { club, puzzle_date: puzzle?.date, ...(partner ? { partner } : {}), ...params });
 }
 
 // Tags a shared result link so GA4 can attribute clicks back to player shares
@@ -621,7 +624,8 @@ async function endGame(won) {
       score:        found.size,
       won:          won ? 1 : 0,
       perfect:      (won && lives === MAX_LIVES) ? 1 : 0,
-      puzzle_date:  puzzle.date
+      puzzle_date:  puzzle.date,
+      ...(partner ? { partner } : {})
     });
   }
 
