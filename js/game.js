@@ -776,13 +776,62 @@ document.getElementById("shareBtn").addEventListener("click", () => {
   const text     = `I got ${found.size}/10 on today's ${clubName} puzzle. Can you beat me?\n${squares}\n${shareUrl(method)}`;
 
   track("share", { score: found.size, method });
+
+  const flash = (msg) => {
+    note.textContent = msg;
+    setTimeout(() => { if (note.textContent === msg) note.textContent = ""; }, 2500);
+  };
+
+  // Legacy copy via a temp textarea + execCommand. Works inside many
+  // cross-origin embeds (e.g. the partner iframe) where the async
+  // Clipboard API is blocked because the host <iframe> lacks
+  // allow="clipboard-write".
+  const legacyCopy = () => {
+    try {
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      ta.setAttribute("readonly", "");
+      ta.style.cssText = "position:fixed;top:0;left:0;opacity:0";
+      document.body.appendChild(ta);
+      ta.select();
+      const ok = document.execCommand("copy");
+      document.body.removeChild(ta);
+      return ok;
+    } catch { return false; }
+  };
+
+  // Last resort: surface the text in a selectable box so the button
+  // never silently does nothing (again, mainly for locked-down embeds).
+  const manual = () => {
+    note.innerHTML = '<div style="margin-top:8px;font-size:0.8rem">Copy your result:</div>';
+    const ta = document.createElement("textarea");
+    ta.readOnly = true;
+    ta.value = text;
+    ta.style.cssText = "width:100%;max-width:340px;height:84px;margin-top:6px;border-radius:8px;padding:8px;font-size:0.8rem";
+    note.appendChild(ta);
+    ta.focus();
+    ta.select();
+  };
+
+  const copyToClipboard = () => {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text)
+        .then(() => flash("Copied to clipboard!"))
+        .catch(() => { legacyCopy() ? flash("Copied to clipboard!") : manual(); });
+    } else {
+      legacyCopy() ? flash("Copied to clipboard!") : manual();
+    }
+  };
+
   if (navigator.share && isMobile) {
-    navigator.share({ text }).catch(() => {});
-  } else {
-    navigator.clipboard.writeText(text).then(() => {
-      note.textContent = "Copied to clipboard!";
-      setTimeout(() => { note.textContent = ""; }, 2500);
+    navigator.share({ text }).catch(err => {
+      // User cancelling the share sheet also rejects — don't treat that
+      // as a failure. Only fall back when sharing is actually blocked.
+      if (err && err.name === "AbortError") return;
+      copyToClipboard();
     });
+  } else {
+    copyToClipboard();
   }
 });
 
