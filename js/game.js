@@ -666,6 +666,71 @@ const RIVALS = {
   'tottenham':         { club: 'arsenal',             label: 'Arsenal' }
 };
 
+const CLUB_COLOURS = {
+  'arsenal':           '#EF0107',
+  'chelsea':           '#034694',
+  'liverpool':         '#C8102E',
+  'manchester-city':   '#6CABDD',
+  'manchester-united': '#DA291C',
+  'tottenham':         '#FFFFFF'
+};
+
+// Short confetti burst for a 10/10, any lives remaining. Plain canvas,
+// no dependency. Skips entirely under prefers-reduced-motion — the
+// trophy title still carries the "you won" signal on its own.
+function celebrateWin() {
+  if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  const canvas = document.createElement('canvas');
+  canvas.style.cssText = 'position:fixed;inset:0;z-index:300;pointer-events:none';
+  canvas.width  = window.innerWidth;
+  canvas.height = window.innerHeight;
+  document.body.appendChild(canvas);
+  const ctx = canvas.getContext('2d');
+
+  const colours = ['#4caf6d', '#e8c15a', '#eef2f7', CLUB_COLOURS[club] || '#4caf6d'];
+  const COUNT = 90;
+  const particles = Array.from({ length: COUNT }, () => ({
+    x: Math.random() * canvas.width,
+    y: -20 - Math.random() * canvas.height * 0.4,
+    w: 6 + Math.random() * 5,
+    h: 9 + Math.random() * 6,
+    vx: (Math.random() - 0.5) * 2.4,
+    vy: 2.4 + Math.random() * 2.6,
+    rot: Math.random() * Math.PI,
+    vrot: (Math.random() - 0.5) * 0.25,
+    colour: colours[Math.floor(Math.random() * colours.length)]
+  }));
+
+  const start = performance.now();
+  const DURATION = 2200;
+
+  function frame(now) {
+    const t = now - start;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    const fade = t > DURATION - 400 ? Math.max(0, (DURATION - t) / 400) : 1;
+    particles.forEach(p => {
+      p.x += p.vx;
+      p.y += p.vy;
+      p.vy += 0.045; // gravity
+      p.rot += p.vrot;
+      ctx.save();
+      ctx.globalAlpha = fade;
+      ctx.translate(p.x, p.y);
+      ctx.rotate(p.rot);
+      ctx.fillStyle = p.colour;
+      ctx.fillRect(-p.w / 2, -p.h / 2, p.w, p.h);
+      ctx.restore();
+    });
+    if (t < DURATION) {
+      requestAnimationFrame(frame);
+    } else {
+      canvas.remove();
+    }
+  }
+  requestAnimationFrame(frame);
+}
+
 function showEndCard(won) {
   let title;
   if (won && lives === MAX_LIVES) title = "PERFECT GAME 🏆";
@@ -675,6 +740,7 @@ function showEndCard(won) {
 
   document.getElementById("endTitle").textContent  = title;
   document.getElementById("scoreline").textContent = `${found.size}/10`;
+  if (won) celebrateWin();
 
   if (isArchivePlay) {
     document.getElementById("statsLine").textContent = "Archive play — no stats recorded";
