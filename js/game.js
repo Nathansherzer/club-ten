@@ -285,7 +285,11 @@ async function fetchAndStartPuzzle(club, savedState) {
   if (savedState) {
     restoreState(savedState);
   } else {
-    track("game_start");
+    // Puzzle rendered — not yet "engaged". A player embedded in a content
+    // feed (e.g. the TPP iframe) can load this without ever playing, so
+    // this is a load counter, not an engagement signal. See game_start
+    // below for the real one.
+    track("game_loaded");
     setFeedback("Find all 10. Three wrong guesses and it's over.");
     input.focus({ preventScroll: true });
   }
@@ -530,7 +534,16 @@ async function handleGuess() {
   input.disabled = false;
   document.getElementById("guessBtn").disabled = false;
 
-  if (found.size === 0 && lives === MAX_LIVES) track("first_guess");
+  // The real engagement signal: first submitted guess, right or wrong.
+  // (Since 2026-09-10 — game_start used to fire on puzzle load, which
+  // conflated iframe impressions with actual play. If a game_start trend
+  // line looks like it dropped off a cliff around that date, this is why:
+  // the definition got stricter, engagement didn't actually fall.
+  // first_guess keeps firing alongside it for reporting continuity.)
+  if (found.size === 0 && lives === MAX_LIVES) {
+    track("game_start");
+    track("first_guess");
+  }
 
   if (!result.hit) {
     lives--;
