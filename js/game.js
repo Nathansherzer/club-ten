@@ -51,6 +51,12 @@ const archiveDate = (() => {
 // Set when a ?partner=xxx param is present — see PARTNER EMBED SUPPORT below.
 const partner = new URLSearchParams(location.search).get('partner');
 
+// True when this page is running inside an iframe (e.g. the TPP embed).
+// Used to skip behaviour that's safe on a direct visit but can visibly
+// affect the host page when embedded (auto-focus stealing scroll on load —
+// see the two gated input.focus() calls below).
+const isEmbedded = window.self !== window.top;
+
 // A ?date= pinned to *today* (partner links use this so they survive the
 // midnight rollover — api/archive.js never lists today, so a bare partner
 // link would otherwise 404 without an explicit date) is a live, current
@@ -291,7 +297,13 @@ async function fetchAndStartPuzzle(club, savedState) {
     // below for the real one.
     track("game_loaded");
     setFeedback("Find all 10. Three wrong guesses and it's over.");
-    input.focus({ preventScroll: true });
+    // Auto-focusing on initial load is a nice-to-have on a direct visit
+    // (keyboard's already up on mobile) but embedding it makes the iframe
+    // grab focus from the host page during load, which can pull the
+    // parent page's scroll toward it. Skip it when embedded; focusing
+    // after the player actually interacts (handleGuess, below) is fine
+    // either way since that's a deliberate action, not an automatic one.
+    if (!isEmbedded) input.focus({ preventScroll: true });
   }
 }
 
@@ -467,7 +479,9 @@ function restoreState(saved) {
     adEl.style.display = "block";
   } else {
     setFeedback(`${found.size} found · ${lives} ${lives === 1 ? "life" : "lives"} left. Keep going!`);
-    input.focus({ preventScroll: true });
+    // Same reasoning as the fresh-puzzle path above — this also runs on
+    // initial page load (resuming a saved game), so skip it when embedded.
+    if (!isEmbedded) input.focus({ preventScroll: true });
   }
 }
 
@@ -644,7 +658,15 @@ async function endGame(won) {
 
   showEndCard(won);
   if (adEl) adEl.style.display = "block";
-  endcardEl.scrollIntoView({ behavior: "smooth", block: "start" });
+  // window.scrollTo instead of endcardEl.scrollIntoView: scrollIntoView
+  // walks up through ancestor scroll containers, which inside an iframe
+  // can mean the *host page*, not just this window. window.scrollTo only
+  // ever touches the window it's called on, so this is safe embedded or
+  // not. getBoundingClientRect().top + window.scrollY (not endcardEl.offsetTop)
+  // gives the true document-relative Y regardless of any positioned
+  // ancestor in between.
+  const endcardY = endcardEl.getBoundingClientRect().top + window.scrollY;
+  window.scrollTo({ top: endcardY, behavior: "smooth" });
 }
 
 async function revealUnfound() {
@@ -1030,12 +1052,24 @@ function navigateSuggestions(e) {
    MOBILE KEYBOARD — keep the input visible
    When the mobile keyboard opens, the visible viewport shrinks.
    We scroll the input into view so it doesn't hide behind the keyboard.
+
+   Deliberately uses window.scrollBy, not input.scrollIntoView:
+   scrollIntoView walks up ancestor scroll containers, which inside an
+   iframe can include the host page — so a resize firing during page
+   load (ads/other widgets reflowing the host, not an actual keyboard)
+   could visibly scroll the parent. window.scrollBy only ever affects
+   the window it's called on, and we only scroll the minimal amount
+   needed (mirrors the old block:"nearest" behaviour) rather than
+   snapping the input to a fixed position.
    ========================================================== */
 
 if (window.visualViewport) {
   window.visualViewport.addEventListener("resize", () => {
-    if (document.activeElement === input) {
-      input.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    if (document.activeElement !== input) return;
+    const rect = input.getBoundingClientRect();
+    const viewportBottom = window.visualViewport.height;
+    if (rect.bottom > viewportBottom) {
+      window.scrollBy({ top: rect.bottom - viewportBottom + 12, behavior: "smooth" });
     }
   });
 }
@@ -1051,7 +1085,7 @@ if (window.visualViewport) {
   // When running inside an iframe, disable scroll restoration and
   // force the page to start at the top — browsers can otherwise
   // resume a stale scroll position from a previous visit.
-  if (window.self !== window.top) {
+  if (isEmbedded) {
     if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
     window.scrollTo(0, 0);
   }
