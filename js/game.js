@@ -1088,6 +1088,30 @@ if (window.visualViewport) {
   if (isEmbedded) {
     if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
     window.scrollTo(0, 0);
+
+    // Embedded on another site: turn the CLUB TEN wordmark and the
+    // "topclubten.com" watermark into links that open the site in a new
+    // tab, giving embedded players a direct path here (a plain in-frame
+    // link would only navigate the host's iframe). Only runs inside an
+    // iframe, so the standalone page keeps the wordmark linking to "/".
+    const logoLink = document.querySelector('header .logo a');
+    if (logoLink) {
+      logoLink.href = 'https://topclubten.com';
+      logoLink.target = '_blank';
+      logoLink.rel = 'noopener';
+    }
+    const wm = document.querySelector('.watermark');
+    if (wm && !wm.querySelector('a')) {
+      const a = document.createElement('a');
+      a.href = 'https://topclubten.com';
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = wm.textContent;
+      a.style.color = 'inherit';
+      a.style.textDecoration = 'none';
+      wm.textContent = '';
+      wm.appendChild(a);
+    }
   }
 
   const partners = {

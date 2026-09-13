@@ -635,6 +635,25 @@ button.share:active { transform: scale(0.97); }
 .partner-badge.visible { display: block; }
 .partner-badge.partner-cityxtra { background: rgba(108, 173, 223, 0.07); }
 
+/* ---- embedded (iframe) compact layout ---------------------- */
+/* When the game is embedded on another site (html.embed is set in the
+   page <head> when window.self !== window.top), hide the SEO / above-
+   the-game chrome and tighten spacing so the question, all ten answer
+   rows and the input fit inside a partner's iframe without scrolling.
+   Direct visitors and crawlers are never inside an iframe, so they
+   always get the full, unmodified page. The answer rows are display-only
+   (players type into the input), so the shorter min-height costs nothing
+   in usability. The "topclubten.com" watermark is deliberately kept. */
+html.embed .club-intro-block { display: none; }
+html.embed .tagline          { display: none; }
+html.embed header            { padding: 4px 0 2px; }
+html.embed .wrap             { padding-top: 6px; }
+html.embed .statusbar        { margin: 6px 0; }
+html.embed .question         { padding: 9px 14px; }
+html.embed .slots            { margin: 8px 0; gap: 6px; }
+html.embed .slot             { min-height: 38px; }
+html.embed .watermark        { margin: 2px 0 6px; }
+
 /* ---- blog -------------------------------------------------- */
 
 .blog-list { margin-top: 20px; display: flex; flex-direction: column; gap: 12px; }
