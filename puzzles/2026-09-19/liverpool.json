@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-19",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most expensive permanent signings in the club's history (2026 summer window included)",
+  "note": "by transfer fee, Transfermarkt (euros) · permanent deals only · through the 2026 summer window · highest first · ties by PL apps as of 14 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Alexander Isak", "detail": "€145.00m · 2025/26", "accept": ["alexander isak", "isak"] },
+    { "display": "Florian Wirtz", "detail": "€125.00m · 2025/26", "accept": ["florian wirtz", "wirtz"] },
+    { "display": "Bradley Barcola", "detail": "€125.00m · 2026/27", "accept": ["bradley barcola", "barcola"] },
+    { "display": "Hugo Ekitiké", "detail": "€95.00m · 2025/26", "accept": ["hugo ekitike", "hugo ekitiké", "ekitike", "ekitiké"] },
+    { "display": "Darwin Núñez", "detail": "€85.00m · 2022/23", "accept": ["darwin nunez", "darwin núñez", "nunez", "núñez"] },
+    { "display": "Virgil van Dijk", "detail": "€84.65m · 2017/18", "accept": ["virgil van dijk", "van dijk"] },
+    { "display": "Alisson Becker", "detail": "€72.50m · 2018/19", "accept": ["alisson becker", "alisson"] },
+    { "display": "Dominik Szoboszlai", "detail": "€70.00m · 2023/24", "accept": ["dominik szoboszlai", "szoboszlai"] },
+    { "display": "Jérémy Jacquet", "detail": "€63.60m · 2026/27", "accept": ["jeremy jacquet", "jérémy jacquet", "jacquet"] },
+    { "display": "Naby Keïta", "detail": "€60.00m · 2018/19", "accept": ["naby keita", "naby keïta", "keita", "keïta"] }
+  ]
+}

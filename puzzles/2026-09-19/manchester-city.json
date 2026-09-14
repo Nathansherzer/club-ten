@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-19",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most expensive permanent signings in the club's history (2026 summer window included)",
+  "note": "by transfer fee, Transfermarkt (euros) · permanent deals only · through the 2026 summer window · highest first · ties by PL apps as of 14 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Enzo Fernández", "detail": "€145.00m · 2026/27", "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández"] },
+    { "display": "Elliot Anderson", "detail": "€135.00m · 2026/27", "accept": ["elliot anderson", "anderson"] },
+    { "display": "Jack Grealish", "detail": "€117.50m · 2021/22", "accept": ["jack grealish", "grealish"] },
+    { "display": "Ayyoub Bouaddi", "detail": "€95.00m · 2026/27", "accept": ["ayyoub bouaddi", "bouaddi"] },
+    { "display": "Joško Gvardiol", "detail": "€90.00m · 2023/24", "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"] },
+    { "display": "Kevin De Bruyne", "detail": "€76.00m · 2015/16", "accept": ["kevin de bruyne", "de bruyne"] },
+    { "display": "Omar Marmoush", "detail": "€75.00m · 2024/25", "accept": ["omar marmoush", "marmoush"] },
+    { "display": "Antoine Semenyo", "detail": "€72.00m · 2025/26", "accept": ["antoine semenyo", "semenyo"] },
+    { "display": "Rúben Dias", "detail": "€71.60m · 2020/21", "accept": ["ruben dias", "rúben dias", "dias"] },
+    { "display": "Rodri", "detail": "€70.00m · 2019/20", "accept": ["rodri"] }
+  ]
+}

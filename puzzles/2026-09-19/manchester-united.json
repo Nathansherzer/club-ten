@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-19",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most expensive permanent signings in the club's history (2026 summer window included)",
+  "note": "by transfer fee, Transfermarkt (euros) · permanent deals only · through the 2026 summer window · highest first · ties by PL apps as of 14 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Paul Pogba", "detail": "€105.00m · 2016/17", "accept": ["paul pogba", "pogba"] },
+    { "display": "Antony", "detail": "€95.00m · 2022/23", "accept": ["antony"] },
+    { "display": "Harry Maguire", "detail": "€87.00m · 2019/20", "accept": ["harry maguire", "maguire"] },
+    { "display": "Jadon Sancho", "detail": "€85.00m · 2021/22", "accept": ["jadon sancho", "sancho"] },
+    { "display": "Romelu Lukaku", "detail": "€84.70m · 2017/18", "accept": ["romelu lukaku", "lukaku"] },
+    { "display": "Rasmus Højlund", "detail": "€79.80m · 2023/24", "accept": ["rasmus hojlund", "rasmus højlund", "hojlund", "højlund"] },
+    { "display": "Benjamin Šeško", "detail": "€76.50m · 2025/26", "accept": ["benjamin sesko", "benjamin šeško", "sesko", "šeško"] },
+    { "display": "Carlos Baleba", "detail": "€75.90m · 2026/27", "accept": ["carlos baleba", "baleba"] },
+    { "display": "Bryan Mbeumo", "detail": "€75.00m · 2025/26", "accept": ["bryan mbeumo", "mbeumo"] },
+    { "display": "Ángel Di María", "detail": "€75.00m · 2014/15", "accept": ["angel di maria", "ángel di maría", "di maria", "di maría"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-19",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most expensive permanent signings in the club's history (2026 summer window included)",
+  "note": "by transfer fee, Transfermarkt (euros) · permanent deals only · through the 2026 summer window · highest first · ties by PL apps as of 14 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Declan Rice", "detail": "€116.60m · 2023/24", "accept": ["declan rice", "rice"] },
+    { "display": "Bruno Guimarães", "detail": "€87.50m · 2026/27", "accept": ["bruno guimaraes", "bruno guimarães", "guimaraes", "guimarães"] },
+    { "display": "Nicolas Pépé", "detail": "€80.00m · 2019/20", "accept": ["nicolas pepe", "nicolas pépé", "pepe", "pépé"] },
+    { "display": "Kai Havertz", "detail": "€75.00m · 2023/24", "accept": ["kai havertz", "havertz"] },
+    { "display": "Martín Zubimendi", "detail": "€70.00m · 2025/26", "accept": ["martin zubimendi", "martín zubimendi", "zubimendi"] },
+    { "display": "Eberechi Eze", "detail": "€69.30m · 2025/26", "accept": ["eberechi eze", "eze"] },
+    { "display": "Viktor Gyökeres", "detail": "€66.90m · 2025/26", "accept": ["viktor gyokeres", "viktor gyökeres", "gyokeres", "gyökeres"] },
+    { "display": "Pierre-Emerick Aubameyang", "detail": "€63.75m · 2017/18", "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang"] },
+    { "display": "Ezri Konsa", "detail": "€59.60m · 2026/27", "accept": ["ezri konsa", "konsa"] },
+    { "display": "Ben White", "detail": "€58.50m · 2021/22", "accept": ["ben white", "white"] }
+  ]
+}

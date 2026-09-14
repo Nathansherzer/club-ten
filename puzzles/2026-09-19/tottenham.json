@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-19",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most expensive permanent signings in the club's history (2026 summer window included)",
+  "note": "by transfer fee, Transfermarkt (euros) · permanent deals only · through the 2026 summer window · highest first · ties by PL apps as of 14 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Sandro Tonali", "detail": "€108.00m · 2026/27", "accept": ["sandro tonali", "tonali"] },
+    { "display": "Mateus Fernandes", "detail": "€99.00m · 2026/27", "accept": ["mateus fernandes", "fernandes"] },
+    { "display": "Sávio", "detail": "€87.70m · 2026/27", "accept": ["savio", "sávio", "savinho"] },
+    { "display": "Xavi Simons", "detail": "€65.00m · 2025/26", "accept": ["xavi simons", "simons"] },
+    { "display": "Dominic Solanke", "detail": "€64.30m · 2024/25", "accept": ["dominic solanke", "solanke"] },
+    { "display": "Mohammed Kudus", "detail": "€63.80m · 2025/26", "accept": ["mohammed kudus", "kudus"] },
+    { "display": "Tanguy Ndombele", "detail": "€62.00m · 2019/20", "accept": ["tanguy ndombele", "tanguy ndombélé", "ndombele", "ndombélé"] },
+    { "display": "Jan Paul van Hecke", "detail": "€60.00m · 2026/27", "accept": ["jan paul van hecke", "van hecke", "hecke"] },
+    { "display": "Richarlison", "detail": "€58.00m · 2022/23", "accept": ["richarlison"] },
+    { "display": "Brennan Johnson", "detail": "€55.00m · 2023/24", "accept": ["brennan johnson", "johnson"] }
+  ]
+}

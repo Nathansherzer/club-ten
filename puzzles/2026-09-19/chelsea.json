@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-19",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most expensive permanent signings in the club's history (2026 summer window included)",
+  "note": "by transfer fee, Transfermarkt (euros) · permanent deals only · through the 2026 summer window · highest first · ties by PL apps as of 14 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Morgan Rogers", "detail": "€138.00m · 2026/27", "accept": ["morgan rogers", "rogers"] },
+    { "display": "Enzo Fernández", "detail": "€121.00m · 2022/23", "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández"] },
+    { "display": "Moisés Caicedo", "detail": "€116.00m · 2023/24", "accept": ["moises caicedo", "moisés caicedo", "caicedo"] },
+    { "display": "Romelu Lukaku", "detail": "€113.00m · 2021/22", "accept": ["romelu lukaku", "lukaku"] },
+    { "display": "Kai Havertz", "detail": "€100.00m · 2020/21", "accept": ["kai havertz", "havertz"] },
+    { "display": "Wesley Fofana", "detail": "€80.40m · 2022/23", "accept": ["wesley fofana", "fofana"] },
+    { "display": "Kepa Arrizabalaga", "detail": "€80.00m · 2018/19", "accept": ["kepa arrizabalaga", "kepa", "arrizabalaga"] },
+    { "display": "Mykhailo Mudryk", "detail": "€70.00m · 2022/23", "accept": ["mykhailo mudryk", "mykhaylo mudryk", "mudryk"] },
+    { "display": "Álvaro Morata", "detail": "€66.00m · 2017/18", "accept": ["alvaro morata", "álvaro morata", "morata"] },
+    { "display": "Marc Cucurella", "detail": "€65.30m · 2022/23", "accept": ["marc cucurella", "cucurella"] }
+  ]
+}
