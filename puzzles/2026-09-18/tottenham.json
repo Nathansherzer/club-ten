@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-18",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "noindex": true,
+  "question": "name the 10 outfield players who started for Tottenham in 2026/27 Premier League Matchweek 4",
+  "note": "starting XI, goalkeeper excluded · 2026/27 Premier League Matchweek 4 · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Archie Gray", "detail": "", "accept": ["archie gray", "gray"] },
+    { "display": "Jan Paul van Hecke", "detail": "", "accept": ["jan paul van hecke", "van hecke", "hecke"] },
+    { "display": "Micky van de Ven", "detail": "", "accept": ["micky van de ven", "van de ven"] },
+    { "display": "Andy Robertson", "detail": "", "accept": ["andy robertson", "andrew robertson", "robertson"] },
+    { "display": "Sandro Tonali", "detail": "", "accept": ["sandro tonali", "tonali"] },
+    { "display": "Rodrigo Bentancur", "detail": "", "accept": ["rodrigo bentancur", "bentancur"] },
+    { "display": "Sávio", "detail": "", "accept": ["savio", "sávio", "savinho"] },
+    { "display": "Mateus Fernandes", "detail": "", "accept": ["mateus fernandes", "fernandes"] },
+    { "display": "Omar Marmoush", "detail": "", "accept": ["omar marmoush", "marmoush"] },
+    { "display": "Dominic Solanke", "detail": "", "accept": ["dominic solanke", "solanke"] }
+  ]
+}

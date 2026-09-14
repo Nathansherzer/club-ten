@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-18",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "noindex": true,
+  "question": "name the 10 outfield players who started for Liverpool in 2026/27 Premier League Matchweek 4",
+  "note": "starting XI, goalkeeper excluded · 2026/27 Premier League Matchweek 4 · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Ronald Araújo", "detail": "", "accept": ["ronald araujo", "ronald araújo", "araujo", "araújo"] },
+    { "display": "Jérémy Jacquet", "detail": "", "accept": ["jeremy jacquet", "jérémy jacquet", "jacquet"] },
+    { "display": "Virgil van Dijk", "detail": "", "accept": ["virgil van dijk", "van dijk"] },
+    { "display": "Kostas Tsimikas", "detail": "", "accept": ["kostas tsimikas", "tsimikas"] },
+    { "display": "Dominik Szoboszlai", "detail": "", "accept": ["dominik szoboszlai", "szoboszlai"] },
+    { "display": "Ryan Gravenberch", "detail": "", "accept": ["ryan gravenberch", "gravenberch"] },
+    { "display": "Víctor Muñoz", "detail": "", "accept": ["victor munoz", "víctor muñoz", "munoz", "muñoz"] },
+    { "display": "Florian Wirtz", "detail": "", "accept": ["florian wirtz", "wirtz"] },
+    { "display": "Bradley Barcola", "detail": "", "accept": ["bradley barcola", "barcola"] },
+    { "display": "Alexander Isak", "detail": "", "accept": ["alexander isak", "isak"] }
+  ]
+}

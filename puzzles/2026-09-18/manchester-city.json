@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-18",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "noindex": true,
+  "question": "name the 10 outfield players who started for Manchester City in 2026/27 Premier League Matchweek 4",
+  "note": "starting XI, goalkeeper excluded · 2026/27 Premier League Matchweek 4 · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Matheus Nunes", "detail": "", "accept": ["matheus nunes", "nunes"] },
+    { "display": "Rúben Dias", "detail": "", "accept": ["ruben dias", "rúben dias", "dias"] },
+    { "display": "Marc Guéhi", "detail": "", "accept": ["marc guehi", "marc guéhi", "guehi", "guéhi"] },
+    { "display": "Joško Gvardiol", "detail": "", "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"] },
+    { "display": "Elliot Anderson", "detail": "", "accept": ["elliot anderson", "anderson"] },
+    { "display": "Phil Foden", "detail": "", "accept": ["phil foden", "foden"] },
+    { "display": "Rayan Cherki", "detail": "", "accept": ["rayan cherki", "cherki"] },
+    { "display": "Enzo Fernández", "detail": "", "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández"] },
+    { "display": "Antoine Semenyo", "detail": "", "accept": ["antoine semenyo", "semenyo"] },
+    { "display": "Erling Haaland", "detail": "", "accept": ["erling haaland", "haaland"] }
+  ]
+}

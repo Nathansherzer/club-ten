@@ -128,6 +128,7 @@ export default async function handler(req, res) {
   <title>${title}</title>
   <meta name="description" content="${description}">
   <link rel="canonical" href="${canonical}">
+  ${data.noindex ? `<meta name="robots" content="noindex,follow">` : ``}
   <meta property="og:type"        content="website">
   <meta property="og:url"         content="${canonical}">
   <meta property="og:title"       content="${title}">

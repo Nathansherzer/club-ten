@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-18",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "noindex": true,
+  "question": "name the 10 outfield players who started for Arsenal in 2026/27 Premier League Matchweek 4",
+  "note": "starting XI, goalkeeper excluded · 2026/27 Premier League Matchweek 4 · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Ben White", "detail": "", "accept": ["ben white", "white"] },
+    { "display": "Ezri Konsa", "detail": "", "accept": ["ezri konsa", "konsa"] },
+    { "display": "Gabriel Magalhães", "detail": "", "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães", "gabriel"] },
+    { "display": "Riccardo Calafiori", "detail": "", "accept": ["riccardo calafiori", "calafiori"] },
+    { "display": "Myles Lewis-Skelly", "detail": "", "accept": ["myles lewis-skelly", "lewis-skelly", "lewis skelly"] },
+    { "display": "Declan Rice", "detail": "", "accept": ["declan rice", "rice"] },
+    { "display": "Bukayo Saka", "detail": "", "accept": ["bukayo saka", "saka"] },
+    { "display": "Martin Ødegaard", "detail": "", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
+    { "display": "Christos Tzolis", "detail": "", "accept": ["christos tzolis", "tzolis"] },
+    { "display": "Kai Havertz", "detail": "", "accept": ["kai havertz", "havertz"] }
+  ]
+}
