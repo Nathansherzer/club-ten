@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-20",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 current or former players who played the most minutes at the 2026 FIFA World Cup",
+  "note": "total minutes at the 2026 FIFA World Cup (FotMob), extra time included · current players, or former players with 1+ senior appearance · club eligibility frozen 15 Sep 2026 · highest first · ties by PL apps then surname",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Harry Kane", "detail": "653 minutes", "accept": ["harry kane", "kane"] },
+    { "display": "Cristian Romero", "detail": "611 minutes", "accept": ["cristian romero", "romero"] },
+    { "display": "Pedro Porro", "detail": "564 minutes", "accept": ["pedro porro", "porro"] },
+    { "display": "Davinson Sánchez", "detail": "480 minutes", "accept": ["davinson sanchez", "davinson sánchez", "sanchez", "sánchez"] },
+    { "display": "Djed Spence", "detail": "402 minutes", "accept": ["djed spence", "spence"] },
+    { "display": "Jan Paul van Hecke", "detail": "390 minutes", "accept": ["jan paul van hecke", "van hecke", "hecke"] },
+    { "display": "Ivan Perišić", "detail": "360 minutes", "accept": ["ivan perisic", "ivan perišić", "perisic", "perišić"] },
+    { "display": "Omar Marmoush", "detail": "326 minutes", "accept": ["omar marmoush", "marmoush"] },
+    { "display": "Luka Modrić", "detail": "319 minutes", "accept": ["luka modric", "luka modrić", "modric", "modrić"] },
+    { "display": "Nabil Bentaleb", "detail": "288 minutes", "accept": ["nabil bentaleb", "bentaleb"] }
+  ]
+}

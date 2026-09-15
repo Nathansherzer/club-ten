@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-20",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 current or former players who played the most minutes at the 2026 FIFA World Cup",
+  "note": "total minutes at the 2026 FIFA World Cup (FotMob), extra time included · current players, or former players with 1+ senior appearance · club eligibility frozen 15 Sep 2026 · highest first · ties by PL apps then surname",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Emiliano Martínez", "detail": "810 minutes", "accept": ["emiliano martinez", "emiliano martínez", "emi martinez", "emi martínez", "martinez", "martínez"] },
+    { "display": "Ezri Konsa", "detail": "647 minutes", "accept": ["ezri konsa", "konsa"] },
+    { "display": "Granit Xhaka", "detail": "600 minutes", "accept": ["granit xhaka", "xhaka"] },
+    { "display": "Declan Rice", "detail": "558 minutes", "accept": ["declan rice", "rice"] },
+    { "display": "Leandro Trossard", "detail": "510 minutes", "accept": ["leandro trossard", "trossard"] },
+    { "display": "William Saliba", "detail": "480 minutes", "accept": ["william saliba", "saliba"] },
+    { "display": "Martin Ødegaard", "detail": "471 minutes", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
+    { "display": "Gabriel Magalhães", "detail": "450 minutes", "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães", "gabriel"] },
+    { "display": "Bruno Guimarães", "detail": "419 minutes", "accept": ["bruno guimaraes", "bruno guimarães", "guimaraes", "guimarães"] },
+    { "display": "Viktor Gyökeres", "detail": "360 minutes", "accept": ["viktor gyokeres", "viktor gyökeres", "gyokeres", "gyökeres"] }
+  ]
+}

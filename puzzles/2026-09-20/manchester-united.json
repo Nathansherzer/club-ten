@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-20",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 current or former players who played the most minutes at the 2026 FIFA World Cup",
+  "note": "total minutes at the 2026 FIFA World Cup (FotMob), extra time included · current players, or former players with 1+ senior appearance · club eligibility frozen 15 Sep 2026 · highest first · ties by PL apps then surname",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Lisandro Martínez", "detail": "626 minutes", "accept": ["lisandro martinez", "lisandro martínez", "martinez", "martínez"] },
+    { "display": "Noussair Mazraoui", "detail": "477 minutes", "accept": ["noussair mazraoui", "mazraoui"] },
+    { "display": "Youri Tielemans", "detail": "475 minutes", "accept": ["youri tielemans", "tielemans"] },
+    { "display": "Cristiano Ronaldo", "detail": "441 minutes", "accept": ["cristiano ronaldo", "ronaldo"] },
+    { "display": "Bruno Fernandes", "detail": "423 minutes", "accept": ["bruno fernandes", "fernandes"] },
+    { "display": "Casemiro", "detail": "379 minutes", "accept": ["casemiro"] },
+    { "display": "Axel Tuanzebe", "detail": "360 minutes", "accept": ["axel tuanzebe", "tuanzebe"] },
+    { "display": "Marcel Sabitzer", "detail": "360 minutes", "accept": ["marcel sabitzer", "sabitzer"] },
+    { "display": "Victor Lindelöf", "detail": "357 minutes", "accept": ["victor lindelof", "victor lindelöf", "lindelof", "lindelöf"] },
+    { "display": "Aaron Wan-Bissaka", "detail": "355 minutes", "accept": ["aaron wan-bissaka", "wan-bissaka", "wan bissaka"] }
+  ]
+}

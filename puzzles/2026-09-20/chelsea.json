@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-20",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 current or former players who played the most minutes at the 2026 FIFA World Cup",
+  "note": "total minutes at the 2026 FIFA World Cup (FotMob), extra time included · current players, or former players with 1+ senior appearance · club eligibility frozen 15 Sep 2026 · highest first · ties by PL apps then surname",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Emiliano Martínez", "detail": "810 minutes", "accept": ["emiliano martinez", "emiliano martínez", "emi martinez", "emi martínez", "martinez", "martínez"] },
+    { "display": "Marc Cucurella", "detail": "750 minutes", "accept": ["marc cucurella", "cucurella"] },
+    { "display": "Marc Guéhi", "detail": "662 minutes", "accept": ["marc guehi", "marc guéhi", "guehi", "guéhi"] },
+    { "display": "Enzo Fernández", "detail": "660 minutes", "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández"] },
+    { "display": "Thibaut Courtois", "detail": "551 minutes", "accept": ["thibaut courtois", "courtois"] },
+    { "display": "Renato Veiga", "detail": "450 minutes", "accept": ["renato veiga", "veiga"] },
+    { "display": "Mohamed Salah", "detail": "428 minutes", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Kevin De Bruyne", "detail": "387 minutes", "accept": ["kevin de bruyne", "de bruyne"] },
+    { "display": "Moisés Caicedo", "detail": "360 minutes", "accept": ["moises caicedo", "moisés caicedo", "caicedo"] },
+    { "display": "Kai Havertz", "detail": "355 minutes", "accept": ["kai havertz", "havertz"] }
+  ]
+}

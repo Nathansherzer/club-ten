@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-20",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 current or former players who played the most minutes at the 2026 FIFA World Cup",
+  "note": "total minutes at the 2026 FIFA World Cup (FotMob), extra time included · current players, or former players with 1+ senior appearance · club eligibility frozen 15 Sep 2026 · highest first · ties by PL apps then surname",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Aymeric Laporte", "detail": "728 minutes", "accept": ["aymeric laporte", "laporte"] },
+    { "display": "Rodri", "detail": "726 minutes", "accept": ["rodri"] },
+    { "display": "Marc Guéhi", "detail": "662 minutes", "accept": ["marc guehi", "marc guéhi", "guehi", "guéhi"] },
+    { "display": "Enzo Fernández", "detail": "660 minutes", "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández"] },
+    { "display": "Elliot Anderson", "detail": "634 minutes", "accept": ["elliot anderson", "anderson"] },
+    { "display": "Julián Álvarez", "detail": "601 minutes", "accept": ["julian alvarez", "julián álvarez", "alvarez", "álvarez"] },
+    { "display": "Manuel Akanji", "detail": "600 minutes", "accept": ["manuel akanji", "akanji"] },
+    { "display": "Erling Haaland", "detail": "465 minutes", "accept": ["erling haaland", "haaland"] },
+    { "display": "Nico O'Reilly", "detail": "462 minutes", "accept": ["nico o'reilly", "nico oreilly", "o'reilly", "oreilly"] },
+    { "display": "Brahim Díaz", "detail": "462 minutes", "accept": ["brahim diaz", "brahim díaz", "brahim"] }
+  ]
+}

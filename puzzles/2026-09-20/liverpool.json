@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-20",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 current or former players who played the most minutes at the 2026 FIFA World Cup",
+  "note": "total minutes at the 2026 FIFA World Cup (FotMob), extra time included · current players, or former players with 1+ senior appearance · club eligibility frozen 15 Sep 2026 · highest first · ties by PL apps then surname",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Alexis Mac Allister", "detail": "749 minutes", "accept": ["alexis mac allister", "mac allister", "macallister"] },
+    { "display": "Luis Díaz", "detail": "478 minutes", "accept": ["luis diaz", "luis díaz", "diaz", "díaz"] },
+    { "display": "Alisson Becker", "detail": "450 minutes", "accept": ["alisson becker", "alisson"] },
+    { "display": "Mohamed Salah", "detail": "428 minutes", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Virgil van Dijk", "detail": "390 minutes", "accept": ["virgil van dijk", "van dijk"] },
+    { "display": "Bradley Barcola", "detail": "384 minutes", "accept": ["bradley barcola", "barcola"] },
+    { "display": "Cody Gakpo", "detail": "371 minutes", "accept": ["cody gakpo", "gakpo"] },
+    { "display": "Sadio Mané", "detail": "364 minutes", "accept": ["sadio mane", "sadio mané", "mane", "mané"] },
+    { "display": "Florian Wirtz", "detail": "363 minutes", "accept": ["florian wirtz", "wirtz"] },
+    { "display": "Alexander Isak", "detail": "358 minutes", "accept": ["alexander isak", "isak"] }
+  ]
+}
