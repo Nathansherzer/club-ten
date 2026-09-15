@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-21",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who scored the most Premier League goals as a substitute",
+  "note": "PL goals scored after coming on as a substitute · 1992/93 through 2025/26 · highest first · ties by sub appearances, then fewer sub minutes, then surname · StatMuse/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Edin Džeko", "detail": "13 goals", "accept": ["edin dzeko", "edin džeko", "dzeko", "džeko"] },
+    { "display": "Sergio Agüero", "detail": "12 goals", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero"] },
+    { "display": "Riyad Mahrez", "detail": "9 goals", "accept": ["riyad mahrez", "mahrez"] },
+    { "display": "Adam Johnson", "detail": "6 goals", "accept": ["adam johnson", "johnson"] },
+    { "display": "Raheem Sterling", "detail": "6 goals", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Phil Foden", "detail": "5 goals", "accept": ["phil foden", "foden"] },
+    { "display": "Gabriel Jesus", "detail": "5 goals", "accept": ["gabriel jesus", "jesus"] },
+    { "display": "James Milner", "detail": "5 goals", "accept": ["james milner", "milner"] },
+    { "display": "Kelechi Iheanacho", "detail": "5 goals", "accept": ["kelechi iheanacho", "iheanacho"] },
+    { "display": "Bernardo Silva", "detail": "4 goals", "accept": ["bernardo silva", "bernardo"] }
+  ]
+}

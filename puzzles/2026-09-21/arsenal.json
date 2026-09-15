@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-21",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who scored the most Premier League goals as a substitute",
+  "note": "PL goals scored after coming on as a substitute · 1992/93 through 2025/26 · highest first · ties by sub appearances, then fewer sub minutes, then surname · StatMuse/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Olivier Giroud", "detail": "17 goals", "accept": ["olivier giroud", "giroud"] },
+    { "display": "Nicklas Bendtner", "detail": "9 goals", "accept": ["nicklas bendtner", "bendtner"] },
+    { "display": "Nwankwo Kanu", "detail": "9 goals", "accept": ["nwankwo kanu", "kanu"] },
+    { "display": "Alexandre Lacazette", "detail": "9 goals", "accept": ["alexandre lacazette", "lacazette"] },
+    { "display": "Gabriel Martinelli", "detail": "8 goals", "accept": ["gabriel martinelli", "martinelli"] },
+    { "display": "Theo Walcott", "detail": "7 goals", "accept": ["theo walcott", "walcott"] },
+    { "display": "Aaron Ramsey", "detail": "7 goals", "accept": ["aaron ramsey", "ramsey"] },
+    { "display": "Leandro Trossard", "detail": "7 goals", "accept": ["leandro trossard", "trossard"] },
+    { "display": "Robin van Persie", "detail": "7 goals", "accept": ["robin van persie", "van persie"] },
+    { "display": "Robert Pirès", "detail": "7 goals", "accept": ["robert pires", "robert pirès", "pires", "pirès"] }
+  ]
+}

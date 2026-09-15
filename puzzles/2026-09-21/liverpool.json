@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-21",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who scored the most Premier League goals as a substitute",
+  "note": "PL goals scored after coming on as a substitute · 1992/93 through 2025/26 · highest first · ties by sub appearances, then fewer sub minutes, then surname · StatMuse/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Divock Origi", "detail": "11 goals", "accept": ["divock origi", "origi"] },
+    { "display": "Daniel Sturridge", "detail": "10 goals", "accept": ["daniel sturridge", "sturridge"] },
+    { "display": "Diogo Jota", "detail": "10 goals", "accept": ["diogo jota", "jota"] },
+    { "display": "Roberto Firmino", "detail": "9 goals", "accept": ["roberto firmino", "firmino"] },
+    { "display": "Darwin Núñez", "detail": "7 goals", "accept": ["darwin nunez", "darwin núñez", "nunez", "núñez"] },
+    { "display": "Ryan Babel", "detail": "6 goals", "accept": ["ryan babel", "babel"] },
+    { "display": "Mohamed Salah", "detail": "6 goals", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Christian Benteke", "detail": "6 goals", "accept": ["christian benteke", "benteke"] },
+    { "display": "Danny Murphy", "detail": "4 goals", "accept": ["danny murphy", "murphy"] },
+    { "display": "Vladimír Šmicer", "detail": "4 goals", "accept": ["vladimir smicer", "vladimír šmicer", "smicer", "šmicer"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-21",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who scored the most Premier League goals as a substitute",
+  "note": "PL goals scored after coming on as a substitute · 1992/93 through 2025/26 · highest first · ties by sub appearances, then fewer sub minutes, then surname · StatMuse/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Tore André Flo", "detail": "12 goals", "accept": ["tore andre flo", "tore andré flo", "flo"] },
+    { "display": "Didier Drogba", "detail": "11 goals", "accept": ["didier drogba", "drogba"] },
+    { "display": "Salomon Kalou", "detail": "11 goals", "accept": ["salomon kalou", "kalou"] },
+    { "display": "Willian", "detail": "8 goals", "accept": ["willian"] },
+    { "display": "Eiður Guðjohnsen", "detail": "7 goals", "accept": ["eidur gudjohnsen", "eiður guðjohnsen", "gudjohnsen", "guðjohnsen"] },
+    { "display": "Michy Batshuayi", "detail": "7 goals", "accept": ["michy batshuayi", "batshuayi"] },
+    { "display": "Loïc Rémy", "detail": "6 goals", "accept": ["loic remy", "loïc rémy", "remy", "rémy"] },
+    { "display": "Jimmy Floyd Hasselbaink", "detail": "6 goals", "accept": ["jimmy floyd hasselbaink", "hasselbaink"] },
+    { "display": "Hernán Crespo", "detail": "6 goals", "accept": ["hernan crespo", "hernán crespo", "crespo"] },
+    { "display": "Joe Cole", "detail": "5 goals", "accept": ["joe cole", "cole"] }
+  ]
+}

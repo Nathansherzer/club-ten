@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-21",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who scored the most Premier League goals as a substitute",
+  "note": "PL goals scored after coming on as a substitute · 1992/93 through 2025/26 · highest first · ties by sub appearances, then fewer sub minutes, then surname · StatMuse/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Ole Gunnar Solskjær", "detail": "17 goals", "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær"] },
+    { "display": "Javier Hernández", "detail": "14 goals", "accept": ["javier hernandez", "javier hernández", "hernandez", "hernández", "chicharito"] },
+    { "display": "Marcus Rashford", "detail": "13 goals", "accept": ["marcus rashford", "rashford"] },
+    { "display": "Anthony Martial", "detail": "11 goals", "accept": ["anthony martial", "martial"] },
+    { "display": "Cristiano Ronaldo", "detail": "7 goals", "accept": ["cristiano ronaldo", "ronaldo"] },
+    { "display": "Paul Scholes", "detail": "6 goals", "accept": ["paul scholes", "scholes"] },
+    { "display": "Jesse Lingard", "detail": "6 goals", "accept": ["jesse lingard", "lingard"] },
+    { "display": "Andy Cole", "detail": "6 goals", "accept": ["andy cole", "cole"] },
+    { "display": "David Beckham", "detail": "6 goals", "accept": ["david beckham", "beckham"] },
+    { "display": "Edinson Cavani", "detail": "6 goals", "accept": ["edinson cavani", "cavani"] }
+  ]
+}

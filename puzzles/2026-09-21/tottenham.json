@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-21",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who scored the most Premier League goals as a substitute",
+  "note": "PL goals scored after coming on as a substitute · 1992/93 through 2025/26 · highest first · ties by sub appearances, then fewer sub minutes, then surname · StatMuse/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Jermain Defoe", "detail": "13 goals", "accept": ["jermain defoe", "defoe"] },
+    { "display": "Son Heung-min", "detail": "9 goals", "accept": ["son heung-min", "son heung min", "heung-min", "son"] },
+    { "display": "Roman Pavlyuchenko", "detail": "9 goals", "accept": ["roman pavlyuchenko", "pavlyuchenko"] },
+    { "display": "Robbie Keane", "detail": "8 goals", "accept": ["robbie keane", "keane"] },
+    { "display": "Richarlison", "detail": "7 goals", "accept": ["richarlison"] },
+    { "display": "Darren Bent", "detail": "7 goals", "accept": ["darren bent", "bent"] },
+    { "display": "Gylfi Sigurðsson", "detail": "4 goals", "accept": ["gylfi sigurdsson", "gylfi sigurðsson", "sigurdsson", "sigurðsson"] },
+    { "display": "Steffen Iversen", "detail": "4 goals", "accept": ["steffen iversen", "iversen"] },
+    { "display": "Frédéric Kanouté", "detail": "4 goals", "accept": ["frederic kanoute", "frédéric kanouté", "kanoute", "kanouté"] },
+    { "display": "Gus Poyet", "detail": "4 goals", "accept": ["gus poyet", "poyet"] }
+  ]
+}
