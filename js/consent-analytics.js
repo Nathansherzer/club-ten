@@ -76,15 +76,33 @@
 
     document.body.appendChild(b);
 
-    document.getElementById("ctAccept").addEventListener("click", function () {
-      localStorage.setItem(KEY, "granted");
-      apply("granted");
+    // The banner is position:fixed at the bottom, so it overlays page
+    // content — including the answer input, which is the last interactive
+    // element and can end up under the banner at short viewport heights.
+    // Reserve exactly the banner's height as bottom padding on <body> so the
+    // input can always be scrolled clear. Re-measure on resize because the
+    // banner text wraps (and so grows taller) at narrower widths.
+    function syncPadding() {
+      document.body.style.paddingBottom = b.offsetHeight + "px";
+    }
+    function clearPadding() {
+      document.body.style.paddingBottom = "";
+      window.removeEventListener("resize", syncPadding);
+    }
+    syncPadding();
+    window.addEventListener("resize", syncPadding);
+
+    function dismiss(state) {
+      localStorage.setItem(KEY, state);
+      apply(state);
+      clearPadding();
       b.remove();
+    }
+    document.getElementById("ctAccept").addEventListener("click", function () {
+      dismiss("granted");
     });
     document.getElementById("ctDecline").addEventListener("click", function () {
-      localStorage.setItem(KEY, "denied");
-      apply("denied");
-      b.remove();
+      dismiss("denied");
     });
   }
 
