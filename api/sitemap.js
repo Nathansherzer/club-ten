@@ -2,22 +2,16 @@
    api/sitemap.js — dynamic sitemap generator
    URL: GET /sitemap.xml  (via vercel.json rewrite)
 
-   Auto-includes every past puzzle URL so Google discovers
-   new puzzles as soon as the JSON files are deployed.
+   Lists only the quality pages we want indexed: homepage, the
+   six club pages, the club landing pages, /football-top-10-quiz,
+   /how-to-play, /blog + posts, and /archive. Thin dated puzzle
+   pages (/{club}/{date}) are intentionally excluded — they are
+   noindex,follow and reachable via /archive for crawling.
    ========================================================== */
 
-import { readdir } from "fs/promises";
-import { join, dirname } from "path";
-import { fileURLToPath } from "url";
 import { POSTS } from "./blog-post.js";
 
-const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const BASE = "https://topclubten.com";
-
-const CLUBS = [
-  "arsenal", "chelsea", "liverpool",
-  "manchester-city", "manchester-united", "tottenham"
-];
 
 const STATIC = [
   { loc: "/",                              changefreq: "daily",   priority: "1.0" },
@@ -36,6 +30,7 @@ const STATIC = [
   { loc: "/football-top-10-quiz",           changefreq: "monthly", priority: "0.8" },
   { loc: "/how-to-play",                   changefreq: "monthly", priority: "0.5" },
   { loc: "/blog",                          changefreq: "weekly",  priority: "0.7" },
+  { loc: "/archive",                       changefreq: "daily",   priority: "0.6" },
 ];
 
 function londonToday() {
@@ -56,14 +51,6 @@ function urlTag({ loc, changefreq, priority, lastmod }) {
 export default async function handler(req, res) {
   const today = londonToday();
 
-  let puzzleDates = [];
-  try {
-    const dirs = await readdir(join(ROOT, "puzzles"));
-    puzzleDates = dirs
-      .filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d) && d <= today)
-      .sort();
-  } catch {}
-
   const staticUrls = STATIC.map(p => urlTag(p));
 
   const blogUrls = Object.entries(POSTS)
@@ -75,24 +62,18 @@ export default async function handler(req, res) {
       priority:   "0.7"
     }));
 
-  const puzzleUrls = [];
-  for (const date of puzzleDates) {
-    for (const club of CLUBS) {
-      puzzleUrls.push(urlTag({
-        loc:        `/${club}/${date}`,
-        lastmod:    date,
-        changefreq: "never",
-        priority:   "0.6"
-      }));
-    }
-  }
+  // Dated puzzle pages (/{club}/{date}) are deliberately NOT listed here.
+  // They are thin, near-duplicate archive stubs and are served with
+  // noindex,follow (see api/puzzle-page.js). Google still reaches them by
+  // crawling through /archive and the puzzle-nav links to honour the
+  // noindex; we just don't actively submit ~400 low-value URLs. Only the
+  // quality pages (home, clubs, landing pages, blog, archive) belong here.
 
   const xml = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
     ...staticUrls,
     ...blogUrls,
-    ...puzzleUrls,
     "</urlset>"
   ].join("\n");
 

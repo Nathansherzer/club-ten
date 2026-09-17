@@ -128,7 +128,7 @@ export default async function handler(req, res) {
   <title>${title}</title>
   <meta name="description" content="${description}">
   <link rel="canonical" href="${canonical}">
-  ${data.noindex ? `<meta name="robots" content="noindex,follow">` : ``}
+  ${data.index === true ? `` : `<meta name="robots" content="noindex,follow">`}
   <meta property="og:type"        content="website">
   <meta property="og:url"         content="${canonical}">
   <meta property="og:title"       content="${title}">
@@ -161,7 +161,7 @@ export default async function handler(req, res) {
     gtag('config', 'G-M8E5NFRXB5');
   </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8E5NFRXB5"></script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>
+  ${data.index === true ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>` : ``}
   <script src="/js/consent-analytics.js" defer></script>
 </head>
 <body>
