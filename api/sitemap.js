@@ -3,10 +3,12 @@
    URL: GET /sitemap.xml  (via vercel.json rewrite)
 
    Lists only the quality pages we want indexed: homepage, the
-   six club pages, the club landing pages, /football-top-10-quiz,
-   /how-to-play, /blog + posts, and /archive. Thin dated puzzle
-   pages (/{club}/{date}) are intentionally excluded — they are
-   noindex,follow and reachable via /archive for crawling.
+   six club pages, /how-to-play, /blog + posts, and /archive.
+   Thin dated puzzle pages (/{club}/{date}) are intentionally
+   excluded — they are noindex,follow and reachable via /archive
+   for crawling. The old /{club}-football-quiz and
+   /football-top-10-quiz landing pages were merged into the club
+   pages / homepage and now 301-redirect there (see vercel.json).
    ========================================================== */
 
 import { POSTS } from "./blog-post.js";
@@ -21,13 +23,6 @@ const STATIC = [
   { loc: "/manchester-city",               changefreq: "daily",   priority: "0.9" },
   { loc: "/manchester-united",             changefreq: "daily",   priority: "0.9" },
   { loc: "/tottenham",                     changefreq: "daily",   priority: "0.9" },
-  { loc: "/arsenal-football-quiz",         changefreq: "monthly", priority: "0.8" },
-  { loc: "/chelsea-football-quiz",         changefreq: "monthly", priority: "0.8" },
-  { loc: "/liverpool-football-quiz",       changefreq: "monthly", priority: "0.8" },
-  { loc: "/manchester-city-football-quiz", changefreq: "monthly", priority: "0.8" },
-  { loc: "/manchester-united-football-quiz", changefreq: "monthly", priority: "0.8" },
-  { loc: "/tottenham-football-quiz",       changefreq: "monthly", priority: "0.8" },
-  { loc: "/football-top-10-quiz",           changefreq: "monthly", priority: "0.8" },
   { loc: "/how-to-play",                   changefreq: "monthly", priority: "0.5" },
   { loc: "/blog",                          changefreq: "weekly",  priority: "0.7" },
   { loc: "/archive",                       changefreq: "daily",   priority: "0.6" },
@@ -67,7 +62,7 @@ export default async function handler(req, res) {
   // noindex,follow (see api/puzzle-page.js). Google still reaches them by
   // crawling through /archive and the puzzle-nav links to honour the
   // noindex; we just don't actively submit ~400 low-value URLs. Only the
-  // quality pages (home, clubs, landing pages, blog, archive) belong here.
+  // quality pages (home, clubs, how-to-play, blog, archive) belong here.
 
   const xml = [
     '<?xml version="1.0" encoding="UTF-8"?>',

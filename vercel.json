@@ -23,7 +23,14 @@
       "source": "/arseblog",
       "destination": "/arsenal?partner=arseblog&utm_source=arseblog&utm_medium=referral&utm_campaign=arseblog-referral",
       "permanent": false
-    }
+    },
+    { "source": "/arsenal-football-quiz",           "destination": "/arsenal",           "permanent": true },
+    { "source": "/chelsea-football-quiz",           "destination": "/chelsea",           "permanent": true },
+    { "source": "/liverpool-football-quiz",         "destination": "/liverpool",         "permanent": true },
+    { "source": "/manchester-city-football-quiz",   "destination": "/manchester-city",   "permanent": true },
+    { "source": "/manchester-united-football-quiz", "destination": "/manchester-united", "permanent": true },
+    { "source": "/tottenham-football-quiz",         "destination": "/tottenham",         "permanent": true },
+    { "source": "/football-top-10-quiz",            "destination": "/",                  "permanent": true }
   ],
   "functions": {
     "api/puzzle.js":      { "includeFiles": "puzzles/**" },
