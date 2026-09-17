@@ -5,7 +5,7 @@
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow">
-<title>Club Ten — Your club's daily top 10</title>
+<title>Club Ten, Your club's daily top 10</title>
 <style>
   :root {
     --bg: #0e1420;
@@ -239,22 +239,22 @@
 
   <footer>
     Prototype build · In the full version every club gets its own daily puzzle<br>
-    Stats save in your browser — no account needed
+    Stats save in your browser, no account needed
   </footer>
 </div>
 
 <script>
 // ------------------------------------------------------------------
-// PUZZLE DATA — in the real site: /puzzles/<date>/<club>.json served
+// PUZZLE DATA, in the real site: /puzzles/<date>/<club>.json served
 // by a tiny function, so future answers can't be seen in page source.
-// Note: two different question templates shown here on purpose —
+// Note: two different question templates shown here on purpose, 
 // in production, one template per day generates a variant per club.
 //
 // VERIFICATION NOTES
 // Man United managers: Wikipedia "List of Manchester United F.C.
 //   managers". Permanent only; interims (Rangnick, Carrick) excluded.
 // Liverpool scorers: liverpoolfc.com all-time top scorers +
-//   thisisanfield.com (May 2026). Salah is 3rd with 257 — a year-old
+//   thisisanfield.com (May 2026). Salah is 3rd with 257, a year-old
 //   source would rank him 5th. Date-stamp everything.
 // ------------------------------------------------------------------
 const PUZZLES = {
@@ -403,7 +403,7 @@ function renderSuggestions() {
     const b = document.createElement("button");
     b.type = "button";
     b.textContent = name;
-    // Picking a wrong name from the list still costs a life —
+    // Picking a wrong name from the list still costs a life, 
     // otherwise players could scroll the dropdown for free.
     b.addEventListener("click", () => {
       input.value = name;
@@ -455,14 +455,14 @@ function handleGuess() {
   if (idx === -1) {
     lives--;
     document.getElementById("lives").textContent = "❤️".repeat(lives) + "🖤".repeat(MAX_LIVES - lives);
-    setFeedback(`"${raw.trim()}" — not on the board. ${lives} ${lives === 1 ? "life" : "lives"} left.`, "bad");
+    setFeedback(`"${raw.trim()}", not on the board. ${lives} ${lives === 1 ? "life" : "lives"} left.`, "bad");
     if (lives === 0) endGame(false);
   } else if (found.has(idx)) {
     setFeedback("Already found that one!", "dup");
   } else {
     found.add(idx);
     fillSlot(idx, "found");
-    setFeedback(`✔ ${PUZZLE.answers[idx].display} — ${found.size}/10`, "good");
+    setFeedback(`✔ ${PUZZLE.answers[idx].display}, ${found.size}/10`, "good");
     if (found.size === 10) endGame(true);
   }
   input.focus();
@@ -490,7 +490,7 @@ function endGame(won) {
 
 document.getElementById("shareBtn").addEventListener("click", () => {
   const squares = PUZZLE.answers.map((_, i) => found.has(i) ? "🟩" : "🟥").join("");
-  const text = `Club Ten #${PUZZLE.id} · ${PUZZLE.clubShort} — ${found.size}/10\n${squares}\nclubten.example`;
+  const text = `Club Ten #${PUZZLE.id} · ${PUZZLE.clubShort}, ${found.size}/10\n${squares}\nclubten.example`;
   const note = document.getElementById("sharedNote");
   if (navigator.share) {
     navigator.share({ text }).catch(() => {});
