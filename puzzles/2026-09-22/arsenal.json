@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-22",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to finish a Premier League season as Arsenal's leading league goalscorer",
+  "note": "Club's leading PL scorer per season · joint leaders both qualify · one entry per player (most recent qualifying season) · newest first · ties broken by career PL goals for the club · 1992/93–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Viktor Gyökeres", "detail": "14 goals (2025/26)", "accept": ["viktor gyokeres", "viktor gyökeres", "gyokeres", "gyökeres"] },
+    { "display": "Kai Havertz", "detail": "9 goals (2024/25)", "accept": ["kai havertz", "havertz"] },
+    { "display": "Bukayo Saka", "detail": "16 goals (2023/24)", "accept": ["bukayo saka", "saka"] },
+    { "display": "Gabriel Martinelli", "detail": "15 goals (2022/23)", "accept": ["gabriel martinelli", "martinelli"] },
+    { "display": "Martin Ødegaard", "detail": "15 goals (2022/23)", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
+    { "display": "Alexandre Lacazette", "detail": "13 goals (2020/21)", "accept": ["alexandre lacazette", "lacazette"] },
+    { "display": "Pierre-Emerick Aubameyang", "detail": "22 goals (2019/20)", "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang", "auba"] },
+    { "display": "Alexis Sánchez", "detail": "24 goals (2016/17)", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez"] },
+    { "display": "Olivier Giroud", "detail": "16 goals (2015/16)", "accept": ["olivier giroud", "giroud"] },
+    { "display": "Theo Walcott", "detail": "14 goals (2012/13)", "accept": ["theo walcott", "walcott"] }
+  ]
+}

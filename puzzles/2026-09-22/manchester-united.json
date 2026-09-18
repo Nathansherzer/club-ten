@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-22",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to finish a Premier League season as Man United's leading league goalscorer",
+  "note": "Club's leading PL scorer per season · joint leaders both qualify · one entry per player (most recent qualifying season) · newest first · ties broken by career PL goals for the club · 1992/93–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Benjamin Šeško", "detail": "11 goals (2025/26)", "accept": ["benjamin sesko", "benjamin šeško", "sesko", "šeško"] },
+    { "display": "Bruno Fernandes", "detail": "8 goals (2024/25)", "accept": ["bruno fernandes", "bruno"] },
+    { "display": "Amad Diallo", "detail": "8 goals (2024/25)", "accept": ["amad diallo", "amad"] },
+    { "display": "Rasmus Højlund", "detail": "10 goals (2023/24)", "accept": ["rasmus hojlund", "rasmus højlund", "hojlund", "højlund"] },
+    { "display": "Marcus Rashford", "detail": "17 goals (2022/23)", "accept": ["marcus rashford", "rashford"] },
+    { "display": "Cristiano Ronaldo", "detail": "18 goals (2021/22)", "accept": ["cristiano ronaldo", "ronaldo", "cr7"] },
+    { "display": "Anthony Martial", "detail": "17 goals (2019/20)", "accept": ["anthony martial", "martial"] },
+    { "display": "Paul Pogba", "detail": "13 goals (2018/19)", "accept": ["paul pogba", "pogba"] },
+    { "display": "Romelu Lukaku", "detail": "16 goals (2017/18)", "accept": ["romelu lukaku", "lukaku"] },
+    { "display": "Zlatan Ibrahimović", "detail": "17 goals (2016/17)", "accept": ["zlatan ibrahimovic", "zlatan ibrahimović", "ibrahimovic", "ibrahimović", "zlatan", "ibra"] }
+  ]
+}

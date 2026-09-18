@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-22",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to finish a Premier League season as Liverpool's leading league goalscorer",
+  "note": "Club's leading PL scorer per season · joint leaders both qualify · one entry per player (most recent qualifying season) · newest first · ties broken by career PL goals for the club · 1992/93–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Hugo Ekitike", "detail": "11 goals (2025/26)", "accept": ["hugo ekitike", "ekitike"] },
+    { "display": "Mohamed Salah", "detail": "29 goals (2024/25)", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Sadio Mané", "detail": "22 goals (2018/19)", "accept": ["sadio mane", "sadio mané", "mane", "mané"] },
+    { "display": "Philippe Coutinho", "detail": "13 goals (2016/17)", "accept": ["philippe coutinho", "coutinho"] },
+    { "display": "Roberto Firmino", "detail": "10 goals (2015/16)", "accept": ["roberto firmino", "firmino"] },
+    { "display": "Steven Gerrard", "detail": "9 goals (2014/15)", "accept": ["steven gerrard", "gerrard"] },
+    { "display": "Luis Suárez", "detail": "31 goals (2013/14)", "accept": ["luis suarez", "luis suárez", "suarez", "suárez"] },
+    { "display": "Dirk Kuyt", "detail": "13 goals (2010/11)", "accept": ["dirk kuyt", "kuyt"] },
+    { "display": "Fernando Torres", "detail": "18 goals (2009/10)", "accept": ["fernando torres", "torres"] },
+    { "display": "Milan Baroš", "detail": "9 goals (2004/05)", "accept": ["milan baros", "milan baroš", "baros", "baroš"] }
+  ]
+}

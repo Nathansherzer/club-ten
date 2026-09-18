@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-22",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent different players to finish a Premier League season as Spurs' leading league goalscorer",
+  "note": "Club's leading PL scorer per season · joint leaders both qualify · one entry per player (most recent qualifying season) · newest first · ties broken by career PL goals for the club · 1992/93–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Richarlison", "detail": "10 goals (2025/26)", "accept": ["richarlison"] },
+    { "display": "Brennan Johnson", "detail": "11 goals (2024/25)", "accept": ["brennan johnson", "johnson"] },
+    { "display": "Son Heung-min", "detail": "17 goals (2023/24)", "accept": ["son heung-min", "son heungmin", "heung-min son", "son"] },
+    { "display": "Harry Kane", "detail": "30 goals (2022/23)", "accept": ["harry kane", "kane"] },
+    { "display": "Emmanuel Adebayor", "detail": "11 goals (2013/14)", "accept": ["emmanuel adebayor", "adebayor"] },
+    { "display": "Gareth Bale", "detail": "21 goals (2012/13)", "accept": ["gareth bale", "bale"] },
+    { "display": "Rafael van der Vaart", "detail": "13 goals (2010/11)", "accept": ["rafael van der vaart", "van der vaart"] },
+    { "display": "Jermain Defoe", "detail": "18 goals (2009/10)", "accept": ["jermain defoe", "defoe"] },
+    { "display": "Darren Bent", "detail": "12 goals (2008/09)", "accept": ["darren bent", "bent"] },
+    { "display": "Robbie Keane", "detail": "15 goals (2007/08)", "accept": ["robbie keane", "keane"] }
+  ]
+}

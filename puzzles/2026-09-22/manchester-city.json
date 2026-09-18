@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-22",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to finish a Premier League season as Man City's leading league goalscorer",
+  "note": "Club's leading PL scorer per season · joint leaders both qualify · one entry per player (most recent qualifying season) · newest first · ties broken by career PL goals for the club · 1992/93–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Erling Haaland", "detail": "27 goals (2025/26)", "accept": ["erling haaland", "haaland"] },
+    { "display": "Kevin De Bruyne", "detail": "15 goals (2021/22)", "accept": ["kevin de bruyne", "de bruyne", "kdb"] },
+    { "display": "İlkay Gündoğan", "detail": "13 goals (2020/21)", "accept": ["ilkay gundogan", "ilkay gündoğan", "gundogan", "gündoğan"] },
+    { "display": "Raheem Sterling", "detail": "20 goals (2019/20)", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Sergio Agüero", "detail": "21 goals (2018/19)", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
+    { "display": "Yaya Touré", "detail": "20 goals (2013/14)", "accept": ["yaya toure", "yaya touré", "toure", "touré"] },
+    { "display": "Edin Džeko", "detail": "14 goals (2012/13)", "accept": ["edin dzeko", "edin džeko", "dzeko", "džeko"] },
+    { "display": "Carlos Tevez", "detail": "20 goals (2010/11)", "accept": ["carlos tevez", "tevez"] },
+    { "display": "Robinho", "detail": "14 goals (2008/09)", "accept": ["robinho"] },
+    { "display": "Elano", "detail": "8 goals (2007/08)", "accept": ["elano"] }
+  ]
+}

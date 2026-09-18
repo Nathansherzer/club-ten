@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-22",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to finish a Premier League season as Chelsea's leading league goalscorer",
+  "note": "Club's leading PL scorer per season · joint leaders both qualify · one entry per player (most recent qualifying season) · newest first · ties broken by career PL goals for the club · 1992/93–2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "João Pedro", "detail": "15 goals (2025/26)", "accept": ["joao pedro", "joão pedro", "pedro"] },
+    { "display": "Cole Palmer", "detail": "15 goals (2024/25)", "accept": ["cole palmer", "palmer"] },
+    { "display": "Kai Havertz", "detail": "7 goals (2022/23)", "accept": ["kai havertz", "havertz"] },
+    { "display": "Mason Mount", "detail": "11 goals (2021/22)", "accept": ["mason mount", "mount"] },
+    { "display": "Jorginho", "detail": "7 goals (2020/21)", "accept": ["jorginho"] },
+    { "display": "Tammy Abraham", "detail": "15 goals (2019/20)", "accept": ["tammy abraham", "abraham"] },
+    { "display": "Eden Hazard", "detail": "16 goals (2018/19)", "accept": ["eden hazard", "hazard"] },
+    { "display": "Diego Costa", "detail": "20 goals (2016/17)", "accept": ["diego costa", "costa"] },
+    { "display": "Frank Lampard", "detail": "15 goals (2012/13)", "accept": ["frank lampard", "lampard"] },
+    { "display": "Florent Malouda", "detail": "13 goals (2010/11)", "accept": ["florent malouda", "malouda"] }
+  ]
+}
