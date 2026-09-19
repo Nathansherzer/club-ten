@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-23",
+  "club": "chelsea",
+  "type": "stadiums",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 stadiums where Didier Drogba scored the most PL goals while playing for Chelsea",
+  "note": "PL only · as Chelsea player · sponsored renamings combined · ties broken by most recent PL goal at the ground, then A–Z · through 2025/26",
+  "placeholder": "Type a stadium…",
+  "answers": [
+    { "display": "Stamford Bridge", "detail": "69 goals", "accept": ["stamford bridge", "the bridge"] },
+    { "display": "Fratton Park", "detail": "4 goals", "accept": ["fratton park"] },
+    { "display": "St James' Park", "detail": "2 goals", "accept": ["st james' park", "st james park", "sjp"] },
+    { "display": "Old Trafford", "detail": "2 goals", "accept": ["old trafford", "the theatre of dreams"] },
+    { "display": "The Hawthorns", "detail": "2 goals", "accept": ["the hawthorns", "hawthorns"] },
+    { "display": "Britannia Stadium", "detail": "2 goals", "accept": ["britannia stadium", "bet365 stadium", "the britannia"] },
+    { "display": "Reebok Stadium", "detail": "2 goals", "accept": ["reebok stadium", "university of bolton stadium", "the reebok"] },
+    { "display": "White Hart Lane", "detail": "2 goals", "accept": ["white hart lane", "the lane"] },
+    { "display": "Ewood Park", "detail": "2 goals", "accept": ["ewood park", "ewood"] },
+    { "display": "Molineux", "detail": "2 goals", "accept": ["molineux"] }
+  ]
+}

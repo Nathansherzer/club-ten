@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-23",
+  "club": "liverpool",
+  "type": "stadiums",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 stadiums where Mohamed Salah scored the most PL goals while playing for Liverpool",
+  "note": "PL only · as Liverpool player · sponsored renamings combined · ties broken by most recent PL goal at the ground, then A–Z · through 2025/26",
+  "placeholder": "Type a stadium…",
+  "answers": [
+    { "display": "Anfield", "detail": "108 goals", "accept": ["anfield"] },
+    { "display": "Dean Court", "detail": "7 goals", "accept": ["dean court", "vitality stadium", "goldsands stadium"] },
+    { "display": "Old Trafford", "detail": "7 goals", "accept": ["old trafford", "the theatre of dreams"] },
+    { "display": "London Stadium", "detail": "6 goals", "accept": ["london stadium", "olympic stadium"] },
+    { "display": "Amex Stadium", "detail": "6 goals", "accept": ["amex stadium", "the amex", "american express stadium", "falmer stadium"] },
+    { "display": "Villa Park", "detail": "4 goals", "accept": ["villa park"] },
+    { "display": "Goodison Park", "detail": "4 goals", "accept": ["goodison park", "goodison"] },
+    { "display": "Tottenham Hotspur Stadium", "detail": "4 goals", "accept": ["tottenham hotspur stadium", "new white hart lane"] },
+    { "display": "St Mary's Stadium", "detail": "4 goals", "accept": ["st mary's stadium", "st marys stadium", "st mary's"] },
+    { "display": "Selhurst Park", "detail": "4 goals", "accept": ["selhurst park", "selhurst"] }
+  ]
+}

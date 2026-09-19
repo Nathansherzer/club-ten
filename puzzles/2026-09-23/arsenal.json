@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-23",
+  "club": "arsenal",
+  "type": "stadiums",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 stadiums where Thierry Henry scored the most PL goals while playing for Arsenal",
+  "note": "PL only · as Arsenal player · sponsored renamings combined · ties broken by most recent PL goal at the ground, then A–Z · through 2025/26",
+  "placeholder": "Type a stadium…",
+  "answers": [
+    { "display": "Highbury", "detail": "114 goals", "accept": ["highbury"] },
+    { "display": "Emirates Stadium", "detail": "6 goals", "accept": ["emirates stadium", "emirates", "the emirates"] },
+    { "display": "Riverside Stadium", "detail": "5 goals", "accept": ["riverside stadium", "the riverside", "riverside"] },
+    { "display": "Elland Road", "detail": "4 goals", "accept": ["elland road"] },
+    { "display": "The Valley", "detail": "4 goals", "accept": ["the valley", "valley"] },
+    { "display": "Stadium of Light", "detail": "3 goals", "accept": ["stadium of light"] },
+    { "display": "Ewood Park", "detail": "3 goals", "accept": ["ewood park", "ewood"] },
+    { "display": "Craven Cottage", "detail": "3 goals", "accept": ["craven cottage", "the cottage"] },
+    { "display": "St Andrew's", "detail": "3 goals", "accept": ["st andrew's", "st andrews", "st andrew's stadium"] },
+    { "display": "Villa Park", "detail": "3 goals", "accept": ["villa park"] }
+  ]
+}

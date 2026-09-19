@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-23",
+  "club": "manchester-united",
+  "type": "stadiums",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 stadiums where Wayne Rooney scored the most PL goals while playing for Man United",
+  "note": "PL only · as Man United player · sponsored renamings combined · ties broken by most recent PL goal at the ground, then A–Z · through 2025/26",
+  "placeholder": "Type a stadium…",
+  "answers": [
+    { "display": "Old Trafford", "detail": "101 goals", "accept": ["old trafford", "the theatre of dreams"] },
+    { "display": "St James' Park", "detail": "8 goals", "accept": ["st james' park", "st james park", "sjp"] },
+    { "display": "White Hart Lane", "detail": "7 goals", "accept": ["white hart lane", "the lane"] },
+    { "display": "Upton Park", "detail": "7 goals", "accept": ["upton park", "boleyn ground", "the boleyn ground"] },
+    { "display": "Reebok Stadium", "detail": "6 goals", "accept": ["reebok stadium", "university of bolton stadium", "the reebok"] },
+    { "display": "Etihad Stadium", "detail": "5 goals", "accept": ["etihad stadium", "the etihad", "city of manchester stadium"] },
+    { "display": "Craven Cottage", "detail": "4 goals", "accept": ["craven cottage", "the cottage"] },
+    { "display": "Stamford Bridge", "detail": "4 goals", "accept": ["stamford bridge", "the bridge"] },
+    { "display": "Goodison Park", "detail": "3 goals", "accept": ["goodison park", "goodison"] },
+    { "display": "Emirates Stadium", "detail": "3 goals", "accept": ["emirates stadium", "emirates", "the emirates"] }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-23",
+  "club": "manchester-city",
+  "type": "stadiums",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 stadiums where Sergio Agüero scored the most PL goals while playing for Man City",
+  "note": "PL only · as Man City player · sponsored renamings combined · ties broken by most recent PL goal at the ground, then A–Z · through 2025/26",
+  "placeholder": "Type a stadium…",
+  "answers": [
+    { "display": "Etihad Stadium", "detail": "106 goals", "accept": ["etihad stadium", "the etihad", "city of manchester stadium"] },
+    { "display": "Vicarage Road", "detail": "6 goals", "accept": ["vicarage road"] },
+    { "display": "Craven Cottage", "detail": "5 goals", "accept": ["craven cottage", "the cottage"] },
+    { "display": "Stamford Bridge", "detail": "5 goals", "accept": ["stamford bridge", "the bridge"] },
+    { "display": "Villa Park", "detail": "4 goals", "accept": ["villa park"] },
+    { "display": "Carrow Road", "detail": "4 goals", "accept": ["carrow road"] },
+    { "display": "St James' Park", "detail": "4 goals", "accept": ["st james' park", "st james park", "sjp"] },
+    { "display": "Stadium of Light", "detail": "4 goals", "accept": ["stadium of light"] },
+    { "display": "Britannia Stadium", "detail": "4 goals", "accept": ["britannia stadium", "bet365 stadium", "the britannia"] },
+    { "display": "Upton Park", "detail": "4 goals", "accept": ["upton park", "boleyn ground", "the boleyn ground"] }
+  ]
+}

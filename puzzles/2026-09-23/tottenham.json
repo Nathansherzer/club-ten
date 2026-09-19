@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-23",
+  "club": "tottenham",
+  "type": "stadiums",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 stadiums where Harry Kane scored the most PL goals while playing for Spurs",
+  "note": "PL only · as Spurs player · sponsored renamings combined · ties broken by most recent PL goal at the ground, then A–Z · through 2025/26",
+  "placeholder": "Type a stadium…",
+  "answers": [
+    { "display": "Tottenham Hotspur Stadium", "detail": "42 goals", "accept": ["tottenham hotspur stadium", "new white hart lane"] },
+    { "display": "White Hart Lane", "detail": "38 goals", "accept": ["white hart lane", "the lane"] },
+    { "display": "Wembley Stadium", "detail": "21 goals", "accept": ["wembley stadium", "wembley"] },
+    { "display": "King Power Stadium", "detail": "9 goals", "accept": ["king power stadium", "the king power", "walkers stadium"] },
+    { "display": "Goodison Park", "detail": "8 goals", "accept": ["goodison park", "goodison"] },
+    { "display": "St James' Park", "detail": "7 goals", "accept": ["st james' park", "st james park", "sjp"] },
+    { "display": "St Mary's Stadium", "detail": "7 goals", "accept": ["st mary's stadium", "st marys stadium", "st mary's"] },
+    { "display": "Selhurst Park", "detail": "7 goals", "accept": ["selhurst park", "selhurst"] },
+    { "display": "Villa Park", "detail": "5 goals", "accept": ["villa park"] },
+    { "display": "Anfield", "detail": "5 goals", "accept": ["anfield"] }
+  ]
+}
