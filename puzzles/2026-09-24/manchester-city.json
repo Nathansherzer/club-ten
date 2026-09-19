@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-24",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most combined Premier League appearances for Man City and Aston Villa",
+  "note": "PL apps for both clubs only · player must have appeared for each · ties broken by Man City apps, then most recent PL appearance · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Gareth Barry", "detail": "497 apps (Man City 132 + Aston Villa 365)", "accept": ["gareth barry", "barry"] },
+    { "display": "Richard Dunne", "detail": "348 apps (Man City 253 + Aston Villa 95)", "accept": ["richard dunne", "dunne"] },
+    { "display": "Darius Vassell", "detail": "265 apps (Man City 103 + Aston Villa 162)", "accept": ["darius vassell", "vassell"] },
+    { "display": "James Milner", "detail": "247 apps (Man City 147 + Aston Villa 100)", "accept": ["james milner", "milner"] },
+    { "display": "Kyle Walker", "detail": "227 apps (Man City 212 + Aston Villa 15)", "accept": ["kyle walker", "walker"] },
+    { "display": "Micah Richards", "detail": "204 apps (Man City 180 + Aston Villa 24)", "accept": ["micah richards", "richards"] },
+    { "display": "Jack Grealish", "detail": "190 apps (Man City 94 + Aston Villa 96)", "accept": ["jack grealish", "grealish"] },
+    { "display": "Stephen Ireland", "detail": "185 apps (Man City 138 + Aston Villa 47)", "accept": ["stephen ireland", "ireland"] },
+    { "display": "Fabian Delph", "detail": "169 apps (Man City 57 + Aston Villa 112)", "accept": ["fabian delph", "delph"] },
+    { "display": "Joleon Lescott", "detail": "137 apps (Man City 107 + Aston Villa 30)", "accept": ["joleon lescott", "lescott"] }
+  ]
+}

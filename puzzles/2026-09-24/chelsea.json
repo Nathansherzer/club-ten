@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-24",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most combined Premier League appearances for Chelsea and West Ham",
+  "note": "PL apps for both clubs only · player must have appeared for each · ties broken by Chelsea apps, then most recent PL appearance · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Frank Lampard", "detail": "577 apps (Chelsea 429 + West Ham 148)", "accept": ["frank lampard", "lampard"] },
+    { "display": "Joe Cole", "detail": "340 apps (Chelsea 183 + West Ham 157)", "accept": ["joe cole", "cole"] },
+    { "display": "Carlton Cole", "detail": "241 apps (Chelsea 25 + West Ham 216)", "accept": ["carlton cole"] },
+    { "display": "Kurt Zouma", "detail": "181 apps (Chelsea 99 + West Ham 82)", "accept": ["kurt zouma", "zouma"] },
+    { "display": "Scott Parker", "detail": "124 apps (Chelsea 15 + West Ham 109)", "accept": ["scott parker", "parker"] },
+    { "display": "Emerson Palmieri", "detail": "122 apps (Chelsea 33 + West Ham 89)", "accept": ["emerson palmieri", "emerson"] },
+    { "display": "Ian Pearce", "detail": "119 apps (Chelsea 1 + West Ham 118)", "accept": ["ian pearce", "pearce"] },
+    { "display": "Victor Moses", "detail": "108 apps (Chelsea 87 + West Ham 21)", "accept": ["victor moses", "moses"] },
+    { "display": "Scott Minto", "detail": "105 apps (Chelsea 54 + West Ham 51)", "accept": ["scott minto", "minto"] },
+    { "display": "Wayne Bridge", "detail": "102 apps (Chelsea 87 + West Ham 15)", "accept": ["wayne bridge", "bridge"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-24",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most combined Premier League appearances for Spurs and Newcastle",
+  "note": "PL apps for both clubs only · player must have appeared for each · ties broken by Spurs apps, then most recent PL appearance · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Stephen Carr", "detail": "304 apps (Spurs 226 + Newcastle 78)", "accept": ["stephen carr", "carr"] },
+    { "display": "Jermaine Jenas", "detail": "265 apps (Spurs 155 + Newcastle 110)", "accept": ["jermaine jenas", "jenas"] },
+    { "display": "Sol Campbell", "detail": "262 apps (Spurs 255 + Newcastle 7)", "accept": ["sol campbell", "campbell"] },
+    { "display": "Moussa Sissoko", "detail": "259 apps (Spurs 141 + Newcastle 118)", "accept": ["moussa sissoko", "sissoko"] },
+    { "display": "Kieran Trippier", "detail": "187 apps (Spurs 69 + Newcastle 118)", "accept": ["kieran trippier", "trippier"] },
+    { "display": "Les Ferdinand", "detail": "186 apps (Spurs 118 + Newcastle 68)", "accept": ["les ferdinand", "ferdinand"] },
+    { "display": "Danny Rose", "detail": "167 apps (Spurs 156 + Newcastle 11)", "accept": ["danny rose", "rose"] },
+    { "display": "Ruel Fox", "detail": "164 apps (Spurs 106 + Newcastle 58)", "accept": ["ruel fox", "fox"] },
+    { "display": "David Ginola", "detail": "158 apps (Spurs 100 + Newcastle 58)", "accept": ["david ginola", "ginola"] },
+    { "display": "Scott Parker", "detail": "105 apps (Spurs 50 + Newcastle 55)", "accept": ["scott parker", "parker"] }
+  ]
+}

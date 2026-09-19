@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-24",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most combined Premier League appearances for Arsenal and West Ham",
+  "note": "PL apps for both clubs only · player must have appeared for each · ties broken by Arsenal apps, then most recent PL appearance · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Nigel Winterburn", "detail": "352 apps (Arsenal 270 + West Ham 82)", "accept": ["nigel winterburn", "winterburn"] },
+    { "display": "Declan Rice", "detail": "313 apps (Arsenal 109 + West Ham 204)", "accept": ["declan rice", "rice"] },
+    { "display": "Freddie Ljungberg", "detail": "241 apps (Arsenal 216 + West Ham 25)", "accept": ["freddie ljungberg", "ljungberg"] },
+    { "display": "Łukasz Fabiański", "detail": "227 apps (Arsenal 32 + West Ham 195)", "accept": ["lukasz fabianski", "łukasz fabiański", "fabianski", "fabiański"] },
+    { "display": "Ian Wright", "detail": "213 apps (Arsenal 191 + West Ham 22)", "accept": ["ian wright", "wright"] },
+    { "display": "Alex Song", "detail": "178 apps (Arsenal 138 + West Ham 40)", "accept": ["alex song", "song"] },
+    { "display": "Matthew Upson", "detail": "166 apps (Arsenal 35 + West Ham 131)", "accept": ["matthew upson", "upson"] },
+    { "display": "Jack Wilshere", "detail": "141 apps (Arsenal 125 + West Ham 16)", "accept": ["jack wilshere", "wilshere"] },
+    { "display": "Luis Boa Morte", "detail": "116 apps (Arsenal 25 + West Ham 91)", "accept": ["luis boa morte", "boa morte"] },
+    { "display": "John Hartson", "detail": "113 apps (Arsenal 53 + West Ham 60)", "accept": ["john hartson", "hartson"] }
+  ]
+}
