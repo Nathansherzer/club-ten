@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-25",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who scored the most Premier League goals against Spurs",
+  "note": "goals for any opposing PL club · ties broken by fewer appearances, then fewer minutes vs Spurs · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Alan Shearer", "detail": "14 goals · 24 apps", "accept": ["alan shearer", "shearer"] },
+    { "display": "Mohamed Salah", "detail": "12 goals · 18 apps", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Jimmy Floyd Hasselbaink", "detail": "11 goals · 16 apps · 1,171 min", "accept": ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink"] },
+    { "display": "Sergio Agüero", "detail": "11 goals · 16 apps · 1,227 min", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
+    { "display": "Wayne Rooney", "detail": "11 goals · 21 apps", "accept": ["wayne rooney", "rooney"] },
+    { "display": "Les Ferdinand", "detail": "10 goals · 12 apps", "accept": ["les ferdinand", "ferdinand"] },
+    { "display": "Jamie Vardy", "detail": "10 goals · 18 apps", "accept": ["jamie vardy", "vardy"] },
+    { "display": "Ryan Giggs", "detail": "10 goals · 36 apps", "accept": ["ryan giggs", "giggs"] },
+    { "display": "Dion Dublin", "detail": "9 goals · 14 apps", "accept": ["dion dublin", "dublin"] },
+    { "display": "Eberechi Eze", "detail": "8 goals · 9 apps", "accept": ["eberechi eze", "eze"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-25",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who scored the most Premier League goals against Chelsea",
+  "note": "goals for any opposing PL club · ties broken by fewer appearances, then fewer minutes vs Chelsea · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Sergio Agüero", "detail": "10 goals · 16 apps", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
+    { "display": "Thierry Henry", "detail": "8 goals · 12 apps", "accept": ["thierry henry", "henry"] },
+    { "display": "Alan Shearer", "detail": "8 goals · 18 apps", "accept": ["alan shearer", "shearer"] },
+    { "display": "Carlos Tévez", "detail": "7 goals · 9 apps", "accept": ["carlos tevez", "carlos tévez", "tevez", "tévez"] },
+    { "display": "Ian Wright", "detail": "7 goals · 12 apps", "accept": ["ian wright", "wright"] },
+    { "display": "Christian Benteke", "detail": "7 goals · 13 apps", "accept": ["christian benteke", "benteke"] },
+    { "display": "Louis Saha", "detail": "7 goals · 16 apps · 902 min", "accept": ["louis saha", "saha"] },
+    { "display": "Robin van Persie", "detail": "7 goals · 16 apps · 1,142 min", "accept": ["robin van persie", "van persie", "rvp"] },
+    { "display": "Danny Welbeck", "detail": "7 goals · 19 apps", "accept": ["danny welbeck", "welbeck"] },
+    { "display": "Teddy Sheringham", "detail": "7 goals · 20 apps · 1,357 min", "accept": ["teddy sheringham", "sheringham"] }
+  ]
+}

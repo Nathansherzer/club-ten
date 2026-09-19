@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-25",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who scored the most Premier League goals against Man City",
+  "note": "goals for any opposing PL club · ties broken by fewer appearances, then fewer minutes vs Man City · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Alan Shearer", "detail": "11 goals · 17 apps", "accept": ["alan shearer", "shearer"] },
+    { "display": "Mohamed Salah", "detail": "9 goals · 18 apps", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Wayne Rooney", "detail": "9 goals · 27 apps", "accept": ["wayne rooney", "rooney"] },
+    { "display": "Ian Rush", "detail": "8 goals · 8 apps", "accept": ["ian rush", "rush"] },
+    { "display": "Robbie Keane", "detail": "8 goals · 17 apps", "accept": ["robbie keane", "keane"] },
+    { "display": "Jamie Vardy", "detail": "8 goals · 19 apps", "accept": ["jamie vardy", "vardy"] },
+    { "display": "Jermain Defoe", "detail": "8 goals · 24 apps", "accept": ["jermain defoe", "defoe"] },
+    { "display": "Eric Cantona", "detail": "7 goals · 7 apps", "accept": ["eric cantona", "cantona"] },
+    { "display": "Michael Owen", "detail": "7 goals · 9 apps", "accept": ["michael owen", "owen"] },
+    { "display": "Jimmy Floyd Hasselbaink", "detail": "7 goals · 10 apps", "accept": ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink"] }
+  ]
+}

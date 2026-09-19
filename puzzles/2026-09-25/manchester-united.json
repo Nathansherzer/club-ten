@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-25",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who scored the most Premier League goals against Man United",
+  "note": "goals for any opposing PL club · ties broken by fewer appearances, then fewer minutes vs Man United · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Mohamed Salah", "detail": "13 goals · 16 apps", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Alan Shearer", "detail": "10 goals · 25 apps", "accept": ["alan shearer", "shearer"] },
+    { "display": "Erling Haaland", "detail": "8 goals · 7 apps", "accept": ["erling haaland", "haaland"] },
+    { "display": "Sergio Agüero", "detail": "8 goals · 13 apps", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
+    { "display": "Thierry Henry", "detail": "8 goals · 14 apps", "accept": ["thierry henry", "henry"] },
+    { "display": "Robbie Fowler", "detail": "8 goals · 19 apps · 1,299 min", "accept": ["robbie fowler", "fowler"] },
+    { "display": "Les Ferdinand", "detail": "8 goals · 19 apps · 1,397 min", "accept": ["les ferdinand", "ferdinand"] },
+    { "display": "Steven Gerrard", "detail": "8 goals · 30 apps", "accept": ["steven gerrard", "gerrard"] },
+    { "display": "Phil Foden", "detail": "7 goals · 13 apps · 883 min", "accept": ["phil foden", "foden"] },
+    { "display": "Pascal Groß", "detail": "7 goals · 13 apps · 992 min", "accept": ["pascal gross", "pascal groß", "gross", "groß"] }
+  ]
+}

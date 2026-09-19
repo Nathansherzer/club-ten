@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-25",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who scored the most Premier League goals against Liverpool",
+  "note": "goals for any opposing PL club · ties broken by fewer appearances, then fewer minutes vs Liverpool · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Andy Cole", "detail": "11 goals · 20 apps", "accept": ["andy cole", "cole"] },
+    { "display": "Harry Kane", "detail": "9 goals · 16 apps", "accept": ["harry kane", "kane"] },
+    { "display": "Ollie Watkins", "detail": "8 goals · 12 apps", "accept": ["ollie watkins", "watkins"] },
+    { "display": "Thierry Henry", "detail": "8 goals · 14 apps", "accept": ["thierry henry", "henry"] },
+    { "display": "Jamie Vardy", "detail": "8 goals · 17 apps", "accept": ["jamie vardy", "vardy"] },
+    { "display": "Olivier Giroud", "detail": "7 goals · 13 apps · 980 min", "accept": ["olivier giroud", "giroud"] },
+    { "display": "Robin van Persie", "detail": "7 goals · 13 apps · 1,000 min", "accept": ["robin van persie", "van persie", "rvp"] },
+    { "display": "Jonathan Walters", "detail": "7 goals · 14 apps", "accept": ["jonathan walters", "walters"] },
+    { "display": "Sergio Agüero", "detail": "7 goals · 15 apps", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
+    { "display": "Son Heung-min", "detail": "7 goals · 16 apps", "accept": ["son heung-min", "son heungmin", "heung-min son", "son"] }
+  ]
+}

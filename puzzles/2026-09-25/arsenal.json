@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-25",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who scored the most Premier League goals against Arsenal",
+  "note": "goals for any opposing PL club · ties broken by fewer appearances, then fewer minutes vs Arsenal · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Harry Kane", "detail": "14 goals · 17 apps", "accept": ["harry kane", "kane"] },
+    { "display": "Wayne Rooney", "detail": "12 goals · 29 apps", "accept": ["wayne rooney", "rooney"] },
+    { "display": "Roberto Firmino", "detail": "11 goals · 15 apps", "accept": ["roberto firmino", "firmino"] },
+    { "display": "Mohamed Salah", "detail": "11 goals · 17 apps", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Jamie Vardy", "detail": "11 goals · 18 apps", "accept": ["jamie vardy", "vardy"] },
+    { "display": "Robbie Fowler", "detail": "10 goals · 18 apps", "accept": ["robbie fowler", "fowler"] },
+    { "display": "Peter Crouch", "detail": "9 goals · 24 apps", "accept": ["peter crouch", "crouch"] },
+    { "display": "Didier Drogba", "detail": "8 goals · 12 apps", "accept": ["didier drogba", "drogba"] },
+    { "display": "Sergio Agüero", "detail": "8 goals · 15 apps", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
+    { "display": "Sadio Mané", "detail": "8 goals · 16 apps · 1,236 min", "accept": ["sadio mane", "sadio mané", "mane", "mané"] }
+  ]
+}
