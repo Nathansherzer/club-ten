@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-26",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who scored the most Premier League goals for Liverpool after turning 30",
+  "note": "PL goals for the club on or after the player's 30th birthday · ties broken by fewer appearances after 30, then older age at final PL goal for the club · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Mohamed Salah", "detail": "73 goals · 135 apps after 30", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Ian Rush", "detail": "45 goals · 130 apps after 30", "accept": ["ian rush", "rush"] },
+    { "display": "Steven Gerrard", "detail": "41 goals · 138 apps after 30", "accept": ["steven gerrard", "gerrard"] },
+    { "display": "John Barnes", "detail": "17 goals · 135 apps after 30", "accept": ["john barnes", "barnes"] },
+    { "display": "Virgil van Dijk", "detail": "17 goals · 177 apps after 30", "accept": ["virgil van dijk", "van dijk"] },
+    { "display": "James Milner", "detail": "17 goals · 215 apps after 30", "accept": ["james milner", "milner"] },
+    { "display": "Roberto Firmino", "detail": "15 goals · 41 apps after 30", "accept": ["roberto firmino", "firmino"] },
+    { "display": "Dirk Kuyt", "detail": "15 goals · 67 apps after 30", "accept": ["dirk kuyt", "kuyt"] },
+    { "display": "Paul Ince", "detail": "12 goals · 56 apps after 30", "accept": ["paul ince", "ince"] },
+    { "display": "Maxi Rodríguez", "detail": "11 goals · 24 apps after 30", "accept": ["maxi rodriguez", "maxi rodríguez", "rodriguez", "rodríguez"] }
+  ]
+}

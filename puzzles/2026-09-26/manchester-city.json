@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-26",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who scored the most Premier League goals for Man City after turning 30",
+  "note": "PL goals for the club on or after the player's 30th birthday · ties broken by fewer appearances after 30, then older age at final PL goal for the club · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Yaya Touré", "detail": "42 goals · 133 apps after 30", "accept": ["yaya toure", "yaya touré", "toure", "touré"] },
+    { "display": "Sergio Agüero", "detail": "41 goals · 69 apps after 30", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
+    { "display": "Kevin De Bruyne", "detail": "30 goals · 108 apps after 30", "accept": ["kevin de bruyne", "de bruyne", "kdb"] },
+    { "display": "İlkay Gündoğan", "detail": "30 goals · 118 apps after 30", "accept": ["ilkay gundogan", "ilkay gündoğan", "gundogan", "gündoğan"] },
+    { "display": "David Silva", "detail": "26 goals · 135 apps after 30", "accept": ["david silva", "silva"] },
+    { "display": "Riyad Mahrez", "detail": "19 goals · 67 apps after 30", "accept": ["riyad mahrez", "mahrez"] },
+    { "display": "Paul Walsh", "detail": "16 goals · 53 apps after 30", "accept": ["paul walsh", "walsh"] },
+    { "display": "Shaun Goater", "detail": "13 goals · 52 apps after 30", "accept": ["shaun goater", "goater"] },
+    { "display": "Fernandinho", "detail": "12 goals · 201 apps after 30", "accept": ["fernandinho"] },
+    { "display": "Craig Bellamy", "detail": "10 goals · 32 apps after 30", "accept": ["craig bellamy", "bellamy"] }
+  ]
+}

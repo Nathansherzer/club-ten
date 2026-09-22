@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-26",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who scored the most Premier League goals for Spurs after turning 30",
+  "note": "PL goals for the club on or after the player's 30th birthday · ties broken by fewer appearances after 30, then older age at final PL goal for the club · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Son Heung-min", "detail": "34 goals · 101 apps after 30", "accept": ["son heung-min", "son heungmin", "heung-min son", "son"] },
+    { "display": "Les Ferdinand", "detail": "33 goals · 118 apps after 30", "accept": ["les ferdinand", "ferdinand"] },
+    { "display": "Jürgen Klinsmann", "detail": "29 goals · 56 apps after 30", "accept": ["jurgen klinsmann", "jürgen klinsmann", "klinsmann"] },
+    { "display": "Teddy Sheringham", "detail": "29 goals · 105 apps after 30", "accept": ["teddy sheringham", "sheringham"] },
+    { "display": "Gus Poyet", "detail": "18 goals · 82 apps after 30", "accept": ["gus poyet", "poyet"] },
+    { "display": "Tim Sherwood", "detail": "12 goals · 93 apps after 30", "accept": ["tim sherwood", "sherwood"] },
+    { "display": "David Ginola", "detail": "12 goals · 100 apps after 30", "accept": ["david ginola", "ginola"] },
+    { "display": "Gareth Bale", "detail": "11 goals · 20 apps after 30", "accept": ["gareth bale", "bale"] },
+    { "display": "Jermain Defoe", "detail": "8 goals · 42 apps after 30", "accept": ["jermain defoe", "defoe"] },
+    { "display": "Andy Sinton", "detail": "6 goals · 78 apps after 30", "accept": ["andy sinton", "sinton"] }
+  ]
+}

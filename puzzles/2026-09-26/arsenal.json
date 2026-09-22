@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-26",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who scored the most Premier League goals for Arsenal after turning 30",
+  "note": "PL goals for the club on or after the player's 30th birthday · ties broken by fewer appearances after 30, then older age at final PL goal for the club · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Ian Wright", "detail": "84 goals · 147 apps after 30", "accept": ["ian wright", "wright"] },
+    { "display": "Pierre-Emerick Aubameyang", "detail": "36 goals · 79 apps after 30", "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang", "auba"] },
+    { "display": "Dennis Bergkamp", "detail": "36 goals · 198 apps after 30", "accept": ["dennis bergkamp", "bergkamp"] },
+    { "display": "Robert Pirès", "detail": "33 goals · 93 apps after 30", "accept": ["robert pires", "robert pirès", "pires", "pirès"] },
+    { "display": "Olivier Giroud", "detail": "16 goals · 42 apps after 30", "accept": ["olivier giroud", "giroud"] },
+    { "display": "Leandro Trossard", "detail": "11 goals · 56 apps after 30", "accept": ["leandro trossard", "trossard"] },
+    { "display": "Laurent Koscielny", "detail": "11 goals · 105 apps after 30", "accept": ["laurent koscielny", "koscielny"] },
+    { "display": "Gilberto Silva", "detail": "10 goals · 51 apps after 30", "accept": ["gilberto silva", "gilberto"] },
+    { "display": "William Gallas", "detail": "9 goals · 79 apps after 30", "accept": ["william gallas", "gallas"] },
+    { "display": "Mikel Arteta", "detail": "9 goals · 85 apps after 30", "accept": ["mikel arteta", "arteta"] }
+  ]
+}

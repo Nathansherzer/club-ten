@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-26",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who scored the most Premier League goals for Chelsea after turning 30",
+  "note": "PL goals for the club on or after the player's 30th birthday · ties broken by fewer appearances after 30, then older age at final PL goal for the club · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Frank Lampard", "detail": "76 goals · 182 apps after 30", "accept": ["frank lampard", "lampard"] },
+    { "display": "Gianfranco Zola", "detail": "59 goals · 229 apps after 30", "accept": ["gianfranco zola", "zola"] },
+    { "display": "Didier Drogba", "detail": "57 goals · 152 apps after 30", "accept": ["didier drogba", "drogba"] },
+    { "display": "Gus Poyet", "detail": "32 goals · 96 apps after 30", "accept": ["gus poyet", "poyet"] },
+    { "display": "Jimmy Floyd Hasselbaink", "detail": "25 goals · 71 apps after 30", "accept": ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink"] },
+    { "display": "Mark Hughes", "detail": "25 goals · 95 apps after 30", "accept": ["mark hughes", "hughes"] },
+    { "display": "Nicolas Anelka", "detail": "22 goals · 84 apps after 30", "accept": ["nicolas anelka", "anelka"] },
+    { "display": "John Terry", "detail": "22 goals · 171 apps after 30", "accept": ["john terry", "terry", "jt"] },
+    { "display": "Olivier Giroud", "detail": "17 goals · 75 apps after 30", "accept": ["olivier giroud", "giroud"] },
+    { "display": "Michael Ballack", "detail": "17 goals · 102 apps after 30", "accept": ["michael ballack", "ballack"] }
+  ]
+}

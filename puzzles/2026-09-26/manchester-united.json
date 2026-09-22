@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-26",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who scored the most Premier League goals for Man United after turning 30",
+  "note": "PL goals for the club on or after the player's 30th birthday · ties broken by fewer appearances after 30, then older age at final PL goal for the club · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Teddy Sheringham", "detail": "31 goals · 104 apps after 30", "accept": ["teddy sheringham", "sheringham"] },
+    { "display": "Ryan Giggs", "detail": "30 goals · 278 apps after 30", "accept": ["ryan giggs", "giggs"] },
+    { "display": "Paul Scholes", "detail": "29 goals · 200 apps after 30", "accept": ["paul scholes", "scholes"] },
+    { "display": "Robin van Persie", "detail": "22 goals · 48 apps after 30", "accept": ["robin van persie", "van persie", "rvp"] },
+    { "display": "Cristiano Ronaldo", "detail": "19 goals · 40 apps after 30", "accept": ["cristiano ronaldo", "ronaldo", "cr7"] },
+    { "display": "Zlatan Ibrahimović", "detail": "17 goals · 33 apps after 30", "accept": ["zlatan ibrahimovic", "zlatan ibrahimović", "ibrahimovic", "ibrahimović", "zlatan", "ibra"] },
+    { "display": "Bruno Fernandes", "detail": "17 goals · 68 apps after 30", "accept": ["bruno fernandes", "bruno"] },
+    { "display": "Casemiro", "detail": "15 goals · 111 apps after 30", "accept": ["casemiro"] },
+    { "display": "Mark Hughes", "detail": "14 goals · 59 apps after 30", "accept": ["mark hughes", "hughes"] },
+    { "display": "Edinson Cavani", "detail": "12 goals · 41 apps after 30", "accept": ["edinson cavani", "cavani"] }
+  ]
+}
