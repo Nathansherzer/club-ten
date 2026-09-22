@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who covered the most distance for Liverpool in Matchweek 5 of the 2026/27 Premier League season",
+  "note": "distance covered (km) · Matchweek 5, 2026/27 only · includes subs and goalkeepers · ties by fewer minutes, then higher top speed · FotMob/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Alexis Mac Allister", "detail": "10.957 km", "accept": ["alexis mac allister", "mac allister"] },
+    { "display": "Cody Gakpo", "detail": "10.337 km", "accept": ["cody gakpo", "gakpo"] },
+    { "display": "Ronald Araujo", "detail": "9.935 km", "accept": ["ronald araujo", "araujo"] },
+    { "display": "Miloš Kerkez", "detail": "9.788 km", "accept": ["milos kerkez", "miloš kerkez", "kerkez"] },
+    { "display": "Dominik Szoboszlai", "detail": "9.617 km", "accept": ["dominik szoboszlai", "szoboszlai"] },
+    { "display": "Jérémy Jacquet", "detail": "9.602 km", "accept": ["jeremy jacquet", "jérémy jacquet", "jacquet"] },
+    { "display": "Florian Wirtz", "detail": "9.115 km", "accept": ["florian wirtz", "wirtz"] },
+    { "display": "Virgil van Dijk", "detail": "8.649 km", "accept": ["virgil van dijk", "van dijk"] },
+    { "display": "Alexander Isak", "detail": "8.408 km", "accept": ["alexander isak", "isak"] },
+    { "display": "Bradley Barcola", "detail": "7.745 km", "accept": ["bradley barcola", "barcola"] }
+  ]
+}

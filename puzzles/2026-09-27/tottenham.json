@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who covered the most distance for Spurs in Matchweek 5 of the 2026/27 Premier League season",
+  "note": "distance covered (km) · Matchweek 5, 2026/27 only · includes subs and goalkeepers · ties by fewer minutes, then higher top speed · FotMob/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Andrew Robertson", "detail": "11.050 km", "accept": ["andrew robertson", "robertson"] },
+    { "display": "Jan Paul van Hecke", "detail": "10.712 km", "accept": ["jan paul van hecke", "van hecke"] },
+    { "display": "Rodrigo Bentancur", "detail": "10.665 km", "accept": ["rodrigo bentancur", "bentancur"] },
+    { "display": "Sávio", "detail": "10.336 km", "accept": ["savio", "sávio"] },
+    { "display": "Sandro Tonali", "detail": "10.244 km", "accept": ["sandro tonali", "tonali"] },
+    { "display": "Micky van de Ven", "detail": "10.132 km", "accept": ["micky van de ven", "van de ven"] },
+    { "display": "Archie Gray", "detail": "9.961 km", "accept": ["archie gray", "gray"] },
+    { "display": "Omar Marmoush", "detail": "9.618 km", "accept": ["omar marmoush", "marmoush"] },
+    { "display": "Dominic Solanke", "detail": "8.133 km", "accept": ["dominic solanke", "solanke"] },
+    { "display": "Antonín Kinský", "detail": "6.153 km", "accept": ["antonin kinsky", "antonín kinský", "kinsky", "kinský"] }
+  ]
+}

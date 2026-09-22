@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who covered the most distance for Chelsea in Matchweek 5 of the 2026/27 Premier League season",
+  "note": "distance covered (km) · Matchweek 5, 2026/27 only · includes subs and goalkeepers · ties by fewer minutes, then higher top speed · FotMob/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Pep Chavarría", "detail": "11.681 km", "accept": ["pep chavarria", "pep chavarría", "chavarria", "chavarría"] },
+    { "display": "Jordan Henderson", "detail": "11.625 km", "accept": ["jordan henderson", "henderson"] },
+    { "display": "Morgan Rogers", "detail": "11.212 km", "accept": ["morgan rogers", "rogers"] },
+    { "display": "Valentín Barco", "detail": "10.658 km", "accept": ["valentin barco", "valentín barco", "barco"] },
+    { "display": "Cole Palmer", "detail": "10.159 km", "accept": ["cole palmer", "palmer"] },
+    { "display": "Levi Colwill", "detail": "9.918 km", "accept": ["levi colwill", "colwill"] },
+    { "display": "Maxence Lacroix", "detail": "9.899 km", "accept": ["maxence lacroix", "lacroix"] },
+    { "display": "Pedro Neto", "detail": "8.979 km", "accept": ["pedro neto", "neto"] },
+    { "display": "Danny Welbeck", "detail": "8.062 km", "accept": ["danny welbeck", "welbeck"] },
+    { "display": "Wesley Fofana", "detail": "7.380 km", "accept": ["wesley fofana", "fofana"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who covered the most distance for Arsenal in Matchweek 5 of the 2026/27 Premier League season",
+  "note": "distance covered (km) · Matchweek 5, 2026/27 only · includes subs and goalkeepers · ties by fewer minutes, then higher top speed · FotMob/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Kai Havertz", "detail": "11.927 km", "accept": ["kai havertz", "havertz"] },
+    { "display": "Declan Rice", "detail": "11.446 km", "accept": ["declan rice", "rice"] },
+    { "display": "Riccardo Calafiori", "detail": "11.227 km", "accept": ["riccardo calafiori", "calafiori"] },
+    { "display": "Gabriel", "detail": "10.710 km", "accept": ["gabriel", "gabriel magalhaes", "gabriel magalhães"] },
+    { "display": "Ezri Konsa", "detail": "10.559 km", "accept": ["ezri konsa", "konsa"] },
+    { "display": "Martin Ødegaard", "detail": "9.215 km", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
+    { "display": "Bruno Guimarães", "detail": "8.492 km", "accept": ["bruno guimaraes", "bruno guimarães", "guimaraes", "guimarães"] },
+    { "display": "Bukayo Saka", "detail": "8.456 km", "accept": ["bukayo saka", "saka"] },
+    { "display": "Christos Tzolis", "detail": "7.972 km", "accept": ["christos tzolis", "tzolis"] },
+    { "display": "Jurriën Timber", "detail": "7.030 km", "accept": ["jurrien timber", "jurriën timber", "timber"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who covered the most distance for Man United in Matchweek 5 of the 2026/27 Premier League season",
+  "note": "distance covered (km) · Matchweek 5, 2026/27 only · includes subs and goalkeepers · ties by fewer minutes, then higher top speed · FotMob/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Youri Tielemans", "detail": "11.860 km", "accept": ["youri tielemans", "tielemans"] },
+    { "display": "Bruno Fernandes", "detail": "11.027 km", "accept": ["bruno fernandes", "bruno"] },
+    { "display": "Diogo Dalot", "detail": "10.393 km", "accept": ["diogo dalot", "dalot"] },
+    { "display": "Matheus Cunha", "detail": "10.104 km", "accept": ["matheus cunha", "cunha"] },
+    { "display": "Bryan Mbeumo", "detail": "9.972 km", "accept": ["bryan mbeumo", "mbeumo"] },
+    { "display": "Kobbie Mainoo", "detail": "9.892 km", "accept": ["kobbie mainoo", "mainoo"] },
+    { "display": "Harry Maguire", "detail": "9.684 km", "accept": ["harry maguire", "maguire"] },
+    { "display": "Lisandro Martínez", "detail": "9.575 km", "accept": ["lisandro martinez", "lisandro martínez", "martinez", "martínez"] },
+    { "display": "Luke Shaw", "detail": "9.038 km", "accept": ["luke shaw", "shaw"] },
+    { "display": "Marcus Rashford", "detail": "8.424 km", "accept": ["marcus rashford", "rashford"] }
+  ]
+}

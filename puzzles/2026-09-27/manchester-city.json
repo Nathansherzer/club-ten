@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who covered the most distance for Man City in Matchweek 5 of the 2026/27 Premier League season",
+  "note": "distance covered (km) · Matchweek 5, 2026/27 only · includes subs and goalkeepers · ties by fewer minutes, then higher top speed · FotMob/Opta",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Enzo Fernández", "detail": "11.548 km", "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández"] },
+    { "display": "Joško Gvardiol", "detail": "11.073 km", "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"] },
+    { "display": "Elliot Anderson", "detail": "10.930 km", "accept": ["elliot anderson", "anderson"] },
+    { "display": "Rúben Dias", "detail": "10.526 km", "accept": ["ruben dias", "rúben dias", "dias"] },
+    { "display": "Rayan Cherki", "detail": "10.266 km", "accept": ["rayan cherki", "cherki"] },
+    { "display": "Marc Guéhi", "detail": "10.183 km", "accept": ["marc guehi", "marc guéhi", "guehi", "guéhi"] },
+    { "display": "Antoine Semenyo", "detail": "10.064 km", "accept": ["antoine semenyo", "semenyo"] },
+    { "display": "Erling Haaland", "detail": "9.787 km", "accept": ["erling haaland", "haaland"] },
+    { "display": "Matheus Nunes", "detail": "9.399 km", "accept": ["matheus nunes", "nunes"] },
+    { "display": "Iliman Ndiaye", "detail": "8.402 km", "accept": ["iliman ndiaye", "ndiaye"] }
+  ]
+}
