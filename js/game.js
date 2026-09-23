@@ -476,7 +476,11 @@ function restoreState(saved) {
     }
     playAreaEl.style.display = "none";
     showEndCard(saved.won);
-    adEl.style.display = "block";
+    // #adBelowGame was removed from the pages when the ad placeholders
+    // were dropped, so this is null. endGame() already guards the same
+    // write; this path did not, and threw for anyone reopening a
+    // finished puzzle.
+    if (adEl) adEl.style.display = "block";
   } else {
     setFeedback(`${found.size} found · ${lives} ${lives === 1 ? "life" : "lives"} left. Keep going!`);
     // Same reasoning as the fresh-puzzle path above — this also runs on
