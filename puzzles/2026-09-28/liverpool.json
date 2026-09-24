@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-28",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who made the most Premier League passes for Liverpool during Matchweeks 1 to 5 of the 2026/27 season",
+  "note": "PL Total Passes (attempted, not just completed) · Matchweeks 1–5, 2026/27 only · all positions eligible · ties share rank · Opta/PL official stats",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Virgil van Dijk", "detail": "422 passes", "accept": ["virgil van dijk", "van dijk"] },
+    { "display": "Jérémy Jacquet", "detail": "353 passes", "accept": ["jeremy jacquet", "jérémy jacquet", "jacquet"] },
+    { "display": "Dominik Szoboszlai", "detail": "292 passes", "accept": ["dominik szoboszlai", "szoboszlai"] },
+    { "display": "Florian Wirtz", "detail": "225 passes", "accept": ["florian wirtz", "wirtz"] },
+    { "display": "Alexis Mac Allister", "detail": "182 passes", "accept": ["alexis mac allister", "mac allister"] },
+    { "display": "Ronald Araujo", "detail": "170 passes", "accept": ["ronald araujo", "araujo"] },
+    { "display": "Miloš Kerkez", "detail": "169 passes", "accept": ["milos kerkez", "miloš kerkez", "kerkez"] },
+    { "display": "Alisson Becker", "detail": "151 passes", "accept": ["alisson becker", "alisson"] },
+    { "display": "Cody Gakpo", "detail": "123 passes", "accept": ["cody gakpo", "gakpo"] },
+    { "display": "Ryan Gravenberch", "detail": "106 passes", "accept": ["ryan gravenberch", "gravenberch"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-28",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who made the most Premier League passes for Spurs during Matchweeks 1 to 5 of the 2026/27 season",
+  "note": "PL Total Passes (attempted, not just completed) · Matchweeks 1–5, 2026/27 only · all positions eligible · ties share rank · Opta/PL official stats",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Jan Paul van Hecke", "detail": "390 passes", "accept": ["jan paul van hecke", "van hecke"] },
+    { "display": "Micky van de Ven", "detail": "304 passes", "accept": ["micky van de ven", "van de ven"] },
+    { "display": "Sandro Tonali", "detail": "293 passes", "accept": ["sandro tonali", "tonali"] },
+    { "display": "Rodrigo Bentancur", "detail": "254 passes", "accept": ["rodrigo bentancur", "bentancur"] },
+    { "display": "Andy Robertson", "detail": "243 passes", "accept": ["andy robertson", "andrew robertson", "robertson"] },
+    { "display": "Mateus Fernandes", "detail": "171 passes", "accept": ["mateus fernandes", "fernandes"] },
+    { "display": "Antonín Kinský", "detail": "155 passes", "accept": ["antonin kinsky", "antonín kinský", "kinsky", "kinský"] },
+    { "display": "Archie Gray", "detail": "139 passes", "accept": ["archie gray", "gray"] },
+    { "display": "Pedro Porro", "detail": "104 passes", "accept": ["pedro porro", "porro"] },
+    { "display": "Sávio", "detail": "94 passes", "accept": ["savio", "sávio"] }
+  ]
+}

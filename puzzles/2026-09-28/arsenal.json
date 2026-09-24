@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-28",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who made the most Premier League passes for Arsenal during Matchweeks 1 to 5 of the 2026/27 season",
+  "note": "PL Total Passes (attempted, not just completed) · Matchweeks 1–5, 2026/27 only · all positions eligible · ties share rank · Opta/PL official stats",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Declan Rice", "detail": "348 passes", "accept": ["declan rice", "rice"] },
+    { "display": "Gabriel Magalhães", "detail": "277 passes", "accept": ["gabriel magalhaes", "gabriel magalhães", "gabriel"] },
+    { "display": "Martin Ødegaard", "detail": "241 passes", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
+    { "display": "Myles Lewis-Skelly", "detail": "192 passes", "accept": ["myles lewis-skelly", "lewis-skelly", "lewis skelly"] },
+    { "display": "David Raya", "detail": "164 passes", "accept": ["david raya", "raya"] },
+    { "display": "Ben White", "detail": "162 passes", "accept": ["ben white", "white"] },
+    { "display": "Bukayo Saka", "detail": "157 passes", "accept": ["bukayo saka", "saka"] },
+    { "display": "Ezri Konsa", "detail": "148 passes", "accept": ["ezri konsa", "konsa"] },
+    { "display": "Riccardo Calafiori", "detail": "135 passes", "accept": ["riccardo calafiori", "calafiori"] },
+    { "display": "Christos Tzolis", "detail": "134 passes", "accept": ["christos tzolis", "tzolis"] }
+  ]
+}

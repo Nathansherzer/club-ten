@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-28",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who made the most Premier League passes for Chelsea during Matchweeks 1 to 5 of the 2026/27 season",
+  "note": "PL Total Passes (attempted, not just completed) · Matchweeks 1–5, 2026/27 only · all positions eligible · ties share rank · Opta/PL official stats",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Levi Colwill", "detail": "193 passes", "accept": ["levi colwill", "colwill"] },
+    { "display": "Reece James", "detail": "188 passes", "accept": ["reece james", "james"] },
+    { "display": "Maxence Lacroix", "detail": "186 passes", "accept": ["maxence lacroix", "lacroix"] },
+    { "display": "Wesley Fofana", "detail": "170 passes", "accept": ["wesley fofana", "fofana"] },
+    { "display": "Cole Palmer", "detail": "169 passes", "accept": ["cole palmer", "palmer"] },
+    { "display": "Morgan Rogers", "detail": "135 passes", "accept": ["morgan rogers", "rogers"] },
+    { "display": "Emiliano Martínez", "detail": "122 passes", "accept": ["emiliano martinez", "emiliano martínez", "martinez", "martínez"] },
+    { "display": "Roméo Lavia", "detail": "113 passes", "accept": ["romeo lavia", "roméo lavia", "lavia"] },
+    { "display": "Malo Gusto", "detail": "108 passes", "accept": ["malo gusto", "gusto"] },
+    { "display": "Pedro Neto", "detail": "108 passes", "accept": ["pedro neto", "neto"] }
+  ]
+}

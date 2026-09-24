@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-28",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who made the most Premier League passes for Man City during Matchweeks 1 to 5 of the 2026/27 season",
+  "note": "PL Total Passes (attempted, not just completed) · Matchweeks 1–5, 2026/27 only · all positions eligible · ties share rank · Opta/PL official stats",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Elliot Anderson", "detail": "439 passes", "accept": ["elliot anderson", "anderson"] },
+    { "display": "Rúben Dias", "detail": "438 passes", "accept": ["ruben dias", "rúben dias", "dias"] },
+    { "display": "Marc Guéhi", "detail": "409 passes", "accept": ["marc guehi", "marc guéhi", "guehi", "guéhi"] },
+    { "display": "Abdukodir Khusanov", "detail": "257 passes", "accept": ["abdukodir khusanov", "khusanov"] },
+    { "display": "Rayan Cherki", "detail": "253 passes", "accept": ["rayan cherki", "cherki"] },
+    { "display": "Joško Gvardiol", "detail": "232 passes", "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"] },
+    { "display": "Antoine Semenyo", "detail": "169 passes", "accept": ["antoine semenyo", "semenyo"] },
+    { "display": "Enzo Fernández", "detail": "165 passes", "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández"] },
+    { "display": "Gianluigi Donnarumma", "detail": "138 passes", "accept": ["gianluigi donnarumma", "donnarumma"] },
+    { "display": "Phil Foden", "detail": "128 passes", "accept": ["phil foden", "foden"] }
+  ]
+}

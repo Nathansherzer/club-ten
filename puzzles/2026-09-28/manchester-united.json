@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-28",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who made the most Premier League passes for Man United during Matchweeks 1 to 5 of the 2026/27 season",
+  "note": "PL Total Passes (attempted, not just completed) · Matchweeks 1–5, 2026/27 only · all positions eligible · ties share rank · Opta/PL official stats",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Youri Tielemans", "detail": "346 passes", "accept": ["youri tielemans", "tielemans"] },
+    { "display": "Bruno Fernandes", "detail": "325 passes", "accept": ["bruno fernandes", "bruno"] },
+    { "display": "Harry Maguire", "detail": "321 passes", "accept": ["harry maguire", "maguire"] },
+    { "display": "Kobbie Mainoo", "detail": "293 passes", "accept": ["kobbie mainoo", "mainoo"] },
+    { "display": "Lisandro Martínez", "detail": "284 passes", "accept": ["lisandro martinez", "lisandro martínez", "martinez", "martínez"] },
+    { "display": "Luke Shaw", "detail": "199 passes", "accept": ["luke shaw", "shaw"] },
+    { "display": "Diogo Dalot", "detail": "163 passes", "accept": ["diogo dalot", "dalot"] },
+    { "display": "Bryan Mbeumo", "detail": "156 passes", "accept": ["bryan mbeumo", "mbeumo"] },
+    { "display": "Marcus Rashford", "detail": "144 passes", "accept": ["marcus rashford", "rashford"] },
+    { "display": "Matheus Cunha", "detail": "131 passes", "accept": ["matheus cunha", "cunha"] }
+  ]
+}
