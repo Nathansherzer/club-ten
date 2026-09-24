@@ -7,6 +7,7 @@
   "note": "PL apps for both clubs only · player must have appeared for each · ties broken by Liverpool apps, then most recent PL appearance · through 2025/26",
   "placeholder": "Type a player's name…",
   "answers": [
+    { "display": "Virgil van Dijk", "detail": "339 apps (Liverpool 272 + Southampton 67)", "accept": ["virgil van dijk", "van dijk"] },
     { "display": "Sadio Mané", "detail": "263 apps (Liverpool 196 + Southampton 67)", "accept": ["sadio mane", "sadio mané", "mane", "mané"] },
     { "display": "Jamie Redknapp", "detail": "247 apps (Liverpool 231 + Southampton 16)", "accept": ["jamie redknapp", "redknapp"] },
     { "display": "Adam Lallana", "detail": "210 apps (Liverpool 128 + Southampton 82)", "accept": ["adam lallana", "lallana"] },
@@ -15,7 +16,6 @@
     { "display": "Dejan Lovren", "detail": "162 apps (Liverpool 131 + Southampton 31)", "accept": ["dejan lovren", "lovren"] },
     { "display": "Peter Crouch", "detail": "112 apps (Liverpool 85 + Southampton 27)", "accept": ["peter crouch", "crouch"] },
     { "display": "Danny Ings", "detail": "105 apps (Liverpool 14 + Southampton 91)", "accept": ["danny ings", "ings"] },
-    { "display": "Rickie Lambert", "detail": "100 apps (Liverpool 25 + Southampton 75)", "accept": ["rickie lambert", "lambert"] },
-    { "display": "Mark Walters", "detail": "74 apps (Liverpool 69 + Southampton 5)", "accept": ["mark walters", "walters"] }
+    { "display": "Rickie Lambert", "detail": "100 apps (Liverpool 25 + Southampton 75)", "accept": ["rickie lambert", "lambert"] }
   ]
 }
