@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-29",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players sold by Chelsea for the highest transfer fees, including summer 2026",
+  "note": "all-time sales, Transfermarkt fees in euros · includes completed summer 2026 transfers · loans, frees and swaps excluded · through 24 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Enzo Fernández", "detail": "€145.00m · Manchester City · 2026", "accept": ["enzo fernandez", "enzo fernández", "fernandez", "fernández"] },
+    { "display": "Eden Hazard", "detail": "€120.80m · Real Madrid · 2019", "accept": ["eden hazard", "hazard"] },
+    { "display": "Kai Havertz", "detail": "€75.00m · Arsenal · 2023", "accept": ["kai havertz", "havertz"] },
+    { "display": "Mason Mount", "detail": "€67.70m · Manchester United · 2023", "accept": ["mason mount", "mount"] },
+    { "display": "Diego Costa", "detail": "€60.00m · Atlético Madrid · 2018", "accept": ["diego costa", "costa"] },
+    { "display": "Oscar", "detail": "€60.00m · Shanghai SIPG · 2017", "accept": ["oscar"] },
+    { "display": "Andrey Santos", "detail": "€56.30m · Manchester United · 2026", "accept": ["andrey santos", "santos"] },
+    { "display": "Noni Madueke", "detail": "€56.00m · Arsenal · 2025", "accept": ["noni madueke", "madueke"] },
+    { "display": "Nicolas Jackson", "detail": "€55.50m · Aston Villa · 2026", "accept": ["nicolas jackson", "jackson"] },
+    { "display": "Marc Cucurella", "detail": "€55.00m · Real Madrid · 2026", "accept": ["marc cucurella", "cucurella"] }
+  ]
+}

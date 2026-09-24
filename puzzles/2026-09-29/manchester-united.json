@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-29",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players sold by Man United for the highest transfer fees, including summer 2026",
+  "note": "all-time sales, Transfermarkt fees in euros · includes completed summer 2026 transfers · loans, frees and swaps excluded · through 24 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Cristiano Ronaldo", "detail": "€94.00m · Real Madrid · 2009", "accept": ["cristiano ronaldo", "ronaldo", "cr7"] },
+    { "display": "Romelu Lukaku", "detail": "€74.00m · Inter Milan · 2019", "accept": ["romelu lukaku", "lukaku"] },
+    { "display": "Ángel Di María", "detail": "€63.00m · Paris Saint-Germain · 2015", "accept": ["angel di maria", "ángel di maría", "di maria", "di maría"] },
+    { "display": "Alejandro Garnacho", "detail": "€46.20m · Chelsea · 2025", "accept": ["alejandro garnacho", "garnacho"] },
+    { "display": "Rasmus Højlund", "detail": "€44.00m · Napoli · 2026", "accept": ["rasmus hojlund", "rasmus højlund", "hojlund", "højlund"] },
+    { "display": "Mason Greenwood", "detail": "€38.40m · Marseille · 2024", "accept": ["mason greenwood", "greenwood"] },
+    { "display": "David Beckham", "detail": "€37.50m · Real Madrid · 2003", "accept": ["david beckham", "beckham"] },
+    { "display": "Henrikh Mkhitaryan", "detail": "€34.00m · Arsenal · 2018", "accept": ["henrikh mkhitaryan", "mkhitaryan"] },
+    { "display": "Scott McTominay", "detail": "€30.50m · Napoli · 2024", "accept": ["scott mctominay", "mctominay"] },
+    { "display": "Daniel James", "detail": "€29.10m · Leeds United · 2021", "accept": ["daniel james", "james"] }
+  ]
+}

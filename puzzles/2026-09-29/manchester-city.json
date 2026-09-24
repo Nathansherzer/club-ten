@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-29",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players sold by Man City for the highest transfer fees, including summer 2026",
+  "note": "all-time sales, Transfermarkt fees in euros · includes completed summer 2026 transfers · loans, frees and swaps excluded · through 24 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Sávio", "detail": "€87.70m · Tottenham · 2026", "accept": ["savio", "sávio", "savinho"] },
+    { "display": "Julián Álvarez", "detail": "€75.00m · Atlético Madrid · 2024", "accept": ["julian alvarez", "julián álvarez", "alvarez", "álvarez"] },
+    { "display": "Tijjani Reijnders", "detail": "€61.00m · Al-Qadsiah · 2026", "accept": ["tijjani reijnders", "reijnders"] },
+    { "display": "Rodri", "detail": "€60.00m · Barcelona · 2026", "accept": ["rodri", "rodrigo hernandez", "rodrigo hernández"] },
+    { "display": "Raheem Sterling", "detail": "€56.20m · Chelsea · 2022", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Nico González", "detail": "€56.00m · Newcastle United · 2026", "accept": ["nico gonzalez", "nico gonzález", "gonzalez", "gonzález"] },
+    { "display": "Ferran Torres", "detail": "€55.00m · Barcelona · 2022", "accept": ["ferran torres", "torres"] },
+    { "display": "Gabriel Jesus", "detail": "€52.00m · Arsenal · 2022", "accept": ["gabriel jesus", "jesus"] },
+    { "display": "Leroy Sané", "detail": "€49.00m · Bayern Munich · 2020", "accept": ["leroy sane", "leroy sané", "sane", "sané"] },
+    { "display": "Cole Palmer", "detail": "€47.00m · Chelsea · 2023", "accept": ["cole palmer", "palmer"] }
+  ]
+}

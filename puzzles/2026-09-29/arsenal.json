@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-29",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players sold by Arsenal for the highest transfer fees, including summer 2026",
+  "note": "all-time sales, Transfermarkt fees in euros · includes completed summer 2026 transfers · loans, frees and swaps excluded · through 24 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Gabriel Martinelli", "detail": "€70.00m · Al-Hilal · 2026", "accept": ["gabriel martinelli", "martinelli"] },
+    { "display": "Alex Oxlade-Chamberlain", "detail": "€38.00m · Liverpool · 2017", "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "the ox"] },
+    { "display": "Nicolas Anelka", "detail": "€35.00m · Real Madrid · 1999", "accept": ["nicolas anelka", "anelka"] },
+    { "display": "Alexis Sánchez", "detail": "€34.00m · Manchester United · 2018", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez"] },
+    { "display": "Cesc Fàbregas", "detail": "€34.00m · Barcelona · 2011", "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"] },
+    { "display": "Emile Smith Rowe", "detail": "€31.80m · Fulham · 2024", "accept": ["emile smith rowe", "smith rowe"] },
+    { "display": "Robin van Persie", "detail": "€30.70m · Manchester United · 2012", "accept": ["robin van persie", "van persie", "rvp"] },
+    { "display": "Alex Iwobi", "detail": "€30.40m · Everton · 2019", "accept": ["alex iwobi", "iwobi"] },
+    { "display": "Folarin Balogun", "detail": "€30.00m · Monaco · 2023", "accept": ["folarin balogun", "balogun"] },
+    { "display": "Eddie Nketiah", "detail": "€29.70m · Crystal Palace · 2024", "accept": ["eddie nketiah", "nketiah"] }
+  ]
+}

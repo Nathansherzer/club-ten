@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-29",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players sold by Spurs for the highest transfer fees, including summer 2026",
+  "note": "all-time sales, Transfermarkt fees in euros · includes completed summer 2026 transfers · loans, frees and swaps excluded · through 24 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Gareth Bale", "detail": "€101.00m · Real Madrid · 2013", "accept": ["gareth bale", "bale"] },
+    { "display": "Harry Kane", "detail": "€95.00m · Bayern Munich · 2023", "accept": ["harry kane", "kane"] },
+    { "display": "Luka Vušković", "detail": "€54.00m · Brighton · 2026", "accept": ["luka vuskovic", "luka vušković", "vuskovic", "vušković"] },
+    { "display": "Kyle Walker", "detail": "€52.70m · Manchester City · 2017", "accept": ["kyle walker", "walker"] },
+    { "display": "Brennan Johnson", "detail": "€40.00m · Crystal Palace · 2026", "accept": ["brennan johnson", "johnson"] },
+    { "display": "Dimitar Berbatov", "detail": "€38.00m · Manchester United · 2008", "accept": ["dimitar berbatov", "berbatov"] },
+    { "display": "Luka Modrić", "detail": "€35.00m · Real Madrid · 2012", "accept": ["luka modric", "luka modrić", "modric", "modrić"] },
+    { "display": "Cristian Romero", "detail": "€33.00m · Atlético Madrid · 2026", "accept": ["cristian romero", "romero"] },
+    { "display": "Steven Bergwijn", "detail": "€31.25m · Ajax · 2022", "accept": ["steven bergwijn", "bergwijn"] },
+    { "display": "Djed Spence", "detail": "€30.00m · Inter Milan · 2026", "accept": ["djed spence", "spence"] }
+  ]
+}

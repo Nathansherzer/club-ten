@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-29",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players sold by Liverpool for the highest transfer fees, including summer 2026",
+  "note": "all-time sales, Transfermarkt fees in euros · includes completed summer 2026 transfers · loans, frees and swaps excluded · through 24 Sep 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Philippe Coutinho", "detail": "€135.00m · Barcelona · 2018", "accept": ["philippe coutinho", "coutinho"] },
+    { "display": "Luis Suárez", "detail": "€81.72m · Barcelona · 2014", "accept": ["luis suarez", "luis suárez", "suarez", "suárez"] },
+    { "display": "Luis Díaz", "detail": "€70.00m · Bayern Munich · 2025", "accept": ["luis diaz", "luis díaz", "diaz", "díaz"] },
+    { "display": "Raheem Sterling", "detail": "€63.70m · Manchester City · 2015", "accept": ["raheem sterling", "sterling"] },
+    { "display": "Fernando Torres", "detail": "€58.50m · Chelsea · 2011", "accept": ["fernando torres", "torres"] },
+    { "display": "Darwin Núñez", "detail": "€53.00m · Al-Hilal · 2025", "accept": ["darwin nunez", "darwin núñez", "nunez", "núñez"] },
+    { "display": "Fabinho", "detail": "€46.70m · Al-Ittihad · 2023", "accept": ["fabinho"] },
+    { "display": "Jarell Quansah", "detail": "€35.00m · Bayer Leverkusen · 2025", "accept": ["jarell quansah", "quansah"] },
+    { "display": "Xabi Alonso", "detail": "€34.50m · Real Madrid · 2009", "accept": ["xabi alonso", "alonso"] },
+    { "display": "Sadio Mané", "detail": "€32.00m · Bayern Munich · 2022", "accept": ["sadio mane", "sadio mané", "mane", "mané"] }
+  ]
+}
