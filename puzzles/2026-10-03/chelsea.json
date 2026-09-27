@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-03",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 leading Premier League scorers",
+  "note": "Premier League goals only · any order · through 26 Sep 2026 · Chelsea FC",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Frank Lampard", "detail": "147 goals", "accept": ["frank lampard", "lampard"] },
+    { "display": "Didier Drogba", "detail": "104 goals", "accept": ["didier drogba", "drogba"] },
+    { "display": "Eden Hazard", "detail": "85 goals", "accept": ["eden hazard", "hazard"] },
+    { "display": "Jimmy Floyd Hasselbaink", "detail": "69 goals", "accept": ["jimmy floyd hasselbaink", "hasselbaink"] },
+    { "display": "Gianfranco Zola", "detail": "59 goals", "accept": ["gianfranco zola", "zola"] },
+    { "display": "Eidur Gudjohnsen", "detail": "54 goals", "accept": ["eidur gudjohnsen", "gudjohnsen"] },
+    { "display": "Diego Costa", "detail": "52 goals", "accept": ["diego costa", "costa"] },
+    { "display": "Cole Palmer", "detail": "49 goals", "accept": ["cole palmer", "palmer"] },
+    { "display": "John Terry", "detail": "41 goals", "accept": ["john terry", "terry"] },
+    { "display": "Nicolas Anelka", "detail": "38 goals", "accept": ["nicolas anelka", "anelka"] }
+  ]
+}

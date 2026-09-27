@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-03",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 leading Premier League scorers",
+  "note": "Premier League goals only · any order · through 26 Sep 2026, includes 2026/27 to date · StatMuse",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Wayne Rooney", "detail": "183 goals", "accept": ["wayne rooney", "rooney"] },
+    { "display": "Ryan Giggs", "detail": "109 goals", "accept": ["ryan giggs", "giggs"] },
+    { "display": "Paul Scholes", "detail": "107 goals", "accept": ["paul scholes", "scholes"] },
+    { "display": "Cristiano Ronaldo", "detail": "103 goals", "accept": ["cristiano ronaldo", "ronaldo", "cr7"] },
+    { "display": "Ruud van Nistelrooy", "detail": "95 goals", "accept": ["ruud van nistelrooy", "van nistelrooy", "ruud"] },
+    { "display": "Andy Cole", "detail": "93 goals", "accept": ["andy cole", "andrew cole", "cole"] },
+    { "display": "Ole Gunnar Solskjær", "detail": "91 goals", "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær", "ole"] },
+    { "display": "Marcus Rashford", "detail": "87 goals", "accept": ["marcus rashford", "rashford"] },
+    { "display": "Bruno Fernandes", "detail": "74 goals", "accept": ["bruno fernandes", "fernandes", "bruno"] },
+    { "display": "Eric Cantona", "detail": "64 goals", "accept": ["eric cantona", "cantona"] }
+  ]
+}
