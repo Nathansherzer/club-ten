@@ -7,7 +7,7 @@
   "note": "distance covered (km) · Matchweek 5, 2026/27 only · includes subs and goalkeepers · ties by fewer minutes, then higher top speed · FotMob/Opta",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Andrew Robertson", "detail": "11.050 km", "accept": ["andrew robertson", "robertson"] },
+    { "display": "Andrew Robertson", "detail": "11.050 km", "accept": ["andrew robertson", "andy robertson", "robertson"] },
     { "display": "Jan Paul van Hecke", "detail": "10.712 km", "accept": ["jan paul van hecke", "van hecke"] },
     { "display": "Rodrigo Bentancur", "detail": "10.665 km", "accept": ["rodrigo bentancur", "bentancur"] },
     { "display": "Sávio", "detail": "10.336 km", "accept": ["savio", "sávio"] },
