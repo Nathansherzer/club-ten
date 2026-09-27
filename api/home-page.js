@@ -10,6 +10,12 @@
    clubs' current question with a link to that club's page. Nothing
    else in index.html is touched — the picker and hidden game shell
    are served exactly as before, so there is no hydration conflict.
+
+   Inserted right after the club-picker buttons, not above them —
+   position in the page has no bearing on whether a crawler reads it;
+   it's still real server-rendered text in the same response body
+   either way. Kept below the picker purely so a first-time visitor
+   sees "pick your club" before the day's question list.
    ========================================================== */
 
 import { readFile } from "fs/promises";
@@ -53,7 +59,8 @@ export default async function handler(req, res) {
     return res.status(500).send("Template not found.");
   }
 
-  const html = template.replace("</header>", "</header>\n" + section);
+  const anchor = `<p class="picker-hint">10 answers · 3 lives · New puzzle every day</p>\n  </div>`;
+  const html = template.replace(anchor, anchor + "\n" + section);
 
   res.setHeader("Cache-Control", "no-store");
   res.setHeader("Content-Type", "text/html; charset=utf-8");
