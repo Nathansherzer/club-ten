@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-01",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to wear the No. 7 shirt in a competitive first-team match",
+  "note": "Includes appearances before permanent squad numbers were introduced. Seasons shown are the seasons in which each player wore No. 7.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Mason Mount (2023/24–present)", "detail": "", "accept": ["mason mount", "mount"] },
+    { "display": "Cristiano Ronaldo (2003/04–2008/09, 2021/22–2022/23)", "detail": "", "accept": ["cristiano ronaldo", "ronaldo", "cr7"] },
+    { "display": "Edinson Cavani (2020/21–2021/22)", "detail": "", "accept": ["edinson cavani", "cavani"] },
+    { "display": "Alexis Sánchez (2017/18–2018/19)", "detail": "", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez", "alexis"] },
+    { "display": "Memphis Depay (2015/16–2016/17)", "detail": "", "accept": ["memphis depay", "depay", "memphis"] },
+    { "display": "Ángel Di María (2014/15)", "detail": "", "accept": ["angel di maria", "ángel di maría", "di maria", "di María"] },
+    { "display": "Antonio Valencia (2012/13–2013/14)", "detail": "", "accept": ["antonio valencia", "valencia"] },
+    { "display": "Michael Owen (2009/10–2011/12)", "detail": "", "accept": ["michael owen", "owen"] },
+    { "display": "David Beckham (1995/96, 1997/98–2002/03)", "detail": "", "accept": ["david beckham", "beckham"] },
+    { "display": "Eric Cantona (1992/93–1996/97)", "detail": "", "accept": ["eric cantona", "cantona"] }
+  ]
+}

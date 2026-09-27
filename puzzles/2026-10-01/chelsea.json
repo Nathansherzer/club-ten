@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-01",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to wear the No. 7 shirt in a competitive first-team match",
+  "note": "Includes appearances before permanent squad numbers were introduced. Seasons shown are the seasons in which each player wore No. 7.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Pedro Neto (2024/25–present)", "detail": "", "accept": ["pedro neto", "neto"] },
+    { "display": "Raheem Sterling (2023/24)", "detail": "", "accept": ["raheem sterling", "sterling"] },
+    { "display": "N'Golo Kanté (2016/17–2022/23)", "detail": "", "accept": ["ngolo kante", "n'golo kante", "kante", "kanté"] },
+    { "display": "Ramires (2010/11–2015/16)", "detail": "", "accept": ["ramires"] },
+    { "display": "Andriy Shevchenko (2006/07–2007/08, 2009/10)", "detail": "", "accept": ["andriy shevchenko", "shevchenko"] },
+    { "display": "Maniche (2005/06)", "detail": "", "accept": ["maniche"] },
+    { "display": "Adrian Mutu (2003/04–2004/05)", "detail": "", "accept": ["adrian mutu", "mutu"] },
+    { "display": "Winston Bogarde (2000/01–2002/03)", "detail": "", "accept": ["winston bogarde", "bogarde"] },
+    { "display": "Didier Deschamps (1999/00)", "detail": "", "accept": ["didier deschamps", "deschamps"] },
+    { "display": "Bjarne Goldbæk (1998/99)", "detail": "", "accept": ["bjarne goldbaek", "bjarne goldbæk", "goldbaek", "goldbæk"] }
+  ]
+}

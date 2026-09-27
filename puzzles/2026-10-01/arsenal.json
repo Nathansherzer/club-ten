@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-01",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to wear the No. 7 shirt in a competitive first-team match",
+  "note": "Includes appearances before permanent squad numbers were introduced. Seasons shown are the seasons in which each player wore No. 7.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Bukayo Saka (2020/21–present)", "detail": "", "accept": ["bukayo saka", "saka"] },
+    { "display": "Henrikh Mkhitaryan (2017/18–2019/20)", "detail": "", "accept": ["henrikh mkhitaryan", "mkhitaryan"] },
+    { "display": "Alexis Sánchez (2016/17–2017/18)", "detail": "", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez", "alexis"] },
+    { "display": "Tomáš Rosický (2006/07–2015/16)", "detail": "", "accept": ["tomas rosicky", "tomáš rosický", "rosicky", "rosický"] },
+    { "display": "Robert Pirès (2000/01–2005/06)", "detail": "", "accept": ["robert pires", "robert pirès", "pires", "pirès"] },
+    { "display": "Nelson Vivas (1998/99–1999/00)", "detail": "", "accept": ["nelson vivas", "vivas"] },
+    { "display": "David Platt (1995/96–1997/98)", "detail": "", "accept": ["david platt", "platt"] },
+    { "display": "Martin Keown (1994/95)", "detail": "", "accept": ["martin keown", "keown"] },
+    { "display": "David Hillier (1994/95)", "detail": "", "accept": ["david hillier", "hillier"] },
+    { "display": "Kevin Campbell (1992/93–1994/95)", "detail": "", "accept": ["kevin campbell", "campbell"] }
+  ]
+}

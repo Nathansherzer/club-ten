@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-01",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to wear the No. 7 shirt in a competitive first-team match",
+  "note": "Includes appearances before permanent squad numbers were introduced. Seasons shown are the seasons in which each player wore No. 7.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Florian Wirtz (2025/26–present)", "detail": "", "accept": ["florian wirtz", "wirtz"] },
+    { "display": "Luis Díaz (2023/24–2024/25)", "detail": "", "accept": ["luis diaz", "luis díaz", "diaz", "díaz"] },
+    { "display": "James Milner (2015/16–2022/23)", "detail": "", "accept": ["james milner", "milner"] },
+    { "display": "Luis Suárez (2010/11–2013/14)", "detail": "", "accept": ["luis suarez", "luis suárez", "suarez", "suárez"] },
+    { "display": "Robbie Keane (2008/09)", "detail": "", "accept": ["robbie keane", "keane"] },
+    { "display": "Harry Kewell (2003/04–2007/08)", "detail": "", "accept": ["harry kewell", "kewell"] },
+    { "display": "Vladimír Šmicer (1999/00–2002/03)", "detail": "", "accept": ["vladimir smicer", "vladimír šmicer", "smicer", "šmicer"] },
+    { "display": "Steve McManaman (1995/96–1998/99)", "detail": "", "accept": ["steve mcmanaman", "mcmanaman"] },
+    { "display": "Stan Collymore (1995/96)", "detail": "", "accept": ["stan collymore", "collymore"] },
+    { "display": "Nigel Clough (1993/94–1995/96)", "detail": "", "accept": ["nigel clough", "clough"] }
+  ]
+}
