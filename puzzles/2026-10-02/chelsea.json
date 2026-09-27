@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-02",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who played the most UEFA Champions League minutes",
+  "note": "UEFA Champions League only, excludes qualifying · through 2025/26 · ranked order · Transfermarkt",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "John Terry", "detail": "9,723 mins", "accept": ["john terry", "terry"] },
+    { "display": "Frank Lampard", "detail": "8,489 mins", "accept": ["frank lampard", "lampard"] },
+    { "display": "Petr Čech", "detail": "8,465 mins", "accept": ["petr cech", "petr čech", "cech", "čech"] },
+    { "display": "Didier Drogba", "detail": "5,759 mins", "accept": ["didier drogba", "drogba"] },
+    { "display": "Ashley Cole", "detail": "5,393 mins", "accept": ["ashley cole", "cole"] },
+    { "display": "Branislav Ivanović", "detail": "5,280 mins", "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"] },
+    { "display": "César Azpilicueta", "detail": "5,213 mins", "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta"] },
+    { "display": "Claude Makélélé", "detail": "4,305 mins", "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé"] },
+    { "display": "Ricardo Carvalho", "detail": "4,201 mins", "accept": ["ricardo carvalho", "carvalho"] },
+    { "display": "John Obi Mikel", "detail": "4,122 mins", "accept": ["john obi mikel", "obi mikel", "mikel"] }
+  ]
+}
