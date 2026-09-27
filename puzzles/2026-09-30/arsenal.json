@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-30",
+  "club": "arsenal",
+  "type": "clubs",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the last 10 different clubs to knock Arsenal out of the FA Cup",
+  "note": "one entry per opponent, most recent meeting only · newest first · 2026/27 in progress, excluded · through 25 Sep 2026",
+  "placeholder": "Type a club name…",
+  "answers": [
+    { "display": "Southampton", "detail": "04 Apr 2026 · Quarter-final · Southampton 2-1 Arsenal", "accept": ["southampton"] },
+    { "display": "Manchester United", "detail": "12 Jan 2025 · 3rd round · Arsenal 1-1 (pens 3-5)", "accept": ["manchester united", "man united", "man utd"] },
+    { "display": "Liverpool", "detail": "07 Jan 2024 · 3rd round · Arsenal 0-2", "accept": ["liverpool"] },
+    { "display": "Manchester City", "detail": "27 Jan 2023 · 4th round · Man City 1-0 Arsenal", "accept": ["manchester city", "man city"] },
+    { "display": "Nottingham Forest", "detail": "09 Jan 2022 · 3rd round · Nottingham Forest 1-0 Arsenal", "accept": ["nottingham forest", "forest"] },
+    { "display": "Watford", "detail": "13 Mar 2016 · 6th round · Arsenal 1-2", "accept": ["watford"] },
+    { "display": "Blackburn Rovers", "detail": "16 Feb 2013 · 5th round · Arsenal 0-1", "accept": ["blackburn rovers", "blackburn"] },
+    { "display": "Sunderland", "detail": "18 Feb 2012 · 5th round · Sunderland 2-0 Arsenal", "accept": ["sunderland"] },
+    { "display": "Stoke City", "detail": "24 Jan 2010 · 4th round · Stoke City 3-1 Arsenal", "accept": ["stoke city", "stoke"] },
+    { "display": "Chelsea", "detail": "18 Apr 2009 · Semi-final · Arsenal 1-2", "accept": ["chelsea"] }
+  ]
+}
