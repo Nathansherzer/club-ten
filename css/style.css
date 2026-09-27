@@ -759,6 +759,28 @@ header .logo a:hover { opacity: 0.85; }
 }
 .club-switch-links a:hover { border-color: var(--green); }
 
+/* Today's Club Ten challenges (homepage) */
+.today-challenges-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.today-challenges-list a {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--slot-border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.88rem;
+}
+.today-challenges-list a:hover { border-color: var(--green); }
+.today-challenges-list strong { color: var(--green); }
+
+/* All puzzles, by club (archive page) */
+.archive-ssr-club h3 { font-size: 0.9rem; color: var(--green); margin: 16px 0 6px; }
+.archive-ssr-club ul { list-style: none; padding: 0; }
+.archive-ssr-club li { margin-bottom: 5px; }
+.archive-ssr-club a { color: var(--text); text-decoration: none; font-size: 0.82rem; }
+.archive-ssr-club a:hover { color: var(--green); }
+
 /* Breadcrumb on dated puzzle pages */
 .breadcrumb { font-size: 0.78rem; color: var(--muted); margin-bottom: 12px; }
 .breadcrumb a { color: var(--green); text-decoration: none; }
