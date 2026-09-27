@@ -77,7 +77,7 @@ async function loadBanks() {
     try {
       const raw = await readFile(join(ROOT, "data", filename), "utf-8");
       const names = JSON.parse(raw);
-      banks[type] = { set: new Set(names), array: names };
+      banks[type] = { set: new Set(names.map(norm)), array: names };
     } catch {
       banks[type] = null; // bank file missing/unreadable — skip that check, don't crash
     }
@@ -165,7 +165,7 @@ async function validateFile(path, banks) {
   const bank = banks[type];
   if (bank) {
     data.answers.forEach(ans => {
-      if (ans.display && !bank.set.has(ans.display)) {
+      if (ans.display && !bank.set.has(norm(ans.display))) {
         errors.push(`${rel}: "${ans.display}" not found in ${BANK_FILES[type]} — no autocomplete suggestion will appear`);
       }
     });

@@ -7,15 +7,87 @@
   "note": "Includes appearances before permanent squad numbers were introduced. Seasons shown are the seasons in which each player wore No. 7.",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Pedro Neto (2024/25–present)", "detail": "", "accept": ["pedro neto", "neto"] },
-    { "display": "Raheem Sterling (2023/24)", "detail": "", "accept": ["raheem sterling", "sterling"] },
-    { "display": "N'Golo Kanté (2016/17–2022/23)", "detail": "", "accept": ["ngolo kante", "n'golo kante", "kante", "kanté"] },
-    { "display": "Ramires (2010/11–2015/16)", "detail": "", "accept": ["ramires"] },
-    { "display": "Andriy Shevchenko (2006/07–2007/08, 2009/10)", "detail": "", "accept": ["andriy shevchenko", "shevchenko"] },
-    { "display": "Maniche (2005/06)", "detail": "", "accept": ["maniche"] },
-    { "display": "Adrian Mutu (2003/04–2004/05)", "detail": "", "accept": ["adrian mutu", "mutu"] },
-    { "display": "Winston Bogarde (2000/01–2002/03)", "detail": "", "accept": ["winston bogarde", "bogarde"] },
-    { "display": "Didier Deschamps (1999/00)", "detail": "", "accept": ["didier deschamps", "deschamps"] },
-    { "display": "Bjarne Goldbæk (1998/99)", "detail": "", "accept": ["bjarne goldbaek", "bjarne goldbæk", "goldbaek", "goldbæk"] }
+    {
+      "display": "Pedro Neto",
+      "detail": "2024/25–present",
+      "accept": [
+        "pedro neto",
+        "neto"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "2023/24",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "N'Golo Kanté",
+      "detail": "2016/17–2022/23",
+      "accept": [
+        "ngolo kante",
+        "n'golo kante",
+        "kante",
+        "kanté"
+      ]
+    },
+    {
+      "display": "Ramires",
+      "detail": "2010/11–2015/16",
+      "accept": [
+        "ramires"
+      ]
+    },
+    {
+      "display": "Andriy Shevchenko",
+      "detail": "2006/07–2007/08, 2009/10",
+      "accept": [
+        "andriy shevchenko",
+        "shevchenko"
+      ]
+    },
+    {
+      "display": "Maniche",
+      "detail": "2005/06",
+      "accept": [
+        "maniche"
+      ]
+    },
+    {
+      "display": "Adrian Mutu",
+      "detail": "2003/04–2004/05",
+      "accept": [
+        "adrian mutu",
+        "mutu"
+      ]
+    },
+    {
+      "display": "Winston Bogarde",
+      "detail": "2000/01–2002/03",
+      "accept": [
+        "winston bogarde",
+        "bogarde"
+      ]
+    },
+    {
+      "display": "Didier Deschamps",
+      "detail": "1999/00",
+      "accept": [
+        "didier deschamps",
+        "deschamps"
+      ]
+    },
+    {
+      "display": "Bjarne Goldbæk",
+      "detail": "1998/99",
+      "accept": [
+        "bjarne goldbaek",
+        "bjarne goldbæk",
+        "goldbaek",
+        "goldbæk"
+      ]
+    }
   ]
 }

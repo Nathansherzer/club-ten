@@ -7,15 +7,86 @@
   "note": "Includes appearances before permanent squad numbers were introduced. Seasons shown are the seasons in which each player wore No. 7.",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Iliman Ndiaye (2026/27–present)", "detail": "", "accept": ["iliman ndiaye", "ndiaye"] },
-    { "display": "Omar Marmoush (2024/25–2026/27)", "detail": "", "accept": ["omar marmoush", "marmoush"] },
-    { "display": "João Cancelo (2022/23)", "detail": "", "accept": ["joao cancelo", "joão cancelo", "cancelo"] },
-    { "display": "Raheem Sterling (2015/16–2021/22)", "detail": "", "accept": ["raheem sterling", "sterling"] },
-    { "display": "James Milner (2010/11–2014/15)", "detail": "", "accept": ["james milner", "milner"] },
-    { "display": "Stephen Ireland (2006/07–2009/10)", "detail": "", "accept": ["stephen ireland", "ireland"] },
-    { "display": "Robbie Fowler (2005/06)", "detail": "", "accept": ["robbie fowler", "fowler"] },
-    { "display": "Darren Huckerby (2001/02–2003/04)", "detail": "", "accept": ["darren huckerby", "huckerby"] },
-    { "display": "Spencer Prior (1999/00–2000/01)", "detail": "", "accept": ["spencer prior", "prior"] },
-    { "display": "Jamie Pollock (1999/00)", "detail": "", "accept": ["jamie pollock", "pollock"] }
+    {
+      "display": "Iliman Ndiaye",
+      "detail": "2026/27–present",
+      "accept": [
+        "iliman ndiaye",
+        "ndiaye"
+      ]
+    },
+    {
+      "display": "Omar Marmoush",
+      "detail": "2024/25–2026/27",
+      "accept": [
+        "omar marmoush",
+        "marmoush"
+      ]
+    },
+    {
+      "display": "João Cancelo",
+      "detail": "2022/23",
+      "accept": [
+        "joao cancelo",
+        "joão cancelo",
+        "cancelo"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "2015/16–2021/22",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "2010/11–2014/15",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Stephen Ireland",
+      "detail": "2006/07–2009/10",
+      "accept": [
+        "stephen ireland",
+        "ireland"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "2005/06",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Darren Huckerby",
+      "detail": "2001/02–2003/04",
+      "accept": [
+        "darren huckerby",
+        "huckerby"
+      ]
+    },
+    {
+      "display": "Spencer Prior",
+      "detail": "1999/00–2000/01",
+      "accept": [
+        "spencer prior",
+        "prior"
+      ]
+    },
+    {
+      "display": "Jamie Pollock",
+      "detail": "1999/00",
+      "accept": [
+        "jamie pollock",
+        "pollock"
+      ]
+    }
   ]
 }

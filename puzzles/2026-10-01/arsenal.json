@@ -7,15 +7,92 @@
   "note": "Includes appearances before permanent squad numbers were introduced. Seasons shown are the seasons in which each player wore No. 7.",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Bukayo Saka (2020/21–present)", "detail": "", "accept": ["bukayo saka", "saka"] },
-    { "display": "Henrikh Mkhitaryan (2017/18–2019/20)", "detail": "", "accept": ["henrikh mkhitaryan", "mkhitaryan"] },
-    { "display": "Alexis Sánchez (2016/17–2017/18)", "detail": "", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez", "alexis"] },
-    { "display": "Tomáš Rosický (2006/07–2015/16)", "detail": "", "accept": ["tomas rosicky", "tomáš rosický", "rosicky", "rosický"] },
-    { "display": "Robert Pirès (2000/01–2005/06)", "detail": "", "accept": ["robert pires", "robert pirès", "pires", "pirès"] },
-    { "display": "Nelson Vivas (1998/99–1999/00)", "detail": "", "accept": ["nelson vivas", "vivas"] },
-    { "display": "David Platt (1995/96–1997/98)", "detail": "", "accept": ["david platt", "platt"] },
-    { "display": "Martin Keown (1994/95)", "detail": "", "accept": ["martin keown", "keown"] },
-    { "display": "David Hillier (1994/95)", "detail": "", "accept": ["david hillier", "hillier"] },
-    { "display": "Kevin Campbell (1992/93–1994/95)", "detail": "", "accept": ["kevin campbell", "campbell"] }
+    {
+      "display": "Bukayo Saka",
+      "detail": "2020/21–present",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Henrikh Mkhitaryan",
+      "detail": "2017/18–2019/20",
+      "accept": [
+        "henrikh mkhitaryan",
+        "mkhitaryan"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "2016/17–2017/18",
+      "accept": [
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Tomáš Rosický",
+      "detail": "2006/07–2015/16",
+      "accept": [
+        "tomas rosicky",
+        "tomáš rosický",
+        "rosicky",
+        "rosický"
+      ]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "2000/01–2005/06",
+      "accept": [
+        "robert pires",
+        "robert pirès",
+        "pires",
+        "pirès"
+      ]
+    },
+    {
+      "display": "Nelson Vivas",
+      "detail": "1998/99–1999/00",
+      "accept": [
+        "nelson vivas",
+        "vivas"
+      ]
+    },
+    {
+      "display": "David Platt",
+      "detail": "1995/96–1997/98",
+      "accept": [
+        "david platt",
+        "platt"
+      ]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "1994/95",
+      "accept": [
+        "martin keown",
+        "keown"
+      ]
+    },
+    {
+      "display": "David Hillier",
+      "detail": "1994/95",
+      "accept": [
+        "david hillier",
+        "hillier"
+      ]
+    },
+    {
+      "display": "Kevin Campbell",
+      "detail": "1992/93–1994/95",
+      "accept": [
+        "kevin campbell",
+        "campbell"
+      ]
+    }
   ]
 }

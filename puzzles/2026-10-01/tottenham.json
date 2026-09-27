@@ -7,15 +7,86 @@
   "note": "Includes appearances before permanent squad numbers were introduced. Seasons shown are the seasons in which each player wore No. 7.",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Xavi Simons (2025/26–present)", "detail": "", "accept": ["xavi simons", "simons"] },
-    { "display": "Son Heung-min (2015/16–2024/25)", "detail": "", "accept": ["son heung-min", "son", "sonny"] },
-    { "display": "Aaron Lennon (2008/09–2014/15)", "detail": "", "accept": ["aaron lennon", "lennon"] },
-    { "display": "Paul Stalteri (2005/06–2007/08)", "detail": "", "accept": ["paul stalteri", "stalteri"] },
-    { "display": "Simon Davies (2004/05)", "detail": "", "accept": ["simon davies", "davies"] },
-    { "display": "Darren Anderton (1992/93, 1999/00–2003/04)", "detail": "", "accept": ["darren anderton", "anderton"] },
-    { "display": "Ruel Fox (1995/96–1998/99)", "detail": "", "accept": ["ruel fox", "fox"] },
-    { "display": "Nick Barmby (1992/93–1994/95)", "detail": "", "accept": ["nick barmby", "barmby"] },
-    { "display": "David Howells (1992/93)", "detail": "", "accept": ["david howells", "howells"] },
-    { "display": "Steve Sedgley (1992/93)", "detail": "", "accept": ["steve sedgley", "sedgley"] }
+    {
+      "display": "Xavi Simons",
+      "detail": "2025/26–present",
+      "accept": [
+        "xavi simons",
+        "simons"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "2015/16–2024/25",
+      "accept": [
+        "son heung-min",
+        "son",
+        "sonny"
+      ]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "2008/09–2014/15",
+      "accept": [
+        "aaron lennon",
+        "lennon"
+      ]
+    },
+    {
+      "display": "Paul Stalteri",
+      "detail": "2005/06–2007/08",
+      "accept": [
+        "paul stalteri",
+        "stalteri"
+      ]
+    },
+    {
+      "display": "Simon Davies",
+      "detail": "2004/05",
+      "accept": [
+        "simon davies",
+        "davies"
+      ]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail": "1992/93, 1999/00–2003/04",
+      "accept": [
+        "darren anderton",
+        "anderton"
+      ]
+    },
+    {
+      "display": "Ruel Fox",
+      "detail": "1995/96–1998/99",
+      "accept": [
+        "ruel fox",
+        "fox"
+      ]
+    },
+    {
+      "display": "Nick Barmby",
+      "detail": "1992/93–1994/95",
+      "accept": [
+        "nick barmby",
+        "barmby"
+      ]
+    },
+    {
+      "display": "David Howells",
+      "detail": "1992/93",
+      "accept": [
+        "david howells",
+        "howells"
+      ]
+    },
+    {
+      "display": "Steve Sedgley",
+      "detail": "1992/93",
+      "accept": [
+        "steve sedgley",
+        "sedgley"
+      ]
+    }
   ]
 }
