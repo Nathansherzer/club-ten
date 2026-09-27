@@ -12,18 +12,9 @@
 import { readdir } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
+import { londonToday, puzzleNumber } from "../lib/puzzle-meta.js";
 
-const ROOT        = join(dirname(fileURLToPath(import.meta.url)), "..");
-const LAUNCH_DATE = "2026-07-15"; // Puzzle #1
-
-function londonToday() {
-  return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
-}
-
-function puzzleNumber(dateStr) {
-  const diff = new Date(dateStr + "T12:00:00Z") - new Date(LAUNCH_DATE + "T12:00:00Z");
-  return Math.floor(diff / 86400000) + 1;
-}
+const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 export default async function handler(req, res) {
   if (req.method !== "GET") {

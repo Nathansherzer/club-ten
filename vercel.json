@@ -33,13 +33,16 @@
     { "source": "/football-top-10-quiz",            "destination": "/",                  "permanent": true }
   ],
   "functions": {
-    "api/puzzle.js":      { "includeFiles": "puzzles/**" },
-    "api/archive.js":     { "includeFiles": "puzzles/**" },
-    "api/guess.js":       { "includeFiles": "puzzles/**" },
-    "api/reveal.js":      { "includeFiles": "puzzles/**" },
-    "api/puzzle-page.js": { "includeFiles": "puzzles/**" },
-    "api/sitemap.js":     { "includeFiles": "puzzles/**" },
-    "api/blog-post.js":   { "includeFiles": "blog-src/**" }
+    "api/puzzle.js":       { "includeFiles": "puzzles/**" },
+    "api/archive.js":      { "includeFiles": "puzzles/**" },
+    "api/guess.js":        { "includeFiles": "puzzles/**" },
+    "api/reveal.js":       { "includeFiles": "puzzles/**" },
+    "api/puzzle-page.js":  { "includeFiles": "puzzles/**" },
+    "api/sitemap.js":      { "includeFiles": "puzzles/**" },
+    "api/blog-post.js":    { "includeFiles": "blog-src/**" },
+    "api/home-page.js":    { "includeFiles": "{puzzles/**,templates/index.html}" },
+    "api/archive-page.js": { "includeFiles": "{puzzles/**,templates/archive.html}" },
+    "api/club-page.js":    { "includeFiles": "{puzzles/**,templates/*.html}" }
   },
   "crons": [
     { "path": "/api/indexnow", "schedule": "5 0 * * *" }
@@ -47,6 +50,16 @@
   "rewrites": [
     { "source": "/sitemap.xml", "destination": "/api/sitemap" },
     { "source": "/blog/:slug",  "destination": "/api/blog-post?slug=:slug" },
+
+    { "source": "/",       "destination": "/api/home-page" },
+    { "source": "/archive", "destination": "/api/archive-page" },
+
+    { "source": "/arsenal",                 "destination": "/api/club-page?club=arsenal" },
+    { "source": "/chelsea",                 "destination": "/api/club-page?club=chelsea" },
+    { "source": "/liverpool",               "destination": "/api/club-page?club=liverpool" },
+    { "source": "/manchester-city",         "destination": "/api/club-page?club=manchester-city" },
+    { "source": "/manchester-united",       "destination": "/api/club-page?club=manchester-united" },
+    { "source": "/tottenham",               "destination": "/api/club-page?club=tottenham" },
 
     { "source": "/arsenal/:date",           "destination": "/api/puzzle-page?club=arsenal&date=:date" },
     { "source": "/chelsea/:date",           "destination": "/api/puzzle-page?club=chelsea&date=:date" },

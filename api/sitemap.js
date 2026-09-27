@@ -3,7 +3,8 @@
    URL: GET /sitemap.xml  (via vercel.json rewrite)
 
    Lists only the quality pages we want indexed: homepage, the
-   six club pages, /how-to-play, /blog + posts, and /archive.
+   six club pages, /how-to-play, /blog + posts, /archive, /about,
+   /privacy and /contact.
    Thin dated puzzle pages (/{club}/{date}) are intentionally
    excluded — they are noindex,follow and reachable via /archive
    for crawling. The old /{club}-football-quiz and
@@ -26,6 +27,9 @@ const STATIC = [
   { loc: "/how-to-play",                   changefreq: "monthly", priority: "0.5" },
   { loc: "/blog",                          changefreq: "weekly",  priority: "0.7" },
   { loc: "/archive",                       changefreq: "daily",   priority: "0.6" },
+  { loc: "/about",                         changefreq: "monthly", priority: "0.6" },
+  { loc: "/privacy",                       changefreq: "monthly", priority: "0.3" },
+  { loc: "/contact",                       changefreq: "monthly", priority: "0.3" },
 ];
 
 function londonToday() {

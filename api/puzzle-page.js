@@ -6,63 +6,15 @@
    so Google can index the question text. No answers shown.
    ========================================================== */
 
-import { readFile, readdir } from "fs/promises";
+import { readdir } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
+import {
+  VALID_CLUBS, CLUB_NAMES, CLUB_COLOURS,
+  londonToday, puzzleNumber, formatDate, esc, capitalize, loadPuzzle
+} from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-
-const VALID_CLUBS = new Set([
-  "arsenal", "chelsea", "liverpool",
-  "manchester-city", "manchester-united", "tottenham"
-]);
-
-const CLUB_NAMES = {
-  "arsenal":           "Arsenal",
-  "chelsea":           "Chelsea",
-  "liverpool":         "Liverpool",
-  "manchester-city":   "Man City",
-  "manchester-united": "Man United",
-  "tottenham":         "Spurs"
-};
-
-const CLUB_COLOURS = {
-  "arsenal":           "#EF0107",
-  "chelsea":           "#034694",
-  "liverpool":         "#C8102E",
-  "manchester-city":   "#6CABDD",
-  "manchester-united": "#DA291C",
-  "tottenham":         "#132257"
-};
-
-const LAUNCH_DATE = "2026-07-15";
-
-function londonToday() {
-  return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
-}
-
-function puzzleNumber(dateStr) {
-  const diff = new Date(dateStr + "T12:00:00Z") - new Date(LAUNCH_DATE + "T12:00:00Z");
-  return Math.floor(diff / 86400000) + 1;
-}
-
-function formatDate(iso) {
-  return new Date(iso + "T12:00:00Z").toLocaleDateString("en-GB", {
-    weekday: "long", day: "numeric", month: "long", year: "numeric"
-  });
-}
-
-function esc(s) {
-  return String(s ?? "")
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;");
-}
-
-function capitalize(s) {
-  return s.replace(/^\w/, c => c.toUpperCase());
-}
 
 export default async function handler(req, res) {
   if (req.method !== "GET") return res.status(405).end();
@@ -75,13 +27,8 @@ export default async function handler(req, res) {
   const today = londonToday();
   if (date > today) return res.status(403).send("That puzzle isn't available yet.");
 
-  let data;
-  try {
-    const raw = await readFile(join(ROOT, "puzzles", date, `${club}.json`), "utf-8");
-    data = JSON.parse(raw);
-  } catch {
-    return res.status(404).send("Puzzle not found.");
-  }
+  const data = await loadPuzzle(ROOT, club, date);
+  if (!data) return res.status(404).send("Puzzle not found.");
 
   const clubName  = CLUB_NAMES[club];
   const colour    = CLUB_COLOURS[club];
