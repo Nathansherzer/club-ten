@@ -193,6 +193,16 @@ header h1 a:hover { opacity: 0.85; }
 }
 .site-nav a:hover { color: var(--text); }
 
+.kofi-footer-link {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 0.75rem;
+  color: var(--green);
+  text-decoration: none;
+}
+.kofi-footer-link:hover { text-decoration: underline; }
+
 /* One-off per-puzzle credit line (e.g. thanking a fan who caught an
    error), shown only when puzzle.credit is set. */
 .puzzle-credit {
