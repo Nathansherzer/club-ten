@@ -979,6 +979,13 @@ input.addEventListener("keydown", e => {
 
 document.getElementById("guessBtn").addEventListener("click", handleGuess);
 
+// Ko-fi support links (footer + end card). Plain <a> tags with their own
+// href/target — this only adds analytics, it never blocks navigation.
+["kofiFooterLink", "kofiEndLink"].forEach(id => {
+  const el = document.getElementById(id);
+  if (el) el.addEventListener("click", () => track("kofi_click", { location: id === "kofiFooterLink" ? "footer" : "endcard" }));
+});
+
 // Give up — requires a second click ("Really give up?") within 3s to
 // avoid ending the puzzle on a misclick.
 const giveUpBtn = document.getElementById("giveUpBtn");
