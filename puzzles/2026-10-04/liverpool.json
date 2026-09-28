@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-04",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who scored the most Premier League goals from outside the penalty area for Liverpool, 2006/07-2025/26",
+  "note": "goals from outside the box · 2006/07-2025/26 only, not tracked before · ties broken by fewer PL appearances for the club in the same period · Premier League",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Steven Gerrard", "detail": "20 goals", "accept": ["steven gerrard", "gerrard"] },
+    { "display": "Philippe Coutinho", "detail": "19 goals", "accept": ["philippe coutinho", "coutinho"] },
+    { "display": "Luis Suárez", "detail": "13 goals", "accept": ["luis suarez", "luis suárez", "suarez", "suárez"] },
+    { "display": "Jordan Henderson", "detail": "12 goals", "accept": ["jordan henderson", "henderson"] },
+    { "display": "Trent Alexander-Arnold", "detail": "11 goals", "accept": ["trent alexander-arnold", "alexander-arnold", "trent"] },
+    { "display": "Mohamed Salah", "detail": "9 goals", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Xabi Alonso", "detail": "6 goals", "accept": ["xabi alonso", "alonso"] },
+    { "display": "Fernando Torres", "detail": "6 goals", "accept": ["fernando torres", "torres"] },
+    { "display": "Dominik Szoboszlai", "detail": "6 goals", "accept": ["dominik szoboszlai", "szoboszlai"] },
+    { "display": "Divock Origi", "detail": "6 goals", "accept": ["divock origi", "origi"] }
+  ]
+}

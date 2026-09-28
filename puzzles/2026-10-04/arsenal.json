@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-04",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who scored the most Premier League goals from outside the penalty area for Arsenal, 2006/07-2025/26",
+  "note": "goals from outside the box · 2006/07-2025/26 only, not tracked before · ties broken by fewer PL appearances for the club in the same period · Premier League",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Alexis Sánchez", "detail": "9 goals", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez", "alexis"] },
+    { "display": "Robin van Persie", "detail": "9 goals", "accept": ["robin van persie", "van persie", "rvp"] },
+    { "display": "Cesc Fàbregas", "detail": "8 goals", "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"] },
+    { "display": "Martin Ødegaard", "detail": "8 goals", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
+    { "display": "Granit Xhaka", "detail": "8 goals", "accept": ["granit xhaka", "xhaka"] },
+    { "display": "Aaron Ramsey", "detail": "6 goals", "accept": ["aaron ramsey", "ramsey"] },
+    { "display": "Andrey Arshavin", "detail": "5 goals", "accept": ["andrey arshavin", "arshavin"] },
+    { "display": "Thomas Partey", "detail": "5 goals", "accept": ["thomas partey", "partey"] },
+    { "display": "Alexandre Lacazette", "detail": "5 goals", "accept": ["alexandre lacazette", "lacazette"] },
+    { "display": "Bukayo Saka", "detail": "5 goals", "accept": ["bukayo saka", "saka"] }
+  ]
+}
