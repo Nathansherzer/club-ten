@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-05",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "put the first 10 distinct senior clubs Eidur Gudjohnsen played for in chronological order",
+  "note": "loans count · youth-team appearances excluded · a return to the same club is not counted again · stop at Fulham, his later clubs fall outside the first 10",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Valur", "detail": "1994", "accept": ["valur"] },
+    { "display": "PSV Eindhoven", "detail": "1995", "accept": ["psv eindhoven", "psv"] },
+    { "display": "KR Reykjavík", "detail": "1998", "accept": ["kr reykjavik", "kr reykjavík", "kr"] },
+    { "display": "Bolton Wanderers", "detail": "1998", "accept": ["bolton wanderers", "bolton"] },
+    { "display": "Chelsea", "detail": "2000", "accept": ["chelsea"] },
+    { "display": "Barcelona", "detail": "2006", "accept": ["barcelona", "barca", "barça"] },
+    { "display": "Monaco", "detail": "2009", "accept": ["monaco", "as monaco"] },
+    { "display": "Tottenham Hotspur", "detail": "2010 · Loan", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
+    { "display": "Stoke City", "detail": "2010", "accept": ["stoke city", "stoke"] },
+    { "display": "Fulham", "detail": "2011 · Loan", "accept": ["fulham"] }
+  ]
+}

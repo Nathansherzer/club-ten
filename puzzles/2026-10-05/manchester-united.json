@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-05",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "put the first 10 distinct senior clubs Andrei Kanchelskis played for in chronological order",
+  "note": "loans count · youth-team appearances excluded · accept Zirka Kropyvnytskyi / Zirka Kirovograd for Zirka, and Dynamo Kiev for Dynamo Kyiv",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Zirka Kirovohrad", "detail": "1986", "accept": ["zirka kirovohrad", "zirka kropyvnytskyi", "zirka kirovograd", "zirka"] },
+    { "display": "Dynamo Kyiv", "detail": "1988", "accept": ["dynamo kyiv", "dynamo kiev"] },
+    { "display": "Shakhtar Donetsk", "detail": "1990", "accept": ["shakhtar donetsk", "shakhtar"] },
+    { "display": "Manchester United", "detail": "1991", "accept": ["manchester united", "man united", "man utd"] },
+    { "display": "Everton", "detail": "1995", "accept": ["everton"] },
+    { "display": "Fiorentina", "detail": "1997", "accept": ["fiorentina"] },
+    { "display": "Rangers", "detail": "1998", "accept": ["rangers"] },
+    { "display": "Manchester City", "detail": "2001 · Loan", "accept": ["manchester city", "man city"] },
+    { "display": "Southampton", "detail": "2002", "accept": ["southampton"] },
+    { "display": "Al Hilal", "detail": "2003", "accept": ["al hilal", "al-hilal"] }
+  ]
+}

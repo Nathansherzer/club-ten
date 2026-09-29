@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-05",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "put the first 10 distinct senior clubs Robbie Keane played for in chronological order",
+  "note": "loans count · youth-team appearances excluded · Tottenham and Leeds each counted once despite multiple spells · ATK (2016) was his 11th distinct senior club, excluded",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Wolverhampton Wanderers", "detail": "1997", "accept": ["wolverhampton wanderers", "wolves"] },
+    { "display": "Coventry City", "detail": "1999", "accept": ["coventry city", "coventry"] },
+    { "display": "Inter Milan", "detail": "2000", "accept": ["inter milan", "inter", "internazionale"] },
+    { "display": "Leeds United", "detail": "2000 · Initially loan", "accept": ["leeds united", "leeds"] },
+    { "display": "Tottenham Hotspur", "detail": "2002", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
+    { "display": "Liverpool", "detail": "2008", "accept": ["liverpool"] },
+    { "display": "Celtic", "detail": "2010 · Loan", "accept": ["celtic"] },
+    { "display": "West Ham United", "detail": "2011 · Loan", "accept": ["west ham united", "west ham"] },
+    { "display": "LA Galaxy", "detail": "2011", "accept": ["la galaxy", "galaxy"] },
+    { "display": "Aston Villa", "detail": "2012 · Loan", "accept": ["aston villa", "villa"] }
+  ]
+}

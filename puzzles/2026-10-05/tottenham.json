@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-05",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "put the first 10 distinct senior clubs Peter Crouch played for in chronological order",
+  "note": "loans count · youth-team appearances excluded · Crouch made no competitive first-team appearances during his initial Tottenham spell, so Spurs enters the sequence in 2009, counted once · Burnley (2013) was his 11th distinct senior club, excluded",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Dulwich Hamlet", "detail": "2000 · Loan", "accept": ["dulwich hamlet", "dulwich"] },
+    { "display": "IFK Hässleholm", "detail": "2000 · Loan", "accept": ["ifk hassleholm", "ifk hässleholm"] },
+    { "display": "Queens Park Rangers", "detail": "2000", "accept": ["queens park rangers", "qpr"] },
+    { "display": "Portsmouth", "detail": "2001", "accept": ["portsmouth", "pompey"] },
+    { "display": "Aston Villa", "detail": "2002", "accept": ["aston villa", "villa"] },
+    { "display": "Norwich City", "detail": "2003 · Loan", "accept": ["norwich city", "norwich"] },
+    { "display": "Southampton", "detail": "2004", "accept": ["southampton"] },
+    { "display": "Liverpool", "detail": "2005", "accept": ["liverpool"] },
+    { "display": "Tottenham Hotspur", "detail": "2009", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
+    { "display": "Stoke City", "detail": "2011", "accept": ["stoke city", "stoke"] }
+  ]
+}
