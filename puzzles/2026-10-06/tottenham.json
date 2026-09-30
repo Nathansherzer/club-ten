@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-06",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the last 10 teams to knock Spurs out of the League Cup, from most recent backwards",
+  "note": "one entry per elimination, not per distinct opponent, so the same club can appear more than once · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2026/27 to date",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Liverpool", "detail": "2026/27 · R3", "accept": ["liverpool"] },
+    { "display": "Newcastle United", "detail": "2025/26 · R4", "accept": ["newcastle united", "newcastle"] },
+    { "display": "Liverpool", "detail": "2024/25 · SF", "accept": ["liverpool"] },
+    { "display": "Fulham", "detail": "2023/24 · R2 · Penalties", "accept": ["fulham"] },
+    { "display": "Nottingham Forest", "detail": "2022/23 · R3", "accept": ["nottingham forest", "forest"] },
+    { "display": "Chelsea", "detail": "2021/22 · SF", "accept": ["chelsea"] },
+    { "display": "Manchester City", "detail": "2020/21 · Final", "accept": ["manchester city", "man city"] },
+    { "display": "Colchester United", "detail": "2019/20 · R3 · Penalties", "accept": ["colchester united", "colchester"] },
+    { "display": "Chelsea", "detail": "2018/19 · SF · Penalties", "accept": ["chelsea"] },
+    { "display": "West Ham United", "detail": "2017/18 · R4", "accept": ["west ham united", "west ham"] }
+  ]
+}

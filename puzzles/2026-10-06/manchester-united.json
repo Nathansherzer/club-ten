@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-06",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the last 10 teams to knock Man United out of the League Cup, from most recent backwards",
+  "note": "one entry per elimination, not per distinct opponent, so the same club can appear more than once · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2026/27 to date",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Brighton & Hove Albion", "detail": "2026/27 · R3", "accept": ["brighton and hove albion", "brighton", "brighton & hove albion"] },
+    { "display": "Grimsby Town", "detail": "2025/26 · R2 · Penalties", "accept": ["grimsby town", "grimsby"] },
+    { "display": "Tottenham Hotspur", "detail": "2024/25 · QF", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
+    { "display": "Newcastle United", "detail": "2023/24 · R4", "accept": ["newcastle united", "newcastle"] },
+    { "display": "West Ham United", "detail": "2021/22 · R3", "accept": ["west ham united", "west ham"] },
+    { "display": "Manchester City", "detail": "2020/21 · SF", "accept": ["manchester city", "man city"] },
+    { "display": "Manchester City", "detail": "2019/20 · SF", "accept": ["manchester city", "man city"] },
+    { "display": "Derby County", "detail": "2018/19 · R3 · Penalties", "accept": ["derby county", "derby"] },
+    { "display": "Bristol City", "detail": "2017/18 · QF", "accept": ["bristol city"] },
+    { "display": "Middlesbrough", "detail": "2015/16 · R4 · Penalties", "accept": ["middlesbrough", "boro"] }
+  ]
+}

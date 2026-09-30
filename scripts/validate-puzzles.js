@@ -176,9 +176,23 @@ async function validateFile(path, banks) {
   // once it's in the bank (checked above) — if clicking that exact,
   // correctly-spelled suggestion doesn't register, that's a hard bug
   // regardless of any other accept-string coverage.
+  //
+  // Some puzzle formats legitimately repeat an answer (e.g. an elimination
+  // history where the same club knocks a team out more than once across
+  // different seasons) — real gameplay finds the earlier occurrence first
+  // and it gets skip-deprioritized, not excluded, so the next identical
+  // guess correctly falls through to the later slot (verified against the
+  // real matcher). An empty skip set can't see that, so it would flag
+  // every repeat past the first as a false self-match failure — pre-skip
+  // earlier same-display slots to simulate having already found them.
   data.answers.forEach((ans, expectedSlot) => {
     if (!ans.display) return;
-    const result = matchGuess(ans.display, data.answers, new Set());
+    const skip = new Set(
+      data.answers
+        .map((other, i) => (i < expectedSlot && other.display === ans.display) ? i : null)
+        .filter(i => i !== null)
+    );
+    const result = matchGuess(ans.display, data.answers, skip);
     if (!result || result.slot !== expectedSlot) {
       errors.push(
         `${rel}: "${ans.display}"'s own display name does not match its own accept list — selecting it verbatim from the dropdown would fail`

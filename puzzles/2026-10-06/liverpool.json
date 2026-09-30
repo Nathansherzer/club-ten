@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-06",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the last 10 teams to knock Liverpool out of the League Cup, from most recent backwards",
+  "note": "one entry per elimination, not per distinct opponent, so the same club can appear more than once · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2026/27 to date",
+  "placeholder": "Type a club name…",
+  "type": "clubs",
+  "answers": [
+    { "display": "Crystal Palace", "detail": "2025/26 · R4", "accept": ["crystal palace", "palace"] },
+    { "display": "Newcastle United", "detail": "2024/25 · Final", "accept": ["newcastle united", "newcastle"] },
+    { "display": "Manchester City", "detail": "2022/23 · R4", "accept": ["manchester city", "man city"] },
+    { "display": "Arsenal", "detail": "2020/21 · R4 · Penalties", "accept": ["arsenal"] },
+    { "display": "Aston Villa", "detail": "2019/20 · QF", "accept": ["aston villa", "villa"] },
+    { "display": "Chelsea", "detail": "2018/19 · R3", "accept": ["chelsea"] },
+    { "display": "Leicester City", "detail": "2017/18 · R3", "accept": ["leicester city", "leicester"] },
+    { "display": "Southampton", "detail": "2016/17 · SF", "accept": ["southampton"] },
+    { "display": "Manchester City", "detail": "2015/16 · Final · Penalties", "accept": ["manchester city", "man city"] },
+    { "display": "Chelsea", "detail": "2014/15 · SF", "accept": ["chelsea"] }
+  ]
+}
