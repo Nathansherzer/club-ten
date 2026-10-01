@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-07",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the last 10 different players to wear the No. 10 shirt for Chelsea",
+  "note": "newest first · counts 10 different players, never the same player twice · before permanent squad numbers, actual match shirt numbers used · men's first team only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cole Palmer",
+      "detail": "2025-present",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Mykhailo Mudryk",
+      "detail": "2023-2025",
+      "accept": [
+        "mykhailo mudryk",
+        "mudryk",
+        "mikhailo mudryk"
+      ]
+    },
+    {
+      "display": "Christian Pulisic",
+      "detail": "2020-2023",
+      "accept": [
+        "christian pulisic",
+        "pulisic"
+      ]
+    },
+    {
+      "display": "Willian",
+      "detail": "2019-20",
+      "accept": [
+        "willian"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "2014-2019",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "2011-2014",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    },
+    {
+      "display": "Yossi Benayoun",
+      "detail": "2010-11",
+      "accept": [
+        "yossi benayoun",
+        "benayoun"
+      ]
+    },
+    {
+      "display": "Joe Cole",
+      "detail": "2003-2010",
+      "accept": [
+        "joe cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Slaviša Jokanović",
+      "detail": "2000-02",
+      "accept": [
+        "slavisa jokanovic",
+        "slaviša jokanović",
+        "jokanovic",
+        "jokanović"
+      ]
+    },
+    {
+      "display": "Pierluigi Casiraghi",
+      "detail": "1998-99",
+      "accept": [
+        "pierluigi casiraghi",
+        "casiraghi"
+      ]
+    }
+  ]
+}

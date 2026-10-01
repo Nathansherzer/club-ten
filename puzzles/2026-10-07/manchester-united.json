@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-07",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the last 10 different players to wear the No. 10 shirt for Man United",
+  "note": "newest first · counts 10 different players, never the same player twice · before permanent squad numbers, actual match shirt numbers used · men's first team only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Matheus Cunha",
+      "detail": "2025-present",
+      "accept": [
+        "matheus cunha",
+        "cunha"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "2018-2024",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "2017",
+      "accept": [
+        "zlatan ibrahimovic",
+        "zlatan ibrahimović",
+        "ibrahimovic",
+        "ibrahimović"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "2007-2017",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "2007-08",
+      "accept": [
+        "paul scholes",
+        "scholes"
+      ]
+    },
+    {
+      "display": "Ruud van Nistelrooy",
+      "detail": "2001-2006",
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy",
+        "nistelrooy"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "1997-2001",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "1994-1997",
+      "accept": [
+        "david beckham",
+        "beckham"
+      ]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "1993-1996",
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Simon Davies",
+      "detail": "1995",
+      "accept": [
+        "simon davies",
+        "davies"
+      ]
+    }
+  ]
+}

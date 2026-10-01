@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-07",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the last 10 different players to wear the No. 10 shirt for Arsenal",
+  "note": "newest first · counts 10 different players, never the same player twice · before permanent squad numbers, actual match shirt numbers used · men's first team only",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Eberechi Eze",
+      "detail": "2025-present",
+      "accept": [
+        "eberechi eze",
+        "eze"
+      ]
+    },
+    {
+      "display": "Emile Smith Rowe",
+      "detail": "2021-2024",
+      "accept": [
+        "emile smith rowe",
+        "smith rowe"
+      ]
+    },
+    {
+      "display": "Mesut Özil",
+      "detail": "2018-2020",
+      "accept": [
+        "mesut ozil",
+        "mesut özil",
+        "ozil",
+        "özil"
+      ]
+    },
+    {
+      "display": "Jack Wilshere",
+      "detail": "2012-2018",
+      "accept": [
+        "jack wilshere",
+        "wilshere"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "2010-2012",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "William Gallas",
+      "detail": "2006-2010",
+      "accept": [
+        "william gallas",
+        "gallas"
+      ]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "1995-2006",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
+    },
+    {
+      "display": "Paul Merson",
+      "detail": "1988-1997",
+      "accept": [
+        "paul merson",
+        "merson"
+      ]
+    },
+    {
+      "display": "Ian Selley",
+      "detail": "1994-95",
+      "accept": [
+        "ian selley",
+        "selley"
+      ]
+    },
+    {
+      "display": "Kevin Campbell",
+      "detail": "1991-94",
+      "accept": [
+        "kevin campbell",
+        "campbell"
+      ]
+    }
+  ]
+}
