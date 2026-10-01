@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-08",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 Spurs permanent managers of the Premier League era with the highest all-competitions win percentage",
+  "note": "all competitions · min. 20 matches managed · caretakers and interim managers excluded · joint management/coaching arrangements excluded · Premier League era (1992/93-present) · through 1 Oct 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "André Villas-Boas",
+      "detail": "55.00%",
+      "accept": [
+        "andre villas-boas",
+        "andré villas-boas",
+        "andre villas boas",
+        "villas-boas",
+        "villas boas",
+        "avb"
+      ]
+    },
+    {
+      "display": "Mauricio Pochettino",
+      "detail": "54.27%",
+      "accept": [
+        "mauricio pochettino",
+        "pochettino"
+      ]
+    },
+    {
+      "display": "Antonio Conte",
+      "detail": "53.95%",
+      "accept": [
+        "antonio conte",
+        "conte"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "51.16%",
+      "accept": [
+        "jose mourinho",
+        "josé mourinho",
+        "mourinho"
+      ]
+    },
+    {
+      "display": "Tim Sherwood",
+      "detail": "50.00%",
+      "accept": [
+        "tim sherwood",
+        "sherwood"
+      ]
+    },
+    {
+      "display": "Harry Redknapp",
+      "detail": "49.49%",
+      "accept": [
+        "harry redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "Ange Postecoglou",
+      "detail": "46.53%",
+      "accept": [
+        "ange postecoglou",
+        "postecoglou"
+      ]
+    },
+    {
+      "display": "Martin Jol",
+      "detail": "45.27%",
+      "accept": [
+        "martin jol",
+        "jol"
+      ]
+    },
+    {
+      "display": "George Graham",
+      "detail": "39.68%",
+      "accept": [
+        "george graham",
+        "graham"
+      ]
+    },
+    {
+      "display": "Glenn Hoddle",
+      "detail": "39.42%",
+      "accept": [
+        "glenn hoddle",
+        "hoddle"
+      ]
+    }
+  ]
+}

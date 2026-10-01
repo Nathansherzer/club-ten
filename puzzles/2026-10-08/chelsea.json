@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-08",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea permanent managers of the Premier League era with the highest all-competitions win percentage",
+  "note": "all competitions · min. 20 matches managed · caretakers and interim managers excluded · José Mourinho's two spells combined · Premier League era (1992/93-present) · through 1 Oct 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Avram Grant",
+      "detail": "66.67%",
+      "accept": [
+        "avram grant",
+        "grant"
+      ]
+    },
+    {
+      "display": "Antonio Conte",
+      "detail": "65.09%",
+      "accept": [
+        "antonio conte",
+        "conte"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "63.55%",
+      "accept": [
+        "jose mourinho",
+        "josé mourinho",
+        "mourinho"
+      ]
+    },
+    {
+      "display": "Maurizio Sarri",
+      "detail": "61.90%",
+      "accept": [
+        "maurizio sarri",
+        "sarri"
+      ]
+    },
+    {
+      "display": "Carlo Ancelotti",
+      "detail": "61.47%",
+      "accept": [
+        "carlo ancelotti",
+        "ancelotti"
+      ]
+    },
+    {
+      "display": "Thomas Tuchel",
+      "detail": "60.00%",
+      "accept": [
+        "thomas tuchel",
+        "tuchel"
+      ]
+    },
+    {
+      "display": "Enzo Maresca",
+      "detail": "59.78%",
+      "accept": [
+        "enzo maresca",
+        "maresca"
+      ]
+    },
+    {
+      "display": "Roberto Di Matteo",
+      "detail": "57.14%",
+      "accept": [
+        "roberto di matteo",
+        "di matteo"
+      ]
+    },
+    {
+      "display": "Luiz Felipe Scolari",
+      "detail": "55.56%",
+      "accept": [
+        "luiz felipe scolari",
+        "felipe scolari",
+        "scolari"
+      ]
+    },
+    {
+      "display": "Claudio Ranieri",
+      "detail": "53.77%",
+      "accept": [
+        "claudio ranieri",
+        "ranieri"
+      ]
+    }
+  ]
+}

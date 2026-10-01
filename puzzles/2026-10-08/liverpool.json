@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-08",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 Liverpool permanent managers since 1983 with the highest all-competitions win percentage",
+  "note": "all competitions · min. 20 matches managed · caretakers and interim managers excluded · Kenny Dalglish's two spells combined · pool runs 1983-present (Joe Fagan onward) · through 1 Oct 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Jürgen Klopp",
+      "detail": "62.12%",
+      "accept": [
+        "jurgen klopp",
+        "jürgen klopp",
+        "klopp"
+      ]
+    },
+    {
+      "display": "Kenny Dalglish",
+      "detail": "58.53%",
+      "accept": [
+        "kenny dalglish",
+        "dalglish"
+      ]
+    },
+    {
+      "display": "Arne Slot",
+      "detail": "58.41%",
+      "accept": [
+        "arne slot",
+        "slot"
+      ]
+    },
+    {
+      "display": "Rafael Benítez",
+      "detail": "56.29%",
+      "accept": [
+        "rafael benitez",
+        "rafael benítez",
+        "benitez",
+        "benítez",
+        "rafa benitez",
+        "rafa benítez"
+      ]
+    },
+    {
+      "display": "Joe Fagan",
+      "detail": "54.20%",
+      "accept": [
+        "joe fagan",
+        "fagan"
+      ]
+    },
+    {
+      "display": "Gérard Houllier",
+      "detail": "52.12%",
+      "accept": [
+        "gerard houllier",
+        "gérard houllier",
+        "houllier"
+      ]
+    },
+    {
+      "display": "Roy Evans",
+      "detail": "51.77%",
+      "accept": [
+        "roy evans",
+        "evans"
+      ]
+    },
+    {
+      "display": "Brendan Rodgers",
+      "detail": "51.20%",
+      "accept": [
+        "brendan rodgers",
+        "rodgers"
+      ]
+    },
+    {
+      "display": "Graeme Souness",
+      "detail": "42.04%",
+      "accept": [
+        "graeme souness",
+        "souness"
+      ]
+    },
+    {
+      "display": "Roy Hodgson",
+      "detail": "41.94%",
+      "accept": [
+        "roy hodgson",
+        "hodgson"
+      ]
+    }
+  ]
+}

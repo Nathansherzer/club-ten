@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-08",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "rank Arsenal's 10 most recent permanent managers by all-competitions win percentage",
+  "note": "all competitions · min. 20 matches managed · caretakers and interim managers excluded · uses Arsenal's 10 most recent permanent managers rather than the Premier League era alone · through 1 Oct 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Mikel Arteta",
+      "detail": "~60%",
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
+    },
+    {
+      "display": "Arsène Wenger",
+      "detail": "57.25%",
+      "accept": [
+        "arsene wenger",
+        "arsène wenger",
+        "wenger"
+      ]
+    },
+    {
+      "display": "Unai Emery",
+      "detail": "55.13%",
+      "accept": [
+        "unai emery",
+        "emery"
+      ]
+    },
+    {
+      "display": "George Graham",
+      "detail": "48.91%",
+      "accept": [
+        "george graham",
+        "graham"
+      ]
+    },
+    {
+      "display": "Bruce Rioch",
+      "detail": "46.81%",
+      "accept": [
+        "bruce rioch",
+        "rioch"
+      ]
+    },
+    {
+      "display": "Don Howe",
+      "detail": "46.15%",
+      "accept": [
+        "don howe",
+        "howe"
+      ]
+    },
+    {
+      "display": "Terry Neill",
+      "detail": "44.95%",
+      "accept": [
+        "terry neill",
+        "neill"
+      ]
+    },
+    {
+      "display": "Bertie Mee",
+      "detail": "44.71%",
+      "accept": [
+        "bertie mee",
+        "mee"
+      ]
+    },
+    {
+      "display": "George Swindin",
+      "detail": "40.86%",
+      "accept": [
+        "george swindin",
+        "swindin"
+      ]
+    },
+    {
+      "display": "Billy Wright",
+      "detail": "38.46%",
+      "accept": [
+        "billy wright",
+        "wright"
+      ]
+    }
+  ]
+}

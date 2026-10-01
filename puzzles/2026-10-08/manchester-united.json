@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-08",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 Man United permanent managers since 1977 with the highest all-competitions win percentage",
+  "note": "all competitions · min. 20 matches managed · caretakers and interim managers excluded · pool runs 1977-present (Dave Sexton onward) · through 1 Oct 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Sir Alex Ferguson",
+      "detail": "59.67%",
+      "accept": [
+        "sir alex ferguson",
+        "alex ferguson",
+        "ferguson"
+      ]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "59.26%",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "58.33%",
+      "accept": [
+        "jose mourinho",
+        "josé mourinho",
+        "mourinho"
+      ]
+    },
+    {
+      "display": "Erik ten Hag",
+      "detail": "54.69%",
+      "accept": [
+        "erik ten hag",
+        "ten hag"
+      ]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "54.17%",
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole"
+      ]
+    },
+    {
+      "display": "David Moyes",
+      "detail": "52.94%",
+      "accept": [
+        "david moyes",
+        "moyes"
+      ]
+    },
+    {
+      "display": "Louis van Gaal",
+      "detail": "52.43%",
+      "accept": [
+        "louis van gaal",
+        "van gaal"
+      ]
+    },
+    {
+      "display": "Ron Atkinson",
+      "detail": "50.00%",
+      "accept": [
+        "ron atkinson",
+        "atkinson"
+      ]
+    },
+    {
+      "display": "Dave Sexton",
+      "detail": "40.30%",
+      "accept": [
+        "dave sexton",
+        "sexton"
+      ]
+    },
+    {
+      "display": "Rúben Amorim",
+      "detail": "38.10%",
+      "accept": [
+        "ruben amorim",
+        "rúben amorim",
+        "amorim"
+      ]
+    }
+  ]
+}
