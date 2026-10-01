@@ -10,52 +10,94 @@
     {
       "display": "Virgil van Dijk",
       "detail": "22 headed goals",
-      "accept": ["virgil van dijk", "van dijk", "virgil"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
     },
     {
       "display": "Roberto Firmino",
       "detail": "18 headed goals",
-      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     },
     {
       "display": "Sadio Mané",
       "detail": "14 headed goals",
-      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
     },
     {
       "display": "Fernando Torres",
       "detail": "12 headed goals",
-      "accept": ["fernando torres", "torres"]
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
     },
     {
       "display": "Daniel Sturridge",
       "detail": "10 headed goals",
-      "accept": ["daniel sturridge", "sturridge"]
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
     },
     {
       "display": "Diogo Jota",
       "detail": "10 headed goals",
-      "accept": ["diogo jota", "jota"]
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
     },
     {
       "display": "Luis Suárez",
       "detail": "9 headed goals",
-      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
     },
     {
       "display": "Martin Škrtel",
       "detail": "9 headed goals",
-      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+      "accept": [
+        "martin skrtel",
+        "martin škrtel",
+        "skrtel",
+        "škrtel"
+      ]
     },
     {
       "display": "Mohamed Salah",
       "detail": "9 headed goals",
-      "accept": ["mohamed salah", "salah", "mo salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mo salah",
+        "mohammed salah"
+      ]
     },
     {
       "display": "Divock Origi",
       "detail": "7 headed goals",
-      "accept": ["divock origi", "origi"]
+      "accept": [
+        "divock origi",
+        "origi"
+      ]
     }
   ]
 }

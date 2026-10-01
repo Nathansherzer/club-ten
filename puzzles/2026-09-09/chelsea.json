@@ -8,15 +8,88 @@
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
-    { "display": "Leganés", "detail": "1997 · Loan", "accept": ["leganes", "leganés", "cd leganes"] },
-    { "display": "Real Madrid", "detail": "1998", "accept": ["real madrid", "madrid"] },
-    { "display": "Espanyol", "detail": "1999 · Loan", "accept": ["espanyol", "rcd espanyol"] },
-    { "display": "Mallorca", "detail": "2000 · Initially a loan", "accept": ["mallorca", "real mallorca", "rcd mallorca"] },
-    { "display": "Barcelona", "detail": "2004", "accept": ["barcelona", "barca", "fc barcelona"] },
-    { "display": "Inter Milan", "detail": "2009", "accept": ["inter milan", "inter", "internazionale"] },
-    { "display": "Anzhi Makhachkala", "detail": "2011", "accept": ["anzhi makhachkala", "anzhi"] },
-    { "display": "Chelsea", "detail": "2013", "accept": ["chelsea"] },
-    { "display": "Everton", "detail": "2014", "accept": ["everton"] },
-    { "display": "Sampdoria", "detail": "2015", "accept": ["sampdoria", "samp"] }
+    {
+      "display": "Leganés",
+      "detail": "1997 · Loan",
+      "accept": [
+        "leganes",
+        "leganés",
+        "cd leganes"
+      ]
+    },
+    {
+      "display": "Real Madrid",
+      "detail": "1998",
+      "accept": [
+        "real madrid",
+        "madrid"
+      ]
+    },
+    {
+      "display": "Espanyol",
+      "detail": "1999 · Loan",
+      "accept": [
+        "espanyol",
+        "rcd espanyol"
+      ]
+    },
+    {
+      "display": "Mallorca",
+      "detail": "2000 · Initially a loan",
+      "accept": [
+        "mallorca",
+        "real mallorca",
+        "rcd mallorca"
+      ]
+    },
+    {
+      "display": "Barcelona",
+      "detail": "2004",
+      "accept": [
+        "barcelona",
+        "barca",
+        "fc barcelona"
+      ]
+    },
+    {
+      "display": "Inter Milan",
+      "detail": "2009",
+      "accept": [
+        "inter milan",
+        "inter",
+        "internazionale"
+      ]
+    },
+    {
+      "display": "Anzhi Makhachkala",
+      "detail": "2011",
+      "accept": [
+        "anzhi makhachkala",
+        "anzhi"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "2013",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "2014",
+      "accept": [
+        "everton",
+        "toffees"
+      ]
+    },
+    {
+      "display": "Sampdoria",
+      "detail": "2015",
+      "accept": [
+        "sampdoria",
+        "samp"
+      ]
+    }
   ]
 }

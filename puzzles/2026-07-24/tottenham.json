@@ -10,52 +10,90 @@
     {
       "display": "Son Heung-min",
       "detail": "71 assists",
-      "accept": ["son heung-min", "heung-min son", "son", "heung min son"]
+      "accept": [
+        "son heung-min",
+        "heung-min son",
+        "son",
+        "heung min son",
+        "son heung min",
+        "sonny",
+        "heung-min",
+        "heung min"
+      ]
     },
     {
       "display": "Darren Anderton",
       "detail": "66 assists",
-      "accept": ["darren anderton", "anderton"]
+      "accept": [
+        "darren anderton",
+        "anderton",
+        "sicknote"
+      ]
     },
     {
       "display": "Christian Eriksen",
       "detail": "59 assists",
-      "accept": ["christian eriksen", "eriksen"]
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
     },
     {
       "display": "Harry Kane",
       "detail": "47 assists",
-      "accept": ["harry kane", "kane"]
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Aaron Lennon",
       "detail": "45 assists",
-      "accept": ["aaron lennon", "lennon"]
+      "accept": [
+        "aaron lennon",
+        "lennon"
+      ]
     },
     {
       "display": "Teddy Sheringham",
       "detail": "44 assists",
-      "accept": ["teddy sheringham", "sheringham"]
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
     },
     {
       "display": "Dele Alli",
       "detail": "34 assists",
-      "accept": ["dele alli", "alli", "dele"]
+      "accept": [
+        "dele alli",
+        "alli",
+        "dele"
+      ]
     },
     {
       "display": "David Ginola",
       "detail": "25 assists",
-      "accept": ["david ginola", "ginola"]
+      "accept": [
+        "david ginola",
+        "ginola"
+      ]
     },
     {
       "display": "Erik Lamela",
       "detail": "23 assists",
-      "accept": ["erik lamela", "lamela"]
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
     },
     {
       "display": "Dejan Kulusevski",
       "detail": "22 assists",
-      "accept": ["dejan kulusevski", "kulusevski"]
+      "accept": [
+        "dejan kulusevski",
+        "kulusevski"
+      ]
     }
   ]
 }

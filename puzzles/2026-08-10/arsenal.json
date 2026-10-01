@@ -10,52 +10,88 @@
     {
       "display": "Gabriel Magalhães",
       "detail": "209 pts",
-      "accept": ["gabriel magalhaes", "gabriel magalhães", "gabriel", "magalhaes"]
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "gabriel",
+        "magalhaes",
+        "gabriel dos santos magalhaes"
+      ]
     },
     {
       "display": "Declan Rice",
       "detail": "184 pts",
-      "accept": ["declan rice", "rice"]
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
     },
     {
       "display": "David Raya",
       "detail": "162 pts",
-      "accept": ["david raya", "raya"]
+      "accept": [
+        "david raya",
+        "raya"
+      ]
     },
     {
       "display": "Bukayo Saka",
       "detail": "157 pts",
-      "accept": ["bukayo saka", "saka"]
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
     },
     {
       "display": "Jurriën Timber",
       "detail": "149 pts",
-      "accept": ["jurrien timber", "jurriën timber", "timber"]
+      "accept": [
+        "jurrien timber",
+        "jurriën timber",
+        "timber"
+      ]
     },
     {
       "display": "William Saliba",
       "detail": "137 pts",
-      "accept": ["william saliba", "saliba"]
+      "accept": [
+        "william saliba",
+        "saliba"
+      ]
     },
     {
       "display": "Martín Zubimendi",
       "detail": "133 pts",
-      "accept": ["martin zubimendi", "martín zubimendi", "zubimendi"]
+      "accept": [
+        "martin zubimendi",
+        "martín zubimendi",
+        "zubimendi"
+      ]
     },
     {
       "display": "Viktor Gyökeres",
       "detail": "128 pts",
-      "accept": ["viktor gyokeres", "gyokeres", "viktor gyökeres"]
+      "accept": [
+        "viktor gyokeres",
+        "gyokeres",
+        "viktor gyökeres"
+      ]
     },
     {
       "display": "Leandro Trossard",
       "detail": "119 pts",
-      "accept": ["leandro trossard", "trossard"]
+      "accept": [
+        "leandro trossard",
+        "trossard"
+      ]
     },
     {
       "display": "Eberechi Eze",
       "detail": "113 pts",
-      "accept": ["eberechi eze", "eze"]
+      "accept": [
+        "eberechi eze",
+        "eze"
+      ]
     }
   ]
 }

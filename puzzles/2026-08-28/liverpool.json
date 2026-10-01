@@ -10,52 +10,91 @@
     {
       "display": "Jordan Henderson",
       "detail": "140 apps",
-      "accept": ["jordan henderson", "henderson"]
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
     },
     {
       "display": "Martin Škrtel",
       "detail": "129 apps",
-      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+      "accept": [
+        "martin skrtel",
+        "martin škrtel",
+        "skrtel",
+        "škrtel"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "126 apps",
-      "accept": ["steven gerrard", "gerrard"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "126 apps",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Philippe Coutinho",
       "detail": "112 apps",
-      "accept": ["philippe coutinho", "coutinho"]
+      "accept": [
+        "philippe coutinho",
+        "coutinho",
+        "phil coutinho"
+      ]
     },
     {
       "display": "Simon Mignolet",
       "detail": "104 apps",
-      "accept": ["simon mignolet", "mignolet"]
+      "accept": [
+        "simon mignolet",
+        "mignolet"
+      ]
     },
     {
       "display": "Glen Johnson",
       "detail": "101 apps",
-      "accept": ["glen johnson", "johnson"]
+      "accept": [
+        "glen johnson",
+        "johnson"
+      ]
     },
     {
       "display": "Joe Allen",
       "detail": "99 apps",
-      "accept": ["joe allen", "allen"]
+      "accept": [
+        "joe allen",
+        "allen"
+      ]
     },
     {
       "display": "Lucas Leiva",
       "detail": "98 apps",
-      "accept": ["lucas leiva", "leiva"]
+      "accept": [
+        "lucas leiva",
+        "leiva",
+        "lucas"
+      ]
     },
     {
       "display": "Luis Suárez",
       "detail": "81 apps",
-      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
     }
   ]
 }

@@ -10,52 +10,94 @@
     {
       "display": "Mohamed Salah",
       "detail": "315 apps · Egypt",
-      "accept": ["mohamed salah", "salah", "mo salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mo salah",
+        "mohammed salah"
+      ]
     },
     {
       "display": "Sadio Mané",
       "detail": "196 apps · Senegal",
-      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
     },
     {
       "display": "Joël Matip",
       "detail": "150 apps · Cameroon",
-      "accept": ["joel matip", "joël matip", "matip"]
+      "accept": [
+        "joel matip",
+        "joël matip",
+        "matip"
+      ]
     },
     {
       "display": "Djimi Traoré",
       "detail": "88 apps · Mali",
-      "accept": ["djimi traore", "djimi traoré", "traore", "traoré"]
+      "accept": [
+        "djimi traore",
+        "djimi traoré",
+        "traore",
+        "traoré"
+      ]
     },
     {
       "display": "Naby Keïta",
       "detail": "84 apps · Guinea",
-      "accept": ["naby keita", "naby keïta", "keita"]
+      "accept": [
+        "naby keita",
+        "naby keïta",
+        "keita"
+      ]
     },
     {
       "display": "El Hadji Diouf",
       "detail": "55 apps · Senegal",
-      "accept": ["el hadji diouf", "el-hadji diouf", "diouf"]
+      "accept": [
+        "el hadji diouf",
+        "el-hadji diouf",
+        "diouf",
+        "hadji diouf"
+      ]
     },
     {
       "display": "Mohamed Sissoko",
       "detail": "51 apps · Mali",
-      "accept": ["mohamed sissoko", "sissoko"]
+      "accept": [
+        "mohamed sissoko",
+        "sissoko"
+      ]
     },
     {
       "display": "Kolo Touré",
       "detail": "46 apps · Ivory Coast",
-      "accept": ["kolo toure", "kolo touré", "kolo"]
+      "accept": [
+        "kolo toure",
+        "kolo touré",
+        "kolo",
+        "toure"
+      ]
     },
     {
       "display": "Salif Diao",
       "detail": "37 apps · Senegal",
-      "accept": ["salif diao", "diao"]
+      "accept": [
+        "salif diao",
+        "diao"
+      ]
     },
     {
       "display": "Bruce Grobbelaar",
       "detail": "34 apps · Zimbabwe",
-      "accept": ["bruce grobbelaar", "grobbelaar"]
+      "accept": [
+        "bruce grobbelaar",
+        "grobbelaar"
+      ]
     }
   ]
 }

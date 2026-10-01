@@ -7,15 +7,93 @@
   "note": "goals from outside the box · 2006/07-2025/26 only, not tracked before · ties broken by fewer PL appearances for the club in the same period · Premier League",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Harry Kane", "detail": "25 goals", "accept": ["harry kane", "kane"] },
-    { "display": "Christian Eriksen", "detail": "23 goals", "accept": ["christian eriksen", "eriksen"] },
-    { "display": "Son Heung-min", "detail": "19 goals", "accept": ["son heung-min", "son", "sonny"] },
-    { "display": "Gareth Bale", "detail": "12 goals", "accept": ["gareth bale", "bale"] },
-    { "display": "Jermain Defoe", "detail": "12 goals", "accept": ["jermain defoe", "defoe"] },
-    { "display": "Tom Huddlestone", "detail": "7 goals", "accept": ["tom huddlestone", "huddlestone"] },
-    { "display": "Jermaine Jenas", "detail": "5 goals", "accept": ["jermaine jenas", "jenas"] },
-    { "display": "Roman Pavlyuchenko", "detail": "4 goals", "accept": ["roman pavlyuchenko", "pavlyuchenko"] },
-    { "display": "Luka Modrić", "detail": "4 goals", "accept": ["luka modric", "luka modrić", "modric", "modrić"] },
-    { "display": "David Bentley", "detail": "3 goals", "accept": ["david bentley", "bentley"] }
+    {
+      "display": "Harry Kane",
+      "detail": "25 goals",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "23 goals",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "19 goals",
+      "accept": [
+        "son heung-min",
+        "son",
+        "sonny",
+        "son heung min",
+        "heung-min son",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "12 goals",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "12 goals",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    },
+    {
+      "display": "Tom Huddlestone",
+      "detail": "7 goals",
+      "accept": [
+        "tom huddlestone",
+        "huddlestone"
+      ]
+    },
+    {
+      "display": "Jermaine Jenas",
+      "detail": "5 goals",
+      "accept": [
+        "jermaine jenas",
+        "jenas"
+      ]
+    },
+    {
+      "display": "Roman Pavlyuchenko",
+      "detail": "4 goals",
+      "accept": [
+        "roman pavlyuchenko",
+        "pavlyuchenko"
+      ]
+    },
+    {
+      "display": "Luka Modrić",
+      "detail": "4 goals",
+      "accept": [
+        "luka modric",
+        "luka modrić",
+        "modric",
+        "modrić"
+      ]
+    },
+    {
+      "display": "David Bentley",
+      "detail": "3 goals",
+      "accept": [
+        "david bentley",
+        "bentley"
+      ]
+    }
   ]
 }

@@ -10,52 +10,89 @@
     {
       "display": "Eberechi Eze",
       "detail": "vs Tottenham · 23 Nov 2025",
-      "accept": ["eberechi eze", "eze"]
+      "accept": [
+        "eberechi eze",
+        "eze"
+      ]
     },
     {
       "display": "Eddie Nketiah",
       "detail": "vs Sheffield United · 28 Oct 2023",
-      "accept": ["eddie nketiah", "nketiah"]
+      "accept": [
+        "eddie nketiah",
+        "nketiah"
+      ]
     },
     {
       "display": "Pierre-Emerick Aubameyang",
       "detail": "vs Leeds · 14 Feb 2021",
-      "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang", "pea"]
+      "accept": [
+        "pierre-emerick aubameyang",
+        "pierre emerick aubameyang",
+        "aubameyang",
+        "pea",
+        "auba"
+      ]
     },
     {
       "display": "Aaron Ramsey",
       "detail": "vs Everton · 3 Feb 2018",
-      "accept": ["aaron ramsey", "ramsey"]
+      "accept": [
+        "aaron ramsey",
+        "ramsey"
+      ]
     },
     {
       "display": "Alexis Sánchez",
       "detail": "vs West Ham · 3 Dec 2016",
-      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez", "alexis"]
+      "accept": [
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
+      ]
     },
     {
       "display": "Olivier Giroud",
       "detail": "vs Aston Villa · 15 May 2016",
-      "accept": ["olivier giroud", "giroud"]
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
     },
     {
       "display": "Theo Walcott",
       "detail": "vs West Brom · 24 May 2015",
-      "accept": ["theo walcott", "walcott"]
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
     },
     {
       "display": "Santi Cazorla",
       "detail": "vs Reading · 17 Dec 2012",
-      "accept": ["santi cazorla", "cazorla"]
+      "accept": [
+        "santi cazorla",
+        "cazorla"
+      ]
     },
     {
       "display": "Robin van Persie",
       "detail": "vs Blackburn · 4 Feb 2012",
-      "accept": ["robin van persie", "van persie", "rvp"]
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
     },
     {
       "display": "Andrey Arshavin",
       "detail": "vs Liverpool · 21 Apr 2009",
-      "accept": ["andrey arshavin", "arshavin"]
+      "accept": [
+        "andrey arshavin",
+        "arshavin"
+      ]
     }
   ]
 }

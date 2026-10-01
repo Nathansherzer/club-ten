@@ -8,15 +8,90 @@
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [
-    { "display": "England", "detail": "456 assists", "accept": ["england", "english"] },
-    { "display": "Spain", "detail": "194", "accept": ["spain", "spanish"] },
-    { "display": "France", "detail": "100", "accept": ["france", "french"] },
-    { "display": "Brazil", "detail": "83", "accept": ["brazil", "brasil", "brazilian"] },
-    { "display": "Ivory Coast", "detail": "78", "accept": ["ivory coast", "côte d'ivoire", "cote d'ivoire", "cote divoire"] },
-    { "display": "Italy", "detail": "76", "accept": ["italy", "italian"] },
-    { "display": "Netherlands", "detail": "62", "accept": ["netherlands", "holland", "dutch"] },
-    { "display": "Belgium", "detail": "61", "accept": ["belgium", "belgian"] },
-    { "display": "Portugal", "detail": "37", "accept": ["portugal", "portuguese"] },
-    { "display": "Serbia", "detail": "37", "accept": ["serbia", "serbian"] }
+    {
+      "display": "England",
+      "detail": "456 assists",
+      "accept": [
+        "england",
+        "english"
+      ]
+    },
+    {
+      "display": "Spain",
+      "detail": "194",
+      "accept": [
+        "spain",
+        "spanish"
+      ]
+    },
+    {
+      "display": "France",
+      "detail": "100",
+      "accept": [
+        "france",
+        "french"
+      ]
+    },
+    {
+      "display": "Brazil",
+      "detail": "83",
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
+    },
+    {
+      "display": "Ivory Coast",
+      "detail": "78",
+      "accept": [
+        "ivory coast",
+        "côte d'ivoire",
+        "cote d'ivoire",
+        "cote divoire",
+        "ivorian"
+      ]
+    },
+    {
+      "display": "Italy",
+      "detail": "76",
+      "accept": [
+        "italy",
+        "italian"
+      ]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "62",
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
+    },
+    {
+      "display": "Belgium",
+      "detail": "61",
+      "accept": [
+        "belgium",
+        "belgian"
+      ]
+    },
+    {
+      "display": "Portugal",
+      "detail": "37",
+      "accept": [
+        "portugal",
+        "portuguese"
+      ]
+    },
+    {
+      "display": "Serbia",
+      "detail": "37",
+      "accept": [
+        "serbia",
+        "serbian"
+      ]
+    }
   ]
 }

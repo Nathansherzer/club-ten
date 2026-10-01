@@ -10,52 +10,97 @@
     {
       "display": "Mohamed Salah",
       "detail": "83 apps",
-      "accept": ["mohamed salah", "salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mohammed salah",
+        "mo salah"
+      ]
     },
     {
       "display": "Jamie Carragher",
       "detail": "80 apps",
-      "accept": ["jamie carragher", "carragher"]
+      "accept": [
+        "jamie carragher",
+        "carragher",
+        "carra"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "73 apps",
-      "accept": ["steven gerrard", "gerrard"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
     },
     {
       "display": "Andrew Robertson",
       "detail": "66 apps",
-      "accept": ["andrew robertson", "andy robertson", "robertson"]
+      "accept": [
+        "andrew robertson",
+        "andy robertson",
+        "robertson",
+        "robbo"
+      ]
     },
     {
       "display": "Virgil van Dijk",
       "detail": "64 apps",
-      "accept": ["virgil van dijk", "van dijk"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
     },
     {
       "display": "Trent Alexander-Arnold",
       "detail": "60 apps",
-      "accept": ["trent alexander-arnold", "alexander-arnold", "taa"]
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "taa",
+        "alexander arnold",
+        "trent alexander arnold",
+        "trent",
+        "trent arnold"
+      ]
     },
     {
       "display": "Alisson",
       "detail": "58 apps",
-      "accept": ["alisson", "alisson becker"]
+      "accept": [
+        "alisson",
+        "alisson becker"
+      ]
     },
     {
       "display": "John Arne Riise",
       "detail": "58 apps",
-      "accept": ["john arne riise", "riise"]
+      "accept": [
+        "john arne riise",
+        "riise"
+      ]
     },
     {
       "display": "Roberto Firmino",
       "detail": "56 apps",
-      "accept": ["roberto firmino", "firmino"]
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     },
     {
       "display": "Sadio Mané",
       "detail": "55 apps",
-      "accept": ["sadio mane", "mane"]
+      "accept": [
+        "sadio mane",
+        "mane"
+      ]
     }
   ]
 }

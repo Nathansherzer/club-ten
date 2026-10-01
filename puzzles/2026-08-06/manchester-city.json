@@ -10,52 +10,93 @@
     {
       "display": "Sergio Agüero",
       "detail": "34 woodwork hits",
-      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun agüero"]
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun agüero",
+        "kun"
+      ]
     },
     {
       "display": "Kevin De Bruyne",
       "detail": "33 woodwork hits",
-      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "17 woodwork hits",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Erling Haaland",
       "detail": "17 woodwork hits",
-      "accept": ["erling haaland", "haaland"]
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
     },
     {
       "display": "David Silva",
       "detail": "16 woodwork hits",
-      "accept": ["david silva", "david"]
+      "accept": [
+        "david silva",
+        "david",
+        "silva",
+        "el mago"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "11 woodwork hits",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "İlkay Gündoğan",
       "detail": "11 woodwork hits",
-      "accept": ["ilkay gundogan", "ilkay gündogan", "gundogan", "gündogan"]
+      "accept": [
+        "ilkay gundogan",
+        "ilkay gündogan",
+        "gundogan",
+        "gündogan"
+      ]
     },
     {
       "display": "Gabriel Jesus",
       "detail": "10 woodwork hits",
-      "accept": ["gabriel jesus", "jesus"]
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
     },
     {
       "display": "Riyad Mahrez",
       "detail": "10 woodwork hits",
-      "accept": ["riyad mahrez", "mahrez"]
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
     },
     {
       "display": "Bernardo Silva",
       "detail": "8 woodwork hits",
-      "accept": ["bernardo silva", "bernardo"]
+      "accept": [
+        "bernardo silva",
+        "bernardo"
+      ]
     }
   ]
 }

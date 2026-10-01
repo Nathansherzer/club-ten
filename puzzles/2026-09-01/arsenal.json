@@ -10,52 +10,93 @@
     {
       "display": "Bukayo Saka",
       "detail": "March 2023",
-      "accept": ["bukayo saka", "saka"]
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
     },
     {
       "display": "Martin Ødegaard",
       "detail": "November/December 2022",
-      "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"]
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
     },
     {
       "display": "Pierre-Emerick Aubameyang",
       "detail": "September 2019",
-      "accept": ["pierre-emerick aubameyang", "pierre emerick aubameyang", "aubameyang", "pea"]
+      "accept": [
+        "pierre-emerick aubameyang",
+        "pierre emerick aubameyang",
+        "aubameyang",
+        "pea",
+        "auba"
+      ]
     },
     {
       "display": "Olivier Giroud",
       "detail": "March 2015",
-      "accept": ["olivier giroud", "giroud"]
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
     },
     {
       "display": "Aaron Ramsey",
       "detail": "September 2013",
-      "accept": ["aaron ramsey", "ramsey"]
+      "accept": [
+        "aaron ramsey",
+        "ramsey"
+      ]
     },
     {
       "display": "Robin van Persie",
       "detail": "October 2011",
-      "accept": ["robin van persie", "van persie", "rvp"]
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
     },
     {
       "display": "Samir Nasri",
       "detail": "December 2010",
-      "accept": ["samir nasri", "nasri"]
+      "accept": [
+        "samir nasri",
+        "nasri"
+      ]
     },
     {
       "display": "Andrey Arshavin",
       "detail": "April 2009",
-      "accept": ["andrey arshavin", "arshavin"]
+      "accept": [
+        "andrey arshavin",
+        "arshavin"
+      ]
     },
     {
       "display": "Cesc Fàbregas",
       "detail": "September 2007",
-      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"]
+      "accept": [
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas",
+        "cesc"
+      ]
     },
     {
       "display": "José Antonio Reyes",
       "detail": "August 2004",
-      "accept": ["jose antonio reyes", "josé antonio reyes", "reyes"]
+      "accept": [
+        "jose antonio reyes",
+        "josé antonio reyes",
+        "reyes",
+        "jose reyes"
+      ]
     }
   ]
 }

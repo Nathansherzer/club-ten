@@ -10,52 +10,88 @@
     {
       "display": "Kevin De Bruyne",
       "detail": "116 assists",
-      "accept": ["kevin de bruyne", "de bruyne"]
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
     },
     {
       "display": "David Silva",
       "detail": "90 assists",
-      "accept": ["david silva"]
+      "accept": [
+        "david silva",
+        "silva",
+        "el mago",
+        "david"
+      ]
     },
     {
       "display": "Bernardo Silva",
       "detail": "49 assists",
-      "accept": ["bernardo silva", "bernardo"]
+      "accept": [
+        "bernardo silva",
+        "bernardo"
+      ]
     },
     {
       "display": "Sergio Agüero",
       "detail": "47 assists",
-      "accept": ["sergio aguero", "aguero"]
+      "accept": [
+        "sergio aguero",
+        "aguero",
+        "kun aguero",
+        "kun"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "41 assists",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Riyad Mahrez",
       "detail": "34 assists",
-      "accept": ["riyad mahrez", "mahrez"]
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "34 assists",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Samir Nasri",
       "detail": "32 assists",
-      "accept": ["samir nasri", "nasri"]
+      "accept": [
+        "samir nasri",
+        "nasri"
+      ]
     },
     {
       "display": "Gabriel Jesus",
       "detail": "29 assists",
-      "accept": ["gabriel jesus", "jesus"]
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
     },
     {
       "display": "Yaya Touré",
       "detail": "29 assists",
-      "accept": ["yaya toure", "toure"]
+      "accept": [
+        "yaya toure",
+        "toure",
+        "yaya"
+      ]
     }
   ]
 }

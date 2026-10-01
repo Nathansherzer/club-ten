@@ -10,52 +10,88 @@
     {
       "display": "Teddy Sheringham",
       "detail": "37 years 19 days",
-      "accept": ["teddy sheringham", "sheringham"]
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
     },
     {
       "display": "Gustavo Poyet",
       "detail": "36 years 69 days",
-      "accept": ["gustavo poyet", "poyet", "gus poyet"]
+      "accept": [
+        "gustavo poyet",
+        "poyet",
+        "gus poyet"
+      ]
     },
     {
       "display": "Les Ferdinand",
       "detail": "35 years 266 days",
-      "accept": ["les ferdinand", "ferdinand"]
+      "accept": [
+        "les ferdinand",
+        "ferdinand",
+        "sir les"
+      ]
     },
     {
       "display": "William Gallas",
       "detail": "35 years 64 days",
-      "accept": ["william gallas", "gallas"]
+      "accept": [
+        "william gallas",
+        "gallas"
+      ]
     },
     {
       "display": "Clive Wilson",
       "detail": "34 years 314 days",
-      "accept": ["clive wilson", "wilson"]
+      "accept": [
+        "clive wilson",
+        "wilson"
+      ]
     },
     {
       "display": "Noureddine Naybet",
       "detail": "34 years 277 days",
-      "accept": ["noureddine naybet", "naybet"]
+      "accept": [
+        "noureddine naybet",
+        "naybet"
+      ]
     },
     {
       "display": "Ivan Perišić",
       "detail": "34 years 44 days",
-      "accept": ["ivan perisic", "ivan perišić", "perisic", "perišić"]
+      "accept": [
+        "ivan perisic",
+        "ivan perišić",
+        "perisic",
+        "perišić"
+      ]
     },
     {
       "display": "Micky Hazard",
       "detail": "33 years 326 days",
-      "accept": ["micky hazard", "mickey hazard", "hazard"]
+      "accept": [
+        "micky hazard",
+        "mickey hazard",
+        "hazard"
+      ]
     },
     {
       "display": "Jürgen Klinsmann",
       "detail": "33 years 284 days",
-      "accept": ["jurgen klinsmann", "jürgen klinsmann", "klinsmann"]
+      "accept": [
+        "jurgen klinsmann",
+        "jürgen klinsmann",
+        "klinsmann"
+      ]
     },
     {
       "display": "Fernando Llorente",
       "detail": "33 years 76 days",
-      "accept": ["fernando llorente", "llorente"]
+      "accept": [
+        "fernando llorente",
+        "llorente"
+      ]
     }
   ]
 }

@@ -10,52 +10,87 @@
     {
       "display": "Bernardo Silva",
       "detail": "460 apps",
-      "accept": ["bernardo silva", "bernardo"]
+      "accept": [
+        "bernardo silva",
+        "bernardo",
+        "silva"
+      ]
     },
     {
       "display": "Kevin De Bruyne",
       "detail": "381 apps",
-      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
     },
     {
       "display": "Ederson",
       "detail": "372 apps",
-      "accept": ["ederson"]
+      "accept": [
+        "ederson",
+        "ederson moraes"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "369 apps",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "İlkay Gündoğan",
       "detail": "358 apps",
-      "accept": ["ilkay gundogan", "ilkay gündoğan", "gundogan", "gündoğan"]
+      "accept": [
+        "ilkay gundogan",
+        "ilkay gündoğan",
+        "gundogan",
+        "gündoğan"
+      ]
     },
     {
       "display": "Kyle Walker",
       "detail": "319 apps",
-      "accept": ["kyle walker", "walker"]
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
     },
     {
       "display": "Rodri",
       "detail": "298 apps",
-      "accept": ["rodri"]
+      "accept": [
+        "rodri",
+        "rodrigo hernandez"
+      ]
     },
     {
       "display": "John Stones",
       "detail": "295 apps",
-      "accept": ["john stones", "stones"]
+      "accept": [
+        "john stones",
+        "stones"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "292 apps",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Rúben Dias",
       "detail": "255 apps",
-      "accept": ["ruben dias", "rúben dias", "dias"]
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
     }
   ]
 }

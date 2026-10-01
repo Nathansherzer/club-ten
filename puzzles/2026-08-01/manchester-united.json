@@ -10,52 +10,89 @@
     {
       "display": "Paul Scholes",
       "detail": "99 yellows",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Wayne Rooney",
       "detail": "82 yellows",
-      "accept": ["wayne rooney", "rooney"]
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     },
     {
       "display": "Roy Keane",
       "detail": "62 yellows",
-      "accept": ["roy keane", "keane"]
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
     },
     {
       "display": "Luke Shaw",
       "detail": "61 yellows",
-      "accept": ["luke shaw", "shaw"]
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
     },
     {
       "display": "Gary Neville",
       "detail": "53 yellows",
-      "accept": ["gary neville", "gary", "neville"]
+      "accept": [
+        "gary neville",
+        "gary",
+        "neville",
+        "gary nev"
+      ]
     },
     {
       "display": "Nemanja Vidić",
       "detail": "47 yellows",
-      "accept": ["nemanja vidic", "nemanja vidić", "vidic", "vidić"]
+      "accept": [
+        "nemanja vidic",
+        "nemanja vidić",
+        "vidic",
+        "vidić"
+      ]
     },
     {
       "display": "Nicky Butt",
       "detail": "45 yellows",
-      "accept": ["nicky butt", "butt"]
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
     },
     {
       "display": "Harry Maguire",
       "detail": "44 yellows",
-      "accept": ["harry maguire", "maguire"]
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
     },
     {
       "display": "David Beckham",
       "detail": "43 yellows",
-      "accept": ["david beckham", "beckham"]
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
     },
     {
       "display": "Phil Neville",
       "detail": "43 yellows",
-      "accept": ["phil neville", "phil"]
+      "accept": [
+        "phil neville",
+        "phil",
+        "phil nev"
+      ]
     }
   ]
 }

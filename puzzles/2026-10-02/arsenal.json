@@ -7,15 +7,97 @@
   "note": "UEFA Champions League only, excludes qualifying · through 2025/26 · ranked order · Transfermarkt",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Thierry Henry", "detail": "6,313 mins", "accept": ["thierry henry", "henry"] },
-    { "display": "Patrick Vieira", "detail": "4,994 mins", "accept": ["patrick vieira", "vieira"] },
-    { "display": "Kolo Touré", "detail": "4,967 mins", "accept": ["kolo toure", "kolo touré", "toure", "touré"] },
-    { "display": "Freddie Ljungberg", "detail": "4,797 mins", "accept": ["freddie ljungberg", "ljungberg"] },
-    { "display": "Robert Pirès", "detail": "4,683 mins", "accept": ["robert pires", "robert pirès", "pires", "pirès"] },
-    { "display": "Cesc Fàbregas", "detail": "4,541 mins", "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"] },
-    { "display": "Lauren", "detail": "4,172 mins", "accept": ["lauren"] },
-    { "display": "Ashley Cole", "detail": "3,747 mins", "accept": ["ashley cole", "cole"] },
-    { "display": "Sol Campbell", "detail": "3,668 mins", "accept": ["sol campbell", "campbell"] },
-    { "display": "Laurent Koscielny", "detail": "3,526 mins", "accept": ["laurent koscielny", "koscielny"] }
+    {
+      "display": "Thierry Henry",
+      "detail": "6,313 mins",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "4,994 mins",
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "4,967 mins",
+      "accept": [
+        "kolo toure",
+        "kolo touré",
+        "toure",
+        "touré",
+        "kolo"
+      ]
+    },
+    {
+      "display": "Freddie Ljungberg",
+      "detail": "4,797 mins",
+      "accept": [
+        "freddie ljungberg",
+        "ljungberg",
+        "fredrik ljungberg"
+      ]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "4,683 mins",
+      "accept": [
+        "robert pires",
+        "robert pirès",
+        "pires",
+        "pirès"
+      ]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "4,541 mins",
+      "accept": [
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas",
+        "cesc"
+      ]
+    },
+    {
+      "display": "Lauren",
+      "detail": "4,172 mins",
+      "accept": [
+        "lauren",
+        "lauren etame",
+        "lauren etame mayer",
+        "etame mayer"
+      ]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "3,747 mins",
+      "accept": [
+        "ashley cole",
+        "cole",
+        "a cole"
+      ]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "3,668 mins",
+      "accept": [
+        "sol campbell",
+        "campbell"
+      ]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "3,526 mins",
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
+    }
   ]
 }

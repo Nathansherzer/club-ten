@@ -10,52 +10,92 @@
     {
       "display": "Erling Haaland",
       "detail": "272 pts (2022/23)",
-      "accept": ["erling haaland", "haaland"]
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
     },
     {
       "display": "Kevin De Bruyne",
       "detail": "251 pts (2019/20)",
-      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "234 pts (2018/19)",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "230 pts (2023/24)",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Sergio Agüero",
       "detail": "201 pts (2018/19)",
-      "accept": ["sergio aguero", "aguero", "sergio agüero", "kun aguero"]
+      "accept": [
+        "sergio aguero",
+        "aguero",
+        "sergio agüero",
+        "kun aguero",
+        "kun"
+      ]
     },
     {
       "display": "João Cancelo",
       "detail": "201 pts (2021/22)",
-      "accept": ["joao cancelo", "cancelo", "joão cancelo"]
+      "accept": [
+        "joao cancelo",
+        "cancelo",
+        "joão cancelo"
+      ]
     },
     {
       "display": "Leroy Sané",
       "detail": "179 pts (2017/18)",
-      "accept": ["leroy sane", "sane", "leroy sané"]
+      "accept": [
+        "leroy sane",
+        "sane",
+        "leroy sané"
+      ]
     },
     {
       "display": "Aymeric Laporte",
       "detail": "177 pts (2018/19)",
-      "accept": ["aymeric laporte", "laporte"]
+      "accept": [
+        "aymeric laporte",
+        "laporte"
+      ]
     },
     {
       "display": "Riyad Mahrez",
       "detail": "175 pts (2019/20)",
-      "accept": ["riyad mahrez", "mahrez"]
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
     },
     {
       "display": "David Silva",
       "detail": "169 pts (2017/18)",
-      "accept": ["david silva", "silva", "david silva"]
+      "accept": [
+        "david silva",
+        "silva",
+        "david silva",
+        "el mago",
+        "david"
+      ]
     }
   ]
 }

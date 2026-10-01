@@ -10,52 +10,87 @@
     {
       "display": "Reece James",
       "detail": "2023–present",
-      "accept": ["reece james", "james"]
+      "accept": [
+        "reece james",
+        "james",
+        "reece"
+      ]
     },
     {
       "display": "César Azpilicueta",
       "detail": "2019–2023",
-      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+      "accept": [
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
     },
     {
       "display": "Gary Cahill",
       "detail": "2017–2019",
-      "accept": ["gary cahill", "cahill"]
+      "accept": [
+        "gary cahill",
+        "cahill"
+      ]
     },
     {
       "display": "John Terry",
       "detail": "2004–2017",
-      "accept": ["john terry", "terry", "jt"]
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
     },
     {
       "display": "Marcel Desailly",
       "detail": "2001–2004",
-      "accept": ["marcel desailly", "desailly"]
+      "accept": [
+        "marcel desailly",
+        "desailly"
+      ]
     },
     {
       "display": "Dennis Wise",
       "detail": "1993–2001",
-      "accept": ["dennis wise", "wise"]
+      "accept": [
+        "dennis wise",
+        "wise"
+      ]
     },
     {
       "display": "Andy Townsend",
       "detail": "1991–1993",
-      "accept": ["andy townsend", "townsend"]
+      "accept": [
+        "andy townsend",
+        "townsend"
+      ]
     },
     {
       "display": "Peter Nicholas",
       "detail": "1990–1991",
-      "accept": ["peter nicholas", "nicholas"]
+      "accept": [
+        "peter nicholas",
+        "nicholas"
+      ]
     },
     {
       "display": "Graham Roberts",
       "detail": "1988–1990",
-      "accept": ["graham roberts", "roberts"]
+      "accept": [
+        "graham roberts",
+        "roberts"
+      ]
     },
     {
       "display": "Colin Pates",
       "detail": "1983–1988",
-      "accept": ["colin pates", "pates"]
+      "accept": [
+        "colin pates",
+        "pates"
+      ]
     }
   ]
 }

@@ -10,52 +10,92 @@
     {
       "display": "Virgil van Dijk",
       "detail": "175 pts",
-      "accept": ["virgil van dijk", "van dijk", "virgil"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
     },
     {
       "display": "Dominik Szoboszlai",
       "detail": "160 pts",
-      "accept": ["dominik szoboszlai", "szoboszlai"]
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
     },
     {
       "display": "Ryan Gravenberch",
       "detail": "144 pts",
-      "accept": ["ryan gravenberch", "gravenberch"]
+      "accept": [
+        "ryan gravenberch",
+        "gravenberch"
+      ]
     },
     {
       "display": "Cody Gakpo",
       "detail": "131 pts",
-      "accept": ["cody gakpo", "gakpo"]
+      "accept": [
+        "cody gakpo",
+        "gakpo"
+      ]
     },
     {
       "display": "Ibrahima Konaté",
       "detail": "129 pts",
-      "accept": ["ibrahima konate", "ibrahima konaté", "konate", "konaté"]
+      "accept": [
+        "ibrahima konate",
+        "ibrahima konaté",
+        "konate",
+        "konaté"
+      ]
     },
     {
       "display": "Florian Wirtz",
       "detail": "125 pts",
-      "accept": ["florian wirtz", "wirtz"]
+      "accept": [
+        "florian wirtz",
+        "wirtz"
+      ]
     },
     {
       "display": "Hugo Ekitiké",
       "detail": "125 pts",
-      "accept": ["hugo ekitike", "hugo ekitiké", "ekitike"]
+      "accept": [
+        "hugo ekitike",
+        "hugo ekitiké",
+        "ekitike"
+      ]
     },
     {
       "display": "Mohamed Salah",
       "detail": "123 pts",
-      "accept": ["mohamed salah", "salah", "mo salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mo salah",
+        "mohammed salah"
+      ]
     },
     {
       "display": "Alexis Mac Allister",
       "detail": "108 pts",
-      "accept": ["alexis mac allister", "mac allister", "macallister", "alexis macallister"]
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister",
+        "alexis macallister"
+      ]
     },
     {
       "display": "Alisson Becker",
       "detail": "91 pts",
-      "accept": ["alisson becker", "alisson", "becker"]
+      "accept": [
+        "alisson becker",
+        "alisson",
+        "becker"
+      ]
     }
   ]
 }

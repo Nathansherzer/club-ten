@@ -10,52 +10,85 @@
     {
       "display": "David de Gea",
       "detail": "147 clean sheets",
-      "accept": ["david de gea", "de gea", "degea"]
+      "accept": [
+        "david de gea",
+        "de gea",
+        "degea",
+        "ddg"
+      ]
     },
     {
       "display": "Peter Schmeichel",
       "detail": "112 clean sheets",
-      "accept": ["peter schmeichel", "schmeichel"]
+      "accept": [
+        "peter schmeichel",
+        "schmeichel"
+      ]
     },
     {
       "display": "Edwin van der Sar",
       "detail": "91 clean sheets",
-      "accept": ["edwin van der sar", "van der sar"]
+      "accept": [
+        "edwin van der sar",
+        "van der sar"
+      ]
     },
     {
       "display": "Fabien Barthez",
       "detail": "30 clean sheets",
-      "accept": ["fabien barthez", "barthez"]
+      "accept": [
+        "fabien barthez",
+        "barthez"
+      ]
     },
     {
       "display": "Roy Carroll",
       "detail": "24 clean sheets",
-      "accept": ["roy carroll", "carroll"]
+      "accept": [
+        "roy carroll",
+        "carroll"
+      ]
     },
     {
       "display": "André Onana",
       "detail": "18 clean sheets",
-      "accept": ["andre onana", "andré onana", "onana"]
+      "accept": [
+        "andre onana",
+        "andré onana",
+        "onana"
+      ]
     },
     {
       "display": "Tim Howard",
       "detail": "16 clean sheets",
-      "accept": ["tim howard", "howard"]
+      "accept": [
+        "tim howard",
+        "howard"
+      ]
     },
     {
       "display": "Tomasz Kuszczak",
       "detail": "15 clean sheets",
-      "accept": ["tomasz kuszczak", "kuszczak"]
+      "accept": [
+        "tomasz kuszczak",
+        "kuszczak"
+      ]
     },
     {
       "display": "Anders Lindegaard",
       "detail": "9 clean sheets",
-      "accept": ["anders lindegaard", "lindegaard"]
+      "accept": [
+        "anders lindegaard",
+        "lindegaard"
+      ]
     },
     {
       "display": "Mark Bosnich",
       "detail": "9 clean sheets",
-      "accept": ["mark bosnich", "bosnich"]
+      "accept": [
+        "mark bosnich",
+        "bosnich"
+      ]
     }
   ]
 }

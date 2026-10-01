@@ -7,15 +7,87 @@
   "note": "goals from outside the box · 2006/07-2025/26 only, not tracked before · ties broken by fewer PL appearances for the club in the same period · Premier League",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Wayne Rooney", "detail": "20 goals", "accept": ["wayne rooney", "rooney"] },
-    { "display": "Cristiano Ronaldo", "detail": "16 goals", "accept": ["cristiano ronaldo", "ronaldo", "cr7"] },
-    { "display": "Bruno Fernandes", "detail": "15 goals", "accept": ["bruno fernandes", "fernandes", "bruno"] },
-    { "display": "Marcus Rashford", "detail": "11 goals", "accept": ["marcus rashford", "rashford"] },
-    { "display": "Nani", "detail": "8 goals", "accept": ["nani"] },
-    { "display": "Paul Scholes", "detail": "8 goals", "accept": ["paul scholes", "scholes"] },
-    { "display": "Juan Mata", "detail": "7 goals", "accept": ["juan mata", "mata"] },
-    { "display": "Michael Carrick", "detail": "7 goals", "accept": ["michael carrick", "carrick"] },
-    { "display": "Paul Pogba", "detail": "6 goals", "accept": ["paul pogba", "pogba"] },
-    { "display": "Scott McTominay", "detail": "6 goals", "accept": ["scott mctominay", "mctominay"] }
+    {
+      "display": "Wayne Rooney",
+      "detail": "20 goals",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "16 goals",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "15 goals",
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "11 goals",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Nani",
+      "detail": "8 goals",
+      "accept": [
+        "nani"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "8 goals",
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "7 goals",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "7 goals",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "6 goals",
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
+    },
+    {
+      "display": "Scott McTominay",
+      "detail": "6 goals",
+      "accept": [
+        "scott mctominay",
+        "mctominay"
+      ]
+    }
   ]
 }

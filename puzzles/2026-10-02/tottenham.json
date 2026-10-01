@@ -7,15 +7,96 @@
   "note": "UEFA Champions League only, excludes qualifying · through 2025/26 · ranked order · Transfermarkt",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Hugo Lloris", "detail": "3,049 mins", "accept": ["hugo lloris", "lloris"] },
-    { "display": "Harry Kane", "detail": "2,808 mins", "accept": ["harry kane", "kane"] },
-    { "display": "Son Heung-min", "detail": "2,744 mins", "accept": ["son heung-min", "son", "sonny"] },
-    { "display": "Christian Eriksen", "detail": "2,284 mins", "accept": ["christian eriksen", "eriksen"] },
-    { "display": "Eric Dier", "detail": "2,251 mins", "accept": ["eric dier", "dier"] },
-    { "display": "Dele Alli", "detail": "2,199 mins", "accept": ["dele alli", "dele", "alli"] },
-    { "display": "Toby Alderweireld", "detail": "2,116 mins", "accept": ["toby alderweireld", "alderweireld"] },
-    { "display": "Jan Vertonghen", "detail": "2,092 mins", "accept": ["jan vertonghen", "vertonghen"] },
-    { "display": "Ben Davies", "detail": "1,968 mins", "accept": ["ben davies", "davies"] },
-    { "display": "Davinson Sánchez", "detail": "1,820 mins", "accept": ["davinson sanchez", "davinson sánchez", "sanchez", "sánchez"] }
+    {
+      "display": "Hugo Lloris",
+      "detail": "3,049 mins",
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "2,808 mins",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "2,744 mins",
+      "accept": [
+        "son heung-min",
+        "son",
+        "sonny",
+        "son heung min",
+        "heung-min son",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "2,284 mins",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "2,251 mins",
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "2,199 mins",
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "2,116 mins",
+      "accept": [
+        "toby alderweireld",
+        "alderweireld",
+        "toby"
+      ]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "2,092 mins",
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "1,968 mins",
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
+    },
+    {
+      "display": "Davinson Sánchez",
+      "detail": "1,820 mins",
+      "accept": [
+        "davinson sanchez",
+        "davinson sánchez",
+        "sanchez",
+        "sánchez",
+        "davinson"
+      ]
+    }
   ]
 }

@@ -7,15 +7,89 @@
   "note": "UEFA Champions League only, excludes qualifying · through 2025/26 · ranked order · Transfermarkt",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Ederson", "detail": "6,838 mins", "accept": ["ederson"] },
-    { "display": "Bernardo Silva", "detail": "6,146 mins", "accept": ["bernardo silva", "silva"] },
-    { "display": "İlkay Gündoğan", "detail": "5,579 mins", "accept": ["ilkay gundogan", "i̇lkay gündoğan", "gundogan", "gündoğan"] },
-    { "display": "Kevin De Bruyne", "detail": "5,464 mins", "accept": ["kevin de bruyne", "de bruyne"] },
-    { "display": "Fernandinho", "detail": "5,336 mins", "accept": ["fernandinho"] },
-    { "display": "John Stones", "detail": "4,644 mins", "accept": ["john stones", "stones"] },
-    { "display": "Phil Foden", "detail": "4,551 mins", "accept": ["phil foden", "foden"] },
-    { "display": "Rúben Dias", "detail": "4,403 mins", "accept": ["ruben dias", "rúben dias", "dias"] },
-    { "display": "Rodri", "detail": "4,384 mins", "accept": ["rodri"] },
-    { "display": "Raheem Sterling", "detail": "4,350 mins", "accept": ["raheem sterling", "sterling"] }
+    {
+      "display": "Ederson",
+      "detail": "6,838 mins",
+      "accept": [
+        "ederson",
+        "ederson moraes"
+      ]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "6,146 mins",
+      "accept": [
+        "bernardo silva",
+        "silva",
+        "bernardo"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "5,579 mins",
+      "accept": [
+        "ilkay gundogan",
+        "i̇lkay gündoğan",
+        "gundogan",
+        "gündoğan"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "5,464 mins",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "5,336 mins",
+      "accept": [
+        "fernandinho"
+      ]
+    },
+    {
+      "display": "John Stones",
+      "detail": "4,644 mins",
+      "accept": [
+        "john stones",
+        "stones"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "4,551 mins",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "4,403 mins",
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "4,384 mins",
+      "accept": [
+        "rodri",
+        "rodrigo hernandez"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "4,350 mins",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    }
   ]
 }

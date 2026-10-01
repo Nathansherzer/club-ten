@@ -10,52 +10,90 @@
     {
       "display": "Christian Eriksen",
       "detail": "255 apps",
-      "accept": ["christian eriksen", "eriksen"]
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
     },
     {
       "display": "Harry Kane",
       "detail": "242 apps",
-      "accept": ["harry kane", "kane"]
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Hugo Lloris",
       "detail": "229 apps",
-      "accept": ["hugo lloris", "lloris"]
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
     },
     {
       "display": "Eric Dier",
       "detail": "216 apps",
-      "accept": ["eric dier", "dier"]
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
     },
     {
       "display": "Jan Vertonghen",
       "detail": "212 apps",
-      "accept": ["jan vertonghen", "vertonghen"]
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
     },
     {
       "display": "Son Heung-min",
       "detail": "203 apps",
-      "accept": ["son heung-min", "son heung min", "son", "heung-min"]
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min",
+        "heung min",
+        "heung-min son",
+        "sonny",
+        "heung min son"
+      ]
     },
     {
       "display": "Dele Alli",
       "detail": "194 apps",
-      "accept": ["dele alli", "dele", "alli"]
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
     },
     {
       "display": "Erik Lamela",
       "detail": "183 apps",
-      "accept": ["erik lamela", "lamela"]
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
     },
     {
       "display": "Ben Davies",
       "detail": "176 apps",
-      "accept": ["ben davies", "davies"]
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
     },
     {
       "display": "Toby Alderweireld",
       "detail": "172 apps",
-      "accept": ["toby alderweireld", "alderweireld"]
+      "accept": [
+        "toby alderweireld",
+        "alderweireld",
+        "toby"
+      ]
     }
   ]
 }

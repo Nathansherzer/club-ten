@@ -10,52 +10,87 @@
     {
       "display": "Cole Palmer",
       "detail": "244 pts (2023/24)",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     },
     {
       "display": "Eden Hazard",
       "detail": "238 pts (2018/19)",
-      "accept": ["eden hazard", "hazard"]
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
     },
     {
       "display": "Diego Costa",
       "detail": "196 pts (2016/17)",
-      "accept": ["diego costa", "costa"]
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
     },
     {
       "display": "Gary Cahill",
       "detail": "178 pts (2016/17)",
-      "accept": ["gary cahill", "cahill"]
+      "accept": [
+        "gary cahill",
+        "cahill"
+      ]
     },
     {
       "display": "João Pedro",
       "detail": "177 pts (2025/26)",
-      "accept": ["joao pedro", "joão pedro", "pedro"]
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "pedro",
+        "joao"
+      ]
     },
     {
       "display": "Marcos Alonso",
       "detail": "177 pts (2016/17)",
-      "accept": ["marcos alonso", "alonso"]
+      "accept": [
+        "marcos alonso",
+        "alonso"
+      ]
     },
     {
       "display": "César Azpilicueta",
       "detail": "175 pts (2017/18)",
-      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+      "accept": [
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
     },
     {
       "display": "Mason Mount",
       "detail": "169 pts (2021/22)",
-      "accept": ["mason mount", "mount"]
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
     },
     {
       "display": "Willian",
       "detail": "168 pts (2019/20)",
-      "accept": ["willian"]
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
     },
     {
       "display": "David Luiz",
       "detail": "164 pts (2018/19)",
-      "accept": ["david luiz", "luiz"]
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
     }
   ]
 }

@@ -10,52 +10,86 @@
     {
       "display": "Archie Gray",
       "detail": "",
-      "accept": ["archie gray", "gray"]
+      "accept": [
+        "archie gray",
+        "gray"
+      ]
     },
     {
       "display": "Jan Paul van Hecke",
       "detail": "",
-      "accept": ["jan paul van hecke", "van hecke", "jpvh"]
+      "accept": [
+        "jan paul van hecke",
+        "van hecke",
+        "jpvh",
+        "hecke"
+      ]
     },
     {
       "display": "Marcos Senesi",
       "detail": "",
-      "accept": ["marcos senesi", "senesi"]
+      "accept": [
+        "marcos senesi",
+        "senesi"
+      ]
     },
     {
       "display": "Andrew Robertson",
       "detail": "",
-      "accept": ["andrew robertson", "andy robertson", "robertson"]
+      "accept": [
+        "andrew robertson",
+        "andy robertson",
+        "robertson",
+        "robbo"
+      ]
     },
     {
       "display": "Sandro Tonali",
       "detail": "",
-      "accept": ["sandro tonali", "tonali", "sandro"]
+      "accept": [
+        "sandro tonali",
+        "tonali",
+        "sandro"
+      ]
     },
     {
       "display": "Lucas Bergvall",
       "detail": "",
-      "accept": ["lucas bergvall", "bergvall"]
+      "accept": [
+        "lucas bergvall",
+        "bergvall"
+      ]
     },
     {
       "display": "Mikey Moore",
       "detail": "",
-      "accept": ["mikey moore", "moore"]
+      "accept": [
+        "mikey moore",
+        "moore"
+      ]
     },
     {
       "display": "Conor Gallagher",
       "detail": "",
-      "accept": ["conor gallagher", "gallagher"]
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
     },
     {
       "display": "Mathys Tel",
       "detail": "",
-      "accept": ["mathys tel", "tel"]
+      "accept": [
+        "mathys tel",
+        "tel"
+      ]
     },
     {
       "display": "Richarlison",
       "detail": "",
-      "accept": ["richarlison"]
+      "accept": [
+        "richarlison"
+      ]
     }
   ]
 }

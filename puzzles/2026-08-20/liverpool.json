@@ -10,52 +10,93 @@
     {
       "display": "Alexander Isak",
       "detail": "Newcastle · €145m",
-      "accept": ["alexander isak", "isak"]
+      "accept": [
+        "alexander isak",
+        "isak"
+      ]
     },
     {
       "display": "Virgil van Dijk",
       "detail": "Southampton · €84.65m",
-      "accept": ["virgil van dijk", "van dijk", "vvd"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd",
+        "virgil"
+      ]
     },
     {
       "display": "Milos Kerkez",
       "detail": "Bournemouth · €46.90m",
-      "accept": ["milos kerkez", "miloš kerkez", "kerkez"]
+      "accept": [
+        "milos kerkez",
+        "miloš kerkez",
+        "kerkez"
+      ]
     },
     {
       "display": "Christian Benteke",
       "detail": "Aston Villa · €46.50m",
-      "accept": ["christian benteke", "benteke"]
+      "accept": [
+        "christian benteke",
+        "benteke"
+      ]
     },
     {
       "display": "Diogo Jota",
       "detail": "Wolves · €44.70m",
-      "accept": ["diogo jota", "jota"]
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
     },
     {
       "display": "Alexis Mac Allister",
       "detail": "Brighton · €42m",
-      "accept": ["alexis mac allister", "mac allister", "macallister"]
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister",
+        "alexis macallister"
+      ]
     },
     {
       "display": "Sadio Mané",
       "detail": "Southampton · €41.20m",
-      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
     },
     {
       "display": "Andy Carroll",
       "detail": "Newcastle · €41m",
-      "accept": ["andy carroll", "carroll"]
+      "accept": [
+        "andy carroll",
+        "carroll"
+      ]
     },
     {
       "display": "Alex Oxlade-Chamberlain",
       "detail": "Arsenal · €38m",
-      "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "oxlade chamberlain", "aoc"]
+      "accept": [
+        "alex oxlade-chamberlain",
+        "oxlade-chamberlain",
+        "oxlade chamberlain",
+        "aoc",
+        "alex oxlade chamberlain",
+        "the ox"
+      ]
     },
     {
       "display": "Adam Lallana",
       "detail": "Southampton · €31m",
-      "accept": ["adam lallana", "lallana"]
+      "accept": [
+        "adam lallana",
+        "lallana"
+      ]
     }
   ]
 }

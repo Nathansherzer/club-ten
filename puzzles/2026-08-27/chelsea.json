@@ -10,52 +10,86 @@
     {
       "display": "Josh Acheampong",
       "detail": "",
-      "accept": ["josh acheampong", "acheampong"]
+      "accept": [
+        "josh acheampong",
+        "acheampong"
+      ]
     },
     {
       "display": "Maxence Lacroix",
       "detail": "",
-      "accept": ["maxence lacroix", "lacroix"]
+      "accept": [
+        "maxence lacroix",
+        "lacroix"
+      ]
     },
     {
       "display": "Levi Colwill",
       "detail": "",
-      "accept": ["levi colwill", "colwill"]
+      "accept": [
+        "levi colwill",
+        "colwill"
+      ]
     },
     {
       "display": "Malo Gusto",
       "detail": "",
-      "accept": ["malo gusto", "gusto"]
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
     },
     {
       "display": "Reece James",
       "detail": "",
-      "accept": ["reece james", "james"]
+      "accept": [
+        "reece james",
+        "james",
+        "reece"
+      ]
     },
     {
       "display": "Roméo Lavia",
       "detail": "",
-      "accept": ["romeo lavia", "roméo lavia", "lavia"]
+      "accept": [
+        "romeo lavia",
+        "roméo lavia",
+        "lavia"
+      ]
     },
     {
       "display": "Jorrel Hato",
       "detail": "",
-      "accept": ["jorrel hato", "hato"]
+      "accept": [
+        "jorrel hato",
+        "hato"
+      ]
     },
     {
       "display": "Cole Palmer",
       "detail": "",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     },
     {
       "display": "Morgan Rogers",
       "detail": "",
-      "accept": ["morgan rogers", "rogers"]
+      "accept": [
+        "morgan rogers",
+        "rogers"
+      ]
     },
     {
       "display": "João Pedro",
       "detail": "",
-      "accept": ["joao pedro", "joão pedro"]
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "joao",
+        "pedro"
+      ]
     }
   ]
 }

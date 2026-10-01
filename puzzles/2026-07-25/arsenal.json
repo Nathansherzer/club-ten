@@ -10,52 +10,91 @@
     {
       "display": "Max Dowman",
       "detail": "16y 73d",
-      "accept": ["max dowman", "dowman"]
+      "accept": [
+        "max dowman",
+        "dowman"
+      ]
     },
     {
       "display": "Cesc Fàbregas",
       "detail": "17y 113d",
-      "accept": ["cesc fabregas", "fabregas"]
+      "accept": [
+        "cesc fabregas",
+        "fabregas",
+        "cesc"
+      ]
     },
     {
       "display": "Ethan Nwaneri",
       "detail": "17y 247d",
-      "accept": ["ethan nwaneri", "nwaneri"]
+      "accept": [
+        "ethan nwaneri",
+        "nwaneri"
+      ]
     },
     {
       "display": "Serge Gnabry",
       "detail": "18y 76d",
-      "accept": ["serge gnabry", "gnabry"]
+      "accept": [
+        "serge gnabry",
+        "gnabry"
+      ]
     },
     {
       "display": "Myles Lewis-Skelly",
       "detail": "18y 129d",
-      "accept": ["myles lewis-skelly", "lewis-skelly"]
+      "accept": [
+        "myles lewis-skelly",
+        "lewis-skelly",
+        "myles lewis skelly",
+        "lewis skelly",
+        "mls"
+      ]
     },
     {
       "display": "Alex Oxlade-Chamberlain",
       "detail": "18y 173d",
-      "accept": ["alex oxlade-chamberlain", "oxlade-chamberlain", "oxlade chamberlain"]
+      "accept": [
+        "alex oxlade-chamberlain",
+        "oxlade-chamberlain",
+        "oxlade chamberlain",
+        "alex oxlade chamberlain",
+        "aoc",
+        "the ox"
+      ]
     },
     {
       "display": "Gabriel Martinelli",
       "detail": "18y 174d",
-      "accept": ["gabriel martinelli", "martinelli"]
+      "accept": [
+        "gabriel martinelli",
+        "martinelli",
+        "gabriel"
+      ]
     },
     {
       "display": "Aaron Ramsey",
       "detail": "18y 239d",
-      "accept": ["aaron ramsey", "ramsey"]
+      "accept": [
+        "aaron ramsey",
+        "ramsey"
+      ]
     },
     {
       "display": "Nicolas Anelka",
       "detail": "18y 240d",
-      "accept": ["nicolas anelka", "anelka"]
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
     },
     {
       "display": "Bukayo Saka",
       "detail": "18y 303d",
-      "accept": ["bukayo saka", "saka"]
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
     }
   ]
 }

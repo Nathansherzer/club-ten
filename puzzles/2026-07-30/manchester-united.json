@@ -10,52 +10,88 @@
     {
       "display": "Harry Maguire",
       "detail": "228 apps",
-      "accept": ["harry maguire", "maguire"]
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
     },
     {
       "display": "Diogo Dalot",
       "detail": "226 apps",
-      "accept": ["diogo dalot", "dalot"]
+      "accept": [
+        "diogo dalot",
+        "dalot"
+      ]
     },
     {
       "display": "Marcus Rashford",
       "detail": "215 apps",
-      "accept": ["marcus rashford", "rashford"]
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "Luke Shaw",
       "detail": "193 apps",
-      "accept": ["luke shaw", "shaw"]
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
     },
     {
       "display": "Victor Lindelöf",
       "detail": "178 apps",
-      "accept": ["victor lindelof", "victor lindelöf", "lindelof", "lindelöf"]
+      "accept": [
+        "victor lindelof",
+        "victor lindelöf",
+        "lindelof",
+        "lindelöf"
+      ]
     },
     {
       "display": "Scott McTominay",
       "detail": "171 apps",
-      "accept": ["scott mctominay", "mctominay"]
+      "accept": [
+        "scott mctominay",
+        "mctominay"
+      ]
     },
     {
       "display": "Aaron Wan-Bissaka",
       "detail": "156 apps",
-      "accept": ["aaron wan-bissaka", "aaron wan bissaka", "wan-bissaka", "wan bissaka"]
+      "accept": [
+        "aaron wan-bissaka",
+        "aaron wan bissaka",
+        "wan-bissaka",
+        "wan bissaka",
+        "awb"
+      ]
     },
     {
       "display": "David de Gea",
       "detail": "152 apps",
-      "accept": ["david de gea", "de gea", "degea"]
+      "accept": [
+        "david de gea",
+        "de gea",
+        "degea",
+        "ddg"
+      ]
     },
     {
       "display": "Fred",
       "detail": "148 apps",
-      "accept": ["fred", "fred brasileiro"]
+      "accept": [
+        "fred",
+        "fred brasileiro"
+      ]
     },
     {
       "display": "Casemiro",
       "detail": "146 apps",
-      "accept": ["casemiro"]
+      "accept": [
+        "casemiro"
+      ]
     }
   ]
 }

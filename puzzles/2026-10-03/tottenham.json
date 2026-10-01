@@ -7,15 +7,92 @@
   "note": "Premier League goals only · any order · through 26 Sep 2026",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Harry Kane", "detail": "213 goals", "accept": ["harry kane", "kane"] },
-    { "display": "Son Heung-min", "detail": "127 goals", "accept": ["son heung-min", "son", "sonny"] },
-    { "display": "Teddy Sheringham", "detail": "97 goals", "accept": ["teddy sheringham", "sheringham"] },
-    { "display": "Robbie Keane", "detail": "91 goals", "accept": ["robbie keane", "keane"] },
-    { "display": "Jermain Defoe", "detail": "91 goals", "accept": ["jermain defoe", "defoe"] },
-    { "display": "Gareth Bale", "detail": "53 goals", "accept": ["gareth bale", "bale"] },
-    { "display": "Christian Eriksen", "detail": "51 goals", "accept": ["christian eriksen", "eriksen"] },
-    { "display": "Dele Alli", "detail": "51 goals", "accept": ["dele alli", "dele", "alli"] },
-    { "display": "Chris Armstrong", "detail": "48 goals", "accept": ["chris armstrong", "armstrong"] },
-    { "display": "Steffen Iversen", "detail": "36 goals", "accept": ["steffen iversen", "iversen"] }
+    {
+      "display": "Harry Kane",
+      "detail": "213 goals",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "127 goals",
+      "accept": [
+        "son heung-min",
+        "son",
+        "sonny",
+        "son heung min",
+        "heung-min son",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "97 goals",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "91 goals",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "91 goals",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "53 goals",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "51 goals",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "51 goals",
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
+    },
+    {
+      "display": "Chris Armstrong",
+      "detail": "48 goals",
+      "accept": [
+        "chris armstrong",
+        "armstrong"
+      ]
+    },
+    {
+      "display": "Steffen Iversen",
+      "detail": "36 goals",
+      "accept": [
+        "steffen iversen",
+        "iversen"
+      ]
+    }
   ]
 }

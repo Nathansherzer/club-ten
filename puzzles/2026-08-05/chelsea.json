@@ -10,52 +10,90 @@
     {
       "display": "Frank Lampard",
       "detail": "236 contributions",
-      "accept": ["frank lampard", "lampard"]
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Didier Drogba",
       "detail": "158 contributions",
-      "accept": ["didier drogba", "drogba"]
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
     },
     {
       "display": "Eden Hazard",
       "detail": "136 contributions",
-      "accept": ["eden hazard", "hazard"]
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
     },
     {
       "display": "Gianfranco Zola",
       "detail": "101 contributions",
-      "accept": ["gianfranco zola", "zola"]
+      "accept": [
+        "gianfranco zola",
+        "zola",
+        "magic box"
+      ]
     },
     {
       "display": "Jimmy Floyd Hasselbaink",
       "detail": "96 contributions",
-      "accept": ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink"]
+      "accept": [
+        "jimmy floyd hasselbaink",
+        "hasselbaink",
+        "jimmy hasselbaink",
+        "floyd hasselbaink"
+      ]
     },
     {
       "display": "Eiður Guðjohnsen",
       "detail": "81 contributions",
-      "accept": ["eidur gudjohnsen", "gudjohnsen", "eiður guðjohnsen", "guðjohnsen", "eidur gudjonsen", "gudjonsen"]
+      "accept": [
+        "eidur gudjohnsen",
+        "gudjohnsen",
+        "eiður guðjohnsen",
+        "guðjohnsen",
+        "eidur gudjonsen",
+        "gudjonsen"
+      ]
     },
     {
       "display": "Dennis Wise",
       "detail": "72 contributions",
-      "accept": ["dennis wise", "wise"]
+      "accept": [
+        "dennis wise",
+        "wise"
+      ]
     },
     {
       "display": "Willian",
       "detail": "70 contributions",
-      "accept": ["willian"]
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
     },
     {
       "display": "Diego Costa",
       "detail": "68 contributions",
-      "accept": ["diego costa", "costa"]
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
     },
     {
       "display": "Cole Palmer",
       "detail": "67 contributions",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     }
   ]
 }

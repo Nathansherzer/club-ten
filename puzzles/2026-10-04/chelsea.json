@@ -7,15 +7,85 @@
   "note": "goals from outside the box · 2006/07-2025/26 only, not tracked before · ties broken by fewer PL appearances for the club in the same period · Premier League",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Frank Lampard", "detail": "18 goals", "accept": ["frank lampard", "lampard"] },
-    { "display": "Didier Drogba", "detail": "12 goals", "accept": ["didier drogba", "drogba"] },
-    { "display": "Willian", "detail": "12 goals", "accept": ["willian"] },
-    { "display": "Eden Hazard", "detail": "9 goals", "accept": ["eden hazard", "hazard"] },
-    { "display": "Cole Palmer", "detail": "8 goals", "accept": ["cole palmer", "palmer"] },
-    { "display": "Pedro", "detail": "7 goals", "accept": ["pedro"] },
-    { "display": "Mason Mount", "detail": "6 goals", "accept": ["mason mount", "mount"] },
-    { "display": "Oscar", "detail": "6 goals", "accept": ["oscar"] },
-    { "display": "Marcos Alonso", "detail": "6 goals", "accept": ["marcos alonso", "alonso"] },
-    { "display": "Juan Mata", "detail": "5 goals", "accept": ["juan mata", "mata"] }
+    {
+      "display": "Frank Lampard",
+      "detail": "18 goals",
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "12 goals",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Willian",
+      "detail": "12 goals",
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "9 goals",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "8 goals",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Pedro",
+      "detail": "7 goals",
+      "accept": [
+        "pedro"
+      ]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "6 goals",
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
+    },
+    {
+      "display": "Oscar",
+      "detail": "6 goals",
+      "accept": [
+        "oscar",
+        "oscar dos santos"
+      ]
+    },
+    {
+      "display": "Marcos Alonso",
+      "detail": "6 goals",
+      "accept": [
+        "marcos alonso",
+        "alonso"
+      ]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "5 goals",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    }
   ]
 }

@@ -10,52 +10,88 @@
     {
       "display": "Ederson",
       "detail": "Brazil",
-      "accept": ["ederson"]
+      "accept": [
+        "ederson",
+        "ederson moraes"
+      ]
     },
     {
       "display": "Sergio Agüero",
       "detail": "Argentina",
-      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun"]
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
     },
     {
       "display": "Fernandinho",
       "detail": "Brazil",
-      "accept": ["fernandinho"]
+      "accept": [
+        "fernandinho"
+      ]
     },
     {
       "display": "Pablo Zabaleta",
       "detail": "Argentina",
-      "accept": ["pablo zabaleta", "zabaleta"]
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
     },
     {
       "display": "Gabriel Jesus",
       "detail": "Brazil",
-      "accept": ["gabriel jesus", "jesus"]
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
     },
     {
       "display": "Nicolás Otamendi",
       "detail": "Argentina",
-      "accept": ["nicolas otamendi", "nicolás otamendi", "otamendi"]
+      "accept": [
+        "nicolas otamendi",
+        "nicolás otamendi",
+        "otamendi"
+      ]
     },
     {
       "display": "Carlos Tévez",
       "detail": "Argentina",
-      "accept": ["carlos tevez", "carlos tévez", "tevez"]
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez"
+      ]
     },
     {
       "display": "Fernando",
       "detail": "Brazil",
-      "accept": ["fernando"]
+      "accept": [
+        "fernando"
+      ]
     },
     {
       "display": "Julián Álvarez",
       "detail": "Argentina",
-      "accept": ["julian alvarez", "julián álvarez", "alvarez", "álvarez"]
+      "accept": [
+        "julian alvarez",
+        "julián álvarez",
+        "alvarez",
+        "álvarez",
+        "julian"
+      ]
     },
     {
       "display": "Elano",
       "detail": "Brazil",
-      "accept": ["elano"]
+      "accept": [
+        "elano"
+      ]
     }
   ]
 }

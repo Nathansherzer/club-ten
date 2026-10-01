@@ -10,52 +10,92 @@
     {
       "display": "Ryan Giggs",
       "detail": "141 apps",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "124 apps",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Gary Neville",
       "detail": "109 apps",
-      "accept": ["gary neville", "neville"]
+      "accept": [
+        "gary neville",
+        "neville",
+        "gary",
+        "gary nev"
+      ]
     },
     {
       "display": "Rio Ferdinand",
       "detail": "86 apps",
-      "accept": ["rio ferdinand", "ferdinand"]
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
     },
     {
       "display": "Wayne Rooney",
       "detail": "85 apps",
-      "accept": ["wayne rooney", "rooney"]
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     },
     {
       "display": "Ole Gunnar Solskjær",
       "detail": "77 apps",
-      "accept": ["ole gunnar solskjaer", "solskjaer"]
+      "accept": [
+        "ole gunnar solskjaer",
+        "solskjaer",
+        "solskjer",
+        "ole",
+        "ole gunnar"
+      ]
     },
     {
       "display": "David Beckham",
       "detail": "77 apps",
-      "accept": ["david beckham", "beckham"]
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
     },
     {
       "display": "Roy Keane",
       "detail": "74 apps",
-      "accept": ["roy keane", "keane"]
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
     },
     {
       "display": "John O'Shea",
       "detail": "71 apps",
-      "accept": ["john o'shea", "oshea", "o'shea"]
+      "accept": [
+        "john o'shea",
+        "oshea",
+        "o'shea",
+        "john o shea"
+      ]
     },
     {
       "display": "Michael Carrick",
       "detail": "70 apps",
-      "accept": ["michael carrick", "carrick"]
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
     }
   ]
 }

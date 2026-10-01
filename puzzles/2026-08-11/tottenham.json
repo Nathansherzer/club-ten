@@ -10,52 +10,89 @@
     {
       "display": "Harry Kane",
       "detail": "263 pts (2022/23)",
-      "accept": ["harry kane", "kane"]
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Son Heung-min",
       "detail": "258 pts (2021/22)",
-      "accept": ["son heung-min", "son heung min", "heung-min son", "heung min son", "son"]
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "heung-min son",
+        "heung min son",
+        "son",
+        "sonny",
+        "heung-min",
+        "heung min"
+      ]
     },
     {
       "display": "Dele Alli",
       "detail": "225 pts (2016/17)",
-      "accept": ["dele alli", "alli", "dele"]
+      "accept": [
+        "dele alli",
+        "alli",
+        "dele"
+      ]
     },
     {
       "display": "Christian Eriksen",
       "detail": "218 pts (2016/17)",
-      "accept": ["christian eriksen", "eriksen"]
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
     },
     {
       "display": "Hugo Lloris",
       "detail": "158 pts (2021/22)",
-      "accept": ["hugo lloris", "lloris"]
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
     },
     {
       "display": "Ben Davies",
       "detail": "143 pts (2017/18)",
-      "accept": ["ben davies", "davies"]
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
     },
     {
       "display": "Kyle Walker",
       "detail": "142 pts (2016/17)",
-      "accept": ["kyle walker", "walker"]
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
     },
     {
       "display": "Jan Vertonghen",
       "detail": "138 pts (2017/18)",
-      "accept": ["jan vertonghen", "vertonghen"]
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
     },
     {
       "display": "Brennan Johnson",
       "detail": "137 pts (2024/25)",
-      "accept": ["brennan johnson", "johnson"]
+      "accept": [
+        "brennan johnson",
+        "johnson"
+      ]
     },
     {
       "display": "Pedro Porro",
       "detail": "136 pts (2023/24)",
-      "accept": ["pedro porro", "porro"]
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
     }
   ]
 }

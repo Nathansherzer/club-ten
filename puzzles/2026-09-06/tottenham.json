@@ -11,21 +11,24 @@
       "display": "Jamie Redknapp",
       "detail": "Liverpool 231 + Tottenham 48 = 279",
       "accept": [
-        "jamie redknapp"
+        "jamie redknapp",
+        "redknapp"
       ]
     },
     {
       "display": "Robbie Keane",
       "detail": "Liverpool 19 + Tottenham 238 = 257",
       "accept": [
-        "robbie keane"
+        "robbie keane",
+        "keane"
       ]
     },
     {
       "display": "Danny Murphy",
       "detail": "Liverpool 170 + Tottenham 22 = 192",
       "accept": [
-        "danny murphy"
+        "danny murphy",
+        "murphy"
       ]
     },
     {
@@ -51,7 +54,8 @@
       "detail": "Liverpool 32 + Tottenham 87 = 119",
       "accept": [
         "nick barmby",
-        "nicky barmby"
+        "nicky barmby",
+        "barmby"
       ]
     },
     {

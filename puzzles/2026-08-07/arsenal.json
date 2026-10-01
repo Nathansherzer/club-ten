@@ -11,52 +11,87 @@
     {
       "display": "England",
       "detail": "5,480 apps",
-      "accept": ["england", "english"]
+      "accept": [
+        "england",
+        "english"
+      ]
     },
     {
       "display": "France",
       "detail": "3,065 apps",
-      "accept": ["france", "french"]
+      "accept": [
+        "france",
+        "french"
+      ]
     },
     {
       "display": "Spain",
       "detail": "1,304 apps",
-      "accept": ["spain", "spanish"]
+      "accept": [
+        "spain",
+        "spanish"
+      ]
     },
     {
       "display": "Brazil",
       "detail": "1,039 apps",
-      "accept": ["brazil", "brasil", "brazilian"]
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
     },
     {
       "display": "Germany",
       "detail": "843 apps",
-      "accept": ["germany", "german"]
+      "accept": [
+        "germany",
+        "german"
+      ]
     },
     {
       "display": "Netherlands",
       "detail": "751 apps",
-      "accept": ["netherlands", "holland", "dutch"]
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
     },
     {
       "display": "Ivory Coast",
       "detail": "483 apps",
-      "accept": ["ivory coast", "côte d'ivoire", "cote d'ivoire", "cote divoire"]
+      "accept": [
+        "ivory coast",
+        "côte d'ivoire",
+        "cote d'ivoire",
+        "cote divoire",
+        "ivorian"
+      ]
     },
     {
       "display": "Switzerland",
       "detail": "389 apps",
-      "accept": ["switzerland", "swiss"]
+      "accept": [
+        "switzerland",
+        "swiss"
+      ]
     },
     {
       "display": "Sweden",
       "detail": "328 apps",
-      "accept": ["sweden", "swedish"]
+      "accept": [
+        "sweden",
+        "swedish"
+      ]
     },
     {
       "display": "Wales",
       "detail": "315 apps",
-      "accept": ["wales", "welsh"]
+      "accept": [
+        "wales",
+        "welsh"
+      ]
     }
   ]
 }

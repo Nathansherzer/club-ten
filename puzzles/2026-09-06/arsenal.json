@@ -29,14 +29,17 @@
       "detail": "Arsenal 225 + Man City 82 = 307",
       "accept": [
         "kolo toure",
-        "kolo touré"
+        "kolo touré",
+        "toure",
+        "kolo"
       ]
     },
     {
       "display": "Patrick Vieira",
       "detail": "Arsenal 279 + Man City 28 = 307",
       "accept": [
-        "patrick vieira"
+        "patrick vieira",
+        "vieira"
       ]
     },
     {
@@ -59,7 +62,8 @@
       "display": "Raheem Sterling",
       "detail": "Arsenal 17 + Man City 225 = 242",
       "accept": [
-        "raheem sterling"
+        "raheem sterling",
+        "sterling"
       ]
     },
     {

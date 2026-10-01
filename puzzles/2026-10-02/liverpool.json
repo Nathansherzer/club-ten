@@ -7,15 +7,103 @@
   "note": "UEFA Champions League only, excludes qualifying · through 2025/26 · ranked order · Transfermarkt",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Jamie Carragher", "detail": "7,221 mins", "accept": ["jamie carragher", "carragher"] },
-    { "display": "Mohamed Salah", "detail": "6,630 mins", "accept": ["mohamed salah", "mo salah", "salah"] },
-    { "display": "Steven Gerrard", "detail": "6,015 mins", "accept": ["steven gerrard", "gerrard"] },
-    { "display": "Virgil van Dijk", "detail": "5,820 mins", "accept": ["virgil van dijk", "van dijk"] },
-    { "display": "Alisson", "detail": "5,216 mins", "accept": ["alisson", "alisson becker"] },
-    { "display": "Andrew Robertson", "detail": "5,191 mins", "accept": ["andrew robertson", "andy robertson", "robertson"] },
-    { "display": "Trent Alexander-Arnold", "detail": "5,034 mins", "accept": ["trent alexander-arnold", "alexander-arnold", "trent"] },
-    { "display": "John Arne Riise", "detail": "4,773 mins", "accept": ["john arne riise", "riise"] },
-    { "display": "Sami Hyypiä", "detail": "4,717 mins", "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"] },
-    { "display": "Sadio Mané", "detail": "4,259 mins", "accept": ["sadio mane", "sadio mané", "mane", "mané"] }
+    {
+      "display": "Jamie Carragher",
+      "detail": "7,221 mins",
+      "accept": [
+        "jamie carragher",
+        "carragher",
+        "carra"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "6,630 mins",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "6,015 mins",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "5,820 mins",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Alisson",
+      "detail": "5,216 mins",
+      "accept": [
+        "alisson",
+        "alisson becker"
+      ]
+    },
+    {
+      "display": "Andrew Robertson",
+      "detail": "5,191 mins",
+      "accept": [
+        "andrew robertson",
+        "andy robertson",
+        "robertson",
+        "robbo"
+      ]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "5,034 mins",
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "trent",
+        "alexander arnold",
+        "trent alexander arnold",
+        "taa",
+        "trent arnold"
+      ]
+    },
+    {
+      "display": "John Arne Riise",
+      "detail": "4,773 mins",
+      "accept": [
+        "john arne riise",
+        "riise"
+      ]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "4,717 mins",
+      "accept": [
+        "sami hyypia",
+        "sami hyypiä",
+        "hyypia",
+        "hyypiä"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "4,259 mins",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    }
   ]
 }

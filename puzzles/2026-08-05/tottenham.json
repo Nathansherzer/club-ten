@@ -10,52 +10,90 @@
     {
       "display": "Harry Kane",
       "detail": "260 contributions",
-      "accept": ["harry kane", "kane"]
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Son Heung-min",
       "detail": "198 contributions",
-      "accept": ["son heung-min", "son heung min", "son", "heung-min"]
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min",
+        "heung min",
+        "heung-min son",
+        "sonny",
+        "heung min son"
+      ]
     },
     {
       "display": "Teddy Sheringham",
       "detail": "141 contributions",
-      "accept": ["teddy sheringham", "sheringham"]
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
     },
     {
       "display": "Robbie Keane",
       "detail": "113 contributions",
-      "accept": ["robbie keane", "keane"]
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
     },
     {
       "display": "Christian Eriksen",
       "detail": "110 contributions",
-      "accept": ["christian eriksen", "eriksen"]
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
     },
     {
       "display": "Jermain Defoe",
       "detail": "110 contributions",
-      "accept": ["jermain defoe", "defoe"]
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
     },
     {
       "display": "Darren Anderton",
       "detail": "100 contributions",
-      "accept": ["darren anderton", "anderton"]
+      "accept": [
+        "darren anderton",
+        "anderton",
+        "sicknote"
+      ]
     },
     {
       "display": "Dele Alli",
       "detail": "85 contributions",
-      "accept": ["dele alli", "alli", "dele"]
+      "accept": [
+        "dele alli",
+        "alli",
+        "dele"
+      ]
     },
     {
       "display": "Gareth Bale",
       "detail": "75 contributions",
-      "accept": ["gareth bale", "bale"]
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
     },
     {
       "display": "Aaron Lennon",
       "detail": "71 contributions",
-      "accept": ["aaron lennon", "lennon"]
+      "accept": [
+        "aaron lennon",
+        "lennon"
+      ]
     }
   ]
 }

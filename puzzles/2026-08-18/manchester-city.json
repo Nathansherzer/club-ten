@@ -10,52 +10,86 @@
     {
       "display": "Phil Foden",
       "detail": "Academy graduate",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Micah Richards",
       "detail": "Academy graduate",
-      "accept": ["micah richards", "richards"]
+      "accept": [
+        "micah richards",
+        "richards"
+      ]
     },
     {
       "display": "Shaun Wright-Phillips",
       "detail": "Academy graduate",
-      "accept": ["shaun wright-phillips", "wright-phillips", "swp"]
+      "accept": [
+        "shaun wright-phillips",
+        "wright-phillips",
+        "swp",
+        "shaun wright phillips",
+        "wright phillips"
+      ]
     },
     {
       "display": "Stephen Ireland",
       "detail": "Academy graduate",
-      "accept": ["stephen ireland", "ireland"]
+      "accept": [
+        "stephen ireland",
+        "ireland"
+      ]
     },
     {
       "display": "Joey Barton",
       "detail": "Academy graduate",
-      "accept": ["joey barton", "barton"]
+      "accept": [
+        "joey barton",
+        "barton"
+      ]
     },
     {
       "display": "Nedum Onuoha",
       "detail": "Academy graduate",
-      "accept": ["nedum onuoha", "onuoha"]
+      "accept": [
+        "nedum onuoha",
+        "onuoha"
+      ]
     },
     {
       "display": "Rico Lewis",
       "detail": "Academy graduate",
-      "accept": ["rico lewis", "lewis"]
+      "accept": [
+        "rico lewis",
+        "lewis",
+        "rico"
+      ]
     },
     {
       "display": "Oscar Bobb",
       "detail": "Academy graduate",
-      "accept": ["oscar bobb", "bobb"]
+      "accept": [
+        "oscar bobb",
+        "bobb"
+      ]
     },
     {
       "display": "Kelechi Iheanacho",
       "detail": "Academy graduate",
-      "accept": ["kelechi iheanacho", "iheanacho"]
+      "accept": [
+        "kelechi iheanacho",
+        "iheanacho"
+      ]
     },
     {
       "display": "Michael Johnson",
       "detail": "Academy graduate",
-      "accept": ["michael johnson", "johnson"]
+      "accept": [
+        "michael johnson",
+        "johnson"
+      ]
     }
   ]
 }

@@ -11,43 +11,51 @@
     {
       "display": "Leicester City",
       "detail": "18 goals",
-      "accept": ["leicester city", "leicester", "foxes"]
+      "accept": [
+        "leicester city",
+        "leicester",
+        "foxes"
+      ]
     },
     {
       "display": "Everton",
       "detail": "15 goals",
-      "accept": ["everton", "toffees"]
+      "accept": [
+        "everton",
+        "toffees"
+      ]
     },
     {
       "display": "Arsenal",
       "detail": "14 goals",
-      "accept": ["arsenal"]
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
     },
     {
       "display": "Southampton",
       "detail": "12 goals",
-      "accept": ["southampton", "saints"]
+      "accept": [
+        "southampton",
+        "saints"
+      ]
     },
     {
       "display": "Crystal Palace",
       "detail": "11 goals",
-      "accept": ["crystal palace", "palace"]
+      "accept": [
+        "crystal palace",
+        "palace"
+      ]
     },
     {
       "display": "West Ham United",
       "detail": "11 goals",
-      "accept": ["west ham united", "west ham", "hammers"]
-    },
-    {
-      "display": null,
-      "poolLabel": "Liverpool / Burnley / Stoke City / WBA / Newcastle",
-      "detail": "9 goals",
       "accept": [
-        "liverpool",
-        "burnley",
-        "stoke city", "stoke",
-        "west bromwich albion", "west brom", "wba",
-        "newcastle united", "newcastle"
+        "west ham united",
+        "west ham",
+        "hammers"
       ]
     },
     {
@@ -57,9 +65,13 @@
       "accept": [
         "liverpool",
         "burnley",
-        "stoke city", "stoke",
-        "west bromwich albion", "west brom", "wba",
-        "newcastle united", "newcastle"
+        "stoke city",
+        "stoke",
+        "west bromwich albion",
+        "west brom",
+        "wba",
+        "newcastle united",
+        "newcastle"
       ]
     },
     {
@@ -69,9 +81,13 @@
       "accept": [
         "liverpool",
         "burnley",
-        "stoke city", "stoke",
-        "west bromwich albion", "west brom", "wba",
-        "newcastle united", "newcastle"
+        "stoke city",
+        "stoke",
+        "west bromwich albion",
+        "west brom",
+        "wba",
+        "newcastle united",
+        "newcastle"
       ]
     },
     {
@@ -81,9 +97,29 @@
       "accept": [
         "liverpool",
         "burnley",
-        "stoke city", "stoke",
-        "west bromwich albion", "west brom", "wba",
-        "newcastle united", "newcastle"
+        "stoke city",
+        "stoke",
+        "west bromwich albion",
+        "west brom",
+        "wba",
+        "newcastle united",
+        "newcastle"
+      ]
+    },
+    {
+      "display": null,
+      "poolLabel": "Liverpool / Burnley / Stoke City / WBA / Newcastle",
+      "detail": "9 goals",
+      "accept": [
+        "liverpool",
+        "burnley",
+        "stoke city",
+        "stoke",
+        "west bromwich albion",
+        "west brom",
+        "wba",
+        "newcastle united",
+        "newcastle"
       ]
     }
   ]

@@ -10,52 +10,87 @@
     {
       "display": "Moisés Caicedo",
       "detail": "Brighton · €116m",
-      "accept": ["moises caicedo", "moisés caicedo", "caicedo"]
+      "accept": [
+        "moises caicedo",
+        "moisés caicedo",
+        "caicedo"
+      ]
     },
     {
       "display": "Wesley Fofana",
       "detail": "Leicester · €80.40m",
-      "accept": ["wesley fofana", "fofana"]
+      "accept": [
+        "wesley fofana",
+        "fofana"
+      ]
     },
     {
       "display": "Marc Cucurella",
       "detail": "Brighton · €65.30m",
-      "accept": ["marc cucurella", "cucurella"]
+      "accept": [
+        "marc cucurella",
+        "cucurella"
+      ]
     },
     {
       "display": "João Pedro",
       "detail": "Brighton · €63.70m",
-      "accept": ["joao pedro", "joão pedro"]
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "joao",
+        "pedro"
+      ]
     },
     {
       "display": "Roméo Lavia",
       "detail": "Southampton · €62.10m",
-      "accept": ["romeo lavia", "roméo lavia", "lavia"]
+      "accept": [
+        "romeo lavia",
+        "roméo lavia",
+        "lavia"
+      ]
     },
     {
       "display": "Pedro Neto",
       "detail": "Wolves · €60m",
-      "accept": ["pedro neto", "neto"]
+      "accept": [
+        "pedro neto",
+        "neto"
+      ]
     },
     {
       "display": "Fernando Torres",
       "detail": "Liverpool · €58.50m",
-      "accept": ["fernando torres", "torres"]
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "Man City · €56.20m",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Ben Chilwell",
       "detail": "Leicester · €50.20m",
-      "accept": ["ben chilwell", "chilwell"]
+      "accept": [
+        "ben chilwell",
+        "chilwell"
+      ]
     },
     {
       "display": "Cole Palmer",
       "detail": "Man City · €47m",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     }
   ]
 }

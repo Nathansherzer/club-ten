@@ -8,15 +8,88 @@
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
-    { "display": "Manchester City", "detail": "2025/26 · Final", "accept": ["manchester city", "man city"] },
-    { "display": "Newcastle United", "detail": "2024/25 · SF", "accept": ["newcastle united", "newcastle"] },
-    { "display": "West Ham United", "detail": "2023/24 · R4", "accept": ["west ham united", "west ham"] },
-    { "display": "Brighton & Hove Albion", "detail": "2022/23 · R3", "accept": ["brighton and hove albion", "brighton", "brighton & hove albion"] },
-    { "display": "Liverpool", "detail": "2021/22 · SF", "accept": ["liverpool"] },
-    { "display": "Manchester City", "detail": "2020/21 · QF", "accept": ["manchester city", "man city"] },
-    { "display": "Liverpool", "detail": "2019/20 · R4 · Penalties", "accept": ["liverpool"] },
-    { "display": "Tottenham Hotspur", "detail": "2018/19 · QF", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
-    { "display": "Manchester City", "detail": "2017/18 · Final", "accept": ["manchester city", "man city"] },
-    { "display": "Southampton", "detail": "2016/17 · QF", "accept": ["southampton"] }
+    {
+      "display": "Manchester City",
+      "detail": "2025/26 · Final",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "2024/25 · SF",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "2023/24 · R4",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Brighton & Hove Albion",
+      "detail": "2022/23 · R3",
+      "accept": [
+        "brighton and hove albion",
+        "brighton",
+        "brighton & hove albion",
+        "bha"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "2021/22 · SF",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "2020/21 · QF",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "2019/20 · R4 · Penalties",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "2018/19 · QF",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "2017/18 · Final",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "2016/17 · QF",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    }
   ]
 }

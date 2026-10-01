@@ -10,52 +10,92 @@
     {
       "display": "Roberto Firmino",
       "detail": "Brazil",
-      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     },
     {
       "display": "Alisson",
       "detail": "Brazil",
-      "accept": ["alisson", "alisson becker"]
+      "accept": [
+        "alisson",
+        "alisson becker"
+      ]
     },
     {
       "display": "Lucas Leiva",
       "detail": "Brazil",
-      "accept": ["lucas leiva", "lucas"]
+      "accept": [
+        "lucas leiva",
+        "lucas",
+        "leiva"
+      ]
     },
     {
       "display": "Philippe Coutinho",
       "detail": "Brazil",
-      "accept": ["philippe coutinho", "coutinho"]
+      "accept": [
+        "philippe coutinho",
+        "coutinho",
+        "phil coutinho"
+      ]
     },
     {
       "display": "Fabinho",
       "detail": "Brazil",
-      "accept": ["fabinho"]
+      "accept": [
+        "fabinho"
+      ]
     },
     {
       "display": "Luis Suárez",
       "detail": "Uruguay",
-      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
     },
     {
       "display": "Alexis Mac Allister",
       "detail": "Argentina",
-      "accept": ["alexis mac allister", "mac allister", "macallister"]
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister",
+        "alexis macallister"
+      ]
     },
     {
       "display": "Luis Díaz",
       "detail": "Colombia",
-      "accept": ["luis diaz", "luis díaz", "diaz", "díaz"]
+      "accept": [
+        "luis diaz",
+        "luis díaz",
+        "diaz",
+        "díaz"
+      ]
     },
     {
       "display": "Javier Mascherano",
       "detail": "Argentina",
-      "accept": ["javier mascherano", "mascherano"]
+      "accept": [
+        "javier mascherano",
+        "mascherano"
+      ]
     },
     {
       "display": "Fábio Aurélio",
       "detail": "Brazil",
-      "accept": ["fabio aurelio", "fábio aurélio", "aurelio", "aurélio"]
+      "accept": [
+        "fabio aurelio",
+        "fábio aurélio",
+        "aurelio",
+        "aurélio"
+      ]
     }
   ]
 }

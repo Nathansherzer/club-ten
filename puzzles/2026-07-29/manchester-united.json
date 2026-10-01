@@ -10,52 +10,83 @@
     {
       "display": "Patrice Evra",
       "detail": "273 apps",
-      "accept": ["patrice evra", "evra"]
+      "accept": [
+        "patrice evra",
+        "evra"
+      ]
     },
     {
       "display": "Mikaël Silvestre",
       "detail": "249 apps",
-      "accept": ["mikael silvestre", "silvestre"]
+      "accept": [
+        "mikael silvestre",
+        "silvestre"
+      ]
     },
     {
       "display": "Anthony Martial",
       "detail": "209 apps",
-      "accept": ["anthony martial", "martial"]
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
     },
     {
       "display": "Paul Pogba",
       "detail": "157 apps",
-      "accept": ["paul pogba", "pogba"]
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
     },
     {
       "display": "Eric Cantona",
       "detail": "143 apps",
-      "accept": ["eric cantona", "cantona"]
+      "accept": [
+        "eric cantona",
+        "cantona",
+        "king eric"
+      ]
     },
     {
       "display": "Fabien Barthez",
       "detail": "92 apps",
-      "accept": ["fabien barthez", "barthez"]
+      "accept": [
+        "fabien barthez",
+        "barthez"
+      ]
     },
     {
       "display": "Louis Saha",
       "detail": "86 apps",
-      "accept": ["louis saha", "saha"]
+      "accept": [
+        "louis saha",
+        "saha"
+      ]
     },
     {
       "display": "Raphaël Varane",
       "detail": "68 apps",
-      "accept": ["raphael varane", "varane"]
+      "accept": [
+        "raphael varane",
+        "varane"
+      ]
     },
     {
       "display": "Leny Yoro",
       "detail": "53 apps",
-      "accept": ["leny yoro", "yoro"]
+      "accept": [
+        "leny yoro",
+        "yoro"
+      ]
     },
     {
       "display": "Laurent Blanc",
       "detail": "48 apps",
-      "accept": ["laurent blanc", "blanc"]
+      "accept": [
+        "laurent blanc",
+        "blanc"
+      ]
     }
   ]
 }

@@ -10,52 +10,90 @@
     {
       "display": "Rico Lewis",
       "detail": "",
-      "accept": ["rico lewis", "lewis"]
+      "accept": [
+        "rico lewis",
+        "lewis",
+        "rico"
+      ]
     },
     {
       "display": "Abdukodir Khusanov",
       "detail": "",
-      "accept": ["abdukodir khusanov", "khusanov"]
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov"
+      ]
     },
     {
       "display": "Rúben Dias",
       "detail": "",
-      "accept": ["ruben dias", "rúben dias", "dias"]
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
     },
     {
       "display": "Joško Gvardiol",
       "detail": "",
-      "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"]
+      "accept": [
+        "josko gvardiol",
+        "joško gvardiol",
+        "gvardiol"
+      ]
     },
     {
       "display": "Elliot Anderson",
       "detail": "",
-      "accept": ["elliot anderson", "anderson"]
+      "accept": [
+        "elliot anderson",
+        "anderson"
+      ]
     },
     {
       "display": "Marc Guéhi",
       "detail": "",
-      "accept": ["marc guehi", "marc guéhi", "guehi", "guéhi"]
+      "accept": [
+        "marc guehi",
+        "marc guéhi",
+        "guehi",
+        "guéhi"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Nico O'Reilly",
       "detail": "",
-      "accept": ["nico o'reilly", "nico oreilly", "o'reilly", "oreilly"]
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
     },
     {
       "display": "Antoine Semenyo",
       "detail": "",
-      "accept": ["antoine semenyo", "semenyo"]
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
     },
     {
       "display": "Erling Haaland",
       "detail": "",
-      "accept": ["erling haaland", "haaland"]
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
     }
   ]
 }

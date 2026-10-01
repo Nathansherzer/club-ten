@@ -10,52 +10,88 @@
     {
       "display": "Ryan Giggs",
       "detail": "407 wins",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "321 wins",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Gary Neville",
       "detail": "256 wins",
-      "accept": ["gary neville", "neville"]
+      "accept": [
+        "gary neville",
+        "neville",
+        "gary",
+        "gary nev"
+      ]
     },
     {
       "display": "Wayne Rooney",
       "detail": "250 wins",
-      "accept": ["wayne rooney", "rooney"]
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     },
     {
       "display": "David de Gea",
       "detail": "225 wins",
-      "accept": ["david de gea", "de gea"]
+      "accept": [
+        "david de gea",
+        "de gea",
+        "degea",
+        "ddg"
+      ]
     },
     {
       "display": "Roy Keane",
       "detail": "210 wins",
-      "accept": ["roy keane", "keane"]
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
     },
     {
       "display": "Rio Ferdinand",
       "detail": "208 wins",
-      "accept": ["rio ferdinand", "ferdinand"]
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
     },
     {
       "display": "Michael Carrick",
       "detail": "206 wins",
-      "accept": ["michael carrick", "carrick"]
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
     },
     {
       "display": "Patrice Evra",
       "detail": "186 wins",
-      "accept": ["patrice evra", "evra"]
+      "accept": [
+        "patrice evra",
+        "evra"
+      ]
     },
     {
       "display": "Denis Irwin",
       "detail": "180 wins",
-      "accept": ["denis irwin", "irwin"]
+      "accept": [
+        "denis irwin",
+        "irwin"
+      ]
     }
   ]
 }

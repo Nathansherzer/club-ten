@@ -7,15 +7,88 @@
   "note": "PL apps for both clubs only · player must have appeared for each · ties broken by Man United apps, then most recent PL appearance · through 2025/26",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Phil Neville", "detail": "505 apps (Man United 263 + Everton 242)", "accept": ["phil neville", "neville"] },
-    { "display": "Wayne Rooney", "detail": "491 apps (Man United 393 + Everton 98)", "accept": ["wayne rooney", "rooney"] },
-    { "display": "Tim Howard", "detail": "399 apps (Man United 45 + Everton 354)", "accept": ["tim howard", "howard"] },
-    { "display": "Marouane Fellaini", "detail": "260 apps (Man United 119 + Everton 141)", "accept": ["marouane fellaini", "fellaini"] },
-    { "display": "Ashley Young", "detail": "255 apps (Man United 192 + Everton 63)", "accept": ["ashley young", "young"] },
-    { "display": "Michael Keane", "detail": "230 apps (Man United 1 + Everton 229)", "accept": ["michael keane", "keane"] },
-    { "display": "Romelu Lukaku", "detail": "207 apps (Man United 66 + Everton 141)", "accept": ["romelu lukaku", "lukaku"] },
-    { "display": "Louis Saha", "detail": "183 apps (Man United 86 + Everton 97)", "accept": ["louis saha", "saha"] },
-    { "display": "Andrey Kanchelskis", "detail": "140 apps (Man United 88 + Everton 52)", "accept": ["andrey kanchelskis", "kanchelskis"] },
-    { "display": "Mark Hughes", "detail": "129 apps (Man United 111 + Everton 18)", "accept": ["mark hughes", "hughes"] }
+    {
+      "display": "Phil Neville",
+      "detail": "505 apps (Man United 263 + Everton 242)",
+      "accept": [
+        "phil neville",
+        "neville",
+        "phil",
+        "phil nev"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "491 apps (Man United 393 + Everton 98)",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Tim Howard",
+      "detail": "399 apps (Man United 45 + Everton 354)",
+      "accept": [
+        "tim howard",
+        "howard"
+      ]
+    },
+    {
+      "display": "Marouane Fellaini",
+      "detail": "260 apps (Man United 119 + Everton 141)",
+      "accept": [
+        "marouane fellaini",
+        "fellaini"
+      ]
+    },
+    {
+      "display": "Ashley Young",
+      "detail": "255 apps (Man United 192 + Everton 63)",
+      "accept": [
+        "ashley young",
+        "young"
+      ]
+    },
+    {
+      "display": "Michael Keane",
+      "detail": "230 apps (Man United 1 + Everton 229)",
+      "accept": [
+        "michael keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "207 apps (Man United 66 + Everton 141)",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Louis Saha",
+      "detail": "183 apps (Man United 86 + Everton 97)",
+      "accept": [
+        "louis saha",
+        "saha"
+      ]
+    },
+    {
+      "display": "Andrey Kanchelskis",
+      "detail": "140 apps (Man United 88 + Everton 52)",
+      "accept": [
+        "andrey kanchelskis",
+        "kanchelskis"
+      ]
+    },
+    {
+      "display": "Mark Hughes",
+      "detail": "129 apps (Man United 111 + Everton 18)",
+      "accept": [
+        "mark hughes",
+        "hughes",
+        "sparky"
+      ]
+    }
   ]
 }

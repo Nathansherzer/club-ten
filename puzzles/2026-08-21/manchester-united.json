@@ -10,52 +10,81 @@
     {
       "display": "Fred",
       "detail": "139 apps",
-      "accept": ["fred"]
+      "accept": [
+        "fred",
+        "fred brasileiro"
+      ]
     },
     {
       "display": "Casemiro",
       "detail": "111 apps",
-      "accept": ["casemiro"]
+      "accept": [
+        "casemiro"
+      ]
     },
     {
       "display": "Rafael",
       "detail": "109 apps",
-      "accept": ["rafael", "rafael da silva"]
+      "accept": [
+        "rafael",
+        "rafael da silva"
+      ]
     },
     {
       "display": "Anderson",
       "detail": "105 apps",
-      "accept": ["anderson"]
+      "accept": [
+        "anderson"
+      ]
     },
     {
       "display": "Antony",
       "detail": "62 apps",
-      "accept": ["antony"]
+      "accept": [
+        "antony"
+      ]
     },
     {
       "display": "Andreas Pereira",
       "detail": "45 apps",
-      "accept": ["andreas pereira", "pereira"]
+      "accept": [
+        "andreas pereira",
+        "pereira"
+      ]
     },
     {
       "display": "Matheus Cunha",
       "detail": "33 apps",
-      "accept": ["matheus cunha", "cunha"]
+      "accept": [
+        "matheus cunha",
+        "cunha"
+      ]
     },
     {
       "display": "Alex Telles",
       "detail": "30 apps",
-      "accept": ["alex telles", "telles"]
+      "accept": [
+        "alex telles",
+        "telles"
+      ]
     },
     {
       "display": "Fábio",
       "detail": "22 apps",
-      "accept": ["fabio", "fábio"]
+      "accept": [
+        "fabio",
+        "fábio",
+        "fabio da silva",
+        "fabio pereira da silva"
+      ]
     },
     {
       "display": "Kléberson",
       "detail": "20 apps",
-      "accept": ["kleberson", "kléberson"]
+      "accept": [
+        "kleberson",
+        "kléberson"
+      ]
     }
   ]
 }

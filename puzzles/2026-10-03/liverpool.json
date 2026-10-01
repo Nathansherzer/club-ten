@@ -7,15 +7,96 @@
   "note": "Premier League goals only · any order · through 26 Sep 2026 · Premier League",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Mohamed Salah", "detail": "191 goals", "accept": ["mohamed salah", "mo salah", "salah"] },
-    { "display": "Robbie Fowler", "detail": "128 goals", "accept": ["robbie fowler", "fowler"] },
-    { "display": "Steven Gerrard", "detail": "120 goals", "accept": ["steven gerrard", "gerrard"] },
-    { "display": "Michael Owen", "detail": "118 goals", "accept": ["michael owen", "owen"] },
-    { "display": "Sadio Mané", "detail": "90 goals", "accept": ["sadio mane", "sadio mané", "mane", "mané"] },
-    { "display": "Roberto Firmino", "detail": "82 goals", "accept": ["roberto firmino", "firmino"] },
-    { "display": "Luis Suárez", "detail": "69 goals", "accept": ["luis suarez", "luis suárez", "suarez", "suárez"] },
-    { "display": "Fernando Torres", "detail": "65 goals", "accept": ["fernando torres", "torres"] },
-    { "display": "Dirk Kuyt", "detail": "51 goals", "accept": ["dirk kuyt", "kuyt"] },
-    { "display": "Daniel Sturridge", "detail": "50 goals", "accept": ["daniel sturridge", "sturridge"] }
+    {
+      "display": "Mohamed Salah",
+      "detail": "191 goals",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "128 goals",
+      "accept": [
+        "robbie fowler",
+        "fowler",
+        "god"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "120 goals",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "118 goals",
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "90 goals",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "82 goals",
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "69 goals",
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "65 goals",
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "51 goals",
+      "accept": [
+        "dirk kuyt",
+        "kuyt"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "50 goals",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    }
   ]
 }

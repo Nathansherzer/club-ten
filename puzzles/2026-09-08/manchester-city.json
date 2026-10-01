@@ -8,15 +8,91 @@
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [
-    { "display": "England", "detail": "97 players", "accept": ["england", "english"] },
-    { "display": "Spain", "detail": "17 players", "accept": ["spain", "spanish"] },
-    { "display": "Brazil", "detail": "15 players", "accept": ["brazil", "brasil", "brazilian"] },
-    { "display": "France", "detail": "14 players", "accept": ["france", "french"] },
-    { "display": "Republic of Ireland", "detail": "10 players", "accept": ["republic of ireland", "ireland", "irish", "roi"] },
-    { "display": "Argentina", "detail": "9 players", "accept": ["argentina", "argentinian", "argentinean"] },
-    { "display": "Germany", "detail": "9 players", "accept": ["germany", "german"] },
-    { "display": "Netherlands", "detail": "9 players", "accept": ["netherlands", "holland", "dutch"] },
-    { "display": "Wales", "detail": "7 players", "accept": ["wales", "welsh"] },
-    { "display": "Belgium", "detail": "6 players", "accept": ["belgium", "belgian"] }
+    {
+      "display": "England",
+      "detail": "97 players",
+      "accept": [
+        "england",
+        "english"
+      ]
+    },
+    {
+      "display": "Spain",
+      "detail": "17 players",
+      "accept": [
+        "spain",
+        "spanish"
+      ]
+    },
+    {
+      "display": "Brazil",
+      "detail": "15 players",
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
+    },
+    {
+      "display": "France",
+      "detail": "14 players",
+      "accept": [
+        "france",
+        "french"
+      ]
+    },
+    {
+      "display": "Republic of Ireland",
+      "detail": "10 players",
+      "accept": [
+        "republic of ireland",
+        "ireland",
+        "irish",
+        "roi"
+      ]
+    },
+    {
+      "display": "Argentina",
+      "detail": "9 players",
+      "accept": [
+        "argentina",
+        "argentinian",
+        "argentinean",
+        "argentine"
+      ]
+    },
+    {
+      "display": "Germany",
+      "detail": "9 players",
+      "accept": [
+        "germany",
+        "german"
+      ]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "9 players",
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
+    },
+    {
+      "display": "Wales",
+      "detail": "7 players",
+      "accept": [
+        "wales",
+        "welsh"
+      ]
+    },
+    {
+      "display": "Belgium",
+      "detail": "6 players",
+      "accept": [
+        "belgium",
+        "belgian"
+      ]
+    }
   ]
 }

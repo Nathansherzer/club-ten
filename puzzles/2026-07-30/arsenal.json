@@ -10,52 +10,88 @@
     {
       "display": "Gabriel Magalhães",
       "detail": "213 apps",
-      "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães"]
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes",
+        "magalhães",
+        "gabriel",
+        "gabriel dos santos magalhaes"
+      ]
     },
     {
       "display": "Gabriel Martinelli",
       "detail": "209 apps",
-      "accept": ["gabriel martinelli", "martinelli"]
+      "accept": [
+        "gabriel martinelli",
+        "martinelli"
+      ]
     },
     {
       "display": "Martin Ødegaard",
       "detail": "190 apps",
-      "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"]
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
     },
     {
       "display": "Declan Rice",
       "detail": "176 apps",
-      "accept": ["declan rice", "rice"]
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
     },
     {
       "display": "Ben White",
       "detail": "170 apps",
-      "accept": ["ben white", "white"]
+      "accept": [
+        "ben white",
+        "white"
+      ]
     },
     {
       "display": "William Saliba",
       "detail": "162 apps",
-      "accept": ["william saliba", "saliba"]
+      "accept": [
+        "william saliba",
+        "saliba"
+      ]
     },
     {
       "display": "Granit Xhaka",
       "detail": "140 apps",
-      "accept": ["granit xhaka", "xhaka"]
+      "accept": [
+        "granit xhaka",
+        "xhaka"
+      ]
     },
     {
       "display": "Thomas Partey",
       "detail": "134 apps",
-      "accept": ["thomas partey", "partey"]
+      "accept": [
+        "thomas partey",
+        "partey"
+      ]
     },
     {
       "display": "Eddie Nketiah",
       "detail": "133 apps",
-      "accept": ["eddie nketiah", "nketiah"]
+      "accept": [
+        "eddie nketiah",
+        "nketiah"
+      ]
     },
     {
       "display": "Leandro Trossard",
       "detail": "128 apps",
-      "accept": ["leandro trossard", "trossard"]
+      "accept": [
+        "leandro trossard",
+        "trossard"
+      ]
     }
   ]
 }

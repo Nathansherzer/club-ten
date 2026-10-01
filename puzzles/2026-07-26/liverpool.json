@@ -10,52 +10,98 @@
     {
       "display": "Jamie Carragher",
       "detail": "264 wins",
-      "accept": ["jamie carragher", "carragher"]
+      "accept": [
+        "jamie carragher",
+        "carragher",
+        "carra"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "255 wins",
-      "accept": ["steven gerrard", "gerrard"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
     },
     {
       "display": "Jordan Henderson",
       "detail": "215 wins",
-      "accept": ["jordan henderson", "henderson"]
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
     },
     {
       "display": "Mohamed Salah",
       "detail": "201 wins",
-      "accept": ["mohamed salah", "salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mohammed salah",
+        "mo salah"
+      ]
     },
     {
       "display": "Andrew Robertson",
       "detail": "179 wins",
-      "accept": ["andrew robertson", "andy robertson", "robertson"]
+      "accept": [
+        "andrew robertson",
+        "andy robertson",
+        "robertson",
+        "robbo"
+      ]
     },
     {
       "display": "Virgil van Dijk",
       "detail": "179 wins",
-      "accept": ["virgil van dijk", "van dijk"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
     },
     {
       "display": "Sami Hyypiä",
       "detail": "172 wins",
-      "accept": ["sami hyypia", "hyypia"]
+      "accept": [
+        "sami hyypia",
+        "hyypia"
+      ]
     },
     {
       "display": "Trent Alexander-Arnold",
       "detail": "171 wins",
-      "accept": ["trent alexander-arnold", "alexander-arnold", "taa"]
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "taa",
+        "alexander arnold",
+        "trent alexander arnold",
+        "trent",
+        "trent arnold"
+      ]
     },
     {
       "display": "Alisson",
       "detail": "164 wins",
-      "accept": ["alisson", "alisson becker"]
+      "accept": [
+        "alisson",
+        "alisson becker"
+      ]
     },
     {
       "display": "Roberto Firmino",
       "detail": "156 wins",
-      "accept": ["roberto firmino", "firmino"]
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     }
   ]
 }

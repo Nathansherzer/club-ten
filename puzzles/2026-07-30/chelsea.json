@@ -10,52 +10,90 @@
     {
       "display": "César Azpilicueta",
       "detail": "292 apps",
-      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+      "accept": [
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
     },
     {
       "display": "Gary Cahill",
       "detail": "239 apps",
-      "accept": ["gary cahill", "cahill"]
+      "accept": [
+        "gary cahill",
+        "cahill"
+      ]
     },
     {
       "display": "Willian",
       "detail": "215 apps",
-      "accept": ["willian"]
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
     },
     {
       "display": "Branislav Ivanović",
       "detail": "190 apps",
-      "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"]
+      "accept": [
+        "branislav ivanovic",
+        "branislav ivanović",
+        "ivanovic",
+        "ivanović"
+      ]
     },
     {
       "display": "David Luiz",
       "detail": "176 apps",
-      "accept": ["david luiz", "luiz"]
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
     },
     {
       "display": "Oscar",
       "detail": "165 apps",
-      "accept": ["oscar"]
+      "accept": [
+        "oscar",
+        "oscar dos santos"
+      ]
     },
     {
       "display": "Cesc Fàbregas",
       "detail": "161 apps",
-      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"]
+      "accept": [
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas",
+        "cesc"
+      ]
     },
     {
       "display": "John Terry",
       "detail": "149 apps",
-      "accept": ["john terry", "terry"]
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
     },
     {
       "display": "Thibaut Courtois",
       "detail": "140 apps",
-      "accept": ["thibaut courtois", "courtois"]
+      "accept": [
+        "thibaut courtois",
+        "courtois"
+      ]
     },
     {
       "display": "Pedro",
       "detail": "123 apps",
-      "accept": ["pedro"]
+      "accept": [
+        "pedro"
+      ]
     }
   ]
 }

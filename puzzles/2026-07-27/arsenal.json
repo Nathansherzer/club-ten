@@ -10,55 +10,89 @@
     {
       "display": "Thierry Henry",
       "detail": "77 apps",
-      "accept": ["thierry henry", "henry"]
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
     },
     {
       "display": "Freddie Ljungberg",
       "detail": "64 apps",
-      "accept": ["freddie ljungberg", "ljungberg"]
+      "accept": [
+        "freddie ljungberg",
+        "ljungberg",
+        "fredrik ljungberg"
+      ]
     },
     {
       "display": "Robert Pirès",
       "detail": "63 apps",
-      "accept": ["robert pires", "pires"]
+      "accept": [
+        "robert pires",
+        "pires"
+      ]
     },
     {
       "display": "Kolo Touré",
       "detail": "61 apps",
-      "accept": ["kolo toure", "toure", "kolo"]
+      "accept": [
+        "kolo toure",
+        "toure",
+        "kolo"
+      ]
     },
     {
       "display": "Theo Walcott",
       "detail": "59 apps",
-      "accept": ["theo walcott", "walcott"]
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
     },
     {
       "display": "Patrick Vieira",
       "detail": "57 apps",
-      "accept": ["patrick vieira", "vieira"]
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
     },
     {
       "display": "Cesc Fàbregas",
       "detail": "55 apps",
-      "accept": ["cesc fabregas", "fabregas"]
+      "accept": [
+        "cesc fabregas",
+        "fabregas",
+        "cesc"
+      ]
     },
     {
       "display": "Lauren",
       "detail": "53 apps",
-      "accept": ["lauren"]
+      "accept": [
+        "lauren",
+        "lauren etame",
+        "lauren etame mayer",
+        "etame mayer"
+      ]
     },
     {
       "display": "Emmanuel Eboué",
       "detail": "48 apps",
-      "accept": ["emmanuel eboue", "eboue"]
+      "accept": [
+        "emmanuel eboue",
+        "eboue"
+      ]
     },
     {
       "display": null,
       "poolLabel": "Van Persie / Ashley Cole",
       "detail": "45 apps",
       "accept": [
-        "Robin van Persie", "Van Persie",
-        "Ashley Cole", "Cole"
+        "Robin van Persie",
+        "Van Persie",
+        "Ashley Cole",
+        "Cole"
       ]
     }
   ]

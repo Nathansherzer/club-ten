@@ -8,15 +8,90 @@
   "note": "one entry per opponent, most recent meeting only · newest first · 2026/27 in progress, excluded · through 25 Sep 2026",
   "placeholder": "Type a club name…",
   "answers": [
-    { "display": "Manchester City", "detail": "04 Apr 2026 · Quarter-final · Man City 4-0 Liverpool", "accept": ["manchester city", "man city"] },
-    { "display": "Plymouth Argyle", "detail": "09 Feb 2025 · 4th round · Plymouth Argyle 1-0 Liverpool", "accept": ["plymouth argyle", "plymouth"] },
-    { "display": "Manchester United", "detail": "17 Mar 2024 · Quarter-final · Man United 4-3 Liverpool", "accept": ["manchester united", "man united", "man utd"] },
-    { "display": "Brighton and Hove Albion", "detail": "29 Jan 2023 · 4th round · Brighton 2-1 Liverpool", "accept": ["brighton and hove albion", "brighton", "brighton & hove albion"] },
-    { "display": "Chelsea", "detail": "03 Mar 2020 · 5th round · Chelsea 2-0 Liverpool", "accept": ["chelsea"] },
-    { "display": "Wolverhampton Wanderers", "detail": "07 Jan 2019 · 3rd round · Wolves 2-1 Liverpool", "accept": ["wolverhampton wanderers", "wolves", "wolverhampton"] },
-    { "display": "West Bromwich Albion", "detail": "27 Jan 2018 · 4th round · Liverpool 2-3", "accept": ["west bromwich albion", "west brom", "wba"] },
-    { "display": "West Ham United", "detail": "09 Feb 2016 · 4th round replay · West Ham 2-1 Liverpool", "accept": ["west ham united", "west ham"] },
-    { "display": "Aston Villa", "detail": "19 Apr 2015 · Semi-final · Aston Villa 2-1 Liverpool", "accept": ["aston villa", "villa"] },
-    { "display": "Arsenal", "detail": "16 Feb 2014 · 5th round · Arsenal 2-1 Liverpool", "accept": ["arsenal"] }
+    {
+      "display": "Manchester City",
+      "detail": "04 Apr 2026 · Quarter-final · Man City 4-0 Liverpool",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Plymouth Argyle",
+      "detail": "09 Feb 2025 · 4th round · Plymouth Argyle 1-0 Liverpool",
+      "accept": [
+        "plymouth argyle",
+        "plymouth"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "17 Mar 2024 · Quarter-final · Man United 4-3 Liverpool",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Brighton and Hove Albion",
+      "detail": "29 Jan 2023 · 4th round · Brighton 2-1 Liverpool",
+      "accept": [
+        "brighton and hove albion",
+        "brighton",
+        "brighton & hove albion",
+        "bha"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "03 Mar 2020 · 5th round · Chelsea 2-0 Liverpool",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Wolverhampton Wanderers",
+      "detail": "07 Jan 2019 · 3rd round · Wolves 2-1 Liverpool",
+      "accept": [
+        "wolverhampton wanderers",
+        "wolves",
+        "wolverhampton"
+      ]
+    },
+    {
+      "display": "West Bromwich Albion",
+      "detail": "27 Jan 2018 · 4th round · Liverpool 2-3",
+      "accept": [
+        "west bromwich albion",
+        "west brom",
+        "wba"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "09 Feb 2016 · 4th round replay · West Ham 2-1 Liverpool",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "19 Apr 2015 · Semi-final · Aston Villa 2-1 Liverpool",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "16 Feb 2014 · 5th round · Arsenal 2-1 Liverpool",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    }
   ]
 }

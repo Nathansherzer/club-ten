@@ -10,51 +10,80 @@
     {
       "display": "Mohamed Salah",
       "detail": "93 assists",
-      "accept": ["mohamed salah", "salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mohammed salah",
+        "mo salah"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "89 assists",
-      "accept": ["steven gerrard", "gerrard"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
     },
     {
       "display": "Trent Alexander-Arnold",
       "detail": "64 assists",
-      "accept": ["trent alexander-arnold", "alexander-arnold", "trent arnold", "taa"]
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "trent arnold",
+        "taa",
+        "alexander arnold",
+        "trent alexander arnold",
+        "trent"
+      ]
     },
     {
       "display": "Steve McManaman",
       "detail": "58 assists",
-      "accept": ["steve mcmanaman", "mcmanaman"]
+      "accept": [
+        "steve mcmanaman",
+        "mcmanaman",
+        "steve macmanaman"
+      ]
     },
     {
       "display": "Andy Robertson",
       "detail": "56 assists",
-      "accept": ["andy robertson", "robertson"]
+      "accept": [
+        "andy robertson",
+        "robertson",
+        "andrew robertson",
+        "robbo"
+      ]
     },
     {
       "display": "Roberto Firmino",
       "detail": "50 assists",
-      "accept": ["roberto firmino", "firmino"]
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     },
     {
       "display": "Jordan Henderson",
       "detail": "42 assists",
-      "accept": ["jordan henderson", "henderson"]
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
     },
     {
       "display": "Philippe Coutinho",
       "detail": "35 assists",
-      "accept": ["philippe coutinho", "coutinho"]
-    },
-    {
-      "display": null,
-      "poolLabel": "Mané / Michael Owen / Robbie Fowler",
-      "detail": "30 assists",
       "accept": [
-        "Sadio Mané", "Sadio Mane", "Mané", "Mane",
-        "Michael Owen", "Owen",
-        "Robbie Fowler", "Fowler"
+        "philippe coutinho",
+        "coutinho",
+        "phil coutinho"
       ]
     },
     {
@@ -62,9 +91,29 @@
       "poolLabel": "Mané / Michael Owen / Robbie Fowler",
       "detail": "30 assists",
       "accept": [
-        "Sadio Mané", "Sadio Mane", "Mané", "Mane",
-        "Michael Owen", "Owen",
-        "Robbie Fowler", "Fowler"
+        "Sadio Mané",
+        "Sadio Mane",
+        "Mané",
+        "Mane",
+        "Michael Owen",
+        "Owen",
+        "Robbie Fowler",
+        "Fowler"
+      ]
+    },
+    {
+      "display": null,
+      "poolLabel": "Mané / Michael Owen / Robbie Fowler",
+      "detail": "30 assists",
+      "accept": [
+        "Sadio Mané",
+        "Sadio Mane",
+        "Mané",
+        "Mane",
+        "Michael Owen",
+        "Owen",
+        "Robbie Fowler",
+        "Fowler"
       ]
     }
   ]

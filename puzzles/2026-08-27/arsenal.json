@@ -10,52 +10,92 @@
     {
       "display": "Ben White",
       "detail": "",
-      "accept": ["ben white", "white"]
+      "accept": [
+        "ben white",
+        "white"
+      ]
     },
     {
       "display": "Cristhian Mosquera",
       "detail": "",
-      "accept": ["cristhian mosquera", "mosquera", "cristhian mosquera ibarguen"]
+      "accept": [
+        "cristhian mosquera",
+        "mosquera",
+        "cristhian mosquera ibarguen"
+      ]
     },
     {
       "display": "Gabriel Magalhães",
       "detail": "",
-      "accept": ["gabriel magalhaes", "gabriel magalhães", "gabriel", "magalhaes", "magalhães"]
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "gabriel",
+        "magalhaes",
+        "magalhães",
+        "gabriel dos santos magalhaes"
+      ]
     },
     {
       "display": "Riccardo Calafiori",
       "detail": "",
-      "accept": ["riccardo calafiori", "calafiori"]
+      "accept": [
+        "riccardo calafiori",
+        "calafiori"
+      ]
     },
     {
       "display": "Myles Lewis-Skelly",
       "detail": "",
-      "accept": ["myles lewis-skelly", "myles lewis skelly", "lewis-skelly", "lewis skelly", "mls"]
+      "accept": [
+        "myles lewis-skelly",
+        "myles lewis skelly",
+        "lewis-skelly",
+        "lewis skelly",
+        "mls"
+      ]
     },
     {
       "display": "Declan Rice",
       "detail": "",
-      "accept": ["declan rice", "rice"]
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
     },
     {
       "display": "Bukayo Saka",
       "detail": "",
-      "accept": ["bukayo saka", "saka"]
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
     },
     {
       "display": "Martin Ødegaard",
       "detail": "",
-      "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"]
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
     },
     {
       "display": "Christos Tzolis",
       "detail": "",
-      "accept": ["christos tzolis", "tzolis"]
+      "accept": [
+        "christos tzolis",
+        "tzolis"
+      ]
     },
     {
       "display": "Kai Havertz",
       "detail": "",
-      "accept": ["kai havertz", "havertz"]
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
     }
   ]
 }

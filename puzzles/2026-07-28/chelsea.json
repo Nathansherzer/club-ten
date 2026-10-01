@@ -10,52 +10,85 @@
     {
       "display": "Enzo Fernández",
       "detail": "3,115 mins",
-      "accept": ["enzo fernandez", "fernandez", "enzo"]
+      "accept": [
+        "enzo fernandez",
+        "fernandez",
+        "enzo"
+      ]
     },
     {
       "display": "Robert Sánchez",
       "detail": "3,039 mins",
-      "accept": ["robert sanchez", "sanchez"]
+      "accept": [
+        "robert sanchez",
+        "sanchez"
+      ]
     },
     {
       "display": "Moisés Caicedo",
       "detail": "2,796 mins",
-      "accept": ["moises caicedo", "caicedo"]
+      "accept": [
+        "moises caicedo",
+        "caicedo"
+      ]
     },
     {
       "display": "Trevoh Chalobah",
       "detail": "2,783 mins",
-      "accept": ["trevoh chalobah", "chalobah"]
+      "accept": [
+        "trevoh chalobah",
+        "chalobah"
+      ]
     },
     {
       "display": "Marc Cucurella",
       "detail": "2,707 mins",
-      "accept": ["marc cucurella", "cucurella"]
+      "accept": [
+        "marc cucurella",
+        "cucurella"
+      ]
     },
     {
       "display": "João Pedro",
       "detail": "2,661 mins",
-      "accept": ["joao pedro", "joao"]
+      "accept": [
+        "joao pedro",
+        "joao",
+        "pedro"
+      ]
     },
     {
       "display": "Pedro Neto",
       "detail": "2,631 mins",
-      "accept": ["pedro neto", "neto"]
+      "accept": [
+        "pedro neto",
+        "neto"
+      ]
     },
     {
       "display": "Malo Gusto",
       "detail": "2,260 mins",
-      "accept": ["malo gusto", "gusto"]
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
     },
     {
       "display": "Reece James",
       "detail": "1,963 mins",
-      "accept": ["reece james", "reece"]
+      "accept": [
+        "reece james",
+        "reece",
+        "james"
+      ]
     },
     {
       "display": "Cole Palmer",
       "detail": "1,956 mins",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     }
   ]
 }

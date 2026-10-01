@@ -10,52 +10,89 @@
     {
       "display": "Gianluigi Donnarumma",
       "detail": "3,060 mins",
-      "accept": ["gianluigi donnarumma", "donnarumma"]
+      "accept": [
+        "gianluigi donnarumma",
+        "donnarumma",
+        "gigio donnarumma",
+        "gigio",
+        "gianluigi"
+      ]
     },
     {
       "display": "Erling Haaland",
       "detail": "2,953 mins",
-      "accept": ["erling haaland", "haaland"]
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
     },
     {
       "display": "Bernardo Silva",
       "detail": "2,872 mins",
-      "accept": ["bernardo silva", "bernardo"]
+      "accept": [
+        "bernardo silva",
+        "bernardo",
+        "silva"
+      ]
     },
     {
       "display": "Matheus Nunes",
       "detail": "2,862 mins",
-      "accept": ["matheus nunes", "nunes"]
+      "accept": [
+        "matheus nunes",
+        "nunes"
+      ]
     },
     {
       "display": "Nico O'Reilly",
       "detail": "2,646 mins",
-      "accept": ["nico o'reilly", "nico oreilly", "o'reilly", "oreilly"]
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
     },
     {
       "display": "Rúben Dias",
       "detail": "2,141 mins",
-      "accept": ["ruben dias", "dias"]
+      "accept": [
+        "ruben dias",
+        "dias"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "2,085 mins",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Rayan Cherki",
       "detail": "1,785 mins",
-      "accept": ["rayan cherki", "cherki"]
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
     },
     {
       "display": "Jérémy Doku",
       "detail": "1,783 mins",
-      "accept": ["jeremy doku", "doku"]
+      "accept": [
+        "jeremy doku",
+        "doku"
+      ]
     },
     {
       "display": "Tijjani Reijnders",
       "detail": "1,632 mins",
-      "accept": ["tijjani reijnders", "reijnders"]
+      "accept": [
+        "tijjani reijnders",
+        "reijnders"
+      ]
     }
   ]
 }

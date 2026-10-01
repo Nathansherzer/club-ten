@@ -8,15 +8,83 @@
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
-    { "display": "Watford", "detail": "1990", "accept": ["watford"] },
-    { "display": "Liverpool", "detail": "1992", "accept": ["liverpool"] },
-    { "display": "Aston Villa", "detail": "1999", "accept": ["aston villa", "villa"] },
-    { "display": "West Ham United", "detail": "2001", "accept": ["west ham united", "west ham"] },
-    { "display": "Manchester City", "detail": "2004", "accept": ["manchester city", "man city"] },
-    { "display": "Portsmouth", "detail": "2006", "accept": ["portsmouth", "pompey"] },
-    { "display": "Bristol City", "detail": "2010", "accept": ["bristol city"] },
-    { "display": "AFC Bournemouth", "detail": "2012", "accept": ["afc bournemouth", "bournemouth"] },
-    { "display": "IBV Vestmannaeyjar", "detail": "2013", "accept": ["ibv vestmannaeyjar", "ibv"] },
-    { "display": "Kerala Blasters", "detail": "2014", "accept": ["kerala blasters", "kerala"] }
+    {
+      "display": "Watford",
+      "detail": "1990",
+      "accept": [
+        "watford"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "1992",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "1999",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "2001",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "2004",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Portsmouth",
+      "detail": "2006",
+      "accept": [
+        "portsmouth",
+        "pompey"
+      ]
+    },
+    {
+      "display": "Bristol City",
+      "detail": "2010",
+      "accept": [
+        "bristol city"
+      ]
+    },
+    {
+      "display": "AFC Bournemouth",
+      "detail": "2012",
+      "accept": [
+        "afc bournemouth",
+        "bournemouth"
+      ]
+    },
+    {
+      "display": "IBV Vestmannaeyjar",
+      "detail": "2013",
+      "accept": [
+        "ibv vestmannaeyjar",
+        "ibv"
+      ]
+    },
+    {
+      "display": "Kerala Blasters",
+      "detail": "2014",
+      "accept": [
+        "kerala blasters",
+        "kerala"
+      ]
+    }
   ]
 }

@@ -8,15 +8,88 @@
   "note": "one entry per opponent, most recent meeting only · newest first · 2026/27 in progress, excluded · through 25 Sep 2026",
   "placeholder": "Type a club name…",
   "answers": [
-    { "display": "Aston Villa", "detail": "10 Jan 2026 · 3rd round · Spurs 1-2", "accept": ["aston villa", "villa"] },
-    { "display": "Manchester City", "detail": "26 Jan 2024 · 4th round · Spurs 0-1", "accept": ["manchester city", "man city"] },
-    { "display": "Sheffield United", "detail": "01 Mar 2023 · 5th round · Sheffield United 1-0 Spurs", "accept": ["sheffield united", "sheffield utd"] },
-    { "display": "Middlesbrough", "detail": "01 Mar 2022 · 5th round · Middlesbrough 1-0 Spurs", "accept": ["middlesbrough", "boro"] },
-    { "display": "Everton", "detail": "10 Feb 2021 · 5th round · Everton 5-4 Spurs", "accept": ["everton"] },
-    { "display": "Norwich City", "detail": "04 Mar 2020 · 5th round · Spurs 1-1 (pens 2-3)", "accept": ["norwich city", "norwich"] },
-    { "display": "Crystal Palace", "detail": "27 Jan 2019 · 4th round · Crystal Palace 2-0 Spurs", "accept": ["crystal palace", "palace"] },
-    { "display": "Manchester United", "detail": "21 Apr 2018 · Semi-final · Man United 2-1 Spurs", "accept": ["manchester united", "man united", "man utd"] },
-    { "display": "Chelsea", "detail": "22 Apr 2017 · Semi-final · Chelsea 4-2 Spurs", "accept": ["chelsea"] },
-    { "display": "Leicester City", "detail": "24 Jan 2015 · 4th round · Spurs 1-2", "accept": ["leicester city", "leicester"] }
+    {
+      "display": "Aston Villa",
+      "detail": "10 Jan 2026 · 3rd round · Spurs 1-2",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "26 Jan 2024 · 4th round · Spurs 0-1",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Sheffield United",
+      "detail": "01 Mar 2023 · 5th round · Sheffield United 1-0 Spurs",
+      "accept": [
+        "sheffield united",
+        "sheffield utd",
+        "blades"
+      ]
+    },
+    {
+      "display": "Middlesbrough",
+      "detail": "01 Mar 2022 · 5th round · Middlesbrough 1-0 Spurs",
+      "accept": [
+        "middlesbrough",
+        "boro",
+        "middlesboro"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "10 Feb 2021 · 5th round · Everton 5-4 Spurs",
+      "accept": [
+        "everton",
+        "toffees"
+      ]
+    },
+    {
+      "display": "Norwich City",
+      "detail": "04 Mar 2020 · 5th round · Spurs 1-1 (pens 2-3)",
+      "accept": [
+        "norwich city",
+        "norwich"
+      ]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "27 Jan 2019 · 4th round · Crystal Palace 2-0 Spurs",
+      "accept": [
+        "crystal palace",
+        "palace"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "21 Apr 2018 · Semi-final · Man United 2-1 Spurs",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "22 Apr 2017 · Semi-final · Chelsea 4-2 Spurs",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Leicester City",
+      "detail": "24 Jan 2015 · 4th round · Spurs 1-2",
+      "accept": [
+        "leicester city",
+        "leicester",
+        "foxes"
+      ]
+    }
   ]
 }

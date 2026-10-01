@@ -10,52 +10,91 @@
     {
       "display": "Gaël Clichy",
       "detail": "1 goal / 187 apps",
-      "accept": ["gael clichy", "gaël clichy", "clichy"]
+      "accept": [
+        "gael clichy",
+        "gaël clichy",
+        "clichy"
+      ]
     },
     {
       "display": "Steve Bould",
       "detail": "2 goals / 175 apps",
-      "accept": ["steve bould", "bould"]
+      "accept": [
+        "steve bould",
+        "bould"
+      ]
     },
     {
       "display": "Martin Keown",
       "detail": "4 goals / 310 apps",
-      "accept": ["martin keown", "keown"]
+      "accept": [
+        "martin keown",
+        "keown"
+      ]
     },
     {
       "display": "Nigel Winterburn",
       "detail": "4 goals / 270 apps",
-      "accept": ["nigel winterburn", "winterburn"]
+      "accept": [
+        "nigel winterburn",
+        "winterburn"
+      ]
     },
     {
       "display": "Emmanuel Eboué",
       "detail": "5 goals / 132 apps",
-      "accept": ["emmanuel eboue", "emmanuel eboué", "eboue", "eboué"]
+      "accept": [
+        "emmanuel eboue",
+        "emmanuel eboué",
+        "eboue",
+        "eboué"
+      ]
     },
     {
       "display": "Lauren",
       "detail": "6 goals / 159 apps",
-      "accept": ["lauren", "lauren etame", "lauren etame mayer"]
+      "accept": [
+        "lauren",
+        "lauren etame",
+        "lauren etame mayer",
+        "etame mayer"
+      ]
     },
     {
       "display": "Alex Song",
       "detail": "7 goals / 138 apps",
-      "accept": ["alex song", "song"]
+      "accept": [
+        "alex song",
+        "song"
+      ]
     },
     {
       "display": "Nacho Monreal",
       "detail": "7 goals / 187 apps",
-      "accept": ["nacho monreal", "monreal"]
+      "accept": [
+        "nacho monreal",
+        "monreal"
+      ]
     },
     {
       "display": "Héctor Bellerín",
       "detail": "8 goals / 183 apps",
-      "accept": ["hector bellerin", "héctor bellerín", "bellerin", "bellerín"]
+      "accept": [
+        "hector bellerin",
+        "héctor bellerín",
+        "bellerin",
+        "bellerín"
+      ]
     },
     {
       "display": "Kolo Touré",
       "detail": "9 goals / 225 apps",
-      "accept": ["kolo toure", "kolo touré", "kolo"]
+      "accept": [
+        "kolo toure",
+        "kolo touré",
+        "kolo",
+        "toure"
+      ]
     }
   ]
 }

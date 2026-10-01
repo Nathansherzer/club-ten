@@ -10,52 +10,86 @@
     {
       "display": "Harry Kane",
       "detail": "213 goals",
-      "accept": ["harry kane", "kane"]
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Teddy Sheringham",
       "detail": "97 goals",
-      "accept": ["teddy sheringham", "sheringham"]
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
     },
     {
       "display": "Jermain Defoe",
       "detail": "91 goals",
-      "accept": ["jermain defoe", "defoe"]
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
     },
     {
       "display": "Dele Alli",
       "detail": "51 goals",
-      "accept": ["dele alli", "alli", "dele"]
+      "accept": [
+        "dele alli",
+        "alli",
+        "dele"
+      ]
     },
     {
       "display": "Chris Armstrong",
       "detail": "48 goals",
-      "accept": ["chris armstrong", "armstrong"]
+      "accept": [
+        "chris armstrong",
+        "armstrong"
+      ]
     },
     {
       "display": "Darren Anderton",
       "detail": "34 goals",
-      "accept": ["darren anderton", "anderton"]
+      "accept": [
+        "darren anderton",
+        "anderton",
+        "sicknote"
+      ]
     },
     {
       "display": "Les Ferdinand",
       "detail": "33 goals",
-      "accept": ["les ferdinand", "ferdinand"]
+      "accept": [
+        "les ferdinand",
+        "ferdinand",
+        "sir les"
+      ]
     },
     {
       "display": "Aaron Lennon",
       "detail": "26 goals",
-      "accept": ["aaron lennon", "lennon"]
+      "accept": [
+        "aaron lennon",
+        "lennon"
+      ]
     },
     {
       "display": "Jermaine Jenas",
       "detail": "21 goals",
-      "accept": ["jermaine jenas", "jenas"]
+      "accept": [
+        "jermaine jenas",
+        "jenas"
+      ]
     },
     {
       "display": "Nick Barmby",
       "detail": "20 goals",
-      "accept": ["nick barmby", "barmby"]
+      "accept": [
+        "nick barmby",
+        "barmby",
+        "nicky barmby"
+      ]
     }
   ]
 }

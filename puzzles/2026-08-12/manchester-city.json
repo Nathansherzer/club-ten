@@ -10,52 +10,92 @@
     {
       "display": "Sergio Agüero",
       "detail": "19 headed goals",
-      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"]
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
     },
     {
       "display": "Erling Haaland",
       "detail": "18 headed goals",
-      "accept": ["erling haaland", "haaland"]
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "11 headed goals",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Edin Džeko",
       "detail": "10 headed goals",
-      "accept": ["edin dzeko", "edin džeko", "dzeko", "džeko"]
+      "accept": [
+        "edin dzeko",
+        "edin džeko",
+        "dzeko",
+        "džeko"
+      ]
     },
     {
       "display": "Gabriel Jesus",
       "detail": "10 headed goals",
-      "accept": ["gabriel jesus", "jesus"]
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
     },
     {
       "display": "Vincent Kompany",
       "detail": "10 headed goals",
-      "accept": ["vincent kompany", "kompany"]
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
     },
     {
       "display": "Aymeric Laporte",
       "detail": "6 headed goals",
-      "accept": ["aymeric laporte", "laporte"]
+      "accept": [
+        "aymeric laporte",
+        "laporte"
+      ]
     },
     {
       "display": "Rodri",
       "detail": "6 headed goals",
-      "accept": ["rodri"]
+      "accept": [
+        "rodri",
+        "rodrigo hernandez"
+      ]
     },
     {
       "display": "Nathan Aké",
       "detail": "5 headed goals",
-      "accept": ["nathan ake", "nathan aké", "ake", "aké"]
+      "accept": [
+        "nathan ake",
+        "nathan aké",
+        "ake",
+        "aké"
+      ]
     },
     {
       "display": "Nicolás Otamendi",
       "detail": "5 headed goals",
-      "accept": ["nicolas otamendi", "nicolás otamendi", "otamendi"]
+      "accept": [
+        "nicolas otamendi",
+        "nicolás otamendi",
+        "otamendi"
+      ]
     }
   ]
 }

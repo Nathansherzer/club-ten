@@ -8,15 +8,89 @@
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [
-    { "display": "England", "detail": "91 players", "accept": ["england", "english"] },
-    { "display": "France", "detail": "27 players", "accept": ["france", "french"] },
-    { "display": "Spain", "detail": "17 players", "accept": ["spain", "spanish"] },
-    { "display": "Brazil", "detail": "17 players", "accept": ["brazil", "brasil", "brazilian"] },
-    { "display": "Portugal", "detail": "15 players", "accept": ["portugal", "portuguese"] },
-    { "display": "Italy", "detail": "14 players", "accept": ["italy", "italian"] },
-    { "display": "Netherlands", "detail": "14 players", "accept": ["netherlands", "holland", "dutch"] },
-    { "display": "Scotland", "detail": "9 players", "accept": ["scotland", "scottish"] },
-    { "display": "Argentina", "detail": "8 players", "accept": ["argentina", "argentinian", "argentinean"] },
-    { "display": "Belgium", "detail": "7 players", "accept": ["belgium", "belgian"] }
+    {
+      "display": "England",
+      "detail": "91 players",
+      "accept": [
+        "england",
+        "english"
+      ]
+    },
+    {
+      "display": "France",
+      "detail": "27 players",
+      "accept": [
+        "france",
+        "french"
+      ]
+    },
+    {
+      "display": "Spain",
+      "detail": "17 players",
+      "accept": [
+        "spain",
+        "spanish"
+      ]
+    },
+    {
+      "display": "Brazil",
+      "detail": "17 players",
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
+    },
+    {
+      "display": "Portugal",
+      "detail": "15 players",
+      "accept": [
+        "portugal",
+        "portuguese"
+      ]
+    },
+    {
+      "display": "Italy",
+      "detail": "14 players",
+      "accept": [
+        "italy",
+        "italian"
+      ]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "14 players",
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
+    },
+    {
+      "display": "Scotland",
+      "detail": "9 players",
+      "accept": [
+        "scotland",
+        "scottish"
+      ]
+    },
+    {
+      "display": "Argentina",
+      "detail": "8 players",
+      "accept": [
+        "argentina",
+        "argentinian",
+        "argentinean",
+        "argentine"
+      ]
+    },
+    {
+      "display": "Belgium",
+      "detail": "7 players",
+      "accept": [
+        "belgium",
+        "belgian"
+      ]
+    }
   ]
 }

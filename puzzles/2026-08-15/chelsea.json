@@ -10,52 +10,91 @@
     {
       "display": "Frank Lampard",
       "detail": "68 away goals",
-      "accept": ["frank lampard", "lampard"]
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Didier Drogba",
       "detail": "35 away goals",
-      "accept": ["didier drogba", "drogba"]
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
     },
     {
       "display": "Eden Hazard",
       "detail": "32 away goals",
-      "accept": ["eden hazard", "hazard"]
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
     },
     {
       "display": "Jimmy Floyd Hasselbaink",
       "detail": "25 away goals",
-      "accept": ["jimmy floyd hasselbaink", "hasselbaink", "jimmy hasselbaink"]
+      "accept": [
+        "jimmy floyd hasselbaink",
+        "hasselbaink",
+        "jimmy hasselbaink",
+        "floyd hasselbaink"
+      ]
     },
     {
       "display": "Diego Costa",
       "detail": "22 away goals",
-      "accept": ["diego costa", "costa"]
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
     },
     {
       "display": "Tore André Flo",
       "detail": "22 away goals",
-      "accept": ["tore andre flo", "tore andré flo", "flo"]
+      "accept": [
+        "tore andre flo",
+        "tore andré flo",
+        "flo"
+      ]
     },
     {
       "display": "John Terry",
       "detail": "21 away goals",
-      "accept": ["john terry", "terry", "jt"]
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
     },
     {
       "display": "Eiður Guðjohnsen",
       "detail": "20 away goals",
-      "accept": ["eidur gudjohnsen", "eiður guðjohnsen", "gudjohnsen", "guðjohnsen"]
+      "accept": [
+        "eidur gudjohnsen",
+        "eiður guðjohnsen",
+        "gudjohnsen",
+        "guðjohnsen",
+        "eidur gudjonsen",
+        "gudjonsen"
+      ]
     },
     {
       "display": "Willian",
       "detail": "20 away goals",
-      "accept": ["willian"]
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
     },
     {
       "display": "Nicolas Anelka",
       "detail": "19 away goals",
-      "accept": ["nicolas anelka", "anelka"]
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
     }
   ]
 }

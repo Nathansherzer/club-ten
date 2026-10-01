@@ -7,15 +7,98 @@
   "note": "goals from outside the box · 2006/07-2025/26 only, not tracked before · ties broken by fewer PL appearances for the club in the same period · Premier League",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Kevin De Bruyne", "detail": "30 goals", "accept": ["kevin de bruyne", "de bruyne", "kdb"] },
-    { "display": "Sergio Agüero", "detail": "21 goals", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
-    { "display": "Yaya Touré", "detail": "16 goals", "accept": ["yaya toure", "yaya touré", "toure", "touré"] },
-    { "display": "Carlos Tévez", "detail": "12 goals", "accept": ["carlos tevez", "carlos tévez", "tevez", "tévez"] },
-    { "display": "Phil Foden", "detail": "12 goals", "accept": ["phil foden", "foden"] },
-    { "display": "Rodri", "detail": "10 goals", "accept": ["rodri"] },
-    { "display": "Riyad Mahrez", "detail": "8 goals", "accept": ["riyad mahrez", "mahrez"] },
-    { "display": "Erling Haaland", "detail": "7 goals", "accept": ["erling haaland", "haaland"] },
-    { "display": "Aleksandar Kolarov", "detail": "7 goals", "accept": ["aleksandar kolarov", "kolarov"] },
-    { "display": "İlkay Gündoğan", "detail": "7 goals", "accept": ["ilkay gundogan", "i̇lkay gündoğan", "gundogan", "gündoğan"] }
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "30 goals",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "21 goals",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "16 goals",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
+    },
+    {
+      "display": "Carlos Tévez",
+      "detail": "12 goals",
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez",
+        "tévez"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "12 goals",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "10 goals",
+      "accept": [
+        "rodri",
+        "rodrigo hernandez"
+      ]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "8 goals",
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "7 goals",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "7 goals",
+      "accept": [
+        "aleksandar kolarov",
+        "kolarov"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "7 goals",
+      "accept": [
+        "ilkay gundogan",
+        "i̇lkay gündoğan",
+        "gundogan",
+        "gündoğan"
+      ]
+    }
   ]
 }

@@ -10,52 +10,84 @@
     {
       "display": "Frank Lampard",
       "detail": "147 goals",
-      "accept": ["frank lampard", "lampard"]
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Cole Palmer",
       "detail": "47 goals",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     },
     {
       "display": "John Terry",
       "detail": "41 goals",
-      "accept": ["john terry", "terry", "jt"]
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
     },
     {
       "display": "Dennis Wise",
       "detail": "33 goals",
-      "accept": ["dennis wise", "wise"]
+      "accept": [
+        "dennis wise",
+        "wise"
+      ]
     },
     {
       "display": "Joe Cole",
       "detail": "27 goals",
-      "accept": ["joe cole"]
+      "accept": [
+        "joe cole",
+        "cole"
+      ]
     },
     {
       "display": "Mason Mount",
       "detail": "27 goals",
-      "accept": ["mason mount", "mount"]
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
     },
     {
       "display": "Tammy Abraham",
       "detail": "21 goals",
-      "accept": ["tammy abraham", "abraham"]
+      "accept": [
+        "tammy abraham",
+        "abraham"
+      ]
     },
     {
       "display": "Mark Stein",
       "detail": "21 goals",
-      "accept": ["mark stein", "stein"]
+      "accept": [
+        "mark stein",
+        "stein"
+      ]
     },
     {
       "display": "Gavin Peacock",
       "detail": "17 goals",
-      "accept": ["gavin peacock", "peacock"]
+      "accept": [
+        "gavin peacock",
+        "peacock"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "14 goals",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     }
   ]
 }

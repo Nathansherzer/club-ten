@@ -72,7 +72,8 @@
       "display": "Fred",
       "detail": "8 goals",
       "accept": [
-        "fred"
+        "fred",
+        "fred brasileiro"
       ]
     },
     {
@@ -91,7 +92,8 @@
       "detail": "5 goals",
       "accept": [
         "rafael da silva",
-        "rafael"
+        "rafael",
+        "da silva"
       ]
     }
   ]

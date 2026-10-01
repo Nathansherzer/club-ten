@@ -10,52 +10,98 @@
     {
       "display": "Mohamed Salah",
       "detail": "284 contributions",
-      "accept": ["mohamed salah", "salah", "mo salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mo salah",
+        "mohammed salah"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "210 contributions",
-      "accept": ["steven gerrard", "gerrard"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
     },
     {
       "display": "Robbie Fowler",
       "detail": "158 contributions",
-      "accept": ["robbie fowler", "fowler"]
+      "accept": [
+        "robbie fowler",
+        "fowler",
+        "god"
+      ]
     },
     {
       "display": "Michael Owen",
       "detail": "148 contributions",
-      "accept": ["michael owen", "owen"]
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
     },
     {
       "display": "Roberto Firmino",
       "detail": "132 contributions",
-      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     },
     {
       "display": "Sadio Mané",
       "detail": "120 contributions",
-      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
     },
     {
       "display": "Steve McManaman",
       "detail": "99 contributions",
-      "accept": ["steve mcmanaman", "mcmanaman"]
+      "accept": [
+        "steve mcmanaman",
+        "mcmanaman",
+        "steve macmanaman"
+      ]
     },
     {
       "display": "Luis Suárez",
       "detail": "91 contributions",
-      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
     },
     {
       "display": "Trent Alexander-Arnold",
       "detail": "82 contributions",
-      "accept": ["trent alexander-arnold", "alexander-arnold", "trent", "taa"]
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "trent",
+        "taa",
+        "alexander arnold",
+        "trent alexander arnold",
+        "trent arnold"
+      ]
     },
     {
       "display": "Dirk Kuyt",
       "detail": "78 contributions",
-      "accept": ["dirk kuyt", "kuyt"]
+      "accept": [
+        "dirk kuyt",
+        "kuyt"
+      ]
     }
   ]
 }

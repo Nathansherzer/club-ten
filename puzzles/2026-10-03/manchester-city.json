@@ -7,15 +7,100 @@
   "note": "Premier League goals only · any order · through 26 Sep 2026, includes 2026/27 to date · My Football Facts",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Sergio Agüero", "detail": "184 goals", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero"] },
-    { "display": "Erling Haaland", "detail": "117 goals", "accept": ["erling haaland", "haaland"] },
-    { "display": "Raheem Sterling", "detail": "91 goals", "accept": ["raheem sterling", "sterling"] },
-    { "display": "Kevin De Bruyne", "detail": "72 goals", "accept": ["kevin de bruyne", "de bruyne", "kdb"] },
-    { "display": "Phil Foden", "detail": "68 goals", "accept": ["phil foden", "foden"] },
-    { "display": "Yaya Touré", "detail": "62 goals", "accept": ["yaya toure", "yaya touré", "toure", "touré"] },
-    { "display": "David Silva", "detail": "60 goals", "accept": ["david silva", "silva"] },
-    { "display": "Carlos Tévez", "detail": "58 goals", "accept": ["carlos tevez", "carlos tévez", "tevez", "tévez"] },
-    { "display": "Gabriel Jesus", "detail": "58 goals", "accept": ["gabriel jesus", "jesus"] },
-    { "display": "Edin Džeko", "detail": "50 goals", "accept": ["edin dzeko", "edin džeko", "dzeko", "džeko"] }
+    {
+      "display": "Sergio Agüero",
+      "detail": "184 goals",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "117 goals",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "91 goals",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "72 goals",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "68 goals",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "62 goals",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "60 goals",
+      "accept": [
+        "david silva",
+        "silva",
+        "el mago",
+        "david"
+      ]
+    },
+    {
+      "display": "Carlos Tévez",
+      "detail": "58 goals",
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez",
+        "tévez"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "58 goals",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "50 goals",
+      "accept": [
+        "edin dzeko",
+        "edin džeko",
+        "dzeko",
+        "džeko"
+      ]
+    }
   ]
 }

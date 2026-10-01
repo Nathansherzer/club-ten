@@ -10,52 +10,85 @@
     {
       "display": "Ryan Giggs",
       "detail": "163 assists",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Wayne Rooney",
       "detail": "90 assists",
-      "accept": ["wayne rooney", "rooney"]
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     },
     {
       "display": "David Beckham",
       "detail": "80 assists",
-      "accept": ["david beckham", "beckham"]
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
     },
     {
       "display": "Bruno Fernandes",
       "detail": "72 assists",
-      "accept": ["bruno fernandes", "fernandes", "bruno"]
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "54 assists",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Eric Cantona",
       "detail": "51 assists",
-      "accept": ["eric cantona", "cantona"]
+      "accept": [
+        "eric cantona",
+        "cantona",
+        "king eric"
+      ]
     },
     {
       "display": "Nani",
       "detail": "43 assists",
-      "accept": ["nani"]
+      "accept": [
+        "nani"
+      ]
     },
     {
       "display": "Marcus Rashford",
       "detail": "40 assists",
-      "accept": ["marcus rashford", "rashford"]
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "Antonio Valencia",
       "detail": "39 assists",
-      "accept": ["antonio valencia", "valencia"]
+      "accept": [
+        "antonio valencia",
+        "valencia"
+      ]
     },
     {
       "display": "Paul Pogba",
       "detail": "38 assists",
-      "accept": ["paul pogba", "pogba"]
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
     }
   ]
 }

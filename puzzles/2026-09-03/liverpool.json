@@ -10,52 +10,100 @@
     {
       "display": "Roberto Firmino",
       "detail": "172 matches",
-      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     },
     {
       "display": "Mohamed Salah",
       "detail": "171",
-      "accept": ["mohamed salah", "mo salah", "salah"]
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
     },
     {
       "display": "Andrew Robertson",
       "detail": "152",
-      "accept": ["andrew robertson", "andy robertson", "robertson"]
+      "accept": [
+        "andrew robertson",
+        "andy robertson",
+        "robertson",
+        "robbo"
+      ]
     },
     {
       "display": "Trent Alexander-Arnold",
       "detail": "151",
-      "accept": ["trent alexander-arnold", "trent alexander arnold", "alexander-arnold", "trent", "taa"]
+      "accept": [
+        "trent alexander-arnold",
+        "trent alexander arnold",
+        "alexander-arnold",
+        "trent",
+        "taa",
+        "alexander arnold",
+        "trent arnold"
+      ]
     },
     {
       "display": "Sadio Mané",
       "detail": "145",
-      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
     },
     {
       "display": "James Milner",
       "detail": "144",
-      "accept": ["james milner", "milner"]
+      "accept": [
+        "james milner",
+        "milner"
+      ]
     },
     {
       "display": "Alisson",
       "detail": "140",
-      "accept": ["alisson", "alisson becker"]
+      "accept": [
+        "alisson",
+        "alisson becker"
+      ]
     },
     {
       "display": "Virgil van Dijk",
       "detail": "136",
-      "accept": ["virgil van dijk", "van dijk", "vvd"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd",
+        "virgil"
+      ]
     },
     {
       "display": "Martin Škrtel",
       "detail": "121",
-      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+      "accept": [
+        "martin skrtel",
+        "martin škrtel",
+        "skrtel",
+        "škrtel"
+      ]
     },
     {
       "display": "Georginio Wijnaldum",
       "detail": "119",
-      "accept": ["georginio wijnaldum", "wijnaldum", "gini wijnaldum", "gini"]
+      "accept": [
+        "georginio wijnaldum",
+        "wijnaldum",
+        "gini wijnaldum",
+        "gini"
+      ]
     }
   ]
 }

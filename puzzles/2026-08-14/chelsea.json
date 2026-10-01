@@ -10,52 +10,87 @@
     {
       "display": "Thiago Silva",
       "detail": "39 years 198 days",
-      "accept": ["thiago silva", "thiago", "silva"]
+      "accept": [
+        "thiago silva",
+        "thiago",
+        "silva"
+      ]
     },
     {
       "display": "John Terry",
       "detail": "37 years 69 days",
-      "accept": ["john terry", "terry", "jt"]
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
     },
     {
       "display": "Didier Drogba",
       "detail": "37 years 49 days",
-      "accept": ["didier drogba", "drogba"]
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
     },
     {
       "display": "Gianfranco Zola",
       "detail": "36 years 290 days",
-      "accept": ["gianfranco zola", "zola"]
+      "accept": [
+        "gianfranco zola",
+        "zola",
+        "magic box"
+      ]
     },
     {
       "display": "Mal Donaghy",
       "detail": "36 years 167 days",
-      "accept": ["mal donaghy", "donaghy", "malachy donaghy"]
+      "accept": [
+        "mal donaghy",
+        "donaghy",
+        "malachy donaghy"
+      ]
     },
     {
       "display": "Glenn Hoddle",
       "detail": "36 years 150 days",
-      "accept": ["glenn hoddle", "hoddle"]
+      "accept": [
+        "glenn hoddle",
+        "hoddle"
+      ]
     },
     {
       "display": "Frank Lampard",
       "detail": "35 years 289 days",
-      "accept": ["frank lampard", "lampard"]
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Gianluca Vialli",
       "detail": "34 years 311 days",
-      "accept": ["gianluca vialli", "vialli"]
+      "accept": [
+        "gianluca vialli",
+        "vialli"
+      ]
     },
     {
       "display": "Marcel Desailly",
       "detail": "34 years 246 days",
-      "accept": ["marcel desailly", "desailly"]
+      "accept": [
+        "marcel desailly",
+        "desailly"
+      ]
     },
     {
       "display": "Steve Clarke",
       "detail": "34 years 239 days",
-      "accept": ["steve clarke", "clarke"]
+      "accept": [
+        "steve clarke",
+        "clarke"
+      ]
     }
   ]
 }

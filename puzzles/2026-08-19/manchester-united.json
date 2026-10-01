@@ -10,52 +10,86 @@
     {
       "display": "Antonio Valencia",
       "detail": "Ecuador",
-      "accept": ["antonio valencia", "valencia"]
+      "accept": [
+        "antonio valencia",
+        "valencia"
+      ]
     },
     {
       "display": "Fred",
       "detail": "Brazil",
-      "accept": ["fred"]
+      "accept": [
+        "fred",
+        "fred brasileiro"
+      ]
     },
     {
       "display": "Casemiro",
       "detail": "Brazil",
-      "accept": ["casemiro"]
+      "accept": [
+        "casemiro"
+      ]
     },
     {
       "display": "Rafael",
       "detail": "Brazil",
-      "accept": ["rafael", "rafael da silva"]
+      "accept": [
+        "rafael",
+        "rafael da silva"
+      ]
     },
     {
       "display": "Anderson",
       "detail": "Brazil",
-      "accept": ["anderson"]
+      "accept": [
+        "anderson"
+      ]
     },
     {
       "display": "Alejandro Garnacho",
       "detail": "Argentina",
-      "accept": ["alejandro garnacho", "garnacho"]
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
     },
     {
       "display": "Lisandro Martínez",
       "detail": "Argentina",
-      "accept": ["lisandro martinez", "lisandro martínez", "martinez", "martínez", "lisandro"]
+      "accept": [
+        "lisandro martinez",
+        "lisandro martínez",
+        "martinez",
+        "martínez",
+        "lisandro"
+      ]
     },
     {
       "display": "Marcos Rojo",
       "detail": "Argentina",
-      "accept": ["marcos rojo", "rojo"]
+      "accept": [
+        "marcos rojo",
+        "rojo"
+      ]
     },
     {
       "display": "Carlos Tévez",
       "detail": "Argentina",
-      "accept": ["carlos tevez", "carlos tévez", "tevez"]
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez"
+      ]
     },
     {
       "display": "Diego Forlán",
       "detail": "Uruguay",
-      "accept": ["diego forlan", "diego forlán", "forlan", "forlán"]
+      "accept": [
+        "diego forlan",
+        "diego forlán",
+        "forlan",
+        "forlán"
+      ]
     }
   ]
 }

@@ -8,15 +8,91 @@
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
-    { "display": "Tottenham Hotspur", "detail": "2024/25 · R4", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
-    { "display": "Newcastle United", "detail": "2023/24 · R3", "accept": ["newcastle united", "newcastle"] },
-    { "display": "Southampton", "detail": "2022/23 · QF", "accept": ["southampton"] },
-    { "display": "West Ham United", "detail": "2021/22 · R4 · Penalties", "accept": ["west ham united", "west ham"] },
-    { "display": "Manchester United", "detail": "2016/17 · R4", "accept": ["manchester united", "man united", "man utd"] },
-    { "display": "Newcastle United", "detail": "2014/15 · R4", "accept": ["newcastle united", "newcastle"] },
-    { "display": "Aston Villa", "detail": "2012/13 · R3 · AET", "accept": ["aston villa", "villa"] },
-    { "display": "Liverpool", "detail": "2011/12 · SF", "accept": ["liverpool"] },
-    { "display": "West Bromwich Albion", "detail": "2010/11 · R3", "accept": ["west bromwich albion", "west brom", "wba"] },
-    { "display": "Manchester United", "detail": "2009/10 · SF", "accept": ["manchester united", "man united", "man utd"] }
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "2024/25 · R4",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "2023/24 · R3",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "2022/23 · QF",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "2021/22 · R4 · Penalties",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "2016/17 · R4",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "2014/15 · R4",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "2012/13 · R3 · AET",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "2011/12 · SF",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "West Bromwich Albion",
+      "detail": "2010/11 · R3",
+      "accept": [
+        "west bromwich albion",
+        "west brom",
+        "wba"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "2009/10 · SF",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    }
   ]
 }

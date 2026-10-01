@@ -7,15 +7,94 @@
   "note": "FA Cup + League Cup combined · PL era only (1992/93–2025/26) · ties broken by FA Cup apps, then alphabetically",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Jamie Carragher", "detail": "75 apps", "accept": ["jamie carragher", "carragher"] },
-    { "display": "Steven Gerrard", "detail": "72", "accept": ["steven gerrard", "gerrard"] },
-    { "display": "Robbie Fowler", "detail": "59", "accept": ["robbie fowler", "fowler"] },
-    { "display": "Jordan Henderson", "detail": "54", "accept": ["jordan henderson", "henderson"] },
-    { "display": "Sami Hyypiä", "detail": "48", "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"] },
-    { "display": "Steve McManaman", "detail": "48", "accept": ["steve mcmanaman", "mcmanaman"] },
-    { "display": "Jamie Redknapp", "detail": "45", "accept": ["jamie redknapp", "redknapp"] },
-    { "display": "Lucas Leiva", "detail": "42", "accept": ["lucas leiva", "lucas"] },
-    { "display": "David James", "detail": "41", "accept": ["david james", "james"] },
-    { "display": "Joe Gomez", "detail": "40", "accept": ["joe gomez", "gomez"] }
+    {
+      "display": "Jamie Carragher",
+      "detail": "75 apps",
+      "accept": [
+        "jamie carragher",
+        "carragher",
+        "carra"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "72",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "59",
+      "accept": [
+        "robbie fowler",
+        "fowler",
+        "god"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "54",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "48",
+      "accept": [
+        "sami hyypia",
+        "sami hyypiä",
+        "hyypia",
+        "hyypiä"
+      ]
+    },
+    {
+      "display": "Steve McManaman",
+      "detail": "48",
+      "accept": [
+        "steve mcmanaman",
+        "mcmanaman",
+        "steve macmanaman"
+      ]
+    },
+    {
+      "display": "Jamie Redknapp",
+      "detail": "45",
+      "accept": [
+        "jamie redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "42",
+      "accept": [
+        "lucas leiva",
+        "lucas",
+        "leiva"
+      ]
+    },
+    {
+      "display": "David James",
+      "detail": "41",
+      "accept": [
+        "david james",
+        "james"
+      ]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "40",
+      "accept": [
+        "joe gomez",
+        "gomez"
+      ]
+    }
   ]
 }

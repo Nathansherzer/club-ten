@@ -10,52 +10,90 @@
     {
       "display": "Hugo Lloris",
       "detail": "318 apps",
-      "accept": ["hugo lloris", "lloris"]
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
     },
     {
       "display": "Harry Kane",
       "detail": "297 apps",
-      "accept": ["harry kane", "kane"]
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Eric Dier",
       "detail": "281 apps",
-      "accept": ["eric dier", "dier"]
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
     },
     {
       "display": "Ben Davies",
       "detail": "269 apps",
-      "accept": ["ben davies", "davies"]
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
     },
     {
       "display": "Dele Alli",
       "detail": "204 apps",
-      "accept": ["dele alli", "dele", "alli"]
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
     },
     {
       "display": "Toby Alderweireld",
       "detail": "190 apps",
-      "accept": ["toby alderweireld", "alderweireld"]
+      "accept": [
+        "toby alderweireld",
+        "alderweireld",
+        "toby"
+      ]
     },
     {
       "display": "Christian Eriksen",
       "detail": "180 apps",
-      "accept": ["christian eriksen", "eriksen"]
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
     },
     {
       "display": "Davinson Sánchez",
       "detail": "170 apps",
-      "accept": ["davinson sanchez", "davinson sánchez", "sanchez", "sánchez"]
+      "accept": [
+        "davinson sanchez",
+        "davinson sánchez",
+        "sanchez",
+        "sánchez",
+        "davinson"
+      ]
     },
     {
       "display": "Pierre-Emile Højbjerg",
       "detail": "162 apps",
-      "accept": ["pierre-emile hojbjerg", "pierre-emile højbjerg", "hojbjerg", "højbjerg"]
+      "accept": [
+        "pierre-emile hojbjerg",
+        "pierre-emile højbjerg",
+        "hojbjerg",
+        "højbjerg"
+      ]
     },
     {
       "display": "Lucas Moura",
       "detail": "154 apps",
-      "accept": ["lucas moura", "moura"]
+      "accept": [
+        "lucas moura",
+        "moura",
+        "lucas"
+      ]
     }
   ]
 }

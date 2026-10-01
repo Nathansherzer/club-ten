@@ -10,52 +10,89 @@
     {
       "display": "John Obi Mikel",
       "detail": "1 goal / 249 apps",
-      "accept": ["john obi mikel", "mikel john obi", "obi mikel", "mikel", "obi"]
+      "accept": [
+        "john obi mikel",
+        "mikel john obi",
+        "obi mikel",
+        "mikel",
+        "obi",
+        "john mikel obi"
+      ]
     },
     {
       "display": "Erland Johnsen",
       "detail": "1 goal / 114 apps",
-      "accept": ["erland johnsen", "johnsen"]
+      "accept": [
+        "erland johnsen",
+        "johnsen"
+      ]
     },
     {
       "display": "Paulo Ferreira",
       "detail": "2 goals / 141 apps",
-      "accept": ["paulo ferreira", "ferreira"]
+      "accept": [
+        "paulo ferreira",
+        "ferreira"
+      ]
     },
     {
       "display": "Claude Makélélé",
       "detail": "2 goals / 144 apps",
-      "accept": ["claude makelele", "claude makélélé", "makelele", "makélélé"]
+      "accept": [
+        "claude makelele",
+        "claude makélélé",
+        "makelele",
+        "makélélé"
+      ]
     },
     {
       "display": "Celestine Babayaro",
       "detail": "5 goals / 132 apps",
-      "accept": ["celestine babayaro", "babayaro"]
+      "accept": [
+        "celestine babayaro",
+        "babayaro"
+      ]
     },
     {
       "display": "Frank Sinclair",
       "detail": "6 goals / 157 apps",
-      "accept": ["frank sinclair", "sinclair"]
+      "accept": [
+        "frank sinclair",
+        "sinclair"
+      ]
     },
     {
       "display": "Ashley Cole",
       "detail": "7 goals / 229 apps",
-      "accept": ["ashley cole", "cole"]
+      "accept": [
+        "ashley cole",
+        "cole",
+        "a cole"
+      ]
     },
     {
       "display": "Eddie Newton",
       "detail": "7 goals / 164 apps",
-      "accept": ["eddie newton", "newton"]
+      "accept": [
+        "eddie newton",
+        "newton"
+      ]
     },
     {
       "display": "Craig Burley",
       "detail": "7 goals / 104 apps",
-      "accept": ["craig burley", "burley"]
+      "accept": [
+        "craig burley",
+        "burley"
+      ]
     },
     {
       "display": "Ricardo Carvalho",
       "detail": "7 goals / 135 apps",
-      "accept": ["ricardo carvalho", "carvalho"]
+      "accept": [
+        "ricardo carvalho",
+        "carvalho"
+      ]
     }
   ]
 }

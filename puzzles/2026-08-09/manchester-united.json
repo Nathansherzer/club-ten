@@ -10,52 +10,85 @@
     {
       "display": "Wayne Rooney",
       "detail": "183 goals",
-      "accept": ["wayne rooney", "rooney"]
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "107 goals",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Andy Cole",
       "detail": "93 goals",
-      "accept": ["andy cole", "cole"]
+      "accept": [
+        "andy cole",
+        "cole",
+        "andrew cole"
+      ]
     },
     {
       "display": "Marcus Rashford",
       "detail": "87 goals",
-      "accept": ["marcus rashford", "rashford"]
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "David Beckham",
       "detail": "62 goals",
-      "accept": ["david beckham", "beckham"]
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
     },
     {
       "display": "Teddy Sheringham",
       "detail": "31 goals",
-      "accept": ["teddy sheringham", "sheringham"]
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
     },
     {
       "display": "Mason Greenwood",
       "detail": "22 goals",
-      "accept": ["mason greenwood", "greenwood"]
+      "accept": [
+        "mason greenwood",
+        "greenwood"
+      ]
     },
     {
       "display": "Nicky Butt",
       "detail": "21 goals",
-      "accept": ["nicky butt", "butt"]
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
     },
     {
       "display": "Jesse Lingard",
       "detail": "20 goals",
-      "accept": ["jesse lingard", "lingard"]
+      "accept": [
+        "jesse lingard",
+        "lingard"
+      ]
     },
     {
       "display": "Danny Welbeck",
       "detail": "20 goals",
-      "accept": ["danny welbeck", "welbeck"]
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
     }
   ]
 }

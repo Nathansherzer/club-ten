@@ -10,52 +10,95 @@
     {
       "display": "César Azpilicueta",
       "detail": "98 matches",
-      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta"]
+      "accept": [
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
     },
     {
       "display": "Jorginho",
       "detail": "97",
-      "accept": ["jorginho"]
+      "accept": [
+        "jorginho"
+      ]
     },
     {
       "display": "Mateo Kovačić",
       "detail": "85",
-      "accept": ["mateo kovacic", "mateo kovačić", "kovacic", "kovačić"]
+      "accept": [
+        "mateo kovacic",
+        "mateo kovačić",
+        "kovacic",
+        "kovačić"
+      ]
     },
     {
       "display": "Reece James",
       "detail": "84",
-      "accept": ["reece james"]
+      "accept": [
+        "reece james",
+        "james",
+        "reece"
+      ]
     },
     {
       "display": "Christian Pulisic",
       "detail": "74",
-      "accept": ["christian pulisic", "pulisic"]
+      "accept": [
+        "christian pulisic",
+        "pulisic"
+      ]
     },
     {
       "display": "N'Golo Kanté",
       "detail": "69",
-      "accept": ["ngolo kante", "n'golo kante", "n'golo kanté", "kante", "kanté"]
+      "accept": [
+        "ngolo kante",
+        "n'golo kante",
+        "n'golo kanté",
+        "kante",
+        "kanté",
+        "n golo kante"
+      ]
     },
     {
       "display": "Kai Havertz",
       "detail": "67",
-      "accept": ["kai havertz", "havertz"]
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
     },
     {
       "display": "Edouard Mendy",
       "detail": "66",
-      "accept": ["edouard mendy", "édouard mendy", "mendy"]
+      "accept": [
+        "edouard mendy",
+        "édouard mendy",
+        "mendy"
+      ]
     },
     {
       "display": "Thiago Silva",
       "detail": "66",
-      "accept": ["thiago silva"]
+      "accept": [
+        "thiago silva",
+        "silva",
+        "thiago"
+      ]
     },
     {
       "display": "Antonio Rüdiger",
       "detail": "65",
-      "accept": ["antonio rudiger", "antonio rüdiger", "rudiger", "rüdiger"]
+      "accept": [
+        "antonio rudiger",
+        "antonio rüdiger",
+        "rudiger",
+        "rüdiger"
+      ]
     }
   ]
 }

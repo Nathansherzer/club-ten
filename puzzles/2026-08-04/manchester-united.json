@@ -10,52 +10,90 @@
     {
       "display": "Ryan Giggs",
       "detail": "110 sub apps",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "95 sub apps",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Ole Gunnar Solskjær",
       "detail": "84 sub apps",
-      "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær", "ole gunnar"]
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole gunnar",
+        "solskjer",
+        "ole"
+      ]
     },
     {
       "display": "Marcus Rashford",
       "detail": "70 sub apps",
-      "accept": ["marcus rashford", "rashford"]
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "John O'Shea",
       "detail": "68 sub apps",
-      "accept": ["john o'shea", "john o shea", "o'shea", "oshea"]
+      "accept": [
+        "john o'shea",
+        "john o shea",
+        "o'shea",
+        "oshea"
+      ]
     },
     {
       "display": "Scott McTominay",
       "detail": "61 sub apps",
-      "accept": ["scott mctominay", "mctominay"]
+      "accept": [
+        "scott mctominay",
+        "mctominay"
+      ]
     },
     {
       "display": "Jesse Lingard",
       "detail": "61 sub apps",
-      "accept": ["jesse lingard", "lingard"]
+      "accept": [
+        "jesse lingard",
+        "lingard"
+      ]
     },
     {
       "display": "Nicky Butt",
       "detail": "60 sub apps",
-      "accept": ["nicky butt", "butt"]
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
     },
     {
       "display": "Anthony Martial",
       "detail": "60 sub apps",
-      "accept": ["anthony martial", "martial"]
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
     },
     {
       "display": "Brian McClair",
       "detail": "56 sub apps",
-      "accept": ["brian mcclair", "mcclair"]
+      "accept": [
+        "brian mcclair",
+        "mcclair"
+      ]
     }
   ]
 }

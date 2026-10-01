@@ -10,52 +10,85 @@
     {
       "display": "Ederson",
       "detail": "122 clean sheets",
-      "accept": ["ederson", "ederson moraes"]
+      "accept": [
+        "ederson",
+        "ederson moraes"
+      ]
     },
     {
       "display": "Joe Hart",
       "detail": "109 clean sheets",
-      "accept": ["joe hart", "hart"]
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
     },
     {
       "display": "Tony Coton",
       "detail": "26 clean sheets",
-      "accept": ["tony coton", "coton"]
+      "accept": [
+        "tony coton",
+        "coton"
+      ]
     },
     {
       "display": "David James",
       "detail": "20 clean sheets",
-      "accept": ["david james", "james"]
+      "accept": [
+        "david james",
+        "james"
+      ]
     },
     {
       "display": "Gianluigi Donnarumma",
       "detail": "15 clean sheets",
-      "accept": ["gianluigi donnarumma", "donnarumma", "gigio donnarumma", "gigio"]
+      "accept": [
+        "gianluigi donnarumma",
+        "donnarumma",
+        "gigio donnarumma",
+        "gigio",
+        "gianluigi"
+      ]
     },
     {
       "display": "Nicky Weaver",
       "detail": "15 clean sheets",
-      "accept": ["nicky weaver", "weaver"]
+      "accept": [
+        "nicky weaver",
+        "weaver"
+      ]
     },
     {
       "display": "Shay Given",
       "detail": "14 clean sheets",
-      "accept": ["shay given", "given"]
+      "accept": [
+        "shay given",
+        "given"
+      ]
     },
     {
       "display": "Peter Schmeichel",
       "detail": "9 clean sheets",
-      "accept": ["peter schmeichel", "schmeichel"]
+      "accept": [
+        "peter schmeichel",
+        "schmeichel"
+      ]
     },
     {
       "display": "Eike Immel",
       "detail": "8 clean sheets",
-      "accept": ["eike immel", "immel"]
+      "accept": [
+        "eike immel",
+        "immel"
+      ]
     },
     {
       "display": "Claudio Bravo",
       "detail": "7 clean sheets",
-      "accept": ["claudio bravo", "bravo"]
+      "accept": [
+        "claudio bravo",
+        "bravo"
+      ]
     }
   ]
 }

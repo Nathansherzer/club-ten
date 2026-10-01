@@ -10,52 +10,89 @@
     {
       "display": "Ryan Giggs",
       "detail": "Wales · 632 apps",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "David de Gea",
       "detail": "Spain · 415 apps",
-      "accept": ["david de gea", "de gea"]
+      "accept": [
+        "david de gea",
+        "de gea",
+        "degea",
+        "ddg"
+      ]
     },
     {
       "display": "Roy Keane",
       "detail": "Republic of Ireland · 326 apps",
-      "accept": ["roy keane", "keane"]
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
     },
     {
       "display": "Denis Irwin",
       "detail": "Republic of Ireland · 296 apps",
-      "accept": ["denis irwin", "irwin"]
+      "accept": [
+        "denis irwin",
+        "irwin"
+      ]
     },
     {
       "display": "Patrice Evra",
       "detail": "France · 273 apps",
-      "accept": ["patrice evra", "evra"]
+      "accept": [
+        "patrice evra",
+        "evra"
+      ]
     },
     {
       "display": "John O'Shea",
       "detail": "Republic of Ireland · 256 apps",
-      "accept": ["john o'shea", "john oshea", "o'shea", "oshea"]
+      "accept": [
+        "john o'shea",
+        "john oshea",
+        "o'shea",
+        "oshea",
+        "john o shea"
+      ]
     },
     {
       "display": "Peter Schmeichel",
       "detail": "Denmark · 252 apps",
-      "accept": ["peter schmeichel", "schmeichel"]
+      "accept": [
+        "peter schmeichel",
+        "schmeichel"
+      ]
     },
     {
       "display": "Mikaël Silvestre",
       "detail": "France · 249 apps",
-      "accept": ["mikael silvestre", "mikaël silvestre", "silvestre"]
+      "accept": [
+        "mikael silvestre",
+        "mikaël silvestre",
+        "silvestre"
+      ]
     },
     {
       "display": "Antonio Valencia",
       "detail": "Ecuador · 241 apps",
-      "accept": ["antonio valencia", "valencia"]
+      "accept": [
+        "antonio valencia",
+        "valencia"
+      ]
     },
     {
       "display": "Cristiano Ronaldo",
       "detail": "Portugal · 236 apps",
-      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
     }
   ]
 }

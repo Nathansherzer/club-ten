@@ -10,52 +10,84 @@
     {
       "display": "Dennis Bergkamp",
       "detail": "94 assists",
-      "accept": ["dennis bergkamp", "bergkamp"]
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
     },
     {
       "display": "Thierry Henry",
       "detail": "74 assists",
-      "accept": ["thierry henry", "henry"]
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
     },
     {
       "display": "Cesc Fàbregas",
       "detail": "70 assists",
-      "accept": ["cesc fabregas", "fabregas"]
+      "accept": [
+        "cesc fabregas",
+        "fabregas",
+        "cesc"
+      ]
     },
     {
       "display": "Bukayo Saka",
       "detail": "50 assists",
-      "accept": ["bukayo saka", "saka"]
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
     },
     {
       "display": "Mesut Özil",
       "detail": "50 assists",
-      "accept": ["mesut ozil", "ozil"]
+      "accept": [
+        "mesut ozil",
+        "ozil"
+      ]
     },
     {
       "display": "Aaron Ramsey",
       "detail": "45 assists",
-      "accept": ["aaron ramsey", "ramsey"]
+      "accept": [
+        "aaron ramsey",
+        "ramsey"
+      ]
     },
     {
       "display": "Theo Walcott",
       "detail": "42 assists",
-      "accept": ["theo walcott", "walcott"]
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
     },
     {
       "display": "Robert Pirès",
       "detail": "41 assists",
-      "accept": ["robert pires", "pires"]
+      "accept": [
+        "robert pires",
+        "pires"
+      ]
     },
     {
       "display": "Robin van Persie",
       "detail": "39 assists",
-      "accept": ["robin van persie", "van persie"]
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
     },
     {
       "display": "Martin Ødegaard",
       "detail": "37 assists",
-      "accept": ["martin odegaard", "odegaard"]
+      "accept": [
+        "martin odegaard",
+        "odegaard"
+      ]
     }
   ]
 }

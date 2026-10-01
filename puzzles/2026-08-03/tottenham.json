@@ -11,52 +11,89 @@
     {
       "display": "England",
       "detail": "822 goals",
-      "accept": ["england", "english"]
+      "accept": [
+        "england",
+        "english"
+      ]
     },
     {
       "display": "South Korea",
       "detail": "127 goals",
-      "accept": ["south korea", "korea", "south korean", "korean"]
+      "accept": [
+        "south korea",
+        "korea",
+        "south korean",
+        "korean",
+        "korea republic"
+      ]
     },
     {
       "display": "Republic of Ireland",
       "detail": "111 goals",
-      "accept": ["republic of ireland", "ireland", "irish", "roi"]
+      "accept": [
+        "republic of ireland",
+        "ireland",
+        "irish",
+        "roi"
+      ]
     },
     {
       "display": "Wales",
       "detail": "92 goals",
-      "accept": ["wales", "welsh"]
+      "accept": [
+        "wales",
+        "welsh"
+      ]
     },
     {
       "display": "Denmark",
       "detail": "71 goals",
-      "accept": ["denmark", "danish"]
+      "accept": [
+        "denmark",
+        "danish"
+      ]
     },
     {
       "display": "Brazil",
       "detail": "60 goals",
-      "accept": ["brazil", "brasil", "brazilian"]
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
     },
     {
       "display": "France",
       "detail": "50 goals",
-      "accept": ["france", "french"]
+      "accept": [
+        "france",
+        "french"
+      ]
     },
     {
       "display": "Norway",
       "detail": "43 goals",
-      "accept": ["norway", "norwegian"]
+      "accept": [
+        "norway",
+        "norwegian"
+      ]
     },
     {
       "display": "Netherlands",
       "detail": "41 goals",
-      "accept": ["netherlands", "holland", "dutch"]
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
     },
     {
       "display": "Germany",
       "detail": "36 goals",
-      "accept": ["germany", "german"]
+      "accept": [
+        "germany",
+        "german"
+      ]
     }
   ]
 }

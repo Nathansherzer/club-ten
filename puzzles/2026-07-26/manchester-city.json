@@ -10,52 +10,86 @@
     {
       "display": "Bernardo Silva",
       "detail": "217 wins",
-      "accept": ["bernardo silva", "bernardo"]
+      "accept": [
+        "bernardo silva",
+        "bernardo",
+        "silva"
+      ]
     },
     {
       "display": "David Silva",
       "detail": "214 wins",
-      "accept": ["david silva"]
+      "accept": [
+        "david silva",
+        "el mago",
+        "david"
+      ]
     },
     {
       "display": "Ederson",
       "detail": "206 wins",
-      "accept": ["ederson"]
+      "accept": [
+        "ederson",
+        "ederson moraes"
+      ]
     },
     {
       "display": "Kevin De Bruyne",
       "detail": "197 wins",
-      "accept": ["kevin de bruyne", "de bruyne"]
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
     },
     {
       "display": "Fernandinho",
       "detail": "187 wins",
-      "accept": ["fernandinho"]
+      "accept": [
+        "fernandinho"
+      ]
     },
     {
       "display": "Sergio Agüero",
       "detail": "186 wins",
-      "accept": ["sergio aguero", "aguero"]
+      "accept": [
+        "sergio aguero",
+        "aguero",
+        "kun aguero",
+        "kun"
+      ]
     },
     {
       "display": "Vincent Kompany",
       "detail": "167 wins",
-      "accept": ["vincent kompany", "kompany"]
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
     },
     {
       "display": "İlkay Gündoğan",
       "detail": "162 wins",
-      "accept": ["ilkay gundogan", "gundogan"]
+      "accept": [
+        "ilkay gundogan",
+        "gundogan"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "156 wins",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "154 wins",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     }
   ]
 }

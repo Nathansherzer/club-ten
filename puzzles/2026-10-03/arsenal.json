@@ -7,15 +7,95 @@
   "note": "Premier League goals only · any order · through 26 Sep 2026 · My Football Facts",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Thierry Henry", "detail": "175 goals", "accept": ["thierry henry", "henry"] },
-    { "display": "Ian Wright", "detail": "104 goals", "accept": ["ian wright", "wright", "wrighty"] },
-    { "display": "Robin van Persie", "detail": "96 goals", "accept": ["robin van persie", "van persie", "rvp"] },
-    { "display": "Dennis Bergkamp", "detail": "87 goals", "accept": ["dennis bergkamp", "bergkamp"] },
-    { "display": "Olivier Giroud", "detail": "73 goals", "accept": ["olivier giroud", "giroud"] },
-    { "display": "Pierre-Emerick Aubameyang", "detail": "68 goals", "accept": ["pierre-emerick aubameyang", "aubameyang", "auba"] },
-    { "display": "Theo Walcott", "detail": "65 goals", "accept": ["theo walcott", "walcott"] },
-    { "display": "Bukayo Saka", "detail": "63 goals", "accept": ["bukayo saka", "saka"] },
-    { "display": "Robert Pirès", "detail": "62 goals", "accept": ["robert pires", "robert pirès", "pires", "pirès"] },
-    { "display": "Alexis Sánchez", "detail": "60 goals", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez", "alexis"] }
+    {
+      "display": "Thierry Henry",
+      "detail": "175 goals",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "104 goals",
+      "accept": [
+        "ian wright",
+        "wright",
+        "wrighty"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "96 goals",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "87 goals",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "73 goals",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "68 goals",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba",
+        "pierre emerick aubameyang",
+        "pea"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "65 goals",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "63 goals",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "62 goals",
+      "accept": [
+        "robert pires",
+        "robert pirès",
+        "pires",
+        "pirès"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "60 goals",
+      "accept": [
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
+      ]
+    }
   ]
 }

@@ -10,52 +10,93 @@
     {
       "display": "Petr Čech",
       "detail": "162 clean sheets",
-      "accept": ["petr cech", "petr čech", "cech", "čech"]
+      "accept": [
+        "petr cech",
+        "petr čech",
+        "cech",
+        "čech"
+      ]
     },
     {
       "display": "Carlo Cudicini",
       "detail": "61 clean sheets",
-      "accept": ["carlo cudicini", "cudicini"]
+      "accept": [
+        "carlo cudicini",
+        "cudicini"
+      ]
     },
     {
       "display": "Thibaut Courtois",
       "detail": "48 clean sheets",
-      "accept": ["thibaut courtois", "courtois"]
+      "accept": [
+        "thibaut courtois",
+        "courtois"
+      ]
     },
     {
       "display": "Ed de Goey",
       "detail": "46 clean sheets",
-      "accept": ["ed de goey", "de goey"]
+      "accept": [
+        "ed de goey",
+        "de goey"
+      ]
     },
     {
       "display": "Dmitriy Kharin",
       "detail": "37 clean sheets",
-      "accept": ["dmitriy kharin", "dmitri kharin", "kharin"]
+      "accept": [
+        "dmitriy kharin",
+        "dmitri kharin",
+        "kharin",
+        "kharine",
+        "dmitri kharine"
+      ]
     },
     {
       "display": "Kepa Arrizabalaga",
       "detail": "35 clean sheets",
-      "accept": ["kepa arrizabalaga", "kepa"]
+      "accept": [
+        "kepa arrizabalaga",
+        "kepa",
+        "arrizabalaga"
+      ]
     },
     {
       "display": "Edouard Mendy",
       "detail": "31 clean sheets",
-      "accept": ["edouard mendy", "édouard mendy", "mendy"]
+      "accept": [
+        "edouard mendy",
+        "édouard mendy",
+        "mendy"
+      ]
     },
     {
       "display": "Robert Sánchez",
       "detail": "22 clean sheets",
-      "accept": ["robert sanchez", "robert sánchez", "sanchez", "sánchez"]
+      "accept": [
+        "robert sanchez",
+        "robert sánchez",
+        "sanchez",
+        "sánchez"
+      ]
     },
     {
       "display": "Kevin Hitchcock",
       "detail": "12 clean sheets",
-      "accept": ["kevin hitchcock", "hitchcock"]
+      "accept": [
+        "kevin hitchcock",
+        "hitchcock"
+      ]
     },
     {
       "display": "Hilário",
       "detail": "6 clean sheets",
-      "accept": ["hilario", "hilário", "henrique hilario", "henrique hilário"]
+      "accept": [
+        "hilario",
+        "hilário",
+        "henrique hilario",
+        "henrique hilário"
+      ]
     }
   ]
 }

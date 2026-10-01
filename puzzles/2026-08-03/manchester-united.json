@@ -11,52 +11,89 @@
     {
       "display": "England",
       "detail": "840 goals",
-      "accept": ["england", "english"]
+      "accept": [
+        "england",
+        "english"
+      ]
     },
     {
       "display": "France",
       "detail": "220 goals",
-      "accept": ["france", "french"]
+      "accept": [
+        "france",
+        "french"
+      ]
     },
     {
       "display": "Portugal",
       "detail": "204 goals",
-      "accept": ["portugal", "portuguese"]
+      "accept": [
+        "portugal",
+        "portuguese"
+      ]
     },
     {
       "display": "Netherlands",
       "detail": "163 goals",
-      "accept": ["netherlands", "holland", "dutch"]
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
     },
     {
       "display": "Wales",
       "detail": "149 goals",
-      "accept": ["wales", "welsh"]
+      "accept": [
+        "wales",
+        "welsh"
+      ]
     },
     {
       "display": "Norway",
       "detail": "98 goals",
-      "accept": ["norway", "norwegian"]
+      "accept": [
+        "norway",
+        "norwegian"
+      ]
     },
     {
       "display": "Republic of Ireland",
       "detail": "64 goals",
-      "accept": ["republic of ireland", "ireland", "irish", "roi"]
+      "accept": [
+        "republic of ireland",
+        "ireland",
+        "irish",
+        "roi"
+      ]
     },
     {
       "display": "Scotland",
       "detail": "53 goals",
-      "accept": ["scotland", "scottish"]
+      "accept": [
+        "scotland",
+        "scottish"
+      ]
     },
     {
       "display": "Argentina",
       "detail": "48 goals",
-      "accept": ["argentina", "argentinian", "argentinean"]
+      "accept": [
+        "argentina",
+        "argentinian",
+        "argentinean",
+        "argentine"
+      ]
     },
     {
       "display": "Trinidad and Tobago",
       "detail": "48 goals",
-      "accept": ["trinidad and tobago", "trinidad", "tobago", "trinidadian"]
+      "accept": [
+        "trinidad and tobago",
+        "trinidad",
+        "tobago",
+        "trinidadian"
+      ]
     }
   ]
 }

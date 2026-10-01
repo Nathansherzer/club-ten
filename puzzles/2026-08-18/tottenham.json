@@ -10,52 +10,83 @@
     {
       "display": "Harry Kane",
       "detail": "Academy graduate",
-      "accept": ["harry kane", "kane"]
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Ledley King",
       "detail": "Academy graduate",
-      "accept": ["ledley king", "king"]
+      "accept": [
+        "ledley king",
+        "king"
+      ]
     },
     {
       "display": "Sol Campbell",
       "detail": "Academy graduate",
-      "accept": ["sol campbell", "campbell"]
+      "accept": [
+        "sol campbell",
+        "campbell"
+      ]
     },
     {
       "display": "Stephen Carr",
       "detail": "Academy graduate",
-      "accept": ["stephen carr", "carr"]
+      "accept": [
+        "stephen carr",
+        "carr"
+      ]
     },
     {
       "display": "Harry Winks",
       "detail": "Academy graduate",
-      "accept": ["harry winks", "winks"]
+      "accept": [
+        "harry winks",
+        "winks"
+      ]
     },
     {
       "display": "Nick Barmby",
       "detail": "Academy graduate",
-      "accept": ["nick barmby", "barmby"]
+      "accept": [
+        "nick barmby",
+        "barmby",
+        "nicky barmby"
+      ]
     },
     {
       "display": "Oliver Skipp",
       "detail": "Academy graduate",
-      "accept": ["oliver skipp", "skipp"]
+      "accept": [
+        "oliver skipp",
+        "skipp"
+      ]
     },
     {
       "display": "Luke Young",
       "detail": "Academy graduate",
-      "accept": ["luke young", "young"]
+      "accept": [
+        "luke young",
+        "young"
+      ]
     },
     {
       "display": "Ryan Mason",
       "detail": "Academy graduate",
-      "accept": ["ryan mason", "mason"]
+      "accept": [
+        "ryan mason",
+        "mason"
+      ]
     },
     {
       "display": "Andros Townsend",
       "detail": "Academy graduate",
-      "accept": ["andros townsend", "townsend"]
+      "accept": [
+        "andros townsend",
+        "townsend"
+      ]
     }
   ]
 }

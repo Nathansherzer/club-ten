@@ -10,52 +10,86 @@
     {
       "display": "Willian",
       "detail": "234 apps",
-      "accept": ["willian"]
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
     },
     {
       "display": "David Luiz",
       "detail": "160 apps",
-      "accept": ["david luiz", "luiz"]
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
     },
     {
       "display": "Ramires",
       "detail": "159 apps",
-      "accept": ["ramires"]
+      "accept": [
+        "ramires"
+      ]
     },
     {
       "display": "Oscar",
       "detail": "131 apps",
-      "accept": ["oscar"]
+      "accept": [
+        "oscar",
+        "oscar dos santos"
+      ]
     },
     {
       "display": "Thiago Silva",
       "detail": "113 apps",
-      "accept": ["thiago silva", "thiago", "silva"]
+      "accept": [
+        "thiago silva",
+        "thiago",
+        "silva"
+      ]
     },
     {
       "display": "Alex",
       "detail": "86 apps",
-      "accept": ["alex"]
+      "accept": [
+        "alex"
+      ]
     },
     {
       "display": "Juliano Belletti",
       "detail": "54 apps",
-      "accept": ["juliano belletti", "belletti"]
+      "accept": [
+        "juliano belletti",
+        "belletti"
+      ]
     },
     {
       "display": "João Pedro",
       "detail": "35 apps",
-      "accept": ["joao pedro", "joão pedro", "pedro"]
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "pedro",
+        "joao"
+      ]
     },
     {
       "display": "Andrey Santos",
       "detail": "27 apps",
-      "accept": ["andrey santos", "andrey", "santos"]
+      "accept": [
+        "andrey santos",
+        "andrey",
+        "santos"
+      ]
     },
     {
       "display": "Estêvão",
       "detail": "22 apps",
-      "accept": ["estevao", "estêvão", "estevao willian", "estêvão willian"]
+      "accept": [
+        "estevao",
+        "estêvão",
+        "estevao willian",
+        "estêvão willian"
+      ]
     }
   ]
 }

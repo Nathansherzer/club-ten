@@ -10,52 +10,86 @@
     {
       "display": "Didier Drogba",
       "detail": "36 goals",
-      "accept": ["didier drogba", "drogba"]
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
     },
     {
       "display": "Frank Lampard",
       "detail": "25 goals",
-      "accept": ["frank lampard", "lampard"]
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Olivier Giroud",
       "detail": "18 goals",
-      "accept": ["olivier giroud", "giroud"]
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
     },
     {
       "display": "Fernando Torres",
       "detail": "17 goals",
-      "accept": ["fernando torres", "torres"]
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
     },
     {
       "display": "Peter Osgood",
       "detail": "16 goals",
-      "accept": ["peter osgood", "osgood"]
+      "accept": [
+        "peter osgood",
+        "osgood"
+      ]
     },
     {
       "display": "John Terry",
       "detail": "13 goals",
-      "accept": ["john terry", "terry"]
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
     },
     {
       "display": "Willian",
       "detail": "13 goals",
-      "accept": ["willian"]
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
     },
     {
       "display": "Nicolas Anelka",
       "detail": "12 goals",
-      "accept": ["nicolas anelka", "anelka"]
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
     },
     {
       "display": "Tore André Flo",
       "detail": "12 goals",
-      "accept": ["tore andre flo", "tore andré flo", "flo"]
+      "accept": [
+        "tore andre flo",
+        "tore andré flo",
+        "flo"
+      ]
     },
     {
       "display": "Eden Hazard",
       "detail": "12 goals",
-      "accept": ["eden hazard", "hazard"]
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
     }
   ]
 }

@@ -10,52 +10,90 @@
     {
       "display": "Ryan Giggs",
       "detail": "39 years 86 days",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "37 years 304 days",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Cristiano Ronaldo",
       "detail": "37 years 246 days",
-      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
     },
     {
       "display": "Bryan Robson",
       "detail": "36 years 216 days",
-      "accept": ["bryan robson", "robson", "captain marvel"]
+      "accept": [
+        "bryan robson",
+        "robson",
+        "captain marvel"
+      ]
     },
     {
       "display": "Laurent Blanc",
       "detail": "35 years 314 days",
-      "accept": ["laurent blanc", "blanc"]
+      "accept": [
+        "laurent blanc",
+        "blanc"
+      ]
     },
     {
       "display": "Zlatan Ibrahimović",
       "detail": "35 years 188 days",
-      "accept": ["zlatan ibrahimovic", "zlatan ibrahimović", "ibrahimovic", "ibrahimović", "zlatan"]
+      "accept": [
+        "zlatan ibrahimovic",
+        "zlatan ibrahimović",
+        "ibrahimovic",
+        "ibrahimović",
+        "zlatan",
+        "ibra"
+      ]
     },
     {
       "display": "Henrik Larsson",
       "detail": "35 years 133 days",
-      "accept": ["henrik larsson", "larsson"]
+      "accept": [
+        "henrik larsson",
+        "larsson"
+      ]
     },
     {
       "display": "Steve Bruce",
       "detail": "35 years 56 days",
-      "accept": ["steve bruce", "bruce"]
+      "accept": [
+        "steve bruce",
+        "bruce"
+      ]
     },
     {
       "display": "Teddy Sheringham",
       "detail": "35 years 19 days",
-      "accept": ["teddy sheringham", "sheringham"]
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
     },
     {
       "display": "Edinson Cavani",
       "detail": "34 years 316 days",
-      "accept": ["edinson cavani", "cavani", "el matador"]
+      "accept": [
+        "edinson cavani",
+        "cavani",
+        "el matador"
+      ]
     }
   ]
 }

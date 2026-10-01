@@ -10,52 +10,93 @@
     {
       "display": "Bruno Fernandes",
       "detail": "March 2026",
-      "accept": ["bruno fernandes", "fernandes", "bruno"]
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
     },
     {
       "display": "Bryan Mbeumo",
       "detail": "October 2025",
-      "accept": ["bryan mbeumo", "mbeumo"]
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
     },
     {
       "display": "Rasmus Højlund",
       "detail": "February 2024",
-      "accept": ["rasmus hojlund", "rasmus højlund", "hojlund", "højlund"]
+      "accept": [
+        "rasmus hojlund",
+        "rasmus højlund",
+        "hojlund",
+        "højlund"
+      ]
     },
     {
       "display": "Harry Maguire",
       "detail": "November 2023",
-      "accept": ["harry maguire", "maguire"]
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
     },
     {
       "display": "Marcus Rashford",
       "detail": "February 2023",
-      "accept": ["marcus rashford", "rashford"]
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "Cristiano Ronaldo",
       "detail": "April 2022",
-      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
     },
     {
       "display": "David de Gea",
       "detail": "January 2022",
-      "accept": ["david de gea", "de gea"]
+      "accept": [
+        "david de gea",
+        "de gea",
+        "degea",
+        "ddg"
+      ]
     },
     {
       "display": "Zlatan Ibrahimović",
       "detail": "December 2016",
-      "accept": ["zlatan ibrahimovic", "zlatan ibrahimović", "ibrahimovic", "ibrahimović"]
+      "accept": [
+        "zlatan ibrahimovic",
+        "zlatan ibrahimović",
+        "ibrahimovic",
+        "ibrahimović",
+        "zlatan",
+        "ibra"
+      ]
     },
     {
       "display": "Anthony Martial",
       "detail": "September 2015",
-      "accept": ["anthony martial", "martial"]
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
     },
     {
       "display": "Robin van Persie",
       "detail": "April 2013",
-      "accept": ["robin van persie", "van persie", "rvp"]
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
     }
   ]
 }

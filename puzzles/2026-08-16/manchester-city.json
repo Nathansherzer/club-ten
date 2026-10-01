@@ -10,52 +10,91 @@
     {
       "display": "David Silva",
       "detail": "Spain · 309 apps",
-      "accept": ["david silva", "el mago"]
+      "accept": [
+        "david silva",
+        "el mago",
+        "silva",
+        "david"
+      ]
     },
     {
       "display": "Bernardo Silva",
       "detail": "Portugal · 303 apps",
-      "accept": ["bernardo silva", "bernardo"]
+      "accept": [
+        "bernardo silva",
+        "bernardo"
+      ]
     },
     {
       "display": "Kevin De Bruyne",
       "detail": "Belgium · 285 apps",
-      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
     },
     {
       "display": "Ederson",
       "detail": "Brazil · 276 apps",
-      "accept": ["ederson"]
+      "accept": [
+        "ederson",
+        "ederson moraes"
+      ]
     },
     {
       "display": "Sergio Agüero",
       "detail": "Argentina · 275 apps",
-      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun"]
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
     },
     {
       "display": "Fernandinho",
       "detail": "Brazil · 264 apps",
-      "accept": ["fernandinho"]
+      "accept": [
+        "fernandinho"
+      ]
     },
     {
       "display": "Vincent Kompany",
       "detail": "Belgium · 254 apps",
-      "accept": ["vincent kompany", "kompany"]
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
     },
     {
       "display": "Richard Dunne",
       "detail": "Republic of Ireland · 253 apps",
-      "accept": ["richard dunne", "dunne"]
+      "accept": [
+        "richard dunne",
+        "dunne"
+      ]
     },
     {
       "display": "Yaya Touré",
       "detail": "Ivory Coast · 230 apps",
-      "accept": ["yaya toure", "yaya touré", "toure", "touré", "yaya"]
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
     },
     {
       "display": "Pablo Zabaleta",
       "detail": "Argentina · 229 apps",
-      "accept": ["pablo zabaleta", "zabaleta"]
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
     }
   ]
 }

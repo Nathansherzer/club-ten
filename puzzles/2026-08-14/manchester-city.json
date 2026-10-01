@@ -10,52 +10,91 @@
     {
       "display": "Fernandinho",
       "detail": "36 years 361 days",
-      "accept": ["fernandinho"]
+      "accept": [
+        "fernandinho"
+      ]
     },
     {
       "display": "Frank Lampard",
       "detail": "36 years 338 days",
-      "accept": ["frank lampard", "lampard"]
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Patrick Vieira",
       "detail": "34 years 284 days",
-      "accept": ["patrick vieira", "vieira"]
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
     },
     {
       "display": "Paul Bosvelt",
       "detail": "34 years 281 days",
-      "accept": ["paul bosvelt", "bosvelt"]
+      "accept": [
+        "paul bosvelt",
+        "bosvelt"
+      ]
     },
     {
       "display": "İlkay Gündoğan",
       "detail": "34 years 213 days",
-      "accept": ["ilkay gundogan", "ilkay gündogan", "gundogan", "gündoğan", "gundoğan"]
+      "accept": [
+        "ilkay gundogan",
+        "ilkay gündogan",
+        "gundogan",
+        "gündoğan",
+        "gundoğan"
+      ]
     },
     {
       "display": "David Silva",
       "detail": "34 years 189 days",
-      "accept": ["david silva", "silva", "el mago"]
+      "accept": [
+        "david silva",
+        "silva",
+        "el mago",
+        "david"
+      ]
     },
     {
       "display": "Michael Tarnat",
       "detail": "34 years 180 days",
-      "accept": ["michael tarnat", "tarnat"]
+      "accept": [
+        "michael tarnat",
+        "tarnat"
+      ]
     },
     {
       "display": "Ali Benarbia",
       "detail": "34 years 113 days",
-      "accept": ["ali benarbia", "benarbia"]
+      "accept": [
+        "ali benarbia",
+        "benarbia"
+      ]
     },
     {
       "display": "Andy Cole",
       "detail": "34 years 109 days",
-      "accept": ["andy cole", "cole"]
+      "accept": [
+        "andy cole",
+        "cole",
+        "andrew cole"
+      ]
     },
     {
       "display": "Yaya Touré",
       "detail": "34 years 3 days",
-      "accept": ["yaya toure", "yaya touré", "toure", "touré", "yaya"]
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
     }
   ]
 }

@@ -10,52 +10,89 @@
     {
       "display": "David Silva",
       "detail": "205 matches",
-      "accept": ["david silva", "silva"]
+      "accept": [
+        "david silva",
+        "silva",
+        "el mago",
+        "david"
+      ]
     },
     {
       "display": "Fernandinho",
       "detail": "171",
-      "accept": ["fernandinho"]
+      "accept": [
+        "fernandinho"
+      ]
     },
     {
       "display": "Yaya Touré",
       "detail": "148",
-      "accept": ["yaya toure", "yaya touré", "toure", "touré"]
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
     },
     {
       "display": "Joe Hart",
       "detail": "139",
-      "accept": ["joe hart", "hart"]
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
     },
     {
       "display": "Vincent Kompany",
       "detail": "132",
-      "accept": ["vincent kompany", "kompany"]
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "123",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Gaël Clichy",
       "detail": "114",
-      "accept": ["gael clichy", "gaël clichy", "clichy"]
+      "accept": [
+        "gael clichy",
+        "gaël clichy",
+        "clichy"
+      ]
     },
     {
       "display": "Pablo Zabaleta",
       "detail": "114",
-      "accept": ["pablo zabaleta", "zabaleta"]
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
     },
     {
       "display": "Kevin De Bruyne",
       "detail": "108",
-      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
     },
     {
       "display": "Nicolás Otamendi",
       "detail": "100",
-      "accept": ["nicolas otamendi", "nicolás otamendi", "otamendi"]
+      "accept": [
+        "nicolas otamendi",
+        "nicolás otamendi",
+        "otamendi"
+      ]
     }
   ]
 }

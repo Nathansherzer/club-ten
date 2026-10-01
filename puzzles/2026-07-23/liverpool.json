@@ -11,53 +11,87 @@
     {
       "display": "Manchester United",
       "detail": "13 goals",
-      "accept": ["manchester united", "man united", "man utd"]
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
     },
     {
       "display": "Bournemouth",
       "detail": "12 goals",
-      "accept": ["bournemouth", "afc bournemouth"]
+      "accept": [
+        "bournemouth",
+        "afc bournemouth"
+      ]
     },
     {
       "display": "Tottenham Hotspur",
       "detail": "12 goals",
-      "accept": ["tottenham hotspur", "tottenham", "spurs"]
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
     },
     {
       "display": "Southampton",
       "detail": "11 goals",
-      "accept": ["southampton", "saints"]
+      "accept": [
+        "southampton",
+        "saints"
+      ]
     },
     {
       "display": "West Ham United",
       "detail": "11 goals",
-      "accept": ["west ham united", "west ham", "hammers"]
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
     },
     {
       "display": "Brighton & Hove Albion",
       "detail": "10 goals",
-      "accept": ["brighton & hove albion", "brighton and hove albion", "brighton", "bha"]
+      "accept": [
+        "brighton & hove albion",
+        "brighton and hove albion",
+        "brighton",
+        "bha"
+      ]
     },
     {
       "display": "Newcastle United",
       "detail": "10 goals",
-      "accept": ["newcastle united", "newcastle"]
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
     },
     {
       "display": "Arsenal",
       "detail": "10 goals",
-      "accept": ["arsenal"]
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
     },
     {
       "display": null,
       "poolLabel": "Leeds / Aston Villa / Everton / Man City / Crystal Palace / Watford",
       "detail": "9 goals",
       "accept": [
-        "leeds united", "leeds",
-        "aston villa", "villa",
+        "leeds united",
+        "leeds",
+        "aston villa",
+        "villa",
         "everton",
-        "manchester city", "man city",
-        "crystal palace", "palace",
+        "manchester city",
+        "man city",
+        "crystal palace",
+        "palace",
         "watford"
       ]
     },
@@ -66,11 +100,15 @@
       "poolLabel": "Leeds / Aston Villa / Everton / Man City / Crystal Palace / Watford",
       "detail": "9 goals",
       "accept": [
-        "leeds united", "leeds",
-        "aston villa", "villa",
+        "leeds united",
+        "leeds",
+        "aston villa",
+        "villa",
         "everton",
-        "manchester city", "man city",
-        "crystal palace", "palace",
+        "manchester city",
+        "man city",
+        "crystal palace",
+        "palace",
         "watford"
       ]
     }

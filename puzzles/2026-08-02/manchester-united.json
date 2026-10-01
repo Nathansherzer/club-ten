@@ -10,52 +10,91 @@
     {
       "display": "Aaron Wan-Bissaka",
       "detail": "2 goals / 130 apps",
-      "accept": ["aaron wan-bissaka", "aaron wan bissaka", "wan-bissaka", "wan bissaka"]
+      "accept": [
+        "aaron wan-bissaka",
+        "aaron wan bissaka",
+        "wan-bissaka",
+        "wan bissaka",
+        "awb"
+      ]
     },
     {
       "display": "Wes Brown",
       "detail": "3 goals / 232 apps",
-      "accept": ["wes brown", "brown"]
+      "accept": [
+        "wes brown",
+        "brown"
+      ]
     },
     {
       "display": "Victor Lindelöf",
       "detail": "4 goals / 162 apps",
-      "accept": ["victor lindelof", "victor lindelöf", "lindelof", "lindelöf"]
+      "accept": [
+        "victor lindelof",
+        "victor lindelöf",
+        "lindelof",
+        "lindelöf"
+      ]
     },
     {
       "display": "Luke Shaw",
       "detail": "4 goals / 229 apps",
-      "accept": ["luke shaw", "shaw"]
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
     },
     {
       "display": "Gary Neville",
       "detail": "5 goals / 400 apps",
-      "accept": ["gary neville", "gary", "neville"]
+      "accept": [
+        "gary neville",
+        "gary",
+        "neville",
+        "gary nev"
+      ]
     },
     {
       "display": "Phil Neville",
       "detail": "5 goals / 263 apps",
-      "accept": ["phil neville", "phil"]
+      "accept": [
+        "phil neville",
+        "phil",
+        "phil nev"
+      ]
     },
     {
       "display": "Diogo Dalot",
       "detail": "5 goals / 168 apps",
-      "accept": ["diogo dalot", "dalot"]
+      "accept": [
+        "diogo dalot",
+        "dalot"
+      ]
     },
     {
       "display": "Rio Ferdinand",
       "detail": "7 goals / 312 apps",
-      "accept": ["rio ferdinand", "ferdinand"]
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
     },
     {
       "display": "Patrice Evra",
       "detail": "7 goals / 273 apps",
-      "accept": ["patrice evra", "evra"]
+      "accept": [
+        "patrice evra",
+        "evra"
+      ]
     },
     {
       "display": "Harry Maguire",
       "detail": "8 goals / 185 apps",
-      "accept": ["harry maguire", "maguire"]
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
     }
   ]
 }

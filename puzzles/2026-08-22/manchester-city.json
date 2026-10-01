@@ -10,52 +10,90 @@
     {
       "display": "Sergio Agüero",
       "detail": "43 goals",
-      "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero", "kun aguero", "kun"]
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
     },
     {
       "display": "Erling Haaland",
       "detail": "37 goals",
-      "accept": ["erling haaland", "haaland"]
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "24 goals",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "24 goals",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Gabriel Jesus",
       "detail": "21 goals",
-      "accept": ["gabriel jesus", "jesus"]
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
     },
     {
       "display": "Bernardo Silva",
       "detail": "17 goals",
-      "accept": ["bernardo silva", "bernardo"]
+      "accept": [
+        "bernardo silva",
+        "bernardo",
+        "silva"
+      ]
     },
     {
       "display": "Kevin De Bruyne",
       "detail": "16 goals",
-      "accept": ["kevin de bruyne", "de bruyne", "kdb"]
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
     },
     {
       "display": "Riyad Mahrez",
       "detail": "16 goals",
-      "accept": ["riyad mahrez", "mahrez"]
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
     },
     {
       "display": "Neil Young",
       "detail": "11 goals",
-      "accept": ["neil young", "young"]
+      "accept": [
+        "neil young",
+        "young"
+      ]
     },
     {
       "display": "David Silva",
       "detail": "11 goals",
-      "accept": ["david silva", "david"]
+      "accept": [
+        "david silva",
+        "david",
+        "el mago"
+      ]
     }
   ]
 }

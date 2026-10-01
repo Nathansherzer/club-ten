@@ -11,52 +11,85 @@
     {
       "display": "Newcastle United",
       "detail": "15 goals",
-      "accept": ["newcastle united", "newcastle"]
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
     },
     {
       "display": "Tottenham Hotspur",
       "detail": "11 goals",
-      "accept": ["tottenham hotspur", "tottenham", "spurs"]
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
     },
     {
       "display": "Chelsea",
       "detail": "10 goals",
-      "accept": ["chelsea"]
+      "accept": [
+        "chelsea"
+      ]
     },
     {
       "display": "Aston Villa",
       "detail": "9 goals",
-      "accept": ["aston villa", "villa"]
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
     },
     {
       "display": "Watford",
       "detail": "8 goals",
-      "accept": ["watford"]
+      "accept": [
+        "watford"
+      ]
     },
     {
       "display": "West Ham United",
       "detail": "8 goals",
-      "accept": ["west ham united", "west ham", "hammers"]
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
     },
     {
       "display": "West Bromwich Albion",
       "detail": "8 goals",
-      "accept": ["west bromwich albion", "west brom", "wba"]
+      "accept": [
+        "west bromwich albion",
+        "west brom",
+        "wba"
+      ]
     },
     {
       "display": "Stoke City",
       "detail": "8 goals",
-      "accept": ["stoke city", "stoke"]
+      "accept": [
+        "stoke city",
+        "stoke"
+      ]
     },
     {
       "display": "Arsenal",
       "detail": "8 goals",
-      "accept": ["arsenal"]
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
     },
     {
       "display": "Manchester United",
       "detail": "8 goals",
-      "accept": ["manchester united", "man united", "man utd"]
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
     }
   ]
 }

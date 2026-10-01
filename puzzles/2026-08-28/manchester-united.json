@@ -10,52 +10,86 @@
     {
       "display": "Ryan Giggs",
       "detail": "940 apps",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "716 apps",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Gary Neville",
       "detail": "601 apps",
-      "accept": ["gary neville", "neville"]
+      "accept": [
+        "gary neville",
+        "neville",
+        "gary",
+        "gary nev"
+      ]
     },
     {
       "display": "Denis Irwin",
       "detail": "528 apps",
-      "accept": ["denis irwin", "irwin"]
+      "accept": [
+        "denis irwin",
+        "irwin"
+      ]
     },
     {
       "display": "Roy Keane",
       "detail": "478 apps",
-      "accept": ["roy keane", "keane"]
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
     },
     {
       "display": "Brian McClair",
       "detail": "471 apps",
-      "accept": ["brian mcclair", "mcclair"]
+      "accept": [
+        "brian mcclair",
+        "mcclair"
+      ]
     },
     {
       "display": "Gary Pallister",
       "detail": "434 apps",
-      "accept": ["gary pallister", "pallister"]
+      "accept": [
+        "gary pallister",
+        "pallister"
+      ]
     },
     {
       "display": "Rio Ferdinand",
       "detail": "432 apps",
-      "accept": ["rio ferdinand", "ferdinand"]
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
     },
     {
       "display": "Steve Bruce",
       "detail": "417 apps",
-      "accept": ["steve bruce", "bruce"]
+      "accept": [
+        "steve bruce",
+        "bruce"
+      ]
     },
     {
       "display": "Wayne Rooney",
       "detail": "402 apps",
-      "accept": ["wayne rooney", "rooney"]
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     }
   ]
 }

@@ -8,15 +8,94 @@
   "note": "starting XI, goalkeeper excluded · 2026/27 Premier League Matchweek 4 · any order",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Ben White", "detail": "", "accept": ["ben white", "white"] },
-    { "display": "Ezri Konsa", "detail": "", "accept": ["ezri konsa", "konsa"] },
-    { "display": "Gabriel Magalhães", "detail": "", "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães", "gabriel"] },
-    { "display": "Riccardo Calafiori", "detail": "", "accept": ["riccardo calafiori", "calafiori"] },
-    { "display": "Myles Lewis-Skelly", "detail": "", "accept": ["myles lewis-skelly", "lewis-skelly", "lewis skelly"] },
-    { "display": "Declan Rice", "detail": "", "accept": ["declan rice", "rice"] },
-    { "display": "Bukayo Saka", "detail": "", "accept": ["bukayo saka", "saka"] },
-    { "display": "Martin Ødegaard", "detail": "", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
-    { "display": "Christos Tzolis", "detail": "", "accept": ["christos tzolis", "tzolis"] },
-    { "display": "Kai Havertz", "detail": "", "accept": ["kai havertz", "havertz"] }
+    {
+      "display": "Ben White",
+      "detail": "",
+      "accept": [
+        "ben white",
+        "white"
+      ]
+    },
+    {
+      "display": "Ezri Konsa",
+      "detail": "",
+      "accept": [
+        "ezri konsa",
+        "konsa"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes",
+        "magalhães",
+        "gabriel",
+        "gabriel dos santos magalhaes"
+      ]
+    },
+    {
+      "display": "Riccardo Calafiori",
+      "detail": "",
+      "accept": [
+        "riccardo calafiori",
+        "calafiori"
+      ]
+    },
+    {
+      "display": "Myles Lewis-Skelly",
+      "detail": "",
+      "accept": [
+        "myles lewis-skelly",
+        "lewis-skelly",
+        "lewis skelly",
+        "myles lewis skelly",
+        "mls"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "",
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
+    },
+    {
+      "display": "Christos Tzolis",
+      "detail": "",
+      "accept": [
+        "christos tzolis",
+        "tzolis"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    }
   ]
 }

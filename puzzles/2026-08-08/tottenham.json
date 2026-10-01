@@ -10,52 +10,89 @@
     {
       "display": "Benoît Assou-Ekotto",
       "detail": "155 apps · Cameroon",
-      "accept": ["benoit assou-ekotto", "benoît assou-ekotto", "assou-ekotto", "assou ekotto"]
+      "accept": [
+        "benoit assou-ekotto",
+        "benoît assou-ekotto",
+        "assou-ekotto",
+        "assou ekotto"
+      ]
     },
     {
       "display": "Pape Matar Sarr",
       "detail": "107 apps · Senegal",
-      "accept": ["pape matar sarr", "pape sarr", "sarr"]
+      "accept": [
+        "pape matar sarr",
+        "pape sarr",
+        "sarr",
+        "matar sarr"
+      ]
     },
     {
       "display": "Emmanuel Adebayor",
       "detail": "92 apps · Togo",
-      "accept": ["emmanuel adebayor", "adebayor"]
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
     },
     {
       "display": "Yves Bissouma",
       "detail": "90 apps · Mali",
-      "accept": ["yves bissouma", "bissouma"]
+      "accept": [
+        "yves bissouma",
+        "bissouma"
+      ]
     },
     {
       "display": "Didier Zokora",
       "detail": "88 apps · Ivory Coast",
-      "accept": ["didier zokora", "zokora"]
+      "accept": [
+        "didier zokora",
+        "zokora"
+      ]
     },
     {
       "display": "Serge Aurier",
       "detail": "77 apps · Ivory Coast",
-      "accept": ["serge aurier", "aurier"]
+      "accept": [
+        "serge aurier",
+        "aurier"
+      ]
     },
     {
       "display": "Victor Wanyama",
       "detail": "69 apps · Kenya",
-      "accept": ["victor wanyama", "wanyama"]
+      "accept": [
+        "victor wanyama",
+        "wanyama"
+      ]
     },
     {
       "display": "Frédéric Kanouté",
       "detail": "60 apps · Mali",
-      "accept": ["frederic kanoute", "frédéric kanouté", "kanoute", "kanouté"]
+      "accept": [
+        "frederic kanoute",
+        "frédéric kanouté",
+        "kanoute",
+        "kanouté"
+      ]
     },
     {
       "display": "Mido",
       "detail": "48 apps · Egypt",
-      "accept": ["mido", "ahmed mido", "ahmed hossam"]
+      "accept": [
+        "mido",
+        "ahmed mido",
+        "ahmed hossam"
+      ]
     },
     {
       "display": "Nabil Bentaleb",
       "detail": "46 apps · Algeria",
-      "accept": ["nabil bentaleb", "bentaleb"]
+      "accept": [
+        "nabil bentaleb",
+        "bentaleb"
+      ]
     }
   ]
 }

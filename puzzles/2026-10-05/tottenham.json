@@ -8,15 +8,86 @@
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
-    { "display": "Dulwich Hamlet", "detail": "2000 · Loan", "accept": ["dulwich hamlet", "dulwich"] },
-    { "display": "IFK Hässleholm", "detail": "2000 · Loan", "accept": ["ifk hassleholm", "ifk hässleholm"] },
-    { "display": "Queens Park Rangers", "detail": "2000", "accept": ["queens park rangers", "qpr"] },
-    { "display": "Portsmouth", "detail": "2001", "accept": ["portsmouth", "pompey"] },
-    { "display": "Aston Villa", "detail": "2002", "accept": ["aston villa", "villa"] },
-    { "display": "Norwich City", "detail": "2003 · Loan", "accept": ["norwich city", "norwich"] },
-    { "display": "Southampton", "detail": "2004", "accept": ["southampton"] },
-    { "display": "Liverpool", "detail": "2005", "accept": ["liverpool"] },
-    { "display": "Tottenham Hotspur", "detail": "2009", "accept": ["tottenham hotspur", "tottenham", "spurs"] },
-    { "display": "Stoke City", "detail": "2011", "accept": ["stoke city", "stoke"] }
+    {
+      "display": "Dulwich Hamlet",
+      "detail": "2000 · Loan",
+      "accept": [
+        "dulwich hamlet",
+        "dulwich"
+      ]
+    },
+    {
+      "display": "IFK Hässleholm",
+      "detail": "2000 · Loan",
+      "accept": [
+        "ifk hassleholm",
+        "ifk hässleholm",
+        "hassleholm"
+      ]
+    },
+    {
+      "display": "Queens Park Rangers",
+      "detail": "2000",
+      "accept": [
+        "queens park rangers",
+        "qpr"
+      ]
+    },
+    {
+      "display": "Portsmouth",
+      "detail": "2001",
+      "accept": [
+        "portsmouth",
+        "pompey"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "2002",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Norwich City",
+      "detail": "2003 · Loan",
+      "accept": [
+        "norwich city",
+        "norwich"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "2004",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "2005",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "2009",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Stoke City",
+      "detail": "2011",
+      "accept": [
+        "stoke city",
+        "stoke"
+      ]
+    }
   ]
 }

@@ -11,52 +11,88 @@
     {
       "display": "England",
       "detail": "4,730 apps",
-      "accept": ["england", "english"]
+      "accept": [
+        "england",
+        "english"
+      ]
     },
     {
       "display": "Spain",
       "detail": "1,032 apps",
-      "accept": ["spain", "spanish"]
+      "accept": [
+        "spain",
+        "spanish"
+      ]
     },
     {
       "display": "Brazil",
       "detail": "1,015 apps",
-      "accept": ["brazil", "brasil", "brazilian"]
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
     },
     {
       "display": "France",
       "detail": "931 apps",
-      "accept": ["france", "french"]
+      "accept": [
+        "france",
+        "french"
+      ]
     },
     {
       "display": "Argentina",
       "detail": "922 apps",
-      "accept": ["argentina", "argentinian", "argentinean"]
+      "accept": [
+        "argentina",
+        "argentinian",
+        "argentinean",
+        "argentine"
+      ]
     },
     {
       "display": "Republic of Ireland",
       "detail": "801 apps",
-      "accept": ["republic of ireland", "ireland", "irish", "roi"]
+      "accept": [
+        "republic of ireland",
+        "ireland",
+        "irish",
+        "roi"
+      ]
     },
     {
       "display": "Belgium",
       "detail": "681 apps",
-      "accept": ["belgium", "belgian"]
+      "accept": [
+        "belgium",
+        "belgian"
+      ]
     },
     {
       "display": "Portugal",
       "detail": "649 apps",
-      "accept": ["portugal", "portuguese"]
+      "accept": [
+        "portugal",
+        "portuguese"
+      ]
     },
     {
       "display": "Germany",
       "detail": "595 apps",
-      "accept": ["germany", "german"]
+      "accept": [
+        "germany",
+        "german"
+      ]
     },
     {
       "display": "Netherlands",
       "detail": "465 apps",
-      "accept": ["netherlands", "holland", "dutch"]
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
     }
   ]
 }

@@ -10,52 +10,95 @@
     {
       "display": "Sami Hyypiä",
       "detail": "Finland · 318 apps",
-      "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"]
+      "accept": [
+        "sami hyypia",
+        "sami hyypiä",
+        "hyypia",
+        "hyypiä"
+      ]
     },
     {
       "display": "Mohamed Salah",
       "detail": "Egypt · 315 apps",
-      "accept": ["mohamed salah", "salah", "mo salah", "mohammed salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mo salah",
+        "mohammed salah"
+      ]
     },
     {
       "display": "Pepe Reina",
       "detail": "Spain · 285 apps",
-      "accept": ["pepe reina", "reina"]
+      "accept": [
+        "pepe reina",
+        "reina",
+        "jose reina"
+      ]
     },
     {
       "display": "Andy Robertson",
       "detail": "Scotland · 275 apps",
-      "accept": ["andy robertson", "robertson"]
+      "accept": [
+        "andy robertson",
+        "robertson",
+        "andrew robertson",
+        "robbo"
+      ]
     },
     {
       "display": "Virgil van Dijk",
       "detail": "Netherlands · 272 apps",
-      "accept": ["virgil van dijk", "van dijk", "vvd"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd",
+        "virgil"
+      ]
     },
     {
       "display": "Roberto Firmino",
       "detail": "Brazil · 256 apps",
-      "accept": ["roberto firmino", "firmino", "bobby firmino"]
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
     },
     {
       "display": "Alisson",
       "detail": "Brazil · 255 apps",
-      "accept": ["alisson", "alisson becker"]
+      "accept": [
+        "alisson",
+        "alisson becker"
+      ]
     },
     {
       "display": "Lucas Leiva",
       "detail": "Brazil · 247 apps",
-      "accept": ["lucas leiva", "lucas"]
+      "accept": [
+        "lucas leiva",
+        "lucas",
+        "leiva"
+      ]
     },
     {
       "display": "Martin Škrtel",
       "detail": "Slovakia · 242 apps",
-      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+      "accept": [
+        "martin skrtel",
+        "martin škrtel",
+        "skrtel",
+        "škrtel"
+      ]
     },
     {
       "display": "John Arne Riise",
       "detail": "Norway · 234 apps",
-      "accept": ["john arne riise", "riise"]
+      "accept": [
+        "john arne riise",
+        "riise"
+      ]
     }
   ]
 }

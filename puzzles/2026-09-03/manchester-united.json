@@ -10,52 +10,93 @@
     {
       "display": "Paul Scholes",
       "detail": "296 matches",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Ryan Giggs",
       "detail": "291",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "David Beckham",
       "detail": "215",
-      "accept": ["david beckham", "beckham"]
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
     },
     {
       "display": "Roy Keane",
       "detail": "213",
-      "accept": ["roy keane", "keane"]
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
     },
     {
       "display": "Nicky Butt",
       "detail": "210",
-      "accept": ["nicky butt", "butt"]
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
     },
     {
       "display": "Phil Neville",
       "detail": "182",
-      "accept": ["phil neville"]
+      "accept": [
+        "phil neville",
+        "phil",
+        "phil nev",
+        "neville"
+      ]
     },
     {
       "display": "Ole Gunnar Solskjær",
       "detail": "177",
-      "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær", "ole"]
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole",
+        "solskjer",
+        "ole gunnar"
+      ]
     },
     {
       "display": "Mikaël Silvestre",
       "detail": "171",
-      "accept": ["mikael silvestre", "mikaël silvestre", "silvestre"]
+      "accept": [
+        "mikael silvestre",
+        "mikaël silvestre",
+        "silvestre"
+      ]
     },
     {
       "display": "Andy Cole",
       "detail": "157",
-      "accept": ["andy cole", "cole"]
+      "accept": [
+        "andy cole",
+        "cole",
+        "andrew cole"
+      ]
     },
     {
       "display": "Denis Irwin",
       "detail": "150",
-      "accept": ["denis irwin", "irwin"]
+      "accept": [
+        "denis irwin",
+        "irwin"
+      ]
     }
   ]
 }

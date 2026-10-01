@@ -8,15 +8,88 @@
   "note": "one entry per opponent, most recent meeting only · newest first · 2026/27 in progress, excluded · through 25 Sep 2026",
   "placeholder": "Type a club name…",
   "answers": [
-    { "display": "Manchester City", "detail": "16 May 2026 · Final · Chelsea 0-1", "accept": ["manchester city", "man city"] },
-    { "display": "Brighton and Hove Albion", "detail": "08 Feb 2025 · 4th round · Brighton 2-1 Chelsea", "accept": ["brighton and hove albion", "brighton", "brighton & hove albion"] },
-    { "display": "Liverpool", "detail": "14 May 2022 · Final · Chelsea 0-0 (pens 5-6)", "accept": ["liverpool"] },
-    { "display": "Leicester City", "detail": "15 May 2021 · Final · Leicester 1-0 Chelsea", "accept": ["leicester city", "leicester"] },
-    { "display": "Arsenal", "detail": "01 Aug 2020 · Final · Arsenal 2-1 Chelsea", "accept": ["arsenal"] },
-    { "display": "Manchester United", "detail": "18 Feb 2019 · 5th round · Chelsea 0-2", "accept": ["manchester united", "man united", "man utd"] },
-    { "display": "Everton", "detail": "12 Mar 2016 · 6th round · Everton 2-0 Chelsea", "accept": ["everton"] },
-    { "display": "Bradford City", "detail": "24 Jan 2015 · 4th round · Chelsea 2-4", "accept": ["bradford city", "bradford"] },
-    { "display": "Barnsley", "detail": "08 Mar 2008 · 6th round · Barnsley 1-0 Chelsea", "accept": ["barnsley"] },
-    { "display": "Newcastle United", "detail": "20 Feb 2005 · 5th round · Newcastle 1-0 Chelsea", "accept": ["newcastle united", "newcastle"] }
+    {
+      "display": "Manchester City",
+      "detail": "16 May 2026 · Final · Chelsea 0-1",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Brighton and Hove Albion",
+      "detail": "08 Feb 2025 · 4th round · Brighton 2-1 Chelsea",
+      "accept": [
+        "brighton and hove albion",
+        "brighton",
+        "brighton & hove albion",
+        "bha"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "14 May 2022 · Final · Chelsea 0-0 (pens 5-6)",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "Leicester City",
+      "detail": "15 May 2021 · Final · Leicester 1-0 Chelsea",
+      "accept": [
+        "leicester city",
+        "leicester",
+        "foxes"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "01 Aug 2020 · Final · Arsenal 2-1 Chelsea",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "18 Feb 2019 · 5th round · Chelsea 0-2",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "12 Mar 2016 · 6th round · Everton 2-0 Chelsea",
+      "accept": [
+        "everton",
+        "toffees"
+      ]
+    },
+    {
+      "display": "Bradford City",
+      "detail": "24 Jan 2015 · 4th round · Chelsea 2-4",
+      "accept": [
+        "bradford city",
+        "bradford"
+      ]
+    },
+    {
+      "display": "Barnsley",
+      "detail": "08 Mar 2008 · 6th round · Barnsley 1-0 Chelsea",
+      "accept": [
+        "barnsley"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "20 Feb 2005 · 5th round · Newcastle 1-0 Chelsea",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    }
   ]
 }

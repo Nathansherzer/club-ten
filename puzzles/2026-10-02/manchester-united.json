@@ -7,15 +7,90 @@
   "note": "UEFA Champions League only, excludes qualifying · through 2025/26 · ranked order · Transfermarkt",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Ryan Giggs", "detail": "10,586 mins", "accept": ["ryan giggs", "giggs"] },
-    { "display": "Paul Scholes", "detail": "9,260 mins", "accept": ["paul scholes", "scholes"] },
-    { "display": "Gary Neville", "detail": "9,047 mins", "accept": ["gary neville", "neville"] },
-    { "display": "Rio Ferdinand", "detail": "7,578 mins", "accept": ["rio ferdinand", "ferdinand"] },
-    { "display": "Wayne Rooney", "detail": "6,983 mins", "accept": ["wayne rooney", "rooney"] },
-    { "display": "David Beckham", "detail": "6,479 mins", "accept": ["david beckham", "beckham"] },
-    { "display": "Roy Keane", "detail": "6,444 mins", "accept": ["roy keane", "keane"] },
-    { "display": "Michael Carrick", "detail": "5,881 mins", "accept": ["michael carrick", "carrick"] },
-    { "display": "Patrice Evra", "detail": "5,324 mins", "accept": ["patrice evra", "evra"] },
-    { "display": "Denis Irwin", "detail": "5,148 mins", "accept": ["denis irwin", "irwin"] }
+    {
+      "display": "Ryan Giggs",
+      "detail": "10,586 mins",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "9,260 mins",
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "9,047 mins",
+      "accept": [
+        "gary neville",
+        "neville",
+        "gary",
+        "gary nev"
+      ]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "7,578 mins",
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "6,983 mins",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "6,479 mins",
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "6,444 mins",
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "5,881 mins",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "Patrice Evra",
+      "detail": "5,324 mins",
+      "accept": [
+        "patrice evra",
+        "evra"
+      ]
+    },
+    {
+      "display": "Denis Irwin",
+      "detail": "5,148 mins",
+      "accept": [
+        "denis irwin",
+        "irwin"
+      ]
+    }
   ]
 }

@@ -10,52 +10,84 @@
     {
       "display": "João Palhinha",
       "detail": "126 pts",
-      "accept": ["joao palhinha", "palhinha", "joão palhinha"]
+      "accept": [
+        "joao palhinha",
+        "palhinha",
+        "joão palhinha"
+      ]
     },
     {
       "display": "Richarlison",
       "detail": "119 pts",
-      "accept": ["richarlison"]
+      "accept": [
+        "richarlison"
+      ]
     },
     {
       "display": "Pedro Porro",
       "detail": "117 pts",
-      "accept": ["pedro porro", "porro"]
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
     },
     {
       "display": "Micky van de Ven",
       "detail": "116 pts",
-      "accept": ["micky van de ven", "van de ven"]
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
     },
     {
       "display": "Cristian Romero",
       "detail": "91 pts",
-      "accept": ["cristian romero", "romero", "cuti romero"]
+      "accept": [
+        "cristian romero",
+        "romero",
+        "cuti romero",
+        "cuti"
+      ]
     },
     {
       "display": "Guglielmo Vicario",
       "detail": "90 pts",
-      "accept": ["guglielmo vicario", "vicario"]
+      "accept": [
+        "guglielmo vicario",
+        "vicario"
+      ]
     },
     {
       "display": "Rodrigo Bentancur",
       "detail": "86 pts",
-      "accept": ["rodrigo bentancur", "bentancur"]
+      "accept": [
+        "rodrigo bentancur",
+        "bentancur"
+      ]
     },
     {
       "display": "Xavi Simons",
       "detail": "80 pts",
-      "accept": ["xavi simons", "simons"]
+      "accept": [
+        "xavi simons",
+        "simons"
+      ]
     },
     {
       "display": "Djed Spence",
       "detail": "78 pts",
-      "accept": ["djed spence", "spence"]
+      "accept": [
+        "djed spence",
+        "spence"
+      ]
     },
     {
       "display": "Mathys Tel",
       "detail": "78 pts",
-      "accept": ["mathys tel", "tel"]
+      "accept": [
+        "mathys tel",
+        "tel"
+      ]
     }
   ]
 }

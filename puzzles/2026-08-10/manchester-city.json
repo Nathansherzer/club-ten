@@ -10,52 +10,91 @@
     {
       "display": "Erling Haaland",
       "detail": "239 pts",
-      "accept": ["erling haaland", "haaland"]
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
     },
     {
       "display": "Antoine Semenyo",
       "detail": "202 pts",
-      "accept": ["antoine semenyo", "semenyo"]
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
     },
     {
       "display": "Marc Guéhi",
       "detail": "179 pts",
-      "accept": ["marc guehi", "marc guéhi", "guehi"]
+      "accept": [
+        "marc guehi",
+        "marc guéhi",
+        "guehi"
+      ]
     },
     {
       "display": "Nico O'Reilly",
       "detail": "160 pts",
-      "accept": ["nico o'reilly", "nico oreilly", "o'reilly", "oreilly"]
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
     },
     {
       "display": "Matheus Nunes",
       "detail": "154 pts",
-      "accept": ["matheus nunes", "nunes"]
+      "accept": [
+        "matheus nunes",
+        "nunes"
+      ]
     },
     {
       "display": "Gianluigi Donnarumma",
       "detail": "135 pts",
-      "accept": ["gianluigi donnarumma", "donnarumma", "gianluigi"]
+      "accept": [
+        "gianluigi donnarumma",
+        "donnarumma",
+        "gianluigi",
+        "gigio donnarumma",
+        "gigio"
+      ]
     },
     {
       "display": "Rayan Cherki",
       "detail": "135 pts",
-      "accept": ["rayan cherki", "cherki"]
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "131 pts",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Jérémy Doku",
       "detail": "120 pts",
-      "accept": ["jeremy doku", "jérémy doku", "doku"]
+      "accept": [
+        "jeremy doku",
+        "jérémy doku",
+        "doku"
+      ]
     },
     {
       "display": "Rúben Dias",
       "detail": "113 pts",
-      "accept": ["ruben dias", "rúben dias", "dias"]
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
     }
   ]
 }

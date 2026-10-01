@@ -10,52 +10,88 @@
     {
       "display": "Wayne Rooney",
       "detail": "39 goals",
-      "accept": ["wayne rooney", "rooney"]
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     },
     {
       "display": "Ruud van Nistelrooy",
       "detail": "38 goals",
-      "accept": ["ruud van nistelrooy", "van nistelrooy", "rvn"]
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy",
+        "rvn",
+        "ruud"
+      ]
     },
     {
       "display": "Ryan Giggs",
       "detail": "29 goals",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Denis Law",
       "detail": "28 goals",
-      "accept": ["denis law", "law"]
+      "accept": [
+        "denis law",
+        "law"
+      ]
     },
     {
       "display": "Marcus Rashford",
       "detail": "26 goals",
-      "accept": ["marcus rashford", "rashford"]
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "24 goals",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Cristiano Ronaldo",
       "detail": "23 goals",
-      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
     },
     {
       "display": "Bruno Fernandes",
       "detail": "22 goals",
-      "accept": ["bruno fernandes", "fernandes", "bruno"]
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
     },
     {
       "display": "Bobby Charlton",
       "detail": "22 goals",
-      "accept": ["bobby charlton", "charlton", "sir bobby charlton"]
+      "accept": [
+        "bobby charlton",
+        "charlton",
+        "sir bobby charlton"
+      ]
     },
     {
       "display": "George Best",
       "detail": "21 goals",
-      "accept": ["george best", "best"]
+      "accept": [
+        "george best",
+        "best"
+      ]
     }
   ]
 }

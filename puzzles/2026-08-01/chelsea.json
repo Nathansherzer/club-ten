@@ -10,52 +10,92 @@
     {
       "display": "John Terry",
       "detail": "75 yellows",
-      "accept": ["john terry", "terry"]
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
     },
     {
       "display": "Dennis Wise",
       "detail": "64 yellows",
-      "accept": ["dennis wise", "wise"]
+      "accept": [
+        "dennis wise",
+        "wise"
+      ]
     },
     {
       "display": "Branislav Ivanović",
       "detail": "57 yellows",
-      "accept": ["branislav ivanovic", "branislav ivanović", "ivanovic", "ivanović"]
+      "accept": [
+        "branislav ivanovic",
+        "branislav ivanović",
+        "ivanovic",
+        "ivanović"
+      ]
     },
     {
       "display": "Didier Drogba",
       "detail": "46 yellows",
-      "accept": ["didier drogba", "drogba"]
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
     },
     {
       "display": "John Obi Mikel",
       "detail": "40 yellows",
-      "accept": ["john obi mikel", "mikel john obi", "obi mikel", "mikel", "obi"]
+      "accept": [
+        "john obi mikel",
+        "mikel john obi",
+        "obi mikel",
+        "mikel",
+        "obi",
+        "john mikel obi"
+      ]
     },
     {
       "display": "Frank Lampard",
       "detail": "40 yellows",
-      "accept": ["frank lampard", "lampard"]
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Frank Sinclair",
       "detail": "38 yellows",
-      "accept": ["frank sinclair", "sinclair"]
+      "accept": [
+        "frank sinclair",
+        "sinclair"
+      ]
     },
     {
       "display": "David Luiz",
       "detail": "35 yellows",
-      "accept": ["david luiz", "luiz"]
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
     },
     {
       "display": "César Azpilicueta",
       "detail": "34 yellows",
-      "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta", "azpi"]
+      "accept": [
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
     },
     {
       "display": "Ramires",
       "detail": "34 yellows",
-      "accept": ["ramires"]
+      "accept": [
+        "ramires"
+      ]
     }
   ]
 }

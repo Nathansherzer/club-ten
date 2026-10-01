@@ -10,52 +10,83 @@
     {
       "display": "Micah Richards",
       "detail": "18y 98d",
-      "accept": ["micah richards", "richards"]
+      "accept": [
+        "micah richards",
+        "richards"
+      ]
     },
     {
       "display": "Daniel Sturridge",
       "detail": "18y 151d",
-      "accept": ["daniel sturridge", "sturridge"]
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "18y 327d",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Kelechi Iheanacho",
       "detail": "18y 344d",
-      "accept": ["kelechi iheanacho", "iheanacho"]
+      "accept": [
+        "kelechi iheanacho",
+        "iheanacho"
+      ]
     },
     {
       "display": "Rico Lewis",
       "detail": "19y 25d",
-      "accept": ["rico lewis", "rico"]
+      "accept": [
+        "rico lewis",
+        "rico",
+        "lewis"
+      ]
     },
     {
       "display": "Michael Johnson",
       "detail": "19y 172d",
-      "accept": ["michael johnson", "johnson"]
+      "accept": [
+        "michael johnson",
+        "johnson"
+      ]
     },
     {
       "display": "Kelvin Etuhu",
       "detail": "19y 199d",
-      "accept": ["kelvin etuhu", "etuhu"]
+      "accept": [
+        "kelvin etuhu",
+        "etuhu"
+      ]
     },
     {
       "display": "Willo Flood",
       "detail": "19y 205d",
-      "accept": ["willo flood", "flood"]
+      "accept": [
+        "willo flood",
+        "flood"
+      ]
     },
     {
       "display": "Ched Evans",
       "detail": "19y 268d",
-      "accept": ["ched evans", "evans"]
+      "accept": [
+        "ched evans",
+        "evans"
+      ]
     },
     {
       "display": "Bradley Wright-Phillips",
       "detail": "19y 269d",
-      "accept": ["bradley wright-phillips", "wright-phillips"]
+      "accept": [
+        "bradley wright-phillips",
+        "wright-phillips"
+      ]
     }
   ]
 }

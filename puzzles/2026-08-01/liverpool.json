@@ -10,52 +10,94 @@
     {
       "display": "Jamie Carragher",
       "detail": "70 yellows",
-      "accept": ["jamie carragher", "carragher"]
+      "accept": [
+        "jamie carragher",
+        "carragher",
+        "carra"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "61 yellows",
-      "accept": ["steven gerrard", "gerrard"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
     },
     {
       "display": "Lucas Leiva",
       "detail": "52 yellows",
-      "accept": ["lucas leiva", "leiva", "lucas"]
+      "accept": [
+        "lucas leiva",
+        "leiva",
+        "lucas"
+      ]
     },
     {
       "display": "Martin Škrtel",
       "detail": "45 yellows",
-      "accept": ["martin skrtel", "martin škrtel", "skrtel", "škrtel"]
+      "accept": [
+        "martin skrtel",
+        "martin škrtel",
+        "skrtel",
+        "škrtel"
+      ]
     },
     {
       "display": "James Milner",
       "detail": "37 yellows",
-      "accept": ["james milner", "milner"]
+      "accept": [
+        "james milner",
+        "milner"
+      ]
     },
     {
       "display": "Fabinho",
       "detail": "36 yellows",
-      "accept": ["fabinho"]
+      "accept": [
+        "fabinho"
+      ]
     },
     {
       "display": "Jordan Henderson",
       "detail": "36 yellows",
-      "accept": ["jordan henderson", "henderson"]
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
     },
     {
       "display": "Dietmar Hamann",
       "detail": "33 yellows",
-      "accept": ["dietmar hamann", "hamann", "didi hamann"]
+      "accept": [
+        "dietmar hamann",
+        "hamann",
+        "didi hamann"
+      ]
     },
     {
       "display": "Trent Alexander-Arnold",
       "detail": "31 yellows",
-      "accept": ["trent alexander-arnold", "trent alexander arnold", "alexander-arnold", "trent", "taa"]
+      "accept": [
+        "trent alexander-arnold",
+        "trent alexander arnold",
+        "alexander-arnold",
+        "trent",
+        "taa",
+        "alexander arnold",
+        "trent arnold"
+      ]
     },
     {
       "display": "Joe Gomez",
       "detail": "30 yellows",
-      "accept": ["joe gomez", "gomez"]
+      "accept": [
+        "joe gomez",
+        "gomez"
+      ]
     }
   ]
 }

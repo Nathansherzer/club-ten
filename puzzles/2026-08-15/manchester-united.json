@@ -10,52 +10,94 @@
     {
       "display": "Wayne Rooney",
       "detail": "82 away goals",
-      "accept": ["wayne rooney", "rooney"]
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
     },
     {
       "display": "Ryan Giggs",
       "detail": "59 away goals",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "48 away goals",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Ruud van Nistelrooy",
       "detail": "47 away goals",
-      "accept": ["ruud van nistelrooy", "van nistelrooy", "rvn"]
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy",
+        "rvn",
+        "ruud"
+      ]
     },
     {
       "display": "Andy Cole",
       "detail": "44 away goals",
-      "accept": ["andy cole", "cole"]
+      "accept": [
+        "andy cole",
+        "cole",
+        "andrew cole"
+      ]
     },
     {
       "display": "Ole Gunnar Solskjær",
       "detail": "38 away goals",
-      "accept": ["ole gunnar solskjaer", "ole gunnar solskjær", "solskjaer", "solskjær", "ole"]
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole",
+        "solskjer",
+        "ole gunnar"
+      ]
     },
     {
       "display": "Marcus Rashford",
       "detail": "37 away goals",
-      "accept": ["marcus rashford", "rashford"]
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "David Beckham",
       "detail": "36 away goals",
-      "accept": ["david beckham", "beckham"]
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
     },
     {
       "display": "Cristiano Ronaldo",
       "detail": "32 away goals",
-      "accept": ["cristiano ronaldo", "ronaldo", "cr7"]
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
     },
     {
       "display": "Bruno Fernandes",
       "detail": "32 away goals",
-      "accept": ["bruno fernandes", "fernandes", "bruno"]
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
     }
   ]
 }

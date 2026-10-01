@@ -10,52 +10,89 @@
     {
       "display": "João Pedro",
       "detail": "177 pts",
-      "accept": ["joao pedro", "joão pedro"]
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "joao",
+        "pedro"
+      ]
     },
     {
       "display": "Enzo Fernández",
       "detail": "157 pts",
-      "accept": ["enzo fernandez", "enzo fernández", "enzo", "fernandez"]
+      "accept": [
+        "enzo fernandez",
+        "enzo fernández",
+        "enzo",
+        "fernandez"
+      ]
     },
     {
       "display": "Trevoh Chalobah",
       "detail": "136 pts",
-      "accept": ["trevoh chalobah", "chalobah"]
+      "accept": [
+        "trevoh chalobah",
+        "chalobah"
+      ]
     },
     {
       "display": "Pedro Neto",
       "detail": "125 pts",
-      "accept": ["pedro neto", "neto"]
+      "accept": [
+        "pedro neto",
+        "neto"
+      ]
     },
     {
       "display": "Reece James",
       "detail": "115 pts",
-      "accept": ["reece james", "james"]
+      "accept": [
+        "reece james",
+        "james",
+        "reece"
+      ]
     },
     {
       "display": "Cole Palmer",
       "detail": "114 pts",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     },
     {
       "display": "Robert Sánchez",
       "detail": "113 pts",
-      "accept": ["robert sanchez", "robert sánchez", "sanchez"]
+      "accept": [
+        "robert sanchez",
+        "robert sánchez",
+        "sanchez"
+      ]
     },
     {
       "display": "Moisés Caicedo",
       "detail": "110 pts",
-      "accept": ["moises caicedo", "moisés caicedo", "caicedo"]
+      "accept": [
+        "moises caicedo",
+        "moisés caicedo",
+        "caicedo"
+      ]
     },
     {
       "display": "Marc Cucurella",
       "detail": "104 pts",
-      "accept": ["marc cucurella", "cucurella"]
+      "accept": [
+        "marc cucurella",
+        "cucurella"
+      ]
     },
     {
       "display": "Malo Gusto",
       "detail": "96 pts",
-      "accept": ["malo gusto", "gusto"]
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
     }
   ]
 }

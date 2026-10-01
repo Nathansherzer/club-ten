@@ -10,52 +10,77 @@
     {
       "display": "Ederson",
       "detail": "277 apps",
-      "accept": ["ederson"]
+      "accept": [
+        "ederson",
+        "ederson moraes"
+      ]
     },
     {
       "display": "Fernandinho",
       "detail": "264 apps",
-      "accept": ["fernandinho"]
+      "accept": [
+        "fernandinho"
+      ]
     },
     {
       "display": "Gabriel Jesus",
       "detail": "159 apps",
-      "accept": ["gabriel jesus", "jesus"]
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
     },
     {
       "display": "Fernando",
       "detail": "64 apps",
-      "accept": ["fernando"]
+      "accept": [
+        "fernando"
+      ]
     },
     {
       "display": "Elano",
       "detail": "62 apps",
-      "accept": ["elano"]
+      "accept": [
+        "elano"
+      ]
     },
     {
       "display": "Sávio",
       "detail": "53 apps",
-      "accept": ["savio", "sávio"]
+      "accept": [
+        "savio",
+        "sávio",
+        "savinho"
+      ]
     },
     {
       "display": "Robinho",
       "detail": "41 apps",
-      "accept": ["robinho"]
+      "accept": [
+        "robinho"
+      ]
     },
     {
       "display": "Danilo",
       "detail": "34 apps",
-      "accept": ["danilo"]
+      "accept": [
+        "danilo"
+      ]
     },
     {
       "display": "Jô",
       "detail": "21 apps",
-      "accept": ["jo", "jô"]
+      "accept": [
+        "jo",
+        "jô"
+      ]
     },
     {
       "display": "Geovanni",
       "detail": "19 apps",
-      "accept": ["geovanni"]
+      "accept": [
+        "geovanni"
+      ]
     }
   ]
 }

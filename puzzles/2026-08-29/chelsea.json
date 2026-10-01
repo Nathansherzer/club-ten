@@ -10,52 +10,85 @@
     {
       "display": "João Pedro",
       "detail": "vs Aston Villa · 4 Mar 2026",
-      "accept": ["joao pedro", "joão pedro"]
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "joao",
+        "pedro"
+      ]
     },
     {
       "display": "Cole Palmer",
       "detail": "vs Wolves · 7 Feb 2026",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     },
     {
       "display": "Noni Madueke",
       "detail": "vs Wolves · 25 Aug 2024",
-      "accept": ["noni madueke", "madueke"]
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
     },
     {
       "display": "Nicolas Jackson",
       "detail": "vs Tottenham · 6 Nov 2023",
-      "accept": ["nicolas jackson", "jackson"]
+      "accept": [
+        "nicolas jackson",
+        "jackson"
+      ]
     },
     {
       "display": "Mason Mount",
       "detail": "vs Norwich · 23 Oct 2021",
-      "accept": ["mason mount", "mount"]
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
     },
     {
       "display": "Christian Pulisic",
       "detail": "vs Burnley · 26 Oct 2019",
-      "accept": ["christian pulisic", "pulisic"]
+      "accept": [
+        "christian pulisic",
+        "pulisic"
+      ]
     },
     {
       "display": "Tammy Abraham",
       "detail": "vs Wolves · 14 Sep 2019",
-      "accept": ["tammy abraham", "abraham"]
+      "accept": [
+        "tammy abraham",
+        "abraham"
+      ]
     },
     {
       "display": "Eden Hazard",
       "detail": "vs Cardiff · 15 Sep 2018",
-      "accept": ["eden hazard", "hazard"]
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
     },
     {
       "display": "Álvaro Morata",
       "detail": "vs Stoke · 23 Sep 2017",
-      "accept": ["alvaro morata", "álvaro morata", "morata"]
+      "accept": [
+        "alvaro morata",
+        "álvaro morata",
+        "morata"
+      ]
     },
     {
       "display": "Diego Costa",
       "detail": "vs Swansea · 13 Sep 2014",
-      "accept": ["diego costa", "costa"]
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
     }
   ]
 }

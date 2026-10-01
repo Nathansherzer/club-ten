@@ -10,52 +10,88 @@
     {
       "display": "Jermain Defoe",
       "detail": "94 sub apps",
-      "accept": ["jermain defoe", "defoe"]
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
     },
     {
       "display": "Erik Lamela",
       "detail": "82 sub apps",
-      "accept": ["erik lamela", "lamela"]
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
     },
     {
       "display": "Lucas Moura",
       "detail": "67 sub apps",
-      "accept": ["lucas moura", "moura"]
+      "accept": [
+        "lucas moura",
+        "moura",
+        "lucas"
+      ]
     },
     {
       "display": "Son Heung-min",
       "detail": "57 sub apps",
-      "accept": ["son heung-min", "son heung min", "son", "heung-min"]
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min",
+        "heung min",
+        "heung-min son",
+        "sonny",
+        "heung min son"
+      ]
     },
     {
       "display": "Harry Winks",
       "detail": "55 sub apps",
-      "accept": ["harry winks", "winks"]
+      "accept": [
+        "harry winks",
+        "winks"
+      ]
     },
     {
       "display": "Robbie Keane",
       "detail": "49 sub apps",
-      "accept": ["robbie keane", "keane"]
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
     },
     {
       "display": "Moussa Sissoko",
       "detail": "48 sub apps",
-      "accept": ["moussa sissoko", "sissoko"]
+      "accept": [
+        "moussa sissoko",
+        "sissoko"
+      ]
     },
     {
       "display": "Richarlison",
       "detail": "48 sub apps",
-      "accept": ["richarlison"]
+      "accept": [
+        "richarlison"
+      ]
     },
     {
       "display": "Aaron Lennon",
       "detail": "46 sub apps",
-      "accept": ["aaron lennon", "lennon"]
+      "accept": [
+        "aaron lennon",
+        "lennon"
+      ]
     },
     {
       "display": "Ben Davies",
       "detail": "46 sub apps",
-      "accept": ["ben davies", "davies"]
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
     }
   ]
 }

@@ -10,52 +10,92 @@
     {
       "display": "Martin Ødegaard",
       "detail": "2022–present",
-      "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"]
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
     },
     {
       "display": "Alexandre Lacazette",
       "detail": "2021–2022",
-      "accept": ["alexandre lacazette", "lacazette"]
+      "accept": [
+        "alexandre lacazette",
+        "lacazette"
+      ]
     },
     {
       "display": "Pierre-Emerick Aubameyang",
       "detail": "2019–2021",
-      "accept": ["pierre-emerick aubameyang", "aubameyang", "auba"]
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba",
+        "pierre emerick aubameyang",
+        "pea"
+      ]
     },
     {
       "display": "Granit Xhaka",
       "detail": "2019",
-      "accept": ["granit xhaka", "xhaka"]
+      "accept": [
+        "granit xhaka",
+        "xhaka"
+      ]
     },
     {
       "display": "Laurent Koscielny",
       "detail": "2018–2019",
-      "accept": ["laurent koscielny", "koscielny"]
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
     },
     {
       "display": "Per Mertesacker",
       "detail": "2016–2018",
-      "accept": ["per mertesacker", "mertesacker", "bfg"]
+      "accept": [
+        "per mertesacker",
+        "mertesacker",
+        "bfg"
+      ]
     },
     {
       "display": "Mikel Arteta",
       "detail": "2014–2016",
-      "accept": ["mikel arteta", "arteta"]
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
     },
     {
       "display": "Thomas Vermaelen",
       "detail": "2012–2014",
-      "accept": ["thomas vermaelen", "vermaelen"]
+      "accept": [
+        "thomas vermaelen",
+        "vermaelen"
+      ]
     },
     {
       "display": "Robin van Persie",
       "detail": "2011–2012",
-      "accept": ["robin van persie", "van persie", "rvp"]
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
     },
     {
       "display": "Cesc Fàbregas",
       "detail": "2008–2011",
-      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas", "cesc"]
+      "accept": [
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas",
+        "cesc"
+      ]
     }
   ]
 }

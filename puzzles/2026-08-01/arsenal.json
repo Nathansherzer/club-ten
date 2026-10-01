@@ -10,52 +10,86 @@
     {
       "display": "Patrick Vieira",
       "detail": "72 yellows",
-      "accept": ["patrick vieira", "vieira"]
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
     },
     {
       "display": "Granit Xhaka",
       "detail": "56 yellows",
-      "accept": ["granit xhaka", "xhaka"]
+      "accept": [
+        "granit xhaka",
+        "xhaka"
+      ]
     },
     {
       "display": "Ray Parlour",
       "detail": "49 yellows",
-      "accept": ["ray parlour", "parlour"]
+      "accept": [
+        "ray parlour",
+        "parlour"
+      ]
     },
     {
       "display": "Martin Keown",
       "detail": "48 yellows",
-      "accept": ["martin keown", "keown"]
+      "accept": [
+        "martin keown",
+        "keown"
+      ]
     },
     {
       "display": "Ian Wright",
       "detail": "44 yellows",
-      "accept": ["ian wright", "wright"]
+      "accept": [
+        "ian wright",
+        "wright",
+        "wrighty"
+      ]
     },
     {
       "display": "Cesc Fàbregas",
       "detail": "42 yellows",
-      "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "fàbregas"]
+      "accept": [
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas",
+        "cesc"
+      ]
     },
     {
       "display": "Dennis Bergkamp",
       "detail": "40 yellows",
-      "accept": ["dennis bergkamp", "bergkamp"]
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
     },
     {
       "display": "Nigel Winterburn",
       "detail": "39 yellows",
-      "accept": ["nigel winterburn", "winterburn"]
+      "accept": [
+        "nigel winterburn",
+        "winterburn"
+      ]
     },
     {
       "display": "Laurent Koscielny",
       "detail": "37 yellows",
-      "accept": ["laurent koscielny", "koscielny"]
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
     },
     {
       "display": "Alex Song",
       "detail": "37 yellows",
-      "accept": ["alex song", "song"]
+      "accept": [
+        "alex song",
+        "song"
+      ]
     }
   ]
 }

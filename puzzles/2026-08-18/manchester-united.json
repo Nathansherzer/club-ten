@@ -10,52 +10,90 @@
     {
       "display": "Ryan Giggs",
       "detail": "Academy graduate",
-      "accept": ["ryan giggs", "giggs"]
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
     },
     {
       "display": "Paul Scholes",
       "detail": "Academy graduate",
-      "accept": ["paul scholes", "scholes"]
+      "accept": [
+        "paul scholes",
+        "scholes",
+        "scholesy"
+      ]
     },
     {
       "display": "Gary Neville",
       "detail": "Academy graduate",
-      "accept": ["gary neville", "neville"]
+      "accept": [
+        "gary neville",
+        "neville",
+        "gary",
+        "gary nev"
+      ]
     },
     {
       "display": "Marcus Rashford",
       "detail": "Academy graduate",
-      "accept": ["marcus rashford", "rashford"]
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
     },
     {
       "display": "Nicky Butt",
       "detail": "Academy graduate",
-      "accept": ["nicky butt", "butt"]
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
     },
     {
       "display": "David Beckham",
       "detail": "Academy graduate",
-      "accept": ["david beckham", "beckham"]
+      "accept": [
+        "david beckham",
+        "beckham",
+        "becks"
+      ]
     },
     {
       "display": "Phil Neville",
       "detail": "Academy graduate",
-      "accept": ["phil neville", "phil"]
+      "accept": [
+        "phil neville",
+        "phil",
+        "phil nev"
+      ]
     },
     {
       "display": "John O'Shea",
       "detail": "Academy graduate",
-      "accept": ["john o'shea", "john oshea", "o'shea", "oshea"]
+      "accept": [
+        "john o'shea",
+        "john oshea",
+        "o'shea",
+        "oshea",
+        "john o shea"
+      ]
     },
     {
       "display": "Wes Brown",
       "detail": "Academy graduate",
-      "accept": ["wes brown", "brown"]
+      "accept": [
+        "wes brown",
+        "brown"
+      ]
     },
     {
       "display": "Darren Fletcher",
       "detail": "Academy graduate",
-      "accept": ["darren fletcher", "fletcher"]
+      "accept": [
+        "darren fletcher",
+        "fletcher"
+      ]
     }
   ]
 }

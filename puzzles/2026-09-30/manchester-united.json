@@ -8,15 +8,87 @@
   "note": "one entry per opponent, most recent meeting only · newest first · 2026/27 in progress, excluded · through 25 Sep 2026",
   "placeholder": "Type a club name…",
   "answers": [
-    { "display": "Brighton and Hove Albion", "detail": "11 Jan 2026 · 3rd round · Man United 1-2", "accept": ["brighton and hove albion", "brighton", "brighton & hove albion"] },
-    { "display": "Fulham", "detail": "02 Mar 2025 · 5th round · Man United 1-1 (pens 3-4)", "accept": ["fulham"] },
-    { "display": "Manchester City", "detail": "03 Jun 2023 · Final · Man City 2-1 Man United", "accept": ["manchester city", "man city"] },
-    { "display": "Middlesbrough", "detail": "04 Feb 2022 · 4th round · Man United 1-1 (pens 7-8)", "accept": ["middlesbrough", "boro"] },
-    { "display": "Leicester City", "detail": "21 Mar 2021 · Quarter-final · Leicester City 3-1 Man United", "accept": ["leicester city", "leicester"] },
-    { "display": "Chelsea", "detail": "19 Jul 2020 · Semi-final · Man United 1-3", "accept": ["chelsea"] },
-    { "display": "Wolverhampton Wanderers", "detail": "16 Mar 2019 · Quarter-final · Wolves 2-1 Man United", "accept": ["wolverhampton wanderers", "wolves", "wolverhampton"] },
-    { "display": "Arsenal", "detail": "09 Mar 2015 · 6th round · Man United 1-2", "accept": ["arsenal"] },
-    { "display": "Swansea City", "detail": "05 Jan 2014 · 3rd round · Man United 1-2", "accept": ["swansea city", "swansea"] },
-    { "display": "Liverpool", "detail": "28 Jan 2012 · 4th round · Liverpool 2-1 Man United", "accept": ["liverpool"] }
+    {
+      "display": "Brighton and Hove Albion",
+      "detail": "11 Jan 2026 · 3rd round · Man United 1-2",
+      "accept": [
+        "brighton and hove albion",
+        "brighton",
+        "brighton & hove albion",
+        "bha"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "02 Mar 2025 · 5th round · Man United 1-1 (pens 3-4)",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "03 Jun 2023 · Final · Man City 2-1 Man United",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Middlesbrough",
+      "detail": "04 Feb 2022 · 4th round · Man United 1-1 (pens 7-8)",
+      "accept": [
+        "middlesbrough",
+        "boro",
+        "middlesboro"
+      ]
+    },
+    {
+      "display": "Leicester City",
+      "detail": "21 Mar 2021 · Quarter-final · Leicester City 3-1 Man United",
+      "accept": [
+        "leicester city",
+        "leicester",
+        "foxes"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "19 Jul 2020 · Semi-final · Man United 1-3",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Wolverhampton Wanderers",
+      "detail": "16 Mar 2019 · Quarter-final · Wolves 2-1 Man United",
+      "accept": [
+        "wolverhampton wanderers",
+        "wolves",
+        "wolverhampton"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "09 Mar 2015 · 6th round · Man United 1-2",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Swansea City",
+      "detail": "05 Jan 2014 · 3rd round · Man United 1-2",
+      "accept": [
+        "swansea city",
+        "swansea"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "28 Jan 2012 · 4th round · Liverpool 2-1 Man United",
+      "accept": [
+        "liverpool"
+      ]
+    }
   ]
 }

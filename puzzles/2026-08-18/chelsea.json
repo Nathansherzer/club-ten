@@ -10,52 +10,89 @@
     {
       "display": "John Terry",
       "detail": "Academy graduate",
-      "accept": ["john terry", "terry", "jt"]
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
     },
     {
       "display": "Eddie Newton",
       "detail": "Academy graduate",
-      "accept": ["eddie newton", "newton"]
+      "accept": [
+        "eddie newton",
+        "newton"
+      ]
     },
     {
       "display": "Frank Sinclair",
       "detail": "Academy graduate",
-      "accept": ["frank sinclair", "sinclair"]
+      "accept": [
+        "frank sinclair",
+        "sinclair"
+      ]
     },
     {
       "display": "Reece James",
       "detail": "Academy graduate",
-      "accept": ["reece james", "james"]
+      "accept": [
+        "reece james",
+        "james",
+        "reece"
+      ]
     },
     {
       "display": "Mason Mount",
       "detail": "Academy graduate",
-      "accept": ["mason mount", "mount"]
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
     },
     {
       "display": "Ruben Loftus-Cheek",
       "detail": "Academy graduate",
-      "accept": ["ruben loftus-cheek", "loftus-cheek", "loftus cheek", "rlc"]
+      "accept": [
+        "ruben loftus-cheek",
+        "loftus-cheek",
+        "loftus cheek",
+        "rlc",
+        "ruben loftus cheek"
+      ]
     },
     {
       "display": "Trevoh Chalobah",
       "detail": "Academy graduate",
-      "accept": ["trevoh chalobah", "chalobah"]
+      "accept": [
+        "trevoh chalobah",
+        "chalobah"
+      ]
     },
     {
       "display": "Andreas Christensen",
       "detail": "Academy graduate",
-      "accept": ["andreas christensen", "christensen"]
+      "accept": [
+        "andreas christensen",
+        "christensen"
+      ]
     },
     {
       "display": "Callum Hudson-Odoi",
       "detail": "Academy graduate",
-      "accept": ["callum hudson-odoi", "hudson-odoi", "hudson odoi", "cho"]
+      "accept": [
+        "callum hudson-odoi",
+        "hudson-odoi",
+        "hudson odoi",
+        "cho"
+      ]
     },
     {
       "display": "Conor Gallagher",
       "detail": "Academy graduate",
-      "accept": ["conor gallagher", "gallagher"]
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
     }
   ]
 }

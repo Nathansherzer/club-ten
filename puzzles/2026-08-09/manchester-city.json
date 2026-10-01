@@ -10,52 +10,86 @@
     {
       "display": "Raheem Sterling",
       "detail": "91 goals",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Phil Foden",
       "detail": "68 goals",
-      "accept": ["phil foden", "foden"]
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
     },
     {
       "display": "Shaun Wright-Phillips",
       "detail": "27 goals",
-      "accept": ["shaun wright-phillips", "shaun wright phillips", "wright-phillips", "wright phillips"]
+      "accept": [
+        "shaun wright-phillips",
+        "shaun wright phillips",
+        "wright-phillips",
+        "wright phillips",
+        "swp"
+      ]
     },
     {
       "display": "Robbie Fowler",
       "detail": "21 goals",
-      "accept": ["robbie fowler", "fowler"]
+      "accept": [
+        "robbie fowler",
+        "fowler",
+        "god"
+      ]
     },
     {
       "display": "Darius Vassell",
       "detail": "17 goals",
-      "accept": ["darius vassell", "vassell"]
+      "accept": [
+        "darius vassell",
+        "vassell"
+      ]
     },
     {
       "display": "Mike Sheron",
       "detail": "17 goals",
-      "accept": ["mike sheron", "sheron"]
+      "accept": [
+        "mike sheron",
+        "sheron"
+      ]
     },
     {
       "display": "David White",
       "detail": "17 goals",
-      "accept": ["david white", "white"]
+      "accept": [
+        "david white",
+        "white"
+      ]
     },
     {
       "display": "Paul Walsh",
       "detail": "16 goals",
-      "accept": ["paul walsh", "walsh"]
+      "accept": [
+        "paul walsh",
+        "walsh"
+      ]
     },
     {
       "display": "Joey Barton",
       "detail": "15 goals",
-      "accept": ["joey barton", "barton"]
+      "accept": [
+        "joey barton",
+        "barton"
+      ]
     },
     {
       "display": "James Milner",
       "detail": "13 goals",
-      "accept": ["james milner", "milner"]
+      "accept": [
+        "james milner",
+        "milner"
+      ]
     }
   ]
 }

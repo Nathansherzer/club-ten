@@ -10,52 +10,88 @@
     {
       "display": "Harry Maguire",
       "detail": "Leicester · €87m",
-      "accept": ["harry maguire", "maguire"]
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
     },
     {
       "display": "Romelu Lukaku",
       "detail": "Everton · €84.70m",
-      "accept": ["romelu lukaku", "lukaku"]
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
     },
     {
       "display": "Bryan Mbeumo",
       "detail": "Brentford · €75m",
-      "accept": ["bryan mbeumo", "mbeumo"]
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
     },
     {
       "display": "Matheus Cunha",
       "detail": "Wolves · €74.20m",
-      "accept": ["matheus cunha", "cunha"]
+      "accept": [
+        "matheus cunha",
+        "cunha"
+      ]
     },
     {
       "display": "Mason Mount",
       "detail": "Chelsea · €67.70m",
-      "accept": ["mason mount", "mount"]
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
     },
     {
       "display": "Aaron Wan-Bissaka",
       "detail": "Crystal Palace · €55m",
-      "accept": ["aaron wan-bissaka", "wan-bissaka", "wan bissaka", "awb"]
+      "accept": [
+        "aaron wan-bissaka",
+        "wan-bissaka",
+        "wan bissaka",
+        "awb",
+        "aaron wan bissaka"
+      ]
     },
     {
       "display": "Rio Ferdinand",
       "detail": "Leeds · €46m",
-      "accept": ["rio ferdinand", "ferdinand"]
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
     },
     {
       "display": "Nemanja Matić",
       "detail": "Chelsea · €44.70m",
-      "accept": ["nemanja matic", "nemanja matić", "matic", "matić"]
+      "accept": [
+        "nemanja matic",
+        "nemanja matić",
+        "matic",
+        "matić"
+      ]
     },
     {
       "display": "Juan Mata",
       "detail": "Chelsea · €44.70m",
-      "accept": ["juan mata", "mata"]
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
     },
     {
       "display": "Dimitar Berbatov",
       "detail": "Spurs · €38m",
-      "accept": ["dimitar berbatov", "berbatov"]
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
     }
   ]
 }

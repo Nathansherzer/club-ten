@@ -10,52 +10,90 @@
     {
       "display": "Son Heung-min",
       "detail": "September 2023",
-      "accept": ["son heung-min", "son heung min", "son"]
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min son",
+        "sonny",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
     },
     {
       "display": "James Maddison",
       "detail": "August 2023",
-      "accept": ["james maddison", "maddison"]
+      "accept": [
+        "james maddison",
+        "maddison"
+      ]
     },
     {
       "display": "Harry Kane",
       "detail": "March 2022",
-      "accept": ["harry kane", "kane"]
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
     },
     {
       "display": "Lucas Moura",
       "detail": "August 2018",
-      "accept": ["lucas moura", "moura"]
+      "accept": [
+        "lucas moura",
+        "moura",
+        "lucas"
+      ]
     },
     {
       "display": "Dele Alli",
       "detail": "January 2017",
-      "accept": ["dele alli", "dele", "alli"]
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
     },
     {
       "display": "Jan Vertonghen",
       "detail": "March 2013",
-      "accept": ["jan vertonghen", "vertonghen"]
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
     },
     {
       "display": "Gareth Bale",
       "detail": "February 2013",
-      "accept": ["gareth bale", "bale"]
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
     },
     {
       "display": "Scott Parker",
       "detail": "November 2011",
-      "accept": ["scott parker", "parker"]
+      "accept": [
+        "scott parker",
+        "parker"
+      ]
     },
     {
       "display": "Rafael van der Vaart",
       "detail": "October 2010",
-      "accept": ["rafael van der vaart", "van der vaart"]
+      "accept": [
+        "rafael van der vaart",
+        "van der vaart"
+      ]
     },
     {
       "display": "Jermain Defoe",
       "detail": "August 2009",
-      "accept": ["jermain defoe", "defoe"]
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
     }
   ]
 }

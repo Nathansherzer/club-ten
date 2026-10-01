@@ -10,52 +10,94 @@
     {
       "display": "Laurent Koscielny",
       "detail": "140 matches",
-      "accept": ["laurent koscielny", "koscielny"]
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
     },
     {
       "display": "Aaron Ramsey",
       "detail": "135",
-      "accept": ["aaron ramsey", "ramsey"]
+      "accept": [
+        "aaron ramsey",
+        "ramsey"
+      ]
     },
     {
       "display": "Nacho Monreal",
       "detail": "129",
-      "accept": ["nacho monreal", "monreal"]
+      "accept": [
+        "nacho monreal",
+        "monreal"
+      ]
     },
     {
       "display": "Mesut Özil",
       "detail": "115",
-      "accept": ["mesut ozil", "mesut özil", "ozil", "özil"]
+      "accept": [
+        "mesut ozil",
+        "mesut özil",
+        "ozil",
+        "özil"
+      ]
     },
     {
       "display": "Per Mertesacker",
       "detail": "113",
-      "accept": ["per mertesacker", "mertesacker"]
+      "accept": [
+        "per mertesacker",
+        "mertesacker",
+        "bfg"
+      ]
     },
     {
       "display": "Santi Cazorla",
       "detail": "106",
-      "accept": ["santi cazorla", "cazorla"]
+      "accept": [
+        "santi cazorla",
+        "cazorla"
+      ]
     },
     {
       "display": "Héctor Bellerín",
       "detail": "93",
-      "accept": ["hector bellerin", "héctor bellerín", "bellerin", "bellerín"]
+      "accept": [
+        "hector bellerin",
+        "héctor bellerín",
+        "bellerin",
+        "bellerín"
+      ]
     },
     {
       "display": "Alexis Sánchez",
       "detail": "89",
-      "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "sánchez"]
+      "accept": [
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
+      ]
     },
     {
       "display": "Kieran Gibbs",
       "detail": "85",
-      "accept": ["kieran gibbs", "gibbs"]
+      "accept": [
+        "kieran gibbs",
+        "gibbs"
+      ]
     },
     {
       "display": "Alex Oxlade-Chamberlain",
       "detail": "80",
-      "accept": ["alex oxlade-chamberlain", "alex oxlade chamberlain", "oxlade-chamberlain", "oxlade chamberlain", "the ox"]
+      "accept": [
+        "alex oxlade-chamberlain",
+        "alex oxlade chamberlain",
+        "oxlade-chamberlain",
+        "oxlade chamberlain",
+        "the ox",
+        "aoc"
+      ]
     }
   ]
 }

@@ -10,52 +10,85 @@
     {
       "display": "Joe Gomez",
       "detail": "0 goals / 170 apps",
-      "accept": ["joe gomez", "gomez"]
+      "accept": [
+        "joe gomez",
+        "gomez"
+      ]
     },
     {
       "display": "Rob Jones",
       "detail": "0 goals / 155 apps",
-      "accept": ["rob jones", "jones"]
+      "accept": [
+        "rob jones",
+        "jones"
+      ]
     },
     {
       "display": "Stéphane Henchoz",
       "detail": "0 goals / 135 apps",
-      "accept": ["stephane henchoz", "stéphane henchoz", "henchoz"]
+      "accept": [
+        "stephane henchoz",
+        "stéphane henchoz",
+        "henchoz"
+      ]
     },
     {
       "display": "Lucas Leiva",
       "detail": "1 goal / 247 apps",
-      "accept": ["lucas leiva", "leiva", "lucas"]
+      "accept": [
+        "lucas leiva",
+        "leiva",
+        "lucas"
+      ]
     },
     {
       "display": "Steve Finnan",
       "detail": "1 goal / 145 apps",
-      "accept": ["steve finnan", "finnan"]
+      "accept": [
+        "steve finnan",
+        "finnan"
+      ]
     },
     {
       "display": "Phil Babb",
       "detail": "1 goal / 128 apps",
-      "accept": ["phil babb", "babb"]
+      "accept": [
+        "phil babb",
+        "babb"
+      ]
     },
     {
       "display": "Dominic Matteo",
       "detail": "2 goals / 127 apps",
-      "accept": ["dominic matteo", "matteo"]
+      "accept": [
+        "dominic matteo",
+        "matteo"
+      ]
     },
     {
       "display": "Jamie Carragher",
       "detail": "3 goals / 508 apps",
-      "accept": ["jamie carragher", "carragher"]
+      "accept": [
+        "jamie carragher",
+        "carragher",
+        "carra"
+      ]
     },
     {
       "display": "Mark Wright",
       "detail": "3 goals / 126 apps",
-      "accept": ["mark wright", "wright"]
+      "accept": [
+        "mark wright",
+        "wright"
+      ]
     },
     {
       "display": "Jason McAteer",
       "detail": "3 goals / 100 apps",
-      "accept": ["jason mcateer", "mcateer"]
+      "accept": [
+        "jason mcateer",
+        "mcateer"
+      ]
     }
   ]
 }

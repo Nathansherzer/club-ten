@@ -10,52 +10,93 @@
     {
       "display": "Jamie Carragher",
       "detail": "Academy graduate",
-      "accept": ["jamie carragher", "carragher"]
+      "accept": [
+        "jamie carragher",
+        "carragher",
+        "carra"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "Academy graduate",
-      "accept": ["steven gerrard", "gerrard", "stevie gerrard", "stevie g"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie gerrard",
+        "stevie g"
+      ]
     },
     {
       "display": "Robbie Fowler",
       "detail": "Academy graduate",
-      "accept": ["robbie fowler", "fowler"]
+      "accept": [
+        "robbie fowler",
+        "fowler",
+        "god"
+      ]
     },
     {
       "display": "Trent Alexander-Arnold",
       "detail": "Academy graduate",
-      "accept": ["trent alexander-arnold", "alexander-arnold", "trent", "taa"]
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "trent",
+        "taa",
+        "alexander arnold",
+        "trent alexander arnold",
+        "trent arnold"
+      ]
     },
     {
       "display": "Steve McManaman",
       "detail": "Academy graduate",
-      "accept": ["steve mcmanaman", "mcmanaman"]
+      "accept": [
+        "steve mcmanaman",
+        "mcmanaman",
+        "steve macmanaman"
+      ]
     },
     {
       "display": "Michael Owen",
       "detail": "Academy graduate",
-      "accept": ["michael owen", "owen"]
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
     },
     {
       "display": "Curtis Jones",
       "detail": "Academy graduate",
-      "accept": ["curtis jones", "jones"]
+      "accept": [
+        "curtis jones",
+        "jones",
+        "curtis"
+      ]
     },
     {
       "display": "Dominic Matteo",
       "detail": "Academy graduate",
-      "accept": ["dominic matteo", "matteo"]
+      "accept": [
+        "dominic matteo",
+        "matteo"
+      ]
     },
     {
       "display": "Raheem Sterling",
       "detail": "Academy graduate",
-      "accept": ["raheem sterling", "sterling"]
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
     },
     {
       "display": "Conor Bradley",
       "detail": "Academy graduate",
-      "accept": ["conor bradley", "bradley"]
+      "accept": [
+        "conor bradley",
+        "bradley"
+      ]
     }
   ]
 }

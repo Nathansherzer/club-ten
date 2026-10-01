@@ -11,52 +11,84 @@
     {
       "display": "Newcastle United",
       "detail": "13 goals",
-      "accept": ["newcastle united", "newcastle"]
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
     },
     {
       "display": "Aston Villa",
       "detail": "12 goals",
-      "accept": ["aston villa", "villa"]
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
     },
     {
       "display": "West Ham United",
       "detail": "11 goals",
-      "accept": ["west ham united", "west ham", "hammers"]
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
     },
     {
       "display": "Tottenham Hotspur",
       "detail": "11 goals",
-      "accept": ["tottenham hotspur", "tottenham", "spurs"]
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
     },
     {
       "display": "Fulham",
       "detail": "10 goals",
-      "accept": ["fulham"]
+      "accept": [
+        "fulham"
+      ]
     },
     {
       "display": "Bolton Wanderers",
       "detail": "9 goals",
-      "accept": ["bolton wanderers", "bolton"]
+      "accept": [
+        "bolton wanderers",
+        "bolton"
+      ]
     },
     {
       "display": "Arsenal",
       "detail": "9 goals",
-      "accept": ["arsenal"]
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
     },
     {
       "display": "Wigan Athletic",
       "detail": "8 goals",
-      "accept": ["wigan athletic", "wigan"]
+      "accept": [
+        "wigan athletic",
+        "wigan"
+      ]
     },
     {
       "display": "Manchester City",
       "detail": "8 goals",
-      "accept": ["manchester city", "man city"]
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
     },
     {
       "display": "Portsmouth",
       "detail": "8 goals",
-      "accept": ["portsmouth", "pompey"]
+      "accept": [
+        "portsmouth",
+        "pompey"
+      ]
     }
   ]
 }

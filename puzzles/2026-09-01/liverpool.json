@@ -10,52 +10,100 @@
     {
       "display": "Alexis Mac Allister",
       "detail": "April 2025",
-      "accept": ["alexis mac allister", "mac allister"]
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister",
+        "alexis macallister"
+      ]
     },
     {
       "display": "Mohamed Salah",
       "detail": "February 2025",
-      "accept": ["mohamed salah", "salah"]
+      "accept": [
+        "mohamed salah",
+        "salah",
+        "mohammed salah",
+        "mo salah"
+      ]
     },
     {
       "display": "Diogo Jota",
       "detail": "January 2024",
-      "accept": ["diogo jota", "jota"]
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
     },
     {
       "display": "Joël Matip",
       "detail": "February 2022",
-      "accept": ["joel matip", "joël matip", "matip"]
+      "accept": [
+        "joel matip",
+        "joël matip",
+        "matip"
+      ]
     },
     {
       "display": "Trent Alexander-Arnold",
       "detail": "November 2021",
-      "accept": ["trent alexander-arnold", "trent alexander arnold", "alexander-arnold", "taa"]
+      "accept": [
+        "trent alexander-arnold",
+        "trent alexander arnold",
+        "alexander-arnold",
+        "taa",
+        "alexander arnold",
+        "trent",
+        "trent arnold"
+      ]
     },
     {
       "display": "Sadio Mané",
       "detail": "November 2019",
-      "accept": ["sadio mane", "sadio mané", "mane", "mané"]
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
     },
     {
       "display": "Virgil van Dijk",
       "detail": "December 2018",
-      "accept": ["virgil van dijk", "van dijk", "vvd"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd",
+        "virgil"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "March 2014",
-      "accept": ["steven gerrard", "gerrard"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
     },
     {
       "display": "Luis Suárez",
       "detail": "March 2014",
-      "accept": ["luis suarez", "luis suárez", "suarez", "suárez"]
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
     },
     {
       "display": "Daniel Sturridge",
       "detail": "February 2014",
-      "accept": ["daniel sturridge", "sturridge"]
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
     }
   ]
 }

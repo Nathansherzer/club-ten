@@ -10,52 +10,87 @@
     {
       "display": "Robbie Fowler",
       "detail": "128 goals",
-      "accept": ["robbie fowler", "fowler"]
+      "accept": [
+        "robbie fowler",
+        "fowler",
+        "god"
+      ]
     },
     {
       "display": "Steven Gerrard",
       "detail": "120 goals",
-      "accept": ["steven gerrard", "gerrard"]
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
     },
     {
       "display": "Michael Owen",
       "detail": "118 goals",
-      "accept": ["michael owen", "owen"]
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
     },
     {
       "display": "Daniel Sturridge",
       "detail": "50 goals",
-      "accept": ["daniel sturridge", "sturridge"]
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
     },
     {
       "display": "Steve McManaman",
       "detail": "41 goals",
-      "accept": ["steve mcmanaman", "mcmanaman", "steve macmanaman"]
+      "accept": [
+        "steve mcmanaman",
+        "mcmanaman",
+        "steve macmanaman"
+      ]
     },
     {
       "display": "Emile Heskey",
       "detail": "39 goals",
-      "accept": ["emile heskey", "heskey"]
+      "accept": [
+        "emile heskey",
+        "heskey"
+      ]
     },
     {
       "display": "Jordan Henderson",
       "detail": "29 goals",
-      "accept": ["jordan henderson", "henderson"]
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
     },
     {
       "display": "Jamie Redknapp",
       "detail": "29 goals",
-      "accept": ["jamie redknapp", "redknapp"]
+      "accept": [
+        "jamie redknapp",
+        "redknapp"
+      ]
     },
     {
       "display": "Stan Collymore",
       "detail": "26 goals",
-      "accept": ["stan collymore", "collymore"]
+      "accept": [
+        "stan collymore",
+        "collymore"
+      ]
     },
     {
       "display": "Danny Murphy",
       "detail": "25 goals",
-      "accept": ["danny murphy", "murphy"]
+      "accept": [
+        "danny murphy",
+        "murphy"
+      ]
     }
   ]
 }

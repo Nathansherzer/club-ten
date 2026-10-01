@@ -7,15 +7,94 @@
   "note": "Arsenal 2-1 Chelsea · 6 Sep 2026 · outfield players on the pitch at full-time · goalkeeper excluded · any order",
   "placeholder": "Type a player's name…",
   "answers": [
-    { "display": "Ben White", "detail": "", "accept": ["ben white", "white"] },
-    { "display": "Ezri Konsa", "detail": "", "accept": ["ezri konsa", "konsa"] },
-    { "display": "Gabriel Magalhães", "detail": "", "accept": ["gabriel magalhaes", "gabriel magalhães", "magalhaes", "magalhães", "gabriel"] },
-    { "display": "Declan Rice", "detail": "", "accept": ["declan rice", "rice"] },
-    { "display": "Christos Tzolis", "detail": "", "accept": ["christos tzolis", "tzolis"] },
-    { "display": "Piero Hincapié", "detail": "Sub", "accept": ["piero hincapie", "piero hincapié", "hincapie", "hincapié"] },
-    { "display": "Martín Zubimendi", "detail": "Sub", "accept": ["martin zubimendi", "martín zubimendi", "zubimendi"] },
-    { "display": "Mikel Merino", "detail": "Sub", "accept": ["mikel merino", "merino"] },
-    { "display": "Viktor Gyökeres", "detail": "Sub", "accept": ["viktor gyokeres", "viktor gyökeres", "gyokeres", "gyökeres"] },
-    { "display": "Noni Madueke", "detail": "Sub", "accept": ["noni madueke", "madueke"] }
+    {
+      "display": "Ben White",
+      "detail": "",
+      "accept": [
+        "ben white",
+        "white"
+      ]
+    },
+    {
+      "display": "Ezri Konsa",
+      "detail": "",
+      "accept": [
+        "ezri konsa",
+        "konsa"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes",
+        "magalhães",
+        "gabriel",
+        "gabriel dos santos magalhaes"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Christos Tzolis",
+      "detail": "",
+      "accept": [
+        "christos tzolis",
+        "tzolis"
+      ]
+    },
+    {
+      "display": "Piero Hincapié",
+      "detail": "Sub",
+      "accept": [
+        "piero hincapie",
+        "piero hincapié",
+        "hincapie",
+        "hincapié"
+      ]
+    },
+    {
+      "display": "Martín Zubimendi",
+      "detail": "Sub",
+      "accept": [
+        "martin zubimendi",
+        "martín zubimendi",
+        "zubimendi"
+      ]
+    },
+    {
+      "display": "Mikel Merino",
+      "detail": "Sub",
+      "accept": [
+        "mikel merino",
+        "merino"
+      ]
+    },
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "Sub",
+      "accept": [
+        "viktor gyokeres",
+        "viktor gyökeres",
+        "gyokeres",
+        "gyökeres"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "Sub",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    }
   ]
 }

@@ -10,52 +10,86 @@
     {
       "display": "Jeremie Frimpong",
       "detail": "",
-      "accept": ["jeremie frimpong", "frimpong"]
+      "accept": [
+        "jeremie frimpong",
+        "frimpong"
+      ]
     },
     {
       "display": "Jérémy Jacquet",
       "detail": "",
-      "accept": ["jeremy jacquet", "jérémy jacquet", "jacquet"]
+      "accept": [
+        "jeremy jacquet",
+        "jérémy jacquet",
+        "jacquet"
+      ]
     },
     {
       "display": "Virgil van Dijk",
       "detail": "",
-      "accept": ["virgil van dijk", "van dijk", "vvd"]
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd",
+        "virgil"
+      ]
     },
     {
       "display": "Milos Kerkez",
       "detail": "",
-      "accept": ["milos kerkez", "miloš kerkez", "kerkez"]
+      "accept": [
+        "milos kerkez",
+        "miloš kerkez",
+        "kerkez"
+      ]
     },
     {
       "display": "Dominik Szoboszlai",
       "detail": "",
-      "accept": ["dominik szoboszlai", "szoboszlai"]
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
     },
     {
       "display": "Ryan Gravenberch",
       "detail": "",
-      "accept": ["ryan gravenberch", "gravenberch"]
+      "accept": [
+        "ryan gravenberch",
+        "gravenberch"
+      ]
     },
     {
       "display": "Rio Ngumoha",
       "detail": "",
-      "accept": ["rio ngumoha", "ngumoha"]
+      "accept": [
+        "rio ngumoha",
+        "ngumoha"
+      ]
     },
     {
       "display": "Florian Wirtz",
       "detail": "",
-      "accept": ["florian wirtz", "wirtz"]
+      "accept": [
+        "florian wirtz",
+        "wirtz"
+      ]
     },
     {
       "display": "Cody Gakpo",
       "detail": "",
-      "accept": ["cody gakpo", "gakpo"]
+      "accept": [
+        "cody gakpo",
+        "gakpo"
+      ]
     },
     {
       "display": "Alexander Isak",
       "detail": "",
-      "accept": ["alexander isak", "isak"]
+      "accept": [
+        "alexander isak",
+        "isak"
+      ]
     }
   ]
 }

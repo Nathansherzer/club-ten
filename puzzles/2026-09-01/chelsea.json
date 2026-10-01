@@ -10,52 +10,84 @@
     {
       "display": "Cole Palmer",
       "detail": "September 2024",
-      "accept": ["cole palmer", "palmer"]
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
     },
     {
       "display": "Eden Hazard",
       "detail": "September 2018",
-      "accept": ["eden hazard", "hazard"]
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
     },
     {
       "display": "Diego Costa",
       "detail": "November 2016",
-      "accept": ["diego costa", "costa"]
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
     },
     {
       "display": "Juan Mata",
       "detail": "October 2012",
-      "accept": ["juan mata", "mata"]
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
     },
     {
       "display": "David Luiz",
       "detail": "March 2011",
-      "accept": ["david luiz", "luiz"]
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
     },
     {
       "display": "Florent Malouda",
       "detail": "March 2010",
-      "accept": ["florent malouda", "malouda"]
+      "accept": [
+        "florent malouda",
+        "malouda"
+      ]
     },
     {
       "display": "Nicolas Anelka",
       "detail": "November 2008",
-      "accept": ["nicolas anelka", "anelka"]
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
     },
     {
       "display": "Frank Lampard",
       "detail": "October 2008",
-      "accept": ["frank lampard", "lampard"]
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
     },
     {
       "display": "Deco",
       "detail": "August 2008",
-      "accept": ["deco"]
+      "accept": [
+        "deco"
+      ]
     },
     {
       "display": "Petr Čech",
       "detail": "March 2007",
-      "accept": ["petr cech", "petr čech", "cech", "čech"]
+      "accept": [
+        "petr cech",
+        "petr čech",
+        "cech",
+        "čech"
+      ]
     }
   ]
 }

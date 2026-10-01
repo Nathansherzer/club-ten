@@ -8,15 +8,86 @@
   "note": "one entry per opponent, most recent meeting only · newest first · 2026/27 in progress, excluded · through 25 Sep 2026",
   "placeholder": "Type a club name…",
   "answers": [
-    { "display": "Crystal Palace", "detail": "17 May 2025 · Final · Crystal Palace 1-0 Man City", "accept": ["crystal palace", "palace"] },
-    { "display": "Manchester United", "detail": "25 May 2024 · Final · Man City 1-2", "accept": ["manchester united", "man united", "man utd"] },
-    { "display": "Liverpool", "detail": "16 Apr 2022 · Semi-final · Man City 2-3", "accept": ["liverpool"] },
-    { "display": "Chelsea", "detail": "17 Apr 2021 · Semi-final · Chelsea 1-0 Man City", "accept": ["chelsea"] },
-    { "display": "Arsenal", "detail": "18 Jul 2020 · Semi-final · Arsenal 2-0 Man City", "accept": ["arsenal"] },
-    { "display": "Wigan Athletic", "detail": "19 Feb 2018 · 5th round · Wigan Athletic 1-0 Man City", "accept": ["wigan athletic", "wigan"] },
-    { "display": "Middlesbrough", "detail": "24 Jan 2015 · 4th round · Man City 0-2", "accept": ["middlesbrough", "boro"] },
-    { "display": "Stoke City", "detail": "24 Feb 2010 · 5th round replay · Stoke City 3-1 Man City", "accept": ["stoke city", "stoke"] },
-    { "display": "Nottingham Forest", "detail": "03 Jan 2009 · 3rd round · Man City 0-3", "accept": ["nottingham forest", "forest"] },
-    { "display": "Sheffield United", "detail": "27 Jan 2008 · 4th round · Sheffield United 2-1 Man City", "accept": ["sheffield united", "sheffield utd"] }
+    {
+      "display": "Crystal Palace",
+      "detail": "17 May 2025 · Final · Crystal Palace 1-0 Man City",
+      "accept": [
+        "crystal palace",
+        "palace"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "25 May 2024 · Final · Man City 1-2",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "16 Apr 2022 · Semi-final · Man City 2-3",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "17 Apr 2021 · Semi-final · Chelsea 1-0 Man City",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "18 Jul 2020 · Semi-final · Arsenal 2-0 Man City",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Wigan Athletic",
+      "detail": "19 Feb 2018 · 5th round · Wigan Athletic 1-0 Man City",
+      "accept": [
+        "wigan athletic",
+        "wigan"
+      ]
+    },
+    {
+      "display": "Middlesbrough",
+      "detail": "24 Jan 2015 · 4th round · Man City 0-2",
+      "accept": [
+        "middlesbrough",
+        "boro",
+        "middlesboro"
+      ]
+    },
+    {
+      "display": "Stoke City",
+      "detail": "24 Feb 2010 · 5th round replay · Stoke City 3-1 Man City",
+      "accept": [
+        "stoke city",
+        "stoke"
+      ]
+    },
+    {
+      "display": "Nottingham Forest",
+      "detail": "03 Jan 2009 · 3rd round · Man City 0-3",
+      "accept": [
+        "nottingham forest",
+        "forest"
+      ]
+    },
+    {
+      "display": "Sheffield United",
+      "detail": "27 Jan 2008 · 4th round · Sheffield United 2-1 Man City",
+      "accept": [
+        "sheffield united",
+        "sheffield utd",
+        "blades"
+      ]
+    }
   ]
 }

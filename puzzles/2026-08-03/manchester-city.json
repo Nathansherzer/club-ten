@@ -11,52 +11,87 @@
     {
       "display": "England",
       "detail": "435 goals",
-      "accept": ["england", "english"]
+      "accept": [
+        "england",
+        "english"
+      ]
     },
     {
       "display": "Argentina",
       "detail": "282 goals",
-      "accept": ["argentina", "argentinian", "argentinean"]
+      "accept": [
+        "argentina",
+        "argentinian",
+        "argentinean",
+        "argentine"
+      ]
     },
     {
       "display": "Brazil",
       "detail": "116 goals",
-      "accept": ["brazil", "brasil", "brazilian"]
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
     },
     {
       "display": "Norway",
       "detail": "115 goals",
-      "accept": ["norway", "norwegian"]
+      "accept": [
+        "norway",
+        "norwegian"
+      ]
     },
     {
       "display": "Spain",
       "detail": "108 goals",
-      "accept": ["spain", "spanish"]
+      "accept": [
+        "spain",
+        "spanish"
+      ]
     },
     {
       "display": "Germany",
       "detail": "105 goals",
-      "accept": ["germany", "german"]
+      "accept": [
+        "germany",
+        "german"
+      ]
     },
     {
       "display": "Belgium",
       "detail": "103 goals",
-      "accept": ["belgium", "belgian"]
+      "accept": [
+        "belgium",
+        "belgian"
+      ]
     },
     {
       "display": "France",
       "detail": "78 goals",
-      "accept": ["france", "french"]
+      "accept": [
+        "france",
+        "french"
+      ]
     },
     {
       "display": "Ivory Coast",
       "detail": "75 goals",
-      "accept": ["ivory coast", "cote d'ivoire", "côte d'ivoire", "ivorian"]
+      "accept": [
+        "ivory coast",
+        "cote d'ivoire",
+        "côte d'ivoire",
+        "ivorian"
+      ]
     },
     {
       "display": "Portugal",
       "detail": "55 goals",
-      "accept": ["portugal", "portuguese"]
+      "accept": [
+        "portugal",
+        "portuguese"
+      ]
     }
   ]
 }

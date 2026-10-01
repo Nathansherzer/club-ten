@@ -10,52 +10,91 @@
     {
       "display": "Hugo Lloris",
       "detail": "France · 361 apps",
-      "accept": ["hugo lloris", "lloris"]
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
     },
     {
       "display": "Son Heung-min",
       "detail": "South Korea · 333 apps",
-      "accept": ["son heung-min", "son heung min", "son", "heung-min son"]
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min son",
+        "heung min son",
+        "sonny",
+        "heung-min",
+        "heung min"
+      ]
     },
     {
       "display": "Ben Davies",
       "detail": "Wales · 245 apps",
-      "accept": ["ben davies", "davies"]
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
     },
     {
       "display": "Robbie Keane",
       "detail": "Republic of Ireland · 238 apps",
-      "accept": ["robbie keane", "keane"]
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
     },
     {
       "display": "Jan Vertonghen",
       "detail": "Belgium · 232 apps",
-      "accept": ["jan vertonghen", "vertonghen"]
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
     },
     {
       "display": "Stephen Carr",
       "detail": "Republic of Ireland · 226 apps",
-      "accept": ["stephen carr", "carr"]
+      "accept": [
+        "stephen carr",
+        "carr"
+      ]
     },
     {
       "display": "Christian Eriksen",
       "detail": "Denmark · 226 apps",
-      "accept": ["christian eriksen", "eriksen"]
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
     },
     {
       "display": "Mousa Dembélé",
       "detail": "Belgium · 181 apps",
-      "accept": ["mousa dembele", "mousa dembélé", "dembele", "dembélé"]
+      "accept": [
+        "mousa dembele",
+        "mousa dembélé",
+        "dembele",
+        "dembélé"
+      ]
     },
     {
       "display": "Toby Alderweireld",
       "detail": "Belgium · 174 apps",
-      "accept": ["toby alderweireld", "alderweireld"]
+      "accept": [
+        "toby alderweireld",
+        "alderweireld",
+        "toby"
+      ]
     },
     {
       "display": "Erik Lamela",
       "detail": "Argentina · 168 apps",
-      "accept": ["erik lamela", "lamela"]
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
     }
   ]
 }

@@ -10,52 +10,83 @@
     {
       "display": "Ian Wright",
       "detail": "104 goals",
-      "accept": ["ian wright", "wright"]
+      "accept": [
+        "ian wright",
+        "wright",
+        "wrighty"
+      ]
     },
     {
       "display": "Theo Walcott",
       "detail": "65 goals",
-      "accept": ["theo walcott", "walcott"]
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
     },
     {
       "display": "Bukayo Saka",
       "detail": "60 goals",
-      "accept": ["bukayo saka", "saka"]
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
     },
     {
       "display": "Paul Merson",
       "detail": "28 goals",
-      "accept": ["paul merson", "merson"]
+      "accept": [
+        "paul merson",
+        "merson"
+      ]
     },
     {
       "display": "Kevin Campbell",
       "detail": "23 goals",
-      "accept": ["kevin campbell", "campbell"]
+      "accept": [
+        "kevin campbell",
+        "campbell"
+      ]
     },
     {
       "display": "Ray Parlour",
       "detail": "20 goals",
-      "accept": ["ray parlour", "parlour"]
+      "accept": [
+        "ray parlour",
+        "parlour"
+      ]
     },
     {
       "display": "Eddie Nketiah",
       "detail": "19 goals",
-      "accept": ["eddie nketiah", "nketiah"]
+      "accept": [
+        "eddie nketiah",
+        "nketiah"
+      ]
     },
     {
       "display": "Danny Welbeck",
       "detail": "16 goals",
-      "accept": ["danny welbeck", "welbeck"]
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
     },
     {
       "display": "Declan Rice",
       "detail": "15 goals",
-      "accept": ["declan rice", "rice"]
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
     },
     {
       "display": "David Platt",
       "detail": "13 goals",
-      "accept": ["david platt", "platt"]
+      "accept": [
+        "david platt",
+        "platt"
+      ]
     }
   ]
 }

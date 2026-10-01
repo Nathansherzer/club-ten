@@ -11,52 +11,88 @@
     {
       "display": "England",
       "detail": "548 goals",
-      "accept": ["england", "english"]
+      "accept": [
+        "england",
+        "english"
+      ]
     },
     {
       "display": "Spain",
       "detail": "192 goals",
-      "accept": ["spain", "spanish"]
+      "accept": [
+        "spain",
+        "spanish"
+      ]
     },
     {
       "display": "France",
       "detail": "170 goals",
-      "accept": ["france", "french"]
+      "accept": [
+        "france",
+        "french"
+      ]
     },
     {
       "display": "Ivory Coast",
       "detail": "140 goals",
-      "accept": ["ivory coast", "cote d'ivoire", "côte d'ivoire", "ivorian"]
+      "accept": [
+        "ivory coast",
+        "cote d'ivoire",
+        "côte d'ivoire",
+        "ivorian"
+      ]
     },
     {
       "display": "Italy",
       "detail": "104 goals",
-      "accept": ["italy", "italian"]
+      "accept": [
+        "italy",
+        "italian"
+      ]
     },
     {
       "display": "Belgium",
       "detail": "101 goals",
-      "accept": ["belgium", "belgian"]
+      "accept": [
+        "belgium",
+        "belgian"
+      ]
     },
     {
       "display": "Brazil",
       "detail": "101 goals",
-      "accept": ["brazil", "brasil", "brazilian"]
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
     },
     {
       "display": "Netherlands",
       "detail": "96 goals",
-      "accept": ["netherlands", "holland", "dutch"]
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
     },
     {
       "display": "Iceland",
       "detail": "54 goals",
-      "accept": ["iceland", "icelandic"]
+      "accept": [
+        "iceland",
+        "icelandic"
+      ]
     },
     {
       "display": "Argentina",
       "detail": "40 goals",
-      "accept": ["argentina", "argentinian", "argentinean"]
+      "accept": [
+        "argentina",
+        "argentinian",
+        "argentinean",
+        "argentine"
+      ]
     }
   ]
 }

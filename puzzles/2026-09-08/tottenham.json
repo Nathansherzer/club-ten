@@ -8,15 +8,91 @@
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [
-    { "display": "England", "detail": "118 players", "accept": ["england", "english"] },
-    { "display": "France", "detail": "17 players", "accept": ["france", "french"] },
-    { "display": "Republic of Ireland", "detail": "10 players", "accept": ["republic of ireland", "ireland", "irish", "roi"] },
-    { "display": "Netherlands", "detail": "10 players", "accept": ["netherlands", "holland", "dutch"] },
-    { "display": "Brazil", "detail": "9 players", "accept": ["brazil", "brasil", "brazilian"] },
-    { "display": "Wales", "detail": "8 players", "accept": ["wales", "welsh"] },
-    { "display": "Argentina", "detail": "8 players", "accept": ["argentina", "argentinian", "argentinean"] },
-    { "display": "Scotland", "detail": "7 players", "accept": ["scotland", "scottish"] },
-    { "display": "Spain", "detail": "7 players", "accept": ["spain", "spanish"] },
-    { "display": "Portugal", "detail": "6 players", "accept": ["portugal", "portuguese"] }
+    {
+      "display": "England",
+      "detail": "118 players",
+      "accept": [
+        "england",
+        "english"
+      ]
+    },
+    {
+      "display": "France",
+      "detail": "17 players",
+      "accept": [
+        "france",
+        "french"
+      ]
+    },
+    {
+      "display": "Republic of Ireland",
+      "detail": "10 players",
+      "accept": [
+        "republic of ireland",
+        "ireland",
+        "irish",
+        "roi"
+      ]
+    },
+    {
+      "display": "Netherlands",
+      "detail": "10 players",
+      "accept": [
+        "netherlands",
+        "holland",
+        "dutch"
+      ]
+    },
+    {
+      "display": "Brazil",
+      "detail": "9 players",
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
+    },
+    {
+      "display": "Wales",
+      "detail": "8 players",
+      "accept": [
+        "wales",
+        "welsh"
+      ]
+    },
+    {
+      "display": "Argentina",
+      "detail": "8 players",
+      "accept": [
+        "argentina",
+        "argentinian",
+        "argentinean",
+        "argentine"
+      ]
+    },
+    {
+      "display": "Scotland",
+      "detail": "7 players",
+      "accept": [
+        "scotland",
+        "scottish"
+      ]
+    },
+    {
+      "display": "Spain",
+      "detail": "7 players",
+      "accept": [
+        "spain",
+        "spanish"
+      ]
+    },
+    {
+      "display": "Portugal",
+      "detail": "6 players",
+      "accept": [
+        "portugal",
+        "portuguese"
+      ]
+    }
   ]
 }
