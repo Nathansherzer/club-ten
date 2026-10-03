@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-09",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players who started for Spurs in the 2025 Europa League final",
+  "note": "vs Manchester United · 2025 Europa League final · goalkeeper excluded · substitutes don't count · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Pedro Porro",
+      "detail": "",
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "",
+      "accept": [
+        "cristian romero",
+        "romero"
+      ]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
+      "display": "Destiny Udogie",
+      "detail": "",
+      "accept": [
+        "destiny udogie",
+        "udogie"
+      ]
+    },
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "",
+      "accept": [
+        "rodrigo bentancur",
+        "bentancur"
+      ]
+    },
+    {
+      "display": "Yves Bissouma",
+      "detail": "",
+      "accept": [
+        "yves bissouma",
+        "bissouma"
+      ]
+    },
+    {
+      "display": "Pape Matar Sarr",
+      "detail": "",
+      "accept": [
+        "pape matar sarr",
+        "pape sarr",
+        "sarr"
+      ]
+    },
+    {
+      "display": "Brennan Johnson",
+      "detail": "",
+      "accept": [
+        "brennan johnson",
+        "johnson"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "",
+      "accept": [
+        "richarlison"
+      ]
+    }
+  ]
+}

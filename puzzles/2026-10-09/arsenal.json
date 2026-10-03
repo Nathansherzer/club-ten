@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-09",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players who started for Arsenal in the 2006 Champions League final",
+  "note": "vs Barcelona · 2006 Champions League final · goalkeeper excluded · substitutes don't count · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Emmanuel Eboué",
+      "detail": "",
+      "accept": [
+        "emmanuel eboue",
+        "emmanuel eboué",
+        "eboue",
+        "eboué"
+      ]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "",
+      "accept": [
+        "kolo toure",
+        "kolo touré",
+        "toure",
+        "touré"
+      ]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "",
+      "accept": [
+        "sol campbell",
+        "campbell"
+      ]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "",
+      "accept": [
+        "ashley cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "",
+      "accept": [
+        "robert pires",
+        "robert pirès",
+        "pires",
+        "pirès"
+      ]
+    },
+    {
+      "display": "Gilberto Silva",
+      "detail": "",
+      "accept": [
+        "gilberto silva",
+        "gilberto"
+      ]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "",
+      "accept": [
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas"
+      ]
+    },
+    {
+      "display": "Alexander Hleb",
+      "detail": "",
+      "accept": [
+        "alexander hleb",
+        "hleb"
+      ]
+    },
+    {
+      "display": "Freddie Ljungberg",
+      "detail": "",
+      "accept": [
+        "freddie ljungberg",
+        "ljungberg",
+        "frederick ljungberg"
+      ]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    }
+  ]
+}

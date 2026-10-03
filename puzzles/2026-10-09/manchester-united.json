@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-09",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 outfield players who started for Man United in the 1999 Champions League final",
+  "note": "vs Bayern Munich · 1999 Champions League final · goalkeeper excluded · substitutes don't count · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gary Neville",
+      "detail": "",
+      "accept": [
+        "gary neville",
+        "neville"
+      ]
+    },
+    {
+      "display": "Ronny Johnsen",
+      "detail": "",
+      "accept": [
+        "ronny johnsen",
+        "johnsen"
+      ]
+    },
+    {
+      "display": "Jaap Stam",
+      "detail": "",
+      "accept": [
+        "jaap stam",
+        "stam"
+      ]
+    },
+    {
+      "display": "Denis Irwin",
+      "detail": "",
+      "accept": [
+        "denis irwin",
+        "irwin"
+      ]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "",
+      "accept": [
+        "david beckham",
+        "beckham"
+      ]
+    },
+    {
+      "display": "Nicky Butt",
+      "detail": "",
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
+    },
+    {
+      "display": "Jesper Blomqvist",
+      "detail": "",
+      "accept": [
+        "jesper blomqvist",
+        "blomqvist"
+      ]
+    },
+    {
+      "display": "Dwight Yorke",
+      "detail": "",
+      "accept": [
+        "dwight yorke",
+        "yorke"
+      ]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "",
+      "accept": [
+        "andy cole",
+        "cole"
+      ]
+    }
+  ]
+}

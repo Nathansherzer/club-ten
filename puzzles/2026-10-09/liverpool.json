@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-09",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players who started for Liverpool in the 2005 Champions League final",
+  "note": "vs AC Milan · 2005 Champions League final (Istanbul) · goalkeeper excluded · substitutes don't count · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Steve Finnan",
+      "detail": "",
+      "accept": [
+        "steve finnan",
+        "finnan"
+      ]
+    },
+    {
+      "display": "Jamie Carragher",
+      "detail": "",
+      "accept": [
+        "jamie carragher",
+        "carragher"
+      ]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "",
+      "accept": [
+        "sami hyypia",
+        "sami hyypiä",
+        "hyypia",
+        "hyypiä"
+      ]
+    },
+    {
+      "display": "Djimi Traoré",
+      "detail": "",
+      "accept": [
+        "djimi traore",
+        "djimi traoré",
+        "traore",
+        "traoré"
+      ]
+    },
+    {
+      "display": "Xabi Alonso",
+      "detail": "",
+      "accept": [
+        "xabi alonso",
+        "alonso"
+      ]
+    },
+    {
+      "display": "Luis García",
+      "detail": "",
+      "accept": [
+        "luis garcia",
+        "luis garcía",
+        "garcia",
+        "garcía"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "",
+      "accept": [
+        "steven gerrard",
+        "gerrard"
+      ]
+    },
+    {
+      "display": "John Arne Riise",
+      "detail": "",
+      "accept": [
+        "john arne riise",
+        "riise"
+      ]
+    },
+    {
+      "display": "Harry Kewell",
+      "detail": "",
+      "accept": [
+        "harry kewell",
+        "kewell"
+      ]
+    },
+    {
+      "display": "Milan Baroš",
+      "detail": "",
+      "accept": [
+        "milan baros",
+        "milan baroš",
+        "baros",
+        "baroš"
+      ]
+    }
+  ]
+}

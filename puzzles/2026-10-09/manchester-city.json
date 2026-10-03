@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-09",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players who started for Man City in the 2021 Champions League final",
+  "note": "vs Chelsea · 2021 Champions League final · goalkeeper excluded · substitutes don't count · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Kyle Walker",
+      "detail": "",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
+      "display": "John Stones",
+      "detail": "",
+      "accept": [
+        "john stones",
+        "stones"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Oleksandr Zinchenko",
+      "detail": "",
+      "accept": [
+        "oleksandr zinchenko",
+        "zinchenko"
+      ]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "",
+      "accept": [
+        "bernardo silva",
+        "bernardo"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "",
+      "accept": [
+        "ilkay gundogan",
+        "İlkay gündoğan",
+        "gundogan",
+        "gündoğan"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "",
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    }
+  ]
+}
