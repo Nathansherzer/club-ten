@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-12",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most Premier League goals for Chelsea, excluding penalties",
+  "note": "Premier League only, 1992/93 through 2025/26 · goals for the club only · ranked by total goals minus penalties scored",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "106 non-penalty goals (147 total, 41 penalties)",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "100 non-penalty goals (104 total, 4 penalties)",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "68 non-penalty goals (85 total, 17 penalties)",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "58 non-penalty goals (59 total, 1 penalties)",
+      "accept": [
+        "gianfranco zola",
+        "zola"
+      ]
+    },
+    {
+      "display": "Jimmy Floyd Hasselbaink",
+      "detail": "57 non-penalty goals (69 total, 12 penalties)",
+      "accept": [
+        "jimmy floyd hasselbaink",
+        "hasselbaink",
+        "jimmy floyd"
+      ]
+    },
+    {
+      "display": "Eidur Gudjohnsen",
+      "detail": "52 non-penalty goals (54 total, 2 penalties)",
+      "accept": [
+        "eidur gudjohnsen",
+        "gudjohnsen"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "51 non-penalty goals (52 total, 1 penalties)",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    },
+    {
+      "display": "John Terry",
+      "detail": "41 non-penalty goals (41 total, 0 penalties)",
+      "accept": [
+        "john terry",
+        "terry"
+      ]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "38 non-penalty goals (38 total, 0 penalties)",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
+    },
+    {
+      "display": "Salomon Kalou",
+      "detail": "36 non-penalty goals (36 total, 0 penalties)",
+      "accept": [
+        "salomon kalou",
+        "kalou"
+      ]
+    }
+  ]
+}

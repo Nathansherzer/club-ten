@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-12",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most Premier League goals for Liverpool, excluding penalties",
+  "note": "Premier League only, 1992/93 through 2025/26 · goals for the club only · ranked by total goals minus penalties scored",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "156 non-penalty goals (191 total, 35 penalties)",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "114 non-penalty goals (128 total, 14 penalties)",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "107 non-penalty goals (118 total, 11 penalties)",
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "90 non-penalty goals (90 total, 0 penalties)",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "88 non-penalty goals (120 total, 32 penalties)",
+      "accept": [
+        "steven gerrard",
+        "gerrard"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "80 non-penalty goals (82 total, 2 penalties)",
+      "accept": [
+        "roberto firmino",
+        "firmino"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "69 non-penalty goals (69 total, 0 penalties)",
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "65 non-penalty goals (65 total, 0 penalties)",
+      "accept": [
+        "fernando torres",
+        "torres"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "49 non-penalty goals (50 total, 1 penalties)",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "47 non-penalty goals (47 total, 0 penalties)",
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
+    }
+  ]
+}

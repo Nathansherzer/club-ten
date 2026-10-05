@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-12",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most Premier League goals for Man City, excluding penalties",
+  "note": "Premier League only, 1992/93 through 2025/26 · goals for the club only · ranked by total goals minus penalties scored · De Bruyne ranks above Foden on the appearances tiebreaker (285 vs 225 City PL appearances)",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sergio Agüero",
+      "detail": "157 non-penalty goals (184 total, 27 penalties)",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "92 non-penalty goals (112 total, 20 penalties)",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "88 non-penalty goals (91 total, 3 penalties)",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "68 non-penalty goals (72 total, 4 penalties)",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "68 non-penalty goals (68 total, 0 penalties)",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "60 non-penalty goals (60 total, 0 penalties)",
+      "accept": [
+        "david silva",
+        "silva"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "55 non-penalty goals (58 total, 3 penalties)",
+      "accept": [
+        "gabriel jesus",
+        "gabriel jesús",
+        "jesus",
+        "jesús"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "51 non-penalty goals (62 total, 11 penalties)",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "50 non-penalty goals (50 total, 0 penalties)",
+      "accept": [
+        "edin dzeko",
+        "edin džeko",
+        "dzeko",
+        "džeko"
+      ]
+    },
+    {
+      "display": "Carlos Tévez",
+      "detail": "46 non-penalty goals (58 total, 12 penalties)",
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez",
+        "tévez"
+      ]
+    }
+  ]
+}

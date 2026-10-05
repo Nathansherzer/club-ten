@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-12",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most Premier League goals for Spurs, excluding penalties",
+  "note": "Premier League only, 1992/93 through 2025/26 · goals for the club only · ranked by total goals minus penalties scored",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "180 non-penalty goals (213 total, 33 penalties)",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "123 non-penalty goals (127 total, 4 penalties)",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "heung-min son",
+        "son"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "87 non-penalty goals (91 total, 4 penalties)",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "79 non-penalty goals (97 total, 18 penalties)",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "76 non-penalty goals (91 total, 15 penalties)",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "53 non-penalty goals (53 total, 0 penalties)",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "51 non-penalty goals (51 total, 0 penalties)",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "48 non-penalty goals (51 total, 3 penalties)",
+      "accept": [
+        "dele alli",
+        "dele"
+      ]
+    },
+    {
+      "display": "Chris Armstrong",
+      "detail": "47 non-penalty goals (48 total, 1 penalties)",
+      "accept": [
+        "chris armstrong",
+        "armstrong"
+      ]
+    },
+    {
+      "display": "Steffen Iversen",
+      "detail": "36 non-penalty goals (36 total, 0 penalties)",
+      "accept": [
+        "steffen iversen",
+        "iversen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-12",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most Premier League goals for Arsenal, excluding penalties",
+  "note": "Premier League only, 1992/93 through 2025/26 · goals for the club only · ranked by total goals minus penalties scored",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail": "152 non-penalty goals (175 total, 23 penalties)",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "88 non-penalty goals (104 total, 16 penalties)",
+      "accept": [
+        "ian wright",
+        "wright",
+        "wrighty"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "87 non-penalty goals (96 total, 9 penalties)",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "82 non-penalty goals (87 total, 5 penalties)",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "71 non-penalty goals (73 total, 2 penalties)",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "65 non-penalty goals (65 total, 0 penalties)",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "59 non-penalty goals (68 total, 9 penalties)",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba",
+        "pea"
+      ]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "58 non-penalty goals (62 total, 4 penalties)",
+      "accept": [
+        "robert pires",
+        "robert pirès",
+        "pires",
+        "pirès"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "57 non-penalty goals (60 total, 3 penalties)",
+      "accept": [
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "48 non-penalty goals (60 total, 12 penalties)",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    }
+  ]
+}

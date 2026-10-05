@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-12",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most Premier League goals for Man United, excluding penalties",
+  "note": "Premier League only, 1992/93 through 2025/26 · goals for the club only · ranked by total goals minus penalties scored · Beckham ranks above Martial on the appearances tiebreaker (265 vs 209 United PL appearances)",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail": "163 non-penalty goals (183 total, 20 penalties)",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "107 non-penalty goals (109 total, 2 penalties)",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "106 non-penalty goals (107 total, 1 penalties)",
+      "accept": [
+        "paul scholes",
+        "scholes"
+      ]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "93 non-penalty goals (93 total, 0 penalties)",
+      "accept": [
+        "andy cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "91 non-penalty goals (91 total, 0 penalties)",
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole"
+      ]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "89 non-penalty goals (103 total, 14 penalties)",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "79 non-penalty goals (87 total, 8 penalties)",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Ruud van Nistelrooy",
+      "detail": "77 non-penalty goals (95 total, 18 penalties)",
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy"
+      ]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "60 non-penalty goals (62 total, 2 penalties)",
+      "accept": [
+        "david beckham",
+        "beckham"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "60 non-penalty goals (63 total, 3 penalties)",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    }
+  ]
+}
