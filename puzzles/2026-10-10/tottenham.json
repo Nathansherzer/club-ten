@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-10",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 different players who scored Spurs' fastest Premier League goals, ranked by seconds elapsed from kick-off",
+  "note": "Premier League only, 1992/93-5 Oct 2026 · ranked by seconds from kickoff · own goals and 2nd-half restarts excluded · a player's qualifying goals are grouped under one slot · Kane's three qualifying goals all shown · Kane and Son tied at 45s, accept either order · King (9.82s) and Eriksen (10.54s) rounded to 10s/11s · Eriksen's goal was played at Wembley",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ledley King",
+      "detail": "10 seconds vs Bradford City (A), 9 December 2000",
+      "accept": [
+        "ledley king",
+        "king"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "11 seconds vs Manchester United (H), 31 January 2018",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "34 seconds vs Everton (H), 7 April 2013",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "James Maddison",
+      "detail": "36 seconds vs Southampton (A), 15 December 2024",
+      "accept": [
+        "james maddison",
+        "maddison"
+      ]
+    },
+    {
+      "display": "Danny Murphy",
+      "detail": "41 seconds vs Portsmouth (H), 1 October 2006",
+      "accept": [
+        "danny murphy",
+        "murphy"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "Fastest: 45 seconds vs Bournemouth (H), 20 March 2016 · also 47s vs Liverpool (A) 27 Oct 2019; 58s vs Leicester City (A) 26 Dec 2014",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "45 seconds vs West Ham United (H), 18 October 2020",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "heung-min son",
+        "son"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "51 seconds vs Manchester United (H), 12 September 2009",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    },
+    {
+      "display": "Steffen Iversen",
+      "detail": "54 seconds vs Southampton (H), 26 December 1996",
+      "accept": [
+        "steffen iversen",
+        "iversen"
+      ]
+    },
+    {
+      "display": "Tanguy Ndombele",
+      "detail": "58 seconds vs Wolverhampton Wanderers (A), 27 December 2020",
+      "accept": [
+        "tanguy ndombele",
+        "ndombele"
+      ]
+    }
+  ]
+}

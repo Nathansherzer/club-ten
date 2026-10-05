@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-10",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 different players who scored Chelsea's fastest Premier League goals, ranked by seconds elapsed from kick-off",
+  "note": "Premier League only, 1992/93-5 Oct 2026 · ranked by seconds from kickoff · own goals and 2nd-half restarts excluded · a player's qualifying goals are grouped under one slot · Costa (35s) and Duff (36s) are reversed in some Chelsea retrospectives (37s/35s) - accept either order · Sturridge's 46s (11v11) is also reported as 45s elsewhere, his 10th-place spot is unaffected",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Spencer",
+      "detail": "19 seconds vs Leicester City (H), 8 October 1994",
+      "accept": [
+        "john spencer",
+        "spencer"
+      ]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "24 seconds vs Nottingham Forest (H), 12 September 1998",
+      "accept": [
+        "gianfranco zola",
+        "zola"
+      ]
+    },
+    {
+      "display": "Gus Poyet",
+      "detail": "28 seconds vs Manchester United (H), 3 October 1999",
+      "accept": [
+        "gustavo poyet",
+        "gus poyet",
+        "poyet"
+      ]
+    },
+    {
+      "display": "Eidur Gudjohnsen",
+      "detail": "29 seconds vs Arsenal (H), 21 February 2004",
+      "accept": [
+        "eidur gudjohnsen",
+        "gudjohnsen"
+      ]
+    },
+    {
+      "display": "Pedro",
+      "detail": "30 seconds vs Manchester United (H), 23 October 2016",
+      "accept": [
+        "pedro",
+        "pedro rodriguez",
+        "pedro rodríguez"
+      ]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "31 seconds vs Fulham (A), 24 August 2026",
+      "accept": [
+        "joao pedro",
+        "João pedro"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "35 seconds vs Everton (A), 30 August 2014",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    },
+    {
+      "display": "Damien Duff",
+      "detail": "36 seconds vs Bolton Wanderers (H), 20 November 2004",
+      "accept": [
+        "damien duff",
+        "duff"
+      ]
+    },
+    {
+      "display": "Kenedy",
+      "detail": "39 seconds vs Norwich City (A), 1 March 2016",
+      "accept": [
+        "kenedy"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "46 seconds vs Queens Park Rangers (H), 29 April 2012",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-10",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 different players who scored Liverpool's fastest Premier League goals, ranked by seconds elapsed from kick-off",
+  "note": "Premier League only, 1992/93-5 Oct 2026 · ranked by seconds from kickoff · own goals and 2nd-half restarts excluded · a player's qualifying goals are grouped under one slot · Fowler's two qualifying goals both shown · Suárez's Norwich goal was 29 September 2012 (Liverpool's own published list misprints this as August)",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Naby Keïta",
+      "detail": "15 seconds vs Huddersfield Town (H), 26 April 2019",
+      "accept": [
+        "naby keita",
+        "naby keïta",
+        "keita",
+        "keïta"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "Fastest: 27 seconds vs Middlesbrough (H), 14 December 1996 · also 49s vs Bolton Wanderers (A) 1 Nov 1997",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Maxi Rodríguez",
+      "detail": "30 seconds vs Fulham (A), 9 May 2011",
+      "accept": [
+        "maxi rodriguez",
+        "maxi rodríguez",
+        "rodriguez",
+        "rodríguez"
+      ]
+    },
+    {
+      "display": "Stan Collymore",
+      "detail": "33 seconds vs Wimbledon (H), 23 November 1996",
+      "accept": [
+        "stan collymore",
+        "collymore"
+      ]
+    },
+    {
+      "display": "Hugo Ekitiké",
+      "detail": "46 seconds vs Brighton & Hove Albion (H), 13 December 2025",
+      "accept": [
+        "hugo ekitike",
+        "hugo ekitiké",
+        "ekitike",
+        "ekitiké"
+      ]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "53 seconds vs Arsenal (H), 8 February 2014",
+      "accept": [
+        "martin skrtel",
+        "martin škrtel",
+        "skrtel",
+        "škrtel"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "66 seconds vs Aston Villa (H), 26 September 2015",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "67 seconds vs Norwich City (A), 29 September 2012",
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "76 seconds vs Newcastle United (H), 23 April 2016",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "83 seconds vs Stoke City (A), 26 December 2012",
+      "accept": [
+        "steven gerrard",
+        "gerrard"
+      ]
+    }
+  ]
+}

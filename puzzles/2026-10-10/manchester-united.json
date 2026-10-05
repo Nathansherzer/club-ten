@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-10",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 different players who scored Man United's fastest Premier League goals, ranked by seconds elapsed from kick-off",
+  "note": "Premier League only, 1992/93-5 Oct 2026 · ranked by seconds from kickoff · own goals and 2nd-half restarts excluded · a player's qualifying goals are grouped under one slot · Rooney's three qualifying goals all shown · McTominay and Butt tied at ~67s, accept either order · tenth place (Berbatov, 71s, confirmed) checked against Andy Cole's 1997 Coventry goal: independently corroborated at inside 73 seconds, i.e. slower than Berbatov, so the cutoff holds",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "16 seconds vs Southampton (H), 18 November 1995",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Ruud van Nistelrooy",
+      "detail": "31 seconds vs Southampton (H), 22 December 2001",
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "32 seconds vs West Ham United (H), 28 November 2012",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "Javier Hernández",
+      "detail": "36 seconds vs Chelsea (H), 8 May 2011",
+      "accept": [
+        "javier hernandez",
+        "javier hernández",
+        "hernandez",
+        "hernández",
+        "chicharito"
+      ]
+    },
+    {
+      "display": "Rasmus Højlund",
+      "detail": "37 seconds vs Luton Town (A), 18 February 2024",
+      "accept": [
+        "rasmus hojlund",
+        "rasmus højlund",
+        "hojlund",
+        "højlund"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "Fastest: 52 seconds vs Queens Park Rangers (A), 18 December 2011 · also 54s vs Wigan Athletic (H) 14 Jan 2009; 54s vs Aston Villa (H) 1 Feb 2011",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "62 seconds vs Liverpool (A), 19 October 2025",
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
+    },
+    {
+      "display": "Scott McTominay",
+      "detail": "67 seconds vs Leeds United (H), 20 December 2020",
+      "accept": [
+        "scott mctominay",
+        "mctominay"
+      ]
+    },
+    {
+      "display": "Nicky Butt",
+      "detail": "~67 seconds vs Liverpool (H), 1 October 1995",
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "71 seconds vs Blackburn Rovers (H), 27 November 2010",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    }
+  ]
+}

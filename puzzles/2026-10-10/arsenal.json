@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-10",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 different players who scored Arsenal's fastest Premier League goals, ranked by seconds elapsed from kick-off",
+  "note": "Premier League only, 1992/93-5 Oct 2026 · ranked by seconds from kickoff · own goals and 2nd-half restarts excluded · a player's qualifying goals are grouped under one slot · Walcott's Newcastle goal is reported 42-44s (shown as ~43s), but his ranking uses his confirmed 20s goal · tenth place (Bergkamp, 70s, independently confirmed) is provisional: Eduardo's Jan 2008 West Ham goal is reported anywhere from inside-70s to 72s across sources, with no single definitive timing to confirm or rule him out",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Theo Walcott",
+      "detail": "Fastest: 20 seconds vs Queens Park Rangers (A), 4 May 2013 · also ~43s vs Newcastle United (A) 5 Feb 2011; 52s vs Everton (A) 28 Nov 2012",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "29 seconds vs Sunderland (H), 16 October 2011",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "Marouane Chamakh",
+      "detail": "37 seconds vs Wolverhampton Wanderers (A), 10 November 2010",
+      "accept": [
+        "marouane chamakh",
+        "chamakh"
+      ]
+    },
+    {
+      "display": "Lee Dixon",
+      "detail": "44 seconds vs Leeds United (H), 26 October 1996",
+      "accept": [
+        "lee dixon",
+        "dixon"
+      ]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "58 seconds vs Reading (A), 22 October 2006",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "58 seconds vs Liverpool (H), 9 October 2022",
+      "accept": [
+        "gabriel martinelli",
+        "martinelli"
+      ]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "63 seconds vs Sunderland (H), 30 March 2002",
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
+    },
+    {
+      "display": "Yossi Benayoun",
+      "detail": "66 seconds vs Norwich City (H), 5 May 2012",
+      "accept": [
+        "yossi benayoun",
+        "benayoun"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "66 seconds vs Brighton & Hove Albion (A), 31 December 2022",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "70 seconds vs Blackburn Rovers (A), 13 April 1998 [provisional cutoff]",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
+    }
+  ]
+}

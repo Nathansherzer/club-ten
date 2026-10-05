@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-10",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 different players who scored Man City's fastest Premier League goals, ranked by seconds elapsed from kick-off",
+  "note": "Premier League only, 1992/93-5 Oct 2026 · ranked by seconds from kickoff · own goals and 2nd-half restarts excluded · a player's qualifying goals are grouped under one slot · Agüero's two qualifying goals both shown",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jesús Navas",
+      "detail": "14 seconds vs Tottenham Hotspur (H), 24 November 2013",
+      "accept": [
+        "jesus navas",
+        "jesús navas",
+        "navas"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "Fastest: 24 seconds vs Newcastle United (A), 29 January 2019 · also 46s vs Arsenal (H) 3 Feb 2019",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero"
+      ]
+    },
+    {
+      "display": "Geovanni",
+      "detail": "29 seconds vs Wigan Athletic (A), 1 December 2007",
+      "accept": [
+        "geovanni"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "38 seconds vs Watford (H), 2 January 2018",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "David Sommeil",
+      "detail": "42 seconds vs Birmingham City (H), 17 December 2005",
+      "accept": [
+        "david sommeil",
+        "sommeil"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "43 seconds vs Manchester United (A), 25 March 2014",
+      "accept": [
+        "edin dzeko",
+        "edin džeko",
+        "dzeko",
+        "džeko"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "52 seconds vs Watford (H), 21 September 2019",
+      "accept": [
+        "david silva",
+        "silva"
+      ]
+    },
+    {
+      "display": "Jack Grealish",
+      "detail": "55 seconds vs Wolverhampton Wanderers (A), 17 September 2022",
+      "accept": [
+        "jack grealish",
+        "grealish"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "59 seconds vs Leeds United (H), 29 November 2025",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "68 seconds vs Brighton & Hove Albion (H), 31 August 2019",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    }
+  ]
+}
