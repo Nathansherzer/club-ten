@@ -3,8 +3,8 @@
   "club": "manchester-city",
   "clubLabel": "Man City:",
   "clubShort": "Man City",
-  "question": "name the last 10 teams to knock Man City out of the League Cup, from most recent backwards",
-  "note": "one entry per elimination, not per distinct opponent, so the same club can appear more than once · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2026/27 to date · skips City's own winning seasons (2013/14, 2015/16, 2017/18, 2018/19, 2019/20, 2020/21, 2025/26), which produced no eliminator",
+  "question": "name the last 10 different teams to knock Man City out of the League Cup, from most recent backwards",
+  "note": "one entry per team, not per elimination: if a team eliminated City more than once, only its most recent meeting counts, and we go back further to find 10 distinct teams · skips City's own winning seasons (2013/14, 2015/16, 2017/18, 2018/19, 2019/20, 2020/21, 2025/26), which produced no eliminator · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2024/25",
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
@@ -53,15 +53,6 @@
       ]
     },
     {
-      "display": "Newcastle United",
-      "detail": "2014/15 · R4",
-      "accept": [
-        "newcastle united",
-        "newcastle",
-        "toon"
-      ]
-    },
-    {
       "display": "Aston Villa",
       "detail": "2012/13 · R3 · AET",
       "accept": [
@@ -86,12 +77,20 @@
       ]
     },
     {
-      "display": "Manchester United",
-      "detail": "2009/10 · SF",
+      "display": "Brighton & Hove Albion",
+      "detail": "2008/09 · R3 · Penalties",
       "accept": [
-        "manchester united",
-        "man united",
-        "man utd"
+        "brighton and hove albion",
+        "brighton",
+        "brighton & hove albion",
+        "bha"
+      ]
+    },
+    {
+      "display": "Chesterfield",
+      "detail": "2006/07 · R2",
+      "accept": [
+        "chesterfield"
       ]
     }
   ]

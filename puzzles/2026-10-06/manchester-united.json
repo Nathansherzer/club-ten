@@ -3,8 +3,8 @@
   "club": "manchester-united",
   "clubLabel": "Man United:",
   "clubShort": "Man United",
-  "question": "name the last 10 teams to knock Man United out of the League Cup, from most recent backwards",
-  "note": "one entry per elimination, not per distinct opponent, so the same club can appear more than once · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2026/27 to date",
+  "question": "name the last 10 different teams to knock Man United out of the League Cup, from most recent backwards",
+  "note": "one entry per team, not per elimination: if a team eliminated United more than once, only its most recent meeting counts, and we go back further to find 10 distinct teams · skips United's own winning seasons (2022/23, 2016/17), which produced no eliminator · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2026/27 to date",
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
@@ -62,14 +62,6 @@
       ]
     },
     {
-      "display": "Manchester City",
-      "detail": "2019/20 · SF",
-      "accept": [
-        "manchester city",
-        "man city"
-      ]
-    },
-    {
       "display": "Derby County",
       "detail": "2018/19 · R3 · Penalties",
       "accept": [
@@ -91,6 +83,15 @@
         "middlesbrough",
         "boro",
         "middlesboro"
+      ]
+    },
+    {
+      "display": "MK Dons",
+      "detail": "2014/15 · R2",
+      "accept": [
+        "mk dons",
+        "milton keynes dons",
+        "milton keynes"
       ]
     }
   ]

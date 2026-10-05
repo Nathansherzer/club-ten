@@ -3,8 +3,8 @@
   "club": "chelsea",
   "clubLabel": "Chelsea:",
   "clubShort": "Chelsea",
-  "question": "name the last 10 teams to knock Chelsea out of the League Cup, from most recent backwards",
-  "note": "one entry per elimination, not per distinct opponent, so the same club can appear more than once · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2026/27 to date",
+  "question": "name the last 10 different teams to knock Chelsea out of the League Cup, from most recent backwards",
+  "note": "one entry per team, not per elimination: if a team eliminated Chelsea more than once, only its most recent meeting counts, and we go back further to find 10 distinct teams · skips Chelsea's own winning season (2014/15), which produced no eliminator · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2025/26",
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
@@ -41,13 +41,6 @@
       ]
     },
     {
-      "display": "Liverpool",
-      "detail": "2021/22 · Final · Penalties",
-      "accept": [
-        "liverpool"
-      ]
-    },
-    {
       "display": "Tottenham Hotspur",
       "detail": "2020/21 · R4 · Penalties",
       "accept": [
@@ -66,28 +59,35 @@
       ]
     },
     {
-      "display": "Manchester City",
-      "detail": "2018/19 · Final · Penalties",
-      "accept": [
-        "manchester city",
-        "man city"
-      ]
-    },
-    {
-      "display": "Arsenal",
-      "detail": "2017/18 · SF",
-      "accept": [
-        "arsenal",
-        "gunners"
-      ]
-    },
-    {
       "display": "West Ham United",
       "detail": "2016/17 · R4",
       "accept": [
         "west ham united",
         "west ham",
         "hammers"
+      ]
+    },
+    {
+      "display": "Stoke City",
+      "detail": "2015/16 · R4 · Penalties",
+      "accept": [
+        "stoke city",
+        "stoke"
+      ]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "2013/14 · QF",
+      "accept": [
+        "sunderland"
+      ]
+    },
+    {
+      "display": "Swansea City",
+      "detail": "2012/13 · SF",
+      "accept": [
+        "swansea city",
+        "swansea"
       ]
     }
   ]

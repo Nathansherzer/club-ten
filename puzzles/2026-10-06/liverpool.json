@@ -3,8 +3,8 @@
   "club": "liverpool",
   "clubLabel": "Liverpool:",
   "clubShort": "Liverpool",
-  "question": "name the last 10 teams to knock Liverpool out of the League Cup, from most recent backwards",
-  "note": "one entry per elimination, not per distinct opponent, so the same club can appear more than once · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2026/27 to date",
+  "question": "name the last 10 different teams to knock Liverpool out of the League Cup, from most recent backwards",
+  "note": "one entry per team, not per elimination: if a team eliminated Liverpool more than once, only its most recent meeting counts, and we go back further to find 10 distinct teams · skips Liverpool's own winning season (2011/12), which produced no eliminator · newest first · League Cup, includes seasons before the Carabao Cup naming rights · through 2025/26",
   "placeholder": "Type a club name…",
   "type": "clubs",
   "answers": [
@@ -74,18 +74,20 @@
       ]
     },
     {
-      "display": "Manchester City",
-      "detail": "2015/16 · Final · Penalties",
+      "display": "Manchester United",
+      "detail": "2013/14 · R3",
       "accept": [
-        "manchester city",
-        "man city"
+        "manchester united",
+        "man united",
+        "man utd"
       ]
     },
     {
-      "display": "Chelsea",
-      "detail": "2014/15 · SF",
+      "display": "Swansea City",
+      "detail": "2012/13 · R4",
       "accept": [
-        "chelsea"
+        "swansea city",
+        "swansea"
       ]
     }
   ]
