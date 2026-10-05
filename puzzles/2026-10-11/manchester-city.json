@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-11",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 different players with the most Premier League goals in a single season for Man City",
+  "note": "Premier League only, through completed 2025/26 season · each player's best single season for the club, counted once · ties broken by total Premier League appearances for the club · De Bruyne wins the cutoff tie against Rösler on total City PL appearances (285 vs 79)",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "36 goals · 2022/23",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "26 goals · 2014/15",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero"
+      ]
+    },
+    {
+      "display": "Carlos Tévez",
+      "detail": "23 goals · 2009/10",
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez",
+        "tévez"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "20 goals · 2013/14",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "20 goals · 2019/20",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "19 goals · 2023/24",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "16 goals · 2013/14",
+      "accept": [
+        "edin dzeko",
+        "edin džeko",
+        "dzeko",
+        "džeko"
+      ]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "16 goals · 2003/04",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
+    },
+    {
+      "display": "David White",
+      "detail": "16 goals · 1992/93",
+      "accept": [
+        "david white",
+        "white"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "15 goals · 2021/22",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    }
+  ]
+}

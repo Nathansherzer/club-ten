@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-11",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 different players with the most Premier League goals in a single season for Spurs",
+  "note": "Premier League only, through completed 2025/26 season · each player's best single season for the club, counted once · ties broken by total Premier League appearances for the club · Kane's 30-goal seasons (2017/18 and 2022/23) are a genuine tie within his own career",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "30 goals · 2017/18, 2022/23",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "23 goals · 2021/22",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "heung-min son",
+        "son"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "21 goals · 1992/93",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "21 goals · 2012/13",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Jürgen Klinsmann",
+      "detail": "20 goals · 1994/95",
+      "accept": [
+        "jurgen klinsmann",
+        "jürgen klinsmann",
+        "klinsmann"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "18 goals · 2009/10",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "18 goals · 2016/17",
+      "accept": [
+        "dele alli",
+        "dele"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "17 goals · 2011/12",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "16 goals · 2005/06",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Chris Armstrong",
+      "detail": "15 goals · 1995/96",
+      "accept": [
+        "chris armstrong",
+        "armstrong"
+      ]
+    }
+  ]
+}

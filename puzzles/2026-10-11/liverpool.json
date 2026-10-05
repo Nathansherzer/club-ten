@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-11",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 different players with the most Premier League goals in a single season for Liverpool",
+  "note": "Premier League only, through completed 2025/26 season · each player's best single season for the club, counted once · ties broken by total Premier League appearances for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "32 goals · 2017/18",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "31 goals · 2013/14",
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "28 goals · 1995/96",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "24 goals · 2007/08",
+      "accept": [
+        "fernando torres",
+        "torres"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "22 goals · 2018/19",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "21 goals · 2013/14",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "19 goals · 2001/02, 2002/03",
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "16 goals · 2008/09",
+      "accept": [
+        "steven gerrard",
+        "gerrard"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "15 goals · 2017/18",
+      "accept": [
+        "roberto firmino",
+        "firmino"
+      ]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "15 goals · 2021/22",
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-11",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 different players with the most Premier League goals in a single season for Arsenal",
+  "note": "Premier League only, through completed 2025/26 season · each player's best single season for the club, counted once · ties broken by total Premier League appearances for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail": "30 goals · 2003/04",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "30 goals · 2011/12",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "24 goals · 2016/17",
+      "accept": [
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "24 goals · 2007/08",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "23 goals · 1993/94, 1996/97",
+      "accept": [
+        "ian wright",
+        "wright",
+        "wrighty"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "22 goals · 2018/19, 2019/20",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba",
+        "pea"
+      ]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "17 goals · 1998/99",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "16 goals · 1997/98",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "16 goals · 2023/24",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "16 goals · 2013/14, 2015/16",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    }
+  ]
+}

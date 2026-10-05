@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-11",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 different players with the most Premier League goals in a single season for Man United",
+  "note": "Premier League only, through completed 2025/26 season · each player's best single season for the club, counted once · ties broken by total Premier League appearances for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "31 goals · 2007/08",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "27 goals · 2011/12",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "26 goals · 2012/13",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "Ruud van Nistelrooy",
+      "detail": "25 goals · 2002/03",
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "20 goals · 2010/11",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    },
+    {
+      "display": "Dwight Yorke",
+      "detail": "20 goals · 1999/00",
+      "accept": [
+        "dwight yorke",
+        "yorke"
+      ]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "19 goals · 1999/00",
+      "accept": [
+        "andy cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "18 goals · 1996/97",
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "18 goals · 2020/21",
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
+    },
+    {
+      "display": "Eric Cantona",
+      "detail": "18 goals · 1993/94",
+      "accept": [
+        "eric cantona",
+        "cantona"
+      ]
+    }
+  ]
+}

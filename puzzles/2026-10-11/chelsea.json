@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-11",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 different players with the most Premier League goals in a single season for Chelsea",
+  "note": "Premier League only, through completed 2025/26 season · each player's best single season for the club, counted once · ties broken by total Premier League appearances for the club · Zola wins the cutoff tie against Gudjohnsen and Jackson on total Chelsea PL appearances (229 vs 186 vs 65)",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Didier Drogba",
+      "detail": "29 goals · 2009/10",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Jimmy Floyd Hasselbaink",
+      "detail": "23 goals · 2000/01, 2001/02",
+      "accept": [
+        "jimmy floyd hasselbaink",
+        "hasselbaink",
+        "jimmy floyd"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "22 goals · 2009/10",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "22 goals · 2023/24",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "20 goals · 2014/15, 2016/17",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "19 goals · 2008/09",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "16 goals · 2016/17, 2018/19",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Tammy Abraham",
+      "detail": "15 goals · 2019/20",
+      "accept": [
+        "tammy abraham",
+        "abraham"
+      ]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "15 goals · 2025/26",
+      "accept": [
+        "joao pedro",
+        "João pedro"
+      ]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "14 goals · 2002/03",
+      "accept": [
+        "gianfranco zola",
+        "zola"
+      ]
+    }
+  ]
+}
