@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-13",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most Premier League goals for Arsenal against the other Big Six clubs",
+  "note": "Premier League only, through 2025/26 · goals for the club against the other Big Six clubs (Arsenal, Chelsea, Liverpool, Man City, Man United, Spurs), including penalties · ties broken by total Premier League appearances for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail": "34 goals vs Big Six",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "18 goals vs Big Six",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "17 goals vs Big Six",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "17 goals vs Big Six",
+      "accept": [
+        "ian wright",
+        "wright",
+        "wrighty"
+      ]
+    },
+    {
+      "display": "Freddie Ljungberg",
+      "detail": "15 goals vs Big Six",
+      "accept": [
+        "freddie ljungberg",
+        "ljungberg"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "14 goals vs Big Six",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "14 goals vs Big Six",
+      "accept": [
+        "robert pires",
+        "robert pirès",
+        "pires",
+        "pirès"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "13 goals vs Big Six",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "13 goals vs Big Six",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "12 goals vs Big Six",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
+    }
+  ]
+}

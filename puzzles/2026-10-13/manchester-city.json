@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-13",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most Premier League goals for Man City against the other Big Six clubs",
+  "note": "Premier League only, through 2025/26 · goals for the club against the other Big Six clubs (Arsenal, Chelsea, Liverpool, Man City, Man United, Spurs), including penalties · ties broken by total Premier League appearances for the club · Sterling and Foden also tie on 225 City PL appearances each, but both already qualify so it doesn't affect the answer set · Touré wins the cutoff tie against Mahrez and Sané on total City PL appearances (230 vs 145 vs 90)",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sergio Agüero",
+      "detail": "44 goals vs Big Six",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "25 goals vs Big Six",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "23 goals vs Big Six",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "15 goals vs Big Six",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "15 goals vs Big Six",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "14 goals vs Big Six",
+      "accept": [
+        "ilkay gundogan",
+        "İlkay gündoğan",
+        "gundogan",
+        "gündoğan"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "13 goals vs Big Six",
+      "accept": [
+        "edin dzeko",
+        "edin džeko",
+        "dzeko",
+        "džeko"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "10 goals vs Big Six",
+      "accept": [
+        "david silva",
+        "silva"
+      ]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "10 goals vs Big Six",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "9 goals vs Big Six",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré"
+      ]
+    }
+  ]
+}

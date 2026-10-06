@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-13",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most Premier League goals for Man United against the other Big Six clubs",
+  "note": "Premier League only, through 2025/26 · goals for the club against the other Big Six clubs (Arsenal, Chelsea, Liverpool, Man City, Man United, Spurs), including penalties · ties broken by total Premier League appearances for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail": "40 goals vs Big Six",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "26 goals vs Big Six",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "21 goals vs Big Six",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "19 goals vs Big Six",
+      "accept": [
+        "paul scholes",
+        "scholes"
+      ]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "18 goals vs Big Six",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Ruud van Nistelrooy",
+      "detail": "18 goals vs Big Six",
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy"
+      ]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "15 goals vs Big Six",
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "15 goals vs Big Six",
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
+    },
+    {
+      "display": "Eric Cantona",
+      "detail": "15 goals vs Big Six",
+      "accept": [
+        "eric cantona",
+        "cantona"
+      ]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "14 goals vs Big Six",
+      "accept": [
+        "david beckham",
+        "beckham"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-13",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most Premier League goals for Spurs against the other Big Six clubs",
+  "note": "Premier League only, through 2025/26 · goals for the club against the other Big Six clubs (Arsenal, Chelsea, Liverpool, Man City, Man United, Spurs), including penalties · ties broken by total Premier League appearances for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "39 goals vs Big Six",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "27 goals vs Big Six",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "heung-min son",
+        "son"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "15 goals vs Big Six",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "15 goals vs Big Six",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "13 goals vs Big Six",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "11 goals vs Big Six",
+      "accept": [
+        "dele alli",
+        "dele"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "10 goals vs Big Six",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "9 goals vs Big Six",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Chris Armstrong",
+      "detail": "9 goals vs Big Six",
+      "accept": [
+        "chris armstrong",
+        "armstrong"
+      ]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "8 goals vs Big Six",
+      "accept": [
+        "richarlison"
+      ]
+    }
+  ]
+}

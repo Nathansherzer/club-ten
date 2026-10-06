@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-13",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most Premier League goals for Liverpool against the other Big Six clubs",
+  "note": "Premier League only, through 2025/26 · goals for the club against the other Big Six clubs (Arsenal, Chelsea, Liverpool, Man City, Man United, Spurs), including penalties · ties broken by total Premier League appearances for the club · Coutinho wins the cutoff tie against Luis Díaz on total Liverpool PL appearances (152 vs 103)",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "49 goals vs Big Six",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "29 goals vs Big Six",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "25 goals vs Big Six",
+      "accept": [
+        "roberto firmino",
+        "firmino"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "22 goals vs Big Six",
+      "accept": [
+        "steven gerrard",
+        "gerrard"
+      ]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "20 goals vs Big Six",
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "20 goals vs Big Six",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "16 goals vs Big Six",
+      "accept": [
+        "fernando torres",
+        "torres"
+      ]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "13 goals vs Big Six",
+      "accept": [
+        "dirk kuyt",
+        "kuyt"
+      ]
+    },
+    {
+      "display": "Ian Rush",
+      "detail": "13 goals vs Big Six",
+      "accept": [
+        "ian rush",
+        "rush"
+      ]
+    },
+    {
+      "display": "Philippe Coutinho",
+      "detail": "12 goals vs Big Six",
+      "accept": [
+        "philippe coutinho",
+        "coutinho"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-13",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most Premier League goals for Chelsea against the other Big Six clubs",
+  "note": "Premier League only, through 2025/26 · goals for the club against the other Big Six clubs (Arsenal, Chelsea, Liverpool, Man City, Man United, Spurs), including penalties · ties broken by total Premier League appearances for the club · Alonso wins the cutoff tie against Tore André Flo on total Chelsea PL appearances (154 vs 112)",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jimmy Floyd Hasselbaink",
+      "detail": "25 goals vs Big Six",
+      "accept": [
+        "jimmy floyd hasselbaink",
+        "hasselbaink",
+        "jimmy floyd"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "22 goals vs Big Six",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "21 goals vs Big Six",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "17 goals vs Big Six",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "12 goals vs Big Six",
+      "accept": [
+        "gianfranco zola",
+        "zola"
+      ]
+    },
+    {
+      "display": "Joe Cole",
+      "detail": "11 goals vs Big Six",
+      "accept": [
+        "joe cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "John Terry",
+      "detail": "10 goals vs Big Six",
+      "accept": [
+        "john terry",
+        "terry"
+      ]
+    },
+    {
+      "display": "Eidur Gudjohnsen",
+      "detail": "10 goals vs Big Six",
+      "accept": [
+        "eidur gudjohnsen",
+        "gudjohnsen"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "10 goals vs Big Six",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Marcos Alonso",
+      "detail": "9 goals vs Big Six",
+      "accept": [
+        "marcos alonso",
+        "alonso"
+      ]
+    }
+  ]
+}
