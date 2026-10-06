@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-14",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the last 10 distinct players assigned Man United's No.14 shirt in the Premier League squad-number era, through the end of 2025/26",
+  "note": "Permanent Premier League squad-number allocations, 1993/94 to the end of 2025/26 · loan players count · each player appears once, ranked by their latest spell with that number · a match appearance in the shirt is not required · Gabriel Heinze was assigned No.14 in August 2007 but left before playing in it; he qualifies because this question counts squad-number allocations, not appearances",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Christian Eriksen",
+      "detail": "",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Jesse Lingard",
+      "detail": "",
+      "accept": [
+        "jesse lingard",
+        "lingard"
+      ]
+    },
+    {
+      "display": "Javier Hernández",
+      "detail": "",
+      "accept": [
+        "javier hernandez",
+        "javier hernández",
+        "hernandez",
+        "hernández",
+        "chicharito"
+      ]
+    },
+    {
+      "display": "Zoran Tošić",
+      "detail": "",
+      "accept": [
+        "zoran tosic",
+        "zoran tošić",
+        "tosic",
+        "tošić"
+      ]
+    },
+    {
+      "display": "Gabriel Heinze",
+      "detail": "",
+      "accept": [
+        "gabriel heinze",
+        "heinze"
+      ]
+    },
+    {
+      "display": "Alan Smith",
+      "detail": "",
+      "accept": [
+        "alan smith",
+        "smith"
+      ]
+    },
+    {
+      "display": "Tim Howard",
+      "detail": "",
+      "accept": [
+        "tim howard",
+        "howard"
+      ]
+    },
+    {
+      "display": "David May",
+      "detail": "",
+      "accept": [
+        "david may",
+        "may"
+      ]
+    },
+    {
+      "display": "Andy Goram",
+      "detail": "",
+      "accept": [
+        "andy goram",
+        "goram"
+      ]
+    },
+    {
+      "display": "Jordi Cruyff",
+      "detail": "",
+      "accept": [
+        "jordi cruyff",
+        "jordi cruijff",
+        "cruyff"
+      ]
+    }
+  ]
+}

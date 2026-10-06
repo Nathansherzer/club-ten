@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-14",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the last 10 distinct players assigned Spurs' No.11 shirt in the Premier League squad-number era, through the end of 2025/26",
+  "note": "Permanent Premier League squad-number allocations, 1993/94 to the end of 2025/26 · loan players count · each player appears once, ranked by their latest spell with that number · a match appearance in the shirt is not required · Bale's 2020/21 loan return was in No.9 (Lamela had No.11 by then), so it doesn't move him up this list",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mathys Tel",
+      "detail": "",
+      "accept": [
+        "mathys tel",
+        "tel"
+      ]
+    },
+    {
+      "display": "Bryan Gil",
+      "detail": "",
+      "accept": [
+        "bryan gil",
+        "gil"
+      ]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "",
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Rafael van der Vaart",
+      "detail": "",
+      "accept": [
+        "rafael van der vaart",
+        "van der vaart"
+      ]
+    },
+    {
+      "display": "Gilberto",
+      "detail": "",
+      "accept": [
+        "gilberto"
+      ]
+    },
+    {
+      "display": "Mido",
+      "detail": "",
+      "accept": [
+        "mido",
+        "ahmed hossam",
+        "ahmed hossam mido"
+      ]
+    },
+    {
+      "display": "Michael Brown",
+      "detail": "",
+      "accept": [
+        "michael brown",
+        "brown"
+      ]
+    },
+    {
+      "display": "Stéphane Dalmat",
+      "detail": "",
+      "accept": [
+        "stephane dalmat",
+        "stéphane dalmat",
+        "dalmat"
+      ]
+    },
+    {
+      "display": "Serhiy Rebrov",
+      "detail": "",
+      "accept": [
+        "serhiy rebrov",
+        "sergei rebrov",
+        "sergiy rebrov",
+        "sergey rebrov",
+        "rebrov"
+      ]
+    }
+  ]
+}

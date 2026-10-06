@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-14",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the last 10 distinct players assigned Man City's No.11 shirt in the Premier League squad-number era, through the end of 2025/26",
+  "note": "Permanent Premier League squad-number allocations, 1993/94 to the end of 2025/26 · loan players count · each player appears once, ranked by their latest spell with that number · a match appearance in the shirt is not required",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jérémy Doku",
+      "detail": "",
+      "accept": [
+        "jeremy doku",
+        "jérémy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Oleksandr Zinchenko",
+      "detail": "",
+      "accept": [
+        "oleksandr zinchenko",
+        "zinchenko"
+      ]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "",
+      "accept": [
+        "aleksandar kolarov",
+        "kolarov"
+      ]
+    },
+    {
+      "display": "Scott Sinclair",
+      "detail": "",
+      "accept": [
+        "scott sinclair",
+        "sinclair"
+      ]
+    },
+    {
+      "display": "Adam Johnson",
+      "detail": "",
+      "accept": [
+        "adam johnson",
+        "johnson"
+      ]
+    },
+    {
+      "display": "Elano",
+      "detail": "",
+      "accept": [
+        "elano"
+      ]
+    },
+    {
+      "display": "Darius Vassell",
+      "detail": "",
+      "accept": [
+        "darius vassell",
+        "vassell"
+      ]
+    },
+    {
+      "display": "Jon Macken",
+      "detail": "",
+      "accept": [
+        "jon macken",
+        "jonathan macken",
+        "macken"
+      ]
+    },
+    {
+      "display": "Terry Cooke",
+      "detail": "",
+      "accept": [
+        "terry cooke",
+        "cooke"
+      ]
+    },
+    {
+      "display": "Peter Beagrie",
+      "detail": "",
+      "accept": [
+        "peter beagrie",
+        "beagrie"
+      ]
+    }
+  ]
+}

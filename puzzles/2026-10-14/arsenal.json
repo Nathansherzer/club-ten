@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-14",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the last 10 distinct players assigned Arsenal's No.11 shirt in the Premier League squad-number era, through the end of 2025/26",
+  "note": "Permanent Premier League squad-number allocations, 1993/94 to the end of 2025/26 · loan players count · each player appears once, ranked by their latest spell with that number · a match appearance in the shirt is not required",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "",
+      "accept": [
+        "gabriel martinelli",
+        "martinelli"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "",
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
+    },
+    {
+      "display": "Lucas Torreira",
+      "detail": "",
+      "accept": [
+        "lucas torreira",
+        "torreira"
+      ]
+    },
+    {
+      "display": "Mesut Özil",
+      "detail": "",
+      "accept": [
+        "mesut ozil",
+        "mesut özil",
+        "ozil",
+        "özil"
+      ]
+    },
+    {
+      "display": "André Santos",
+      "detail": "",
+      "accept": [
+        "andre santos",
+        "andré santos",
+        "santos"
+      ]
+    },
+    {
+      "display": "Carlos Vela",
+      "detail": "",
+      "accept": [
+        "carlos vela",
+        "vela"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "Sylvain Wiltord",
+      "detail": "",
+      "accept": [
+        "sylvain wiltord",
+        "wiltord"
+      ]
+    },
+    {
+      "display": "Marc Overmars",
+      "detail": "",
+      "accept": [
+        "marc overmars",
+        "overmars"
+      ]
+    },
+    {
+      "display": "Nicolas Anelka",
+      "detail": "",
+      "accept": [
+        "nicolas anelka",
+        "anelka"
+      ]
+    }
+  ]
+}

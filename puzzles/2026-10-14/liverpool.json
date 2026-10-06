@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-14",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the last 10 distinct players assigned Liverpool's No.11 shirt in the Premier League squad-number era, through the end of 2025/26",
+  "note": "Permanent Premier League squad-number allocations, 1993/94 to the end of 2025/26 · loan players count · each player appears once, ranked by their latest spell with that number · a match appearance in the shirt is not required · Fowler is ranked by his 2006 return in No.11, before switching to No.9 that summer",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "",
+      "accept": [
+        "roberto firmino",
+        "firmino"
+      ]
+    },
+    {
+      "display": "Oussama Assaidi",
+      "detail": "",
+      "accept": [
+        "oussama assaidi",
+        "assaidi"
+      ]
+    },
+    {
+      "display": "Maxi Rodríguez",
+      "detail": "",
+      "accept": [
+        "maxi rodriguez",
+        "maxi rodríguez",
+        "maximiliano rodriguez",
+        "rodriguez",
+        "rodríguez"
+      ]
+    },
+    {
+      "display": "Albert Riera",
+      "detail": "",
+      "accept": [
+        "albert riera",
+        "riera"
+      ]
+    },
+    {
+      "display": "Yossi Benayoun",
+      "detail": "",
+      "accept": [
+        "yossi benayoun",
+        "benayoun"
+      ]
+    },
+    {
+      "display": "Mark González",
+      "detail": "",
+      "accept": [
+        "mark gonzalez",
+        "mark gonzález",
+        "gonzalez",
+        "gonzález"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Vladimír Šmicer",
+      "detail": "",
+      "accept": [
+        "vladimir smicer",
+        "vladimír šmicer",
+        "smicer",
+        "šmicer"
+      ]
+    },
+    {
+      "display": "Jamie Redknapp",
+      "detail": "",
+      "accept": [
+        "jamie redknapp",
+        "redknapp"
+      ]
+    }
+  ]
+}

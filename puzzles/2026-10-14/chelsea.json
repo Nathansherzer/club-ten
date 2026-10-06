@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-14",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the last 10 distinct players assigned Chelsea's No.11 shirt in the Premier League squad-number era, through the end of 2025/26",
+  "note": "Permanent Premier League squad-number allocations, 1993/94 to the end of 2025/26 · loan players count · each player appears once, ranked by their latest spell with that number · a match appearance in the shirt is not required · Drogba counts once, ranked by his 2014/15 return; João Félix's later return in No.14 doesn't affect his position here",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jamie Gittens",
+      "detail": "",
+      "accept": [
+        "jamie gittens",
+        "gittens",
+        "jamie bynoe-gittens",
+        "bynoe-gittens"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "João Félix",
+      "detail": "",
+      "accept": [
+        "joao felix",
+        "joão félix",
+        "felix",
+        "félix"
+      ]
+    },
+    {
+      "display": "Timo Werner",
+      "detail": "",
+      "accept": [
+        "timo werner",
+        "werner"
+      ]
+    },
+    {
+      "display": "Pedro",
+      "detail": "",
+      "accept": [
+        "pedro",
+        "pedro rodriguez",
+        "pedro rodríguez"
+      ]
+    },
+    {
+      "display": "Alexandre Pato",
+      "detail": "",
+      "accept": [
+        "alexandre pato",
+        "pato"
+      ]
+    },
+    {
+      "display": "Juan Cuadrado",
+      "detail": "",
+      "accept": [
+        "juan cuadrado",
+        "cuadrado"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Oscar",
+      "detail": "",
+      "accept": [
+        "oscar"
+      ]
+    },
+    {
+      "display": "Damien Duff",
+      "detail": "",
+      "accept": [
+        "damien duff",
+        "duff"
+      ]
+    }
+  ]
+}
