@@ -4,7 +4,7 @@
   "clubLabel": "Man United:",
   "clubShort": "Man United",
   "question": "name the 10 different players who scored Man United's fastest Premier League goals, ranked by seconds elapsed from kick-off",
-  "note": "Premier League only, 1992/93-5 Oct 2026 · ranked by seconds from kickoff · own goals and 2nd-half restarts excluded · a player's qualifying goals are grouped under one slot · Rooney's three qualifying goals all shown · McTominay and Butt tied at ~67s, accept either order · tenth place (Berbatov, 71s, confirmed) checked against Andy Cole's 1997 Coventry goal: independently corroborated at inside 73 seconds, i.e. slower than Berbatov, so the cutoff holds",
+  "note": "Premier League only, 1992/93-5 Oct 2026 · ranked by seconds from kickoff · own goals and 2nd-half restarts excluded · a player's qualifying goals are grouped under one slot · two places are tied at ~67s, accept either order · tenth place was checked against a rival 1997 goal, independently corroborated as slower, so the cutoff holds",
   "placeholder": "Type a player's name…",
   "answers": [
     {
