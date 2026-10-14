@@ -14,7 +14,7 @@
 import { access } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { VALID_CLUBS, londonToday, puzzleNumber, loadPuzzle } from "../lib/puzzle-meta.js";
+import { VALID_CLUBS, londonToday, puzzleNumber, loadPuzzle, loadTodayPuzzle } from "../lib/puzzle-meta.js";
 
 // __dirname doesn't exist in ES modules, so we derive it from import.meta.url.
 // This gives us the absolute path to the api/ folder, and we go up one level
@@ -69,7 +69,17 @@ export default async function handler(req, res) {
     return res.status(403).json({ error: "That puzzle isn't available yet." });
   }
 
-  const data = await loadPuzzle(ROOT, club, requestedDate);
+  // Archive puzzles (explicit &date=) never fall back — a missing archive
+  // date stays an honest 404. Only today's puzzle (no &date=) falls back
+  // to BACKUP_DATE if the day's file is missing.
+  let data, servedDate, isBackup;
+  if (date) {
+    data = await loadPuzzle(ROOT, club, requestedDate);
+    servedDate = requestedDate;
+    isBackup = false;
+  } else {
+    ({ data, date: servedDate, isBackup } = await loadTodayPuzzle(ROOT, club, today));
+  }
   if (!data) {
     return res.status(404).json({
       error: `No puzzle found for ${club} on ${requestedDate}.`
@@ -88,15 +98,18 @@ export default async function handler(req, res) {
     res.setHeader("Cache-Control", "no-store");
   }
   res.status(200).json({
-    date:        requestedDate,
+    date:        servedDate,
     clubLabel:   data.clubLabel,
     clubShort:   data.clubShort,
     question:    data.question,
-    note:        data.note,
+    note:        isBackup
+      ? `Bonus puzzle: today's regular puzzle wasn't ready, so here's an archive favourite instead. ${data.note}`
+      : data.note,
     credit:      data.credit || null,
     placeholder: data.placeholder,
     type:        data.type || "players",
-    puzzleNumber: puzzleNumber(requestedDate),
+    isBackup,
+    puzzleNumber: puzzleNumber(servedDate),
     total:       data.answers.length
   });
 

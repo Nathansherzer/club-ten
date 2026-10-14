@@ -21,7 +21,7 @@
 import { readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { VALID_CLUBS, CLUB_NAMES, londonToday, esc, loadPuzzle } from "../lib/puzzle-meta.js";
+import { VALID_CLUBS, CLUB_NAMES, londonToday, esc, loadTodayPuzzle } from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -31,7 +31,7 @@ export default async function handler(req, res) {
   const today = londonToday();
 
   const rows = await Promise.all([...VALID_CLUBS].map(async club => {
-    const data = await loadPuzzle(ROOT, club, today);
+    const { data } = await loadTodayPuzzle(ROOT, club, today);
     return { club, name: CLUB_NAMES[club], question: data ? data.question : null };
   }));
 

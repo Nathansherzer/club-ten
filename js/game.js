@@ -313,7 +313,9 @@ async function fetchAndStartPuzzle(club, savedState) {
 
 function buildGameBoard() {
   // Status bar
-  document.getElementById("puzzleLabel").textContent = `Puzzle #${puzzle.puzzleNumber}`;
+  document.getElementById("puzzleLabel").textContent = puzzle.isBackup
+    ? "Bonus puzzle"
+    : `Puzzle #${puzzle.puzzleNumber}`;
   if (isArchivePlay) {
     document.getElementById("streakLabel").textContent = "Archive";
   } else {

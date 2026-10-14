@@ -26,7 +26,7 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import {
   VALID_CLUBS, CLUB_NAMES,
-  londonToday, puzzleNumber, capitalize, esc, loadPuzzle
+  londonToday, puzzleNumber, capitalize, esc, loadPuzzle, loadTodayPuzzle
 } from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -56,7 +56,17 @@ export default async function handler(req, res) {
     return res.status(500).send("Template not found.");
   }
 
-  const data = await loadPuzzle(ROOT, club, date);
+  // Archive replays (explicit ?date=) never fall back — a missing archive
+  // date stays an honest "unavailable" state. Only today's page (no
+  // ?date=) falls back to BACKUP_DATE if today's file is missing.
+  let data, servedDate, isBackup;
+  if (isArchive) {
+    data = await loadPuzzle(ROOT, club, date);
+    servedDate = date;
+    isBackup = false;
+  } else {
+    ({ data, date: servedDate, isBackup } = await loadTodayPuzzle(ROOT, club, today));
+  }
 
   let html;
   if (!data) {
@@ -77,14 +87,18 @@ export default async function handler(req, res) {
       )
       .replace(`<link rel="canonical"`, `<meta name="robots" content="noindex,follow">\n  <link rel="canonical"`);
   } else {
-    const num          = puzzleNumber(date);
+    const num          = puzzleNumber(servedDate);
     const question     = data.question;
     const capQuestion  = capitalize(question);
     const clubShort    = data.clubShort || CLUB_NAMES[club];
+    const puzzleLabel  = isBackup ? "Bonus puzzle" : `Puzzle #${num}`;
+    const note         = isBackup
+      ? `Bonus puzzle: today's regular puzzle wasn't ready, so here's an archive favourite instead. ${data.note || ""}`
+      : (data.note || "");
 
-    const newTitle       = esc(`${clubShort} Puzzle #${num}: ${capQuestion} | Club Ten`);
+    const newTitle       = esc(`${clubShort} ${puzzleLabel}: ${capQuestion} | Club Ten`);
     const newDescription = esc(
-      `Play Club Ten Puzzle #${num} for ${clubShort} fans: ${question}. ` +
+      `Play Club Ten ${puzzleLabel} for ${clubShort} fans: ${question}. ` +
       `A new football top-10 quiz every day, free, no sign-up needed.`
     );
 
@@ -101,7 +115,7 @@ export default async function handler(req, res) {
     html = html
       .replace(
         `<div id="puzzleLabel">Puzzle #1</div>`,
-        `<div id="puzzleLabel">Puzzle #${num}</div>`
+        `<div id="puzzleLabel">${esc(puzzleLabel)}</div>`
       )
       .replace(
         `<span class="club" id="clubName"></span>`,
@@ -113,10 +127,13 @@ export default async function handler(req, res) {
       )
       .replace(
         `<span class="note" id="questionNote"></span>`,
-        `<span class="note" id="questionNote">${esc(data.note || "")}</span>`
+        `<span class="note" id="questionNote">${esc(note)}</span>`
       );
 
-    if (isArchive) {
+    // Noindex both archive replays and the backup fallback — a backup day
+    // temporarily mirrors content that already lives at its own archive
+    // URL, so the live URL shouldn't compete with it in search results.
+    if (isArchive || isBackup) {
       html = html.replace(`<link rel="canonical"`, `<meta name="robots" content="noindex,follow">\n  <link rel="canonical"`);
     }
   }
