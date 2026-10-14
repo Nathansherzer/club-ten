@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-16",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "Based on Statbunker, name Tottenham's 10 leading Premier League home goalscorers through 2025/26.",
+  "note": "Premier League only, through 2025/26 · home goals, including penalties, excluding own goals",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "heung-min son",
+        "son"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Chris Armstrong",
+      "detail": "",
+      "accept": [
+        "chris armstrong",
+        "armstrong"
+      ]
+    },
+    {
+      "display": "Steffen Iversen",
+      "detail": "",
+      "accept": [
+        "steffen iversen",
+        "iversen"
+      ]
+    },
+    {
+      "display": "Les Ferdinand",
+      "detail": "",
+      "accept": [
+        "les ferdinand",
+        "ferdinand"
+      ]
+    }
+  ]
+}

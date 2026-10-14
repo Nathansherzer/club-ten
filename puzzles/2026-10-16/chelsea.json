@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-16",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "Name Chelsea's 10 leading Premier League home goalscorers through 2025/26.",
+  "note": "Premier League only, through 2025/26 · home goals, including penalties, excluding own goals",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Jimmy Floyd Hasselbaink",
+      "detail": "",
+      "accept": [
+        "jimmy floyd hasselbaink",
+        "hasselbaink",
+        "jimmy floyd"
+      ]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "",
+      "accept": [
+        "gianfranco zola",
+        "zola"
+      ]
+    },
+    {
+      "display": "Eidur Gudjohnsen",
+      "detail": "",
+      "accept": [
+        "eidur gudjohnsen",
+        "gudjohnsen"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Florent Malouda",
+      "detail": "",
+      "accept": [
+        "florent malouda",
+        "malouda"
+      ]
+    },
+    {
+      "display": "John Spencer",
+      "detail": "",
+      "accept": [
+        "john spencer",
+        "spencer"
+      ]
+    }
+  ]
+}

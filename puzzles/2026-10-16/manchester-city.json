@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-16",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "Name Manchester City's 10 leading Premier League home goalscorers through 2025/26.",
+  "note": "Premier League only, through 2025/26 · home goals, including penalties, excluding own goals",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sergio Agüero",
+      "detail": "",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Carlos Tévez",
+      "detail": "",
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez",
+        "tévez"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "",
+      "accept": [
+        "david silva",
+        "silva"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "",
+      "accept": [
+        "gabriel jesus",
+        "gabriel jesús",
+        "jesus",
+        "jesús"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "",
+      "accept": [
+        "ilkay gundogan",
+        "İlkay gündoğan",
+        "gundogan",
+        "gündoğan"
+      ]
+    }
+  ]
+}
