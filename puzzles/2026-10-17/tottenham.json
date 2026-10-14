@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-17",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most Premier League appearances for Spurs who later joined another Big Six club",
+  "note": "first senior Big Six club only · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Sol Campbell",
+      "detail": "255 apps · later: Arsenal",
+      "accept": [
+        "sol campbell",
+        "campbell"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "238 apps · later: Liverpool",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "236 apps · later: Manchester United",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "226 apps · later: Manchester United",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "183 apps · later: Manchester City",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
+      "display": "Nick Barmby",
+      "detail": "87 apps · later: Liverpool",
+      "accept": [
+        "nick barmby",
+        "barmby"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "70 apps · later: Manchester United",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "64 apps · later: Manchester United",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "Neil Sullivan",
+      "detail": "64 apps · later: Chelsea",
+      "accept": [
+        "neil sullivan",
+        "sullivan"
+      ]
+    },
+    {
+      "display": "Sergio Reguilón",
+      "detail": "52 apps · later: Manchester United",
+      "accept": [
+        "sergio reguilon",
+        "sergio reguilón",
+        "reguilon",
+        "reguilón"
+      ]
+    }
+  ]
+}
