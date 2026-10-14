@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-15",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players who were on the pitch for Arsenal at the final whistle of its Matchweek 6 game in the 2026/27 Premier League",
+  "note": "2026/27 Premier League, Matchweek 6 · any order · starters and substitutes who remained on the pitch until the final whistle only, subbed-off players, unused substitutes and sent-off players excluded · goalkeeper excluded · Arsenal 2-1 Leeds United, 10 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jurriën Timber",
+      "detail": "",
+      "accept": [
+        "jurrien timber",
+        "jurriën timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Ezri Konsa",
+      "detail": "",
+      "accept": [
+        "ezri konsa",
+        "konsa"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "gabriel"
+      ]
+    },
+    {
+      "display": "Piero Hincapié",
+      "detail": "",
+      "accept": [
+        "piero hincapie",
+        "piero hincapié",
+        "hincapie",
+        "hincapié"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Bruno Guimarães",
+      "detail": "",
+      "accept": [
+        "bruno guimaraes",
+        "bruno guimarães",
+        "guimaraes",
+        "guimarães"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Mikel Merino",
+      "detail": "",
+      "accept": [
+        "mikel merino",
+        "merino"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "",
+      "accept": [
+        "viktor gyokeres",
+        "viktor gyökeres",
+        "gyokeres",
+        "gyökeres"
+      ]
+    }
+  ]
+}

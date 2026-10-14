@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-15",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players who were on the pitch for Chelsea at the final whistle of its Matchweek 6 game in the 2026/27 Premier League",
+  "note": "2026/27 Premier League, Matchweek 6 · any order · starters and substitutes who remained on the pitch until the final whistle only, subbed-off players, unused substitutes and sent-off players excluded · goalkeeper excluded · Chelsea 5-1 Bournemouth, 10 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Josh Acheampong",
+      "detail": "",
+      "accept": [
+        "josh acheampong",
+        "acheampong"
+      ]
+    },
+    {
+      "display": "Maxence Lacroix",
+      "detail": "",
+      "accept": [
+        "maxence lacroix",
+        "lacroix"
+      ]
+    },
+    {
+      "display": "Levi Colwill",
+      "detail": "",
+      "accept": [
+        "levi colwill",
+        "colwill"
+      ]
+    },
+    {
+      "display": "Pep Chavarría",
+      "detail": "",
+      "accept": [
+        "pep chavarria",
+        "pep chavarría",
+        "chavarria",
+        "chavarría"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "",
+      "accept": [
+        "jordan henderson",
+        "henderson"
+      ]
+    },
+    {
+      "display": "Roméo Lavia",
+      "detail": "",
+      "accept": [
+        "romeo lavia",
+        "roméo lavia",
+        "lavia"
+      ]
+    },
+    {
+      "display": "Marco Palestra",
+      "detail": "",
+      "accept": [
+        "marco palestra",
+        "palestra"
+      ]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "",
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
+    },
+    {
+      "display": "Estêvão Willian",
+      "detail": "",
+      "accept": [
+        "estevao willian",
+        "estêvão willian",
+        "estevao",
+        "estêvão",
+        "willian"
+      ]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "",
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
+    }
+  ]
+}

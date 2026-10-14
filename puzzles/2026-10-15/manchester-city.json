@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-15",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players who were on the pitch for Man City at the final whistle of its Matchweek 6 game in the 2026/27 Premier League",
+  "note": "2026/27 Premier League, Matchweek 6 · any order · starters and substitutes who remained on the pitch until the final whistle only, subbed-off players, unused substitutes and sent-off players excluded · goalkeeper excluded · Liverpool 0-3 Man City, 11 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Matheus Nunes",
+      "detail": "",
+      "accept": [
+        "matheus nunes",
+        "nunes"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Marc Guéhi",
+      "detail": "",
+      "accept": [
+        "marc guehi",
+        "marc guéhi",
+        "guehi",
+        "guéhi"
+      ]
+    },
+    {
+      "display": "Joško Gvardiol",
+      "detail": "",
+      "accept": [
+        "josko gvardiol",
+        "joško gvardiol",
+        "gvardiol"
+      ]
+    },
+    {
+      "display": "Elliot Anderson",
+      "detail": "",
+      "accept": [
+        "elliot anderson",
+        "anderson"
+      ]
+    },
+    {
+      "display": "Ayyoub Bouaddi",
+      "detail": "",
+      "accept": [
+        "ayyoub bouaddi",
+        "bouaddi"
+      ]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "",
+      "accept": [
+        "jeremy doku",
+        "jérémy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "",
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    },
+    {
+      "display": "Allan Elias",
+      "detail": "",
+      "accept": [
+        "allan elias",
+        "allan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-15",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players, including the goalkeeper, who were on the pitch for Liverpool at the final whistle of their Matchweek 6 game against Manchester City in the 2026/27 Premier League",
+  "note": "2026/27 Premier League, Matchweek 6 · any order · starters and substitutes who remained on the pitch until the final whistle only, subbed-off players, unused substitutes and sent-off players excluded · goalkeeper included because Liverpool finished with ten men after a 62nd-minute red card · Liverpool 0-3 Man City, 11 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alisson Becker",
+      "detail": "",
+      "accept": [
+        "alisson becker",
+        "alisson"
+      ]
+    },
+    {
+      "display": "Jeremie Frimpong",
+      "detail": "",
+      "accept": [
+        "jeremie frimpong",
+        "jérémie frimpong",
+        "frimpong"
+      ]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "",
+      "accept": [
+        "joe gomez",
+        "gomez"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk"
+      ]
+    },
+    {
+      "display": "Milos Kerkez",
+      "detail": "",
+      "accept": [
+        "milos kerkez",
+        "miloš kerkez",
+        "kerkez"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "",
+      "accept": [
+        "alexis mac allister",
+        "mac allister"
+      ]
+    },
+    {
+      "display": "Víctor Muñoz",
+      "detail": "",
+      "accept": [
+        "victor munoz",
+        "víctor muñoz",
+        "munoz",
+        "muñoz",
+        "victor munoz villanueva"
+      ]
+    },
+    {
+      "display": "Trey Nyoni",
+      "detail": "",
+      "accept": [
+        "trey nyoni",
+        "nyoni"
+      ]
+    },
+    {
+      "display": "Federico Chiesa",
+      "detail": "",
+      "accept": [
+        "federico chiesa",
+        "chiesa"
+      ]
+    },
+    {
+      "display": "Rio Ngumoha",
+      "detail": "",
+      "accept": [
+        "rio ngumoha",
+        "ngumoha"
+      ]
+    }
+  ]
+}

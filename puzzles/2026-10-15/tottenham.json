@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-15",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players, including the goalkeeper, who were on the pitch for Tottenham at the final whistle of their Matchweek 6 game against Manchester United in the 2026/27 Premier League",
+  "note": "2026/27 Premier League, Matchweek 6 · any order · starters and substitutes who remained on the pitch until the final whistle only, subbed-off players, unused substitutes and sent-off players excluded · goalkeeper included because Tottenham finished with ten men after a substitute was sent off · Man United 1-1 Tottenham Hotspur, 10 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Antonín Kinský",
+      "detail": "",
+      "accept": [
+        "antonin kinsky",
+        "antonín kinský",
+        "kinsky",
+        "kinský"
+      ]
+    },
+    {
+      "display": "Archie Gray",
+      "detail": "",
+      "accept": [
+        "archie gray",
+        "gray"
+      ]
+    },
+    {
+      "display": "Jan Paul van Hecke",
+      "detail": "",
+      "accept": [
+        "jan paul van hecke",
+        "van hecke"
+      ]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
+      "display": "Mateus Fernandes",
+      "detail": "",
+      "accept": [
+        "mateus fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Sandro Tonali",
+      "detail": "",
+      "accept": [
+        "sandro tonali",
+        "tonali"
+      ]
+    },
+    {
+      "display": "James Maddison",
+      "detail": "",
+      "accept": [
+        "james maddison",
+        "maddison"
+      ]
+    },
+    {
+      "display": "Savinho",
+      "detail": "",
+      "accept": [
+        "savinho",
+        "savio"
+      ]
+    },
+    {
+      "display": "Omar Marmoush",
+      "detail": "",
+      "accept": [
+        "omar marmoush",
+        "marmoush"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    }
+  ]
+}
