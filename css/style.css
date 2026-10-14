@@ -224,28 +224,39 @@ header h1 a:hover { opacity: 0.85; }
 .picker-hint { color: var(--muted); font-size: 0.75rem; margin-top: 14px; }
 
 .clubbtn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   background: var(--card);
   border: 1px solid var(--slot-border);
   border-radius: 10px;
   color: var(--text);
   font-size: 0.95rem;
-  font-weight: 600;
-  padding: 18px 8px;
+  font-weight: 700;
+  padding: 14px 12px;
   cursor: pointer;
   transition: border-color 0.15s, transform 0.1s;
   width: 100%;
-  text-align: center;
+  text-align: left;
 }
 .clubbtn:hover  { border-color: var(--green); }
 .clubbtn:active { transform: scale(0.97); }
 
-/* Club colour accents */
-.clubbtn[data-club="arsenal"]           { border-top: 3px solid #EF0107; }
-.clubbtn[data-club="chelsea"]           { border-top: 3px solid #034694; }
-.clubbtn[data-club="liverpool"]         { border-top: 3px solid #C8102E; }
-.clubbtn[data-club="manchester-city"]   { border-top: 3px solid #6CABDD; }
-.clubbtn[data-club="manchester-united"] { border-top: 3px solid #DA291C; }
-.clubbtn[data-club="tottenham"]         { border-top: 3px solid #FFFFFF; }
+.clubbtn .badge { flex-shrink: 0; width: 34px; height: 34px; }
+.clubbtn .badge svg { width: 100%; height: 100%; display: block; }
+.clubbtn .name { flex: 1; }
+
+/* The settings-overlay "Change club" button reuses .clubbtn but has no
+   badge or club colour wash, so it should stay centred like before. */
+#changeClubBtn { justify-content: center; text-align: center; }
+
+/* Club colour wash, dominant tone fading into the card background */
+.clubbtn[data-club="arsenal"]           { background: linear-gradient(135deg, #2a0d0d 0%, var(--card) 65%); border-color: #5c1515; }
+.clubbtn[data-club="chelsea"]           { background: linear-gradient(135deg, #061527 0%, var(--card) 65%); border-color: #0d3254; }
+.clubbtn[data-club="liverpool"]         { background: linear-gradient(135deg, #330b14 0%, var(--card) 65%); border-color: #6b1c2a; }
+.clubbtn[data-club="manchester-city"]   { background: linear-gradient(135deg, #0f2733 0%, var(--card) 65%); border-color: #2d5f73; }
+.clubbtn[data-club="manchester-united"] { background: linear-gradient(135deg, #330d0a 0%, var(--card) 65%); border-color: #6b2318; }
+.clubbtn[data-club="tottenham"]         { background: linear-gradient(135deg, #2b2f38 0%, var(--card) 65%); border-color: #a9b1c0; }
 
 /* ---- loading / error states -------------------------------- */
 
@@ -292,6 +303,23 @@ header h1 a:hover { opacity: 0.85; }
   line-height: 1.35;
 }
 .question .club { color: var(--green); }
+
+/* Per-club accent: a soft colour wash near the top of the question card,
+   fading back to the neutral card colour so the question text and note
+   stay fully readable. The club label itself picks up the same accent. */
+body[data-club="arsenal"]           .question { background: linear-gradient(135deg, #2a0d0d 0%, var(--card) 70%); }
+body[data-club="arsenal"]           .question .club { color: #ff8a85; }
+body[data-club="chelsea"]           .question { background: linear-gradient(135deg, #061527 0%, var(--card) 70%); }
+body[data-club="chelsea"]           .question .club { color: #4a8fd4; }
+body[data-club="liverpool"]         .question { background: linear-gradient(135deg, #330b14 0%, var(--card) 70%); }
+body[data-club="liverpool"]         .question .club { color: #ff6b7a; }
+body[data-club="manchester-city"]   .question { background: linear-gradient(135deg, #0f2733 0%, var(--card) 70%); }
+body[data-club="manchester-city"]   .question .club { color: #aed7f5; }
+body[data-club="manchester-united"] .question { background: linear-gradient(135deg, #330d0a 0%, var(--card) 70%); }
+body[data-club="manchester-united"] .question .club { color: #ff9289; }
+body[data-club="tottenham"]         .question { background: linear-gradient(135deg, #2b2f38 0%, var(--card) 70%); }
+body[data-club="tottenham"]         .question .club { color: #f2f4f8; }
+
 .question .note {
   display: block;
   font-weight: 400;
