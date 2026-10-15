@@ -14,6 +14,7 @@
 import { readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
+import { isDateServable } from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -46,6 +47,10 @@ export default async function handler(req, res) {
 
   if (requestedDate > today) {
     return res.status(403).json({ error: "That puzzle isn't available yet." });
+  }
+
+  if (date && !(await isDateServable(ROOT, requestedDate, today))) {
+    return res.status(403).json({ error: "That puzzle is no longer available." });
   }
 
   const filePath = join(ROOT, "puzzles", requestedDate, `${club}.json`);

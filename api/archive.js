@@ -9,10 +9,9 @@
              sorted newest-first.
    ========================================================== */
 
-import { readdir } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { londonToday, puzzleNumber } from "../lib/puzzle-meta.js";
+import { londonToday, puzzleNumber, recentArchiveDates } from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -21,20 +20,10 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: "Method not allowed" });
   }
 
-  const today      = londonToday();
-  const puzzlesDir = join(ROOT, "puzzles");
+  const today = londonToday();
+  const dates = await recentArchiveDates(ROOT, today);
 
-  let entries;
-  try {
-    entries = await readdir(puzzlesDir, { withFileTypes: true });
-  } catch {
-    return res.status(200).json({ puzzles: [] });
-  }
-
-  const puzzles = entries
-    .filter(e => e.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(e.name) && e.name < today)
-    .map(e => ({ date: e.name, puzzleNumber: puzzleNumber(e.name) }))
-    .sort((a, b) => b.date.localeCompare(a.date)); // newest first
+  const puzzles = dates.map(date => ({ date, puzzleNumber: puzzleNumber(date) }));
 
   res.setHeader("Cache-Control", "public, max-age=3600");
   return res.status(200).json({ puzzles });

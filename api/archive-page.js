@@ -13,35 +13,22 @@
    those pages indexed.
    ========================================================== */
 
-import { readFile, readdir } from "fs/promises";
+import { readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import {
   VALID_CLUBS, CLUB_NAMES,
-  londonToday, puzzleNumber, formatDate, capitalize, esc, loadPuzzle
+  londonToday, puzzleNumber, formatDate, capitalize, esc, loadPuzzle,
+  recentArchiveDates
 } from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-
-async function recentDates(today) {
-  let entries;
-  try {
-    entries = await readdir(join(ROOT, "puzzles"), { withFileTypes: true });
-  } catch {
-    return [];
-  }
-  return entries
-    .filter(e => e.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(e.name) && e.name < today)
-    .map(e => e.name)
-    .sort((a, b) => b.localeCompare(a))
-    .slice(0, 10);
-}
 
 export default async function handler(req, res) {
   if (req.method !== "GET") return res.status(405).send("Method not allowed");
 
   const today = londonToday();
-  const dates = await recentDates(today);
+  const dates = await recentArchiveDates(ROOT, today);
 
   const clubSections = await Promise.all([...VALID_CLUBS].map(async club => {
     const items = await Promise.all(dates.map(async date => {

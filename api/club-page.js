@@ -26,7 +26,8 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import {
   VALID_CLUBS, CLUB_NAMES,
-  londonToday, puzzleNumber, capitalize, esc, loadPuzzle, loadTodayPuzzle
+  londonToday, puzzleNumber, capitalize, esc, loadPuzzle, loadTodayPuzzle,
+  isDateServable
 } from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -48,6 +49,19 @@ export default async function handler(req, res) {
   // not something this render needs to be strict about.
   const isArchive = isValidDate(rawDate) && rawDate < today;
   const date = isArchive ? rawDate : today;
+
+  // A date outside the rolling archive window is sent to today's puzzle
+  // rather than rendered — the full history isn't browsable forever just
+  // by hand-editing the URL. Partner/UTM params (e.g. the TPP embed link,
+  // which always carries an explicit &date=) are preserved on the bounce
+  // so attribution survives even when that specific day has aged out.
+  if (isArchive && !(await isDateServable(ROOT, date, today))) {
+    const params = new URLSearchParams(req.query);
+    params.delete("date");
+    params.delete("club");
+    const qs = params.toString();
+    return res.redirect(302, `/${club}${qs ? `?${qs}` : ""}`);
+  }
 
   let template;
   try {

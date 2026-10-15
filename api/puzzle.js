@@ -14,7 +14,7 @@
 import { access } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { VALID_CLUBS, londonToday, puzzleNumber, loadPuzzle, loadTodayPuzzle } from "../lib/puzzle-meta.js";
+import { VALID_CLUBS, londonToday, puzzleNumber, loadPuzzle, loadTodayPuzzle, isDateServable } from "../lib/puzzle-meta.js";
 
 // __dirname doesn't exist in ES modules, so we derive it from import.meta.url.
 // This gives us the absolute path to the api/ folder, and we go up one level
@@ -67,6 +67,12 @@ export default async function handler(req, res) {
   // Block future dates so tomorrow's answers can't be read today
   if (requestedDate > today) {
     return res.status(403).json({ error: "That puzzle isn't available yet." });
+  }
+
+  // Archive puzzles older than the rolling window are no longer servable,
+  // even though the file still exists on disk.
+  if (date && !(await isDateServable(ROOT, requestedDate, today))) {
+    return res.status(403).json({ error: "That puzzle is no longer available.", redirect: `/${club}` });
   }
 
   // Archive puzzles (explicit &date=) never fall back — a missing archive
