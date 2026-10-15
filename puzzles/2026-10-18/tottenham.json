@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-18",
+  "club": "tottenham",
+  "type": "clubs",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 clubs Tottenham have beaten most often in the Premier League",
+  "note": "Premier League only, 1992/93-2025/26 · any order · ties broken by win percentage, then head-to-head goal difference",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Everton",
+      "detail": "33 wins · 48.53%",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "30 wins · 51.72%",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "28 wins · 46.67%",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "27 wins · 54.00%",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "27 wins · 43.55%",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "25 wins · 40.32%",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "magpies"
+      ]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "21 wins · 61.76%",
+      "accept": [
+        "sunderland"
+      ]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "20 wins · 58.82%",
+      "accept": [
+        "crystal palace",
+        "palace",
+        "eagles"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "19 wins · 50.00%",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "Blackburn Rovers",
+      "detail": "18 wins · 50.00%",
+      "accept": [
+        "blackburn rovers",
+        "blackburn"
+      ]
+    }
+  ]
+}

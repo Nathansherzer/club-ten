@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-18",
+  "club": "arsenal",
+  "type": "clubs",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 clubs Arsenal have beaten most often in the Premier League",
+  "note": "Premier League only, 1992/93-2025/26 · any order · ties broken by win percentage, then head-to-head goal difference",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Everton",
+      "detail": "40 wins · 58.82%",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "39 wins · 65.00%",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "38 wins · 61.29%",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "magpies"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "33 wins · 53.23%",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "29 wins · 42.65%",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "28 wins · 41.18%",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "27 wins · 54.00%",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "26 wins · 68.42%",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "25 wins · 43.10%",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Leicester City",
+      "detail": "23 wins · 63.89%",
+      "accept": [
+        "leicester city",
+        "leicester",
+        "foxes"
+      ]
+    }
+  ]
+}
