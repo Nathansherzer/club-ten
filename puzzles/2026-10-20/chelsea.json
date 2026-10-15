@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-20",
+  "club": "chelsea",
+  "type": "clubs",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 clubs with the most Premier League wins against Chelsea",
+  "note": "Premier League only, 1992/93-2025/26 · any order · ties broken by win percentage, then head-to-head goal difference",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Arsenal",
+      "detail": "28 wins · 41.18%",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "25 wins · 36.76%",
+      "accept": [
+        "liverpool",
+        "reds"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "21 wins · 36.21%",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "21 wins · 30.88%",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "17 wins · 27.42%",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "magpies"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "17 wins · 27.42%",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "16 wins · 26.67%",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "15 wins · 22.06%",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "Blackburn Rovers",
+      "detail": "11 wins · 30.56%",
+      "accept": [
+        "blackburn rovers",
+        "blackburn"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "11 wins · 22.00%",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    }
+  ]
+}
