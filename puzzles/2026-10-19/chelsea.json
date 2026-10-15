@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-19",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 Chelsea players with the most Premier League assists",
+  "note": "PL only · all-time assists, through 19 Oct 2026 · ranked order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "89 assists",
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "54 assists",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "51 assists",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "42 assists",
+      "accept": [
+        "gianfranco zola",
+        "zola",
+        "magic box"
+      ]
+    },
+    {
+      "display": "Dennis Wise",
+      "detail": "39 assists",
+      "accept": [
+        "dennis wise",
+        "wise"
+      ]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "38 assists",
+      "accept": [
+        "cesc fabregas",
+        "fabregas",
+        "cesc"
+      ]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "35 assists",
+      "accept": [
+        "cesar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
+    },
+    {
+      "display": "Willian",
+      "detail": "33 assists",
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
+    },
+    {
+      "display": "Dan Petrescu",
+      "detail": "28 assists",
+      "accept": [
+        "dan petrescu",
+        "petrescu"
+      ]
+    },
+    {
+      "display": null,
+      "poolLabel": "Juan Mata / Guðjohnsen / Hasselbaink",
+      "detail": "27 assists",
+      "accept": [
+        "Juan Mata",
+        "Mata",
+        "Eiður Guðjohnsen",
+        "Eidur Gudjonsen",
+        "Gudjohnsen",
+        "Gudjonsen",
+        "Jimmy Floyd Hasselbaink",
+        "Hasselbaink",
+        "Floyd Hasselbaink"
+      ]
+    }
+  ]
+}
