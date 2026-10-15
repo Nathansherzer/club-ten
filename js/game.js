@@ -254,6 +254,13 @@ async function fetchAndStartPuzzle(club, savedState) {
     const res = await fetch(`/api/puzzle?club=${club}${dateParam}`);
     if (!res.ok) {
       const body = await res.json().catch(() => ({}));
+      // Archive date aged out of the servable window. The page itself may
+      // be stale CDN cache from before that window moved, so this redirect
+      // is what actually enforces it client-side regardless.
+      if (body.redirect) {
+        location.replace(body.redirect);
+        return;
+      }
       throw new Error(body.error || `HTTP ${res.status}`);
     }
     puzzle = await res.json();
