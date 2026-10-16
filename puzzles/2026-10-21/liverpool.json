@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-21",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 managers with the most Premier League wins against Liverpool",
+  "note": "across all clubs managed · PL only, 1992/93-2025/26 · ties broken by win percentage · Based on StatMuse",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Alex Ferguson",
+      "detail": "23 wins · 54.76%",
+      "accept": [
+        "alex ferguson",
+        "sir alex ferguson",
+        "ferguson",
+        "fergie"
+      ]
+    },
+    {
+      "display": "Arsène Wenger",
+      "detail": "13 wins · 30.23%",
+      "accept": [
+        "arsene wenger",
+        "arsène wenger",
+        "wenger"
+      ]
+    },
+    {
+      "display": "Harry Redknapp",
+      "detail": "12 wins · 35.29%",
+      "accept": [
+        "harry redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "9 wins · 45.00%",
+      "accept": [
+        "jose mourinho",
+        "josé mourinho",
+        "mourinho"
+      ]
+    },
+    {
+      "display": "Pep Guardiola",
+      "detail": "7 wins · 35.00%",
+      "accept": [
+        "pep guardiola",
+        "guardiola",
+        "pep"
+      ]
+    },
+    {
+      "display": "Alan Curbishley",
+      "detail": "6 wins · 35.29%",
+      "accept": [
+        "alan curbishley",
+        "curbishley"
+      ]
+    },
+    {
+      "display": "Martin O'Neill",
+      "detail": "6 wins · 31.58%",
+      "accept": [
+        "martin oneill",
+        "martin o'neill",
+        "oneill",
+        "o'neill"
+      ]
+    },
+    {
+      "display": "Steve Bruce",
+      "detail": "6 wins · 24.00%",
+      "accept": [
+        "steve bruce",
+        "bruce"
+      ]
+    },
+    {
+      "display": "Ron Atkinson",
+      "detail": "5 wins · 45.45%",
+      "accept": [
+        "ron atkinson",
+        "atkinson",
+        "big ron"
+      ]
+    },
+    {
+      "display": "Claudio Ranieri",
+      "detail": "5 wins · 41.67%",
+      "accept": [
+        "claudio ranieri",
+        "ranieri"
+      ]
+    }
+  ]
+}

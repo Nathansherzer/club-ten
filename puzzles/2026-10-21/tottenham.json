@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-21",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 managers with the most Premier League wins against Tottenham",
+  "note": "across all clubs managed · PL only, 1992/93-2025/26 · ties broken by win percentage · Based on StatMuse",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Alex Ferguson",
+      "detail": "29 wins · 69.05%",
+      "accept": [
+        "alex ferguson",
+        "sir alex ferguson",
+        "ferguson",
+        "fergie"
+      ]
+    },
+    {
+      "display": "Arsène Wenger",
+      "detail": "18 wins · 40.91%",
+      "accept": [
+        "arsene wenger",
+        "arsène wenger",
+        "wenger"
+      ]
+    },
+    {
+      "display": "Sam Allardyce",
+      "detail": "11 wins · 39.29%",
+      "accept": [
+        "sam allardyce",
+        "allardyce",
+        "big sam"
+      ]
+    },
+    {
+      "display": "David Moyes",
+      "detail": "11 wins · 28.21%",
+      "accept": [
+        "david moyes",
+        "moyes"
+      ]
+    },
+    {
+      "display": "Jürgen Klopp",
+      "detail": "10 wins · 55.56%",
+      "accept": [
+        "jurgen klopp",
+        "jürgen klopp",
+        "klopp"
+      ]
+    },
+    {
+      "display": "Harry Redknapp",
+      "detail": "10 wins · 37.04%",
+      "accept": [
+        "harry redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "Mikel Arteta",
+      "detail": "9 wins · 69.23%",
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
+    },
+    {
+      "display": "David O'Leary",
+      "detail": "8 wins · 61.54%",
+      "accept": [
+        "david oleary",
+        "david o'leary",
+        "oleary",
+        "o'leary"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "8 wins · 50.00%",
+      "accept": [
+        "jose mourinho",
+        "josé mourinho",
+        "mourinho"
+      ]
+    },
+    {
+      "display": "Brendan Rodgers",
+      "detail": "8 wins · 50.00%",
+      "accept": [
+        "brendan rodgers",
+        "rodgers"
+      ]
+    }
+  ]
+}

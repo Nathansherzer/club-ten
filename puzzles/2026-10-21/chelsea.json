@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-21",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 managers with the most Premier League wins against Chelsea",
+  "note": "across all clubs managed · PL only, 1992/93-2025/26 · ties broken by win percentage · Based on StatMuse",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Arsène Wenger",
+      "detail": "15 wins · 35.71%",
+      "accept": [
+        "arsene wenger",
+        "arsène wenger",
+        "wenger"
+      ]
+    },
+    {
+      "display": "Alex Ferguson",
+      "detail": "13 wins · 30.95%",
+      "accept": [
+        "alex ferguson",
+        "sir alex ferguson",
+        "ferguson",
+        "fergie"
+      ]
+    },
+    {
+      "display": "Pep Guardiola",
+      "detail": "12 wins · 60.00%",
+      "accept": [
+        "pep guardiola",
+        "guardiola",
+        "pep"
+      ]
+    },
+    {
+      "display": "Kenny Dalglish",
+      "detail": "10 wins · 76.92%",
+      "accept": [
+        "kenny dalglish",
+        "dalglish"
+      ]
+    },
+    {
+      "display": "Mikel Arteta",
+      "detail": "8 wins · 57.14%",
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
+    },
+    {
+      "display": "Eddie Howe",
+      "detail": "8 wins · 42.11%",
+      "accept": [
+        "eddie howe",
+        "howe"
+      ]
+    },
+    {
+      "display": "Harry Redknapp",
+      "detail": "8 wins · 25.00%",
+      "accept": [
+        "harry redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "David Moyes",
+      "detail": "8 wins · 19.51%",
+      "accept": [
+        "david moyes",
+        "moyes"
+      ]
+    },
+    {
+      "display": "Jürgen Klopp",
+      "detail": "7 wins · 38.89%",
+      "accept": [
+        "jurgen klopp",
+        "jürgen klopp",
+        "klopp"
+      ]
+    },
+    {
+      "display": "George Graham",
+      "detail": "6 wins · 42.86%",
+      "accept": [
+        "george graham",
+        "graham"
+      ]
+    }
+  ]
+}
