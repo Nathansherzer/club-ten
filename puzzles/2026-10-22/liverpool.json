@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-22",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent players Liverpool sold abroad",
+  "note": "permanent sales outside the English league system · senior competitive appearance required · loans and free transfers excluded · newest first · any order · through 19 Oct 2026 · Based on LFCHistory",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Stefan Bajčetić",
+      "detail": "",
+      "accept": [
+        "stefan bajčetić",
+        "stefan bajcetic",
+        "bajcetic"
+      ]
+    },
+    {
+      "display": "Curtis Jones",
+      "detail": "",
+      "accept": [
+        "curtis jones",
+        "jones"
+      ]
+    },
+    {
+      "display": "Trent Koné-Doherty",
+      "detail": "",
+      "accept": [
+        "trent koné-doherty",
+        "kone doherty",
+        "koné doherty",
+        "tkd"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "",
+      "accept": [
+        "darwin núñez",
+        "darwin nunez",
+        "nunez",
+        "darwin"
+      ]
+    },
+    {
+      "display": "Tyler Morton",
+      "detail": "",
+      "accept": [
+        "tyler morton",
+        "morton"
+      ]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "",
+      "accept": [
+        "luis díaz",
+        "luis diaz",
+        "diaz"
+      ]
+    },
+    {
+      "display": "Jarell Quansah",
+      "detail": "",
+      "accept": [
+        "jarell quansah",
+        "quansah"
+      ]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "",
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "alexander arnold",
+        "taa",
+        "trent alexander arnold",
+        "trent arnold"
+      ]
+    },
+    {
+      "display": "Bobby Clark",
+      "detail": "",
+      "accept": [
+        "bobby clark",
+        "clark"
+      ]
+    },
+    {
+      "display": "Billy Koumetio",
+      "detail": "",
+      "accept": [
+        "billy koumetio",
+        "koumetio"
+      ]
+    }
+  ]
+}

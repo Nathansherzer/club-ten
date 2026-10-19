@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-22",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent players Tottenham sold abroad",
+  "note": "permanent sales outside the English league system · senior competitive appearance required · loans and free transfers excluded · newest first · any order · through 19 Oct 2026 · Based on Wikipedia's transfer-fee classifications",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cristian Romero",
+      "detail": "",
+      "accept": [
+        "cristian romero",
+        "romero",
+        "cuti romero",
+        "cuti"
+      ]
+    },
+    {
+      "display": "Djed Spence",
+      "detail": "",
+      "accept": [
+        "djed spence",
+        "spence"
+      ]
+    },
+    {
+      "display": "Alejo Véliz",
+      "detail": "",
+      "accept": [
+        "alejo véliz",
+        "alejo veliz",
+        "veliz"
+      ]
+    },
+    {
+      "display": "Bryan Gil",
+      "detail": "",
+      "accept": [
+        "bryan gil",
+        "gil"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min son",
+        "sonny",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Pierre-Emile Højbjerg",
+      "detail": "",
+      "accept": [
+        "pierre-emile højbjerg",
+        "pierre-emile hojbjerg",
+        "hojbjerg",
+        "højbjerg"
+      ]
+    },
+    {
+      "display": "Giovani Lo Celso",
+      "detail": "",
+      "accept": [
+        "giovani lo celso",
+        "lo celso"
+      ]
+    },
+    {
+      "display": "Emerson Royal",
+      "detail": "",
+      "accept": [
+        "emerson royal",
+        "emerson",
+        "royal"
+      ]
+    },
+    {
+      "display": "Nile John",
+      "detail": "",
+      "accept": [
+        "nile john"
+      ]
+    },
+    {
+      "display": "Troy Parrott",
+      "detail": "",
+      "accept": [
+        "troy parrott",
+        "parrott"
+      ]
+    }
+  ]
+}
