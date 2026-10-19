@@ -348,6 +348,18 @@ function buildGameBoard() {
     }
   }
 
+  // Optional one-off celebratory banner (e.g. "congrats on the win"),
+  // shown right under the question card so it can't be missed.
+  const bannerEl = document.getElementById("puzzleBanner");
+  if (bannerEl) {
+    if (puzzle.banner) {
+      bannerEl.textContent = puzzle.banner;
+      bannerEl.style.display = "block";
+    } else {
+      bannerEl.style.display = "none";
+    }
+  }
+
   // Build empty slots from puzzle.total (answers are not in the puzzle response)
   slotsEl.innerHTML = "";
   for (let i = 0; i < puzzle.total; i++) {

@@ -569,6 +569,21 @@ button.share:active { transform: scale(0.97); }
   margin: 12px 0;
 }
 
+/* ---- puzzle banner (one-off celebratory note, right under the
+   question card — shown only when puzzle.banner is set) --------- */
+
+.puzzle-banner {
+  background: var(--green-dark);
+  border: 1px solid var(--green);
+  border-radius: 9px;
+  padding: 10px 14px;
+  text-align: center;
+  color: var(--text);
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 12px 0;
+}
+
 /* ---- ad placeholder ---------------------------------------- */
 /* Remove the display:none and drop your real ad tag inside when approved */
 

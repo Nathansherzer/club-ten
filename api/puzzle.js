@@ -112,6 +112,10 @@ export default async function handler(req, res) {
       ? `Bonus puzzle: today's regular puzzle wasn't ready, so here's an archive favourite instead. ${data.note}`
       : data.note,
     credit:      data.credit || null,
+    // Prominent one-off banner shown right under the question card (e.g. a
+    // celebratory note). Suppressed on a backup day — it would reference an
+    // event tied to today's real date, which isn't what's actually showing.
+    banner:      isBackup ? null : (data.banner || null),
     placeholder: data.placeholder,
     type:        data.type || "players",
     isBackup,
