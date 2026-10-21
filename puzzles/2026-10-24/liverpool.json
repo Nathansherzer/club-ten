@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-24",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players who started for Liverpool in the 2022 FA Cup final against Chelsea",
+  "note": "2022 FA Cup final vs Chelsea · goalkeeper and substitutes excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "",
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "alexander arnold",
+        "taa",
+        "trent"
+      ]
+    },
+    {
+      "display": "Ibrahima Konaté",
+      "detail": "",
+      "accept": [
+        "ibrahima konaté",
+        "ibrahima konate",
+        "konate"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "",
+      "accept": [
+        "andy robertson",
+        "andrew robertson",
+        "robertson",
+        "robbo"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "Thiago Alcântara",
+      "detail": "",
+      "accept": [
+        "thiago alcântara",
+        "thiago alcantara",
+        "thiago"
+      ]
+    },
+    {
+      "display": "Naby Keïta",
+      "detail": "",
+      "accept": [
+        "naby keïta",
+        "naby keita",
+        "keita"
+      ]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "",
+      "accept": [
+        "luis díaz",
+        "luis diaz",
+        "diaz"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "",
+      "accept": [
+        "sadio mané",
+        "sadio mane",
+        "mane"
+      ]
+    }
+  ]
+}

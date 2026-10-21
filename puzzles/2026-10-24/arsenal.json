@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-24",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players who started for Arsenal in the 2015 FA Cup final against Aston Villa",
+  "note": "2015 FA Cup final vs Aston Villa · goalkeeper and substitutes excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Héctor Bellerín",
+      "detail": "",
+      "accept": [
+        "héctor bellerín",
+        "hector bellerin",
+        "bellerin"
+      ]
+    },
+    {
+      "display": "Per Mertesacker",
+      "detail": "",
+      "accept": [
+        "per mertesacker",
+        "mertesacker"
+      ]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "",
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
+    },
+    {
+      "display": "Nacho Monreal",
+      "detail": "",
+      "accept": [
+        "nacho monreal",
+        "monreal"
+      ]
+    },
+    {
+      "display": "Francis Coquelin",
+      "detail": "",
+      "accept": [
+        "francis coquelin",
+        "coquelin"
+      ]
+    },
+    {
+      "display": "Santi Cazorla",
+      "detail": "",
+      "accept": [
+        "santi cazorla",
+        "santiago cazorla",
+        "cazorla"
+      ]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "",
+      "accept": [
+        "aaron ramsey",
+        "ramsey"
+      ]
+    },
+    {
+      "display": "Mesut Özil",
+      "detail": "",
+      "accept": [
+        "mesut özil",
+        "mesut ozil",
+        "ozil"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "",
+      "accept": [
+        "alexis sánchez",
+        "alexis sanchez",
+        "sanchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    }
+  ]
+}
