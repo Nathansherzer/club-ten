@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-23",
+  "club": "manchester-united",
+  "type": "clubs",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "apart from Leeds United, name the 10 teams Bryan Mbeumo has scored against in the Premier League for Manchester United",
+  "note": "Premier League goals for Manchester United only · each opponent counted once · any order · through 20 Oct 2026",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Everton",
+      "detail": "06 Sep 2026",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "Ipswich Town",
+      "detail": "30 Aug 2026",
+      "accept": [
+        "ipswich town",
+        "ipswich"
+      ]
+    },
+    {
+      "display": "Nottingham Forest",
+      "detail": "17 May 2026",
+      "accept": [
+        "nottingham forest",
+        "forest",
+        "nffc"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "25 Jan 2026",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "17 Jan 2026",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Wolverhampton Wanderers",
+      "detail": "08 Dec 2025",
+      "accept": [
+        "wolverhampton wanderers",
+        "wolves"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "08 Nov 2025",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Brighton & Hove Albion",
+      "detail": "25 Oct 2025",
+      "accept": [
+        "brighton and hove albion",
+        "brighton & hove albion",
+        "brighton",
+        "albion",
+        "seagulls"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "19 Oct 2025",
+      "accept": [
+        "liverpool",
+        "reds"
+      ]
+    },
+    {
+      "display": "Burnley",
+      "detail": "30 Aug 2025",
+      "accept": [
+        "burnley",
+        "clarets"
+      ]
+    }
+  ]
+}

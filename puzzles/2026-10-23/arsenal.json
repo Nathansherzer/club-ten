@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-23",
+  "club": "arsenal",
+  "type": "clubs",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 teams Declan Rice has scored against in the Premier League for Arsenal",
+  "note": "Premier League goals for Arsenal only · each opponent counted once · any order · through 20 Oct 2026",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Burnley",
+      "detail": "01 Nov 2025",
+      "accept": [
+        "burnley",
+        "clarets"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "18 May 2025",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "magpies"
+      ]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "21 Dec 2024",
+      "accept": [
+        "crystal palace",
+        "palace",
+        "eagles"
+      ]
+    },
+    {
+      "display": "Bournemouth",
+      "detail": "04 May 2024",
+      "accept": [
+        "bournemouth",
+        "cherries"
+      ]
+    },
+    {
+      "display": "Brentford",
+      "detail": "09 Mar 2024",
+      "accept": [
+        "brentford",
+        "bees"
+      ]
+    },
+    {
+      "display": "Sheffield United",
+      "detail": "04 Mar 2024",
+      "accept": [
+        "sheffield united",
+        "sheff utd",
+        "blades"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "11 Feb 2024",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Luton Town",
+      "detail": "05 Dec 2023",
+      "accept": [
+        "luton town",
+        "luton"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "21 Oct 2023",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "03 Sep 2023",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    }
+  ]
+}

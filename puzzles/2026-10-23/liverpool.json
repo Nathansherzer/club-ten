@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-23",
+  "club": "liverpool",
+  "type": "clubs",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 teams Dominik Szoboszlai has scored against in the Premier League for Liverpool since the start of 2024/25",
+  "note": "Premier League goals for Liverpool only, from 2024/25 onwards · each opponent counted once · any order · through 20 Oct 2026",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Manchester United",
+      "detail": "03 May 2026",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Bournemouth",
+      "detail": "24 Jan 2026",
+      "accept": [
+        "bournemouth",
+        "cherries"
+      ]
+    },
+    {
+      "display": "Leeds United",
+      "detail": "06 Dec 2025",
+      "accept": [
+        "leeds united",
+        "leeds"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "31 Aug 2025",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Brighton & Hove Albion",
+      "detail": "19 May 2025",
+      "accept": [
+        "brighton and hove albion",
+        "brighton & hove albion",
+        "brighton",
+        "albion",
+        "seagulls"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "26 Feb 2025",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "magpies"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "23 Feb 2025",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Ipswich Town",
+      "detail": "25 Jan 2025",
+      "accept": [
+        "ipswich town",
+        "ipswich"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "22 Dec 2024",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "24 Nov 2024",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-23",
+  "club": "manchester-city",
+  "type": "clubs",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 teams Phil Foden has scored against in the Premier League for Manchester City since the start of 2024/25",
+  "note": "Premier League goals for Manchester City only, from 2024/25 onwards · each opponent counted once · any order · through 20 Oct 2026",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Crystal Palace",
+      "detail": "14 Dec 2025",
+      "accept": [
+        "crystal palace",
+        "palace",
+        "eagles"
+      ]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "06 Dec 2025",
+      "accept": [
+        "sunderland"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "02 Dec 2025",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "Leeds United",
+      "detail": "29 Nov 2025",
+      "accept": [
+        "leeds united",
+        "leeds"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "14 Sep 2025",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "25 Jan 2025",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Ipswich Town",
+      "detail": "19 Jan 2025",
+      "accept": [
+        "ipswich town",
+        "ipswich"
+      ]
+    },
+    {
+      "display": "Brentford",
+      "detail": "14 Jan 2025",
+      "accept": [
+        "brentford",
+        "bees"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "04 Jan 2025",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "21 Dec 2024",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    }
+  ]
+}
