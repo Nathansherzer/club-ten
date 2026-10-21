@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-26",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players on the pitch for Chelsea at the final whistle against Everton in Matchweek 7",
+  "note": "2026/27 Premier League, Matchweek 7 · any order · goalkeeper excluded · Everton 0-2 Chelsea, 17 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Josh Acheampong",
+      "detail": "",
+      "accept": [
+        "josh acheampong",
+        "joshua acheampong",
+        "acheampong"
+      ]
+    },
+    {
+      "display": "Maxence Lacroix",
+      "detail": "",
+      "accept": [
+        "maxence lacroix",
+        "lacroix"
+      ]
+    },
+    {
+      "display": "Levi Colwill",
+      "detail": "",
+      "accept": [
+        "levi colwill",
+        "colwill"
+      ]
+    },
+    {
+      "display": "Marco Palestra",
+      "detail": "",
+      "accept": [
+        "marco palestra",
+        "palestra"
+      ]
+    },
+    {
+      "display": "Roméo Lavia",
+      "detail": "",
+      "accept": [
+        "roméo lavia",
+        "romeo lavia",
+        "lavia"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "Geovany Quenda",
+      "detail": "",
+      "accept": [
+        "geovany quenda",
+        "quenda"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Morgan Rogers",
+      "detail": "",
+      "accept": [
+        "morgan rogers",
+        "rogers"
+      ]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "",
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-26",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players on the pitch for Arsenal at the final whistle against Nottingham Forest in Matchweek 7",
+  "note": "2026/27 Premier League, Matchweek 7 · any order · goalkeeper excluded · Nottingham Forest 0-1 Arsenal, 18 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jurriën Timber",
+      "detail": "",
+      "accept": [
+        "jurriën timber",
+        "jurrien timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Ezri Konsa",
+      "detail": "",
+      "accept": [
+        "ezri konsa",
+        "konsa"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "",
+      "accept": [
+        "gabriel magalhães",
+        "gabriel magalhaes",
+        "gabriel"
+      ]
+    },
+    {
+      "display": "Riccardo Calafiori",
+      "detail": "",
+      "accept": [
+        "riccardo calafiori",
+        "calafiori"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Mikel Merino",
+      "detail": "",
+      "accept": [
+        "mikel merino",
+        "merino"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "",
+      "accept": [
+        "martin ødegaard",
+        "martin odegaard",
+        "odegaard"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "",
+      "accept": [
+        "viktor gyökeres",
+        "viktor gyokeres",
+        "gyokeres"
+      ]
+    }
+  ]
+}

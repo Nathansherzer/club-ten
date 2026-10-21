@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-26",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players on the pitch for Tottenham at the final whistle against Coventry City in Matchweek 7",
+  "note": "2026/27 Premier League, Matchweek 7 · any order · goalkeeper excluded · Tottenham Hotspur 3-1 Coventry City, 19 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jan Paul van Hecke",
+      "detail": "",
+      "accept": [
+        "jan paul van hecke",
+        "van hecke"
+      ]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "",
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
+    },
+    {
+      "display": "Archie Gray",
+      "detail": "",
+      "accept": [
+        "archie gray",
+        "gray"
+      ]
+    },
+    {
+      "display": "Sandro Tonali",
+      "detail": "",
+      "accept": [
+        "sandro tonali",
+        "tonali"
+      ]
+    },
+    {
+      "display": "Mateus Fernandes",
+      "detail": "",
+      "accept": [
+        "mateus fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Conor Gallagher",
+      "detail": "",
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
+    },
+    {
+      "display": "Dejan Kulusevski",
+      "detail": "",
+      "accept": [
+        "dejan kulusevski",
+        "kulusevski"
+      ]
+    },
+    {
+      "display": "Mathys Tel",
+      "detail": "",
+      "accept": [
+        "mathys tel",
+        "tel"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    }
+  ]
+}

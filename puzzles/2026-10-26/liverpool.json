@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-26",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players on the pitch for Liverpool at the final whistle against Brentford in Matchweek 7",
+  "note": "2026/27 Premier League, Matchweek 7 · any order · goalkeeper excluded · Brentford 1-2 Liverpool, 17 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Jérémy Jacquet",
+      "detail": "",
+      "accept": [
+        "jérémy jacquet",
+        "jeremy jacquet",
+        "jacquet"
+      ]
+    },
+    {
+      "display": "Milos Kerkez",
+      "detail": "",
+      "accept": [
+        "milos kerkez",
+        "miloš kerkez",
+        "kerkez"
+      ]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "",
+      "accept": [
+        "joe gomez",
+        "gomez"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "",
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister"
+      ]
+    },
+    {
+      "display": "Trey Nyoni",
+      "detail": "",
+      "accept": [
+        "trey nyoni",
+        "nyoni"
+      ]
+    },
+    {
+      "display": "Florian Wirtz",
+      "detail": "",
+      "accept": [
+        "florian wirtz",
+        "wirtz"
+      ]
+    },
+    {
+      "display": "Bradley Barcola",
+      "detail": "",
+      "accept": [
+        "bradley barcola",
+        "barcola"
+      ]
+    },
+    {
+      "display": "Rio Ngumoha",
+      "detail": "",
+      "accept": [
+        "rio ngumoha",
+        "ngumoha"
+      ]
+    },
+    {
+      "display": "Lewis Koumas",
+      "detail": "",
+      "accept": [
+        "lewis koumas",
+        "koumas"
+      ]
+    }
+  ]
+}

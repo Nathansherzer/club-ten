@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-26",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players on the pitch for Manchester City at the final whistle against Ipswich Town in Matchweek 7",
+  "note": "2026/27 Premier League, Matchweek 7 · any order · goalkeeper excluded · Manchester City 3-2 Ipswich Town, 17 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Abdukodir Khusanov",
+      "detail": "",
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov",
+        "husanov",
+        "abduqodir khusanov"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "rúben dias",
+        "ruben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Marc Guéhi",
+      "detail": "",
+      "accept": [
+        "marc guéhi",
+        "marc guehi",
+        "guehi"
+      ]
+    },
+    {
+      "display": "Joško Gvardiol",
+      "detail": "",
+      "accept": [
+        "joško gvardiol",
+        "josko gvardiol",
+        "gvardiol"
+      ]
+    },
+    {
+      "display": "Ayyoub Bouaddi",
+      "detail": "",
+      "accept": [
+        "ayyoub bouaddi",
+        "bouaddi"
+      ]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "",
+      "accept": [
+        "enzo fernández",
+        "enzo fernandez",
+        "fernandez",
+        "enzo"
+      ]
+    },
+    {
+      "display": "Elliot Anderson",
+      "detail": "",
+      "accept": [
+        "elliot anderson",
+        "anderson"
+      ]
+    },
+    {
+      "display": "Iliman Ndiaye",
+      "detail": "",
+      "accept": [
+        "iliman ndiaye",
+        "ndiaye"
+      ]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    }
+  ]
+}
