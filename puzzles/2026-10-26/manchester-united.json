@@ -3,90 +3,88 @@
   "club": "manchester-united",
   "clubLabel": "Man United:",
   "clubShort": "Man United",
-  "question": "name the 10 outfield players on the pitch for Manchester United at the final whistle against Leeds United in Matchweek 7",
-  "note": "2026/27 Premier League, Matchweek 7 · any order · goalkeeper excluded · Leeds United 1-1 Manchester United, 18 October 2026",
+  "question": "name the 10 most recent players Man United sold abroad",
+  "note": "permanent sales outside the English league system · senior competitive appearance required · loans and free transfers excluded · newest first · any order · through 19 Oct 2026 · Based on Wikipedia",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Leny Yoro",
+      "display": "Tyler Fredricson",
       "detail": "",
       "accept": [
-        "leny yoro",
-        "yoro"
+        "tyler fredricson",
+        "fredricson"
       ]
     },
     {
-      "display": "Harry Maguire",
+      "display": "Rasmus Højlund",
       "detail": "",
       "accept": [
-        "harry maguire",
-        "maguire"
+        "rasmus højlund",
+        "rasmus hojlund",
+        "hojlund"
       ]
     },
     {
-      "display": "Noussair Mazraoui",
+      "display": "Antony",
       "detail": "",
       "accept": [
-        "noussair mazraoui",
-        "mazraoui"
+        "antony"
       ]
     },
     {
-      "display": "Diogo Dalot",
+      "display": "Scott McTominay",
       "detail": "",
       "accept": [
-        "diogo dalot",
-        "dalot"
+        "scott mctominay",
+        "mctominay"
       ]
     },
     {
-      "display": "Andrey Santos",
+      "display": "Facundo Pellistri",
       "detail": "",
       "accept": [
-        "andrey santos",
-        "santos"
+        "facundo pellistri",
+        "pellistri"
       ]
     },
     {
-      "display": "Mason Mount",
+      "display": "Mason Greenwood",
       "detail": "",
       "accept": [
-        "mason mount",
-        "mount"
+        "mason greenwood",
+        "greenwood"
       ]
     },
     {
-      "display": "Amad Diallo",
+      "display": "Willy Kambwala",
       "detail": "",
       "accept": [
-        "amad diallo",
-        "amad",
-        "diallo"
+        "willy kambwala",
+        "kambwala"
       ]
     },
     {
-      "display": "Bruno Fernandes",
+      "display": "Donny van de Beek",
       "detail": "",
       "accept": [
-        "bruno fernandes",
-        "bruno",
-        "fernandes"
+        "donny van de beek",
+        "van de beek"
       ]
     },
     {
-      "display": "Matheus Cunha",
+      "display": "Fred",
       "detail": "",
       "accept": [
-        "matheus cunha",
-        "cunha"
+        "fred",
+        "fred brasileiro"
       ]
     },
     {
-      "display": "Bryan Mbeumo",
+      "display": "Alex Telles",
       "detail": "",
       "accept": [
-        "bryan mbeumo",
-        "mbeumo"
+        "alex telles",
+        "telles"
       ]
     }
   ]

@@ -3,90 +3,91 @@
   "club": "chelsea",
   "clubLabel": "Chelsea:",
   "clubShort": "Chelsea",
-  "question": "name the 10 most recent players Chelsea sold abroad",
-  "note": "permanent sales outside the English league system · senior competitive appearance required · loans and free transfers excluded · newest first · any order · through 19 Oct 2026 · Based on Wikipedia",
+  "question": "name the 10 outfield players on the pitch for Chelsea at the final whistle against Everton in Matchweek 7",
+  "note": "2026/27 Premier League, Matchweek 7 · any order · goalkeeper excluded · Everton 0-2 Chelsea, 17 October 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Marc Guiu",
+      "display": "Josh Acheampong",
       "detail": "",
       "accept": [
-        "marc guiu",
-        "guiu"
+        "josh acheampong",
+        "joshua acheampong",
+        "acheampong"
       ]
     },
     {
-      "display": "Deivid Washington",
+      "display": "Maxence Lacroix",
       "detail": "",
       "accept": [
-        "deivid washington",
-        "washington"
+        "maxence lacroix",
+        "lacroix"
       ]
     },
     {
-      "display": "David Datro Fofana",
+      "display": "Levi Colwill",
       "detail": "",
       "accept": [
-        "david datro fofana",
-        "datro fofana",
-        "fofana"
+        "levi colwill",
+        "colwill"
       ]
     },
     {
-      "display": "Trevoh Chalobah",
+      "display": "Marco Palestra",
       "detail": "",
       "accept": [
-        "trevoh chalobah",
-        "chalobah"
+        "marco palestra",
+        "palestra"
       ]
     },
     {
-      "display": "Marc Cucurella",
+      "display": "Roméo Lavia",
       "detail": "",
       "accept": [
-        "marc cucurella",
-        "cucurella"
+        "roméo lavia",
+        "romeo lavia",
+        "lavia"
       ]
     },
     {
-      "display": "Christopher Nkunku",
+      "display": "Jordan Henderson",
       "detail": "",
       "accept": [
-        "christopher nkunku",
-        "nkunku"
+        "jordan henderson",
+        "henderson",
+        "hendo"
       ]
     },
     {
-      "display": "Carney Chukwuemeka",
+      "display": "Geovany Quenda",
       "detail": "",
       "accept": [
-        "carney chukwuemeka",
-        "chukwuemeka"
+        "geovany quenda",
+        "quenda"
       ]
     },
     {
-      "display": "Renato Veiga",
+      "display": "Cole Palmer",
       "detail": "",
       "accept": [
-        "renato veiga",
-        "veiga"
+        "cole palmer",
+        "palmer"
       ]
     },
     {
-      "display": "João Félix",
+      "display": "Morgan Rogers",
       "detail": "",
       "accept": [
-        "joão félix",
-        "joao felix",
-        "felix"
+        "morgan rogers",
+        "rogers"
       ]
     },
     {
-      "display": "Mathis Amougou",
+      "display": "Danny Welbeck",
       "detail": "",
       "accept": [
-        "mathis amougou",
-        "amougou"
+        "danny welbeck",
+        "welbeck"
       ]
     }
   ]

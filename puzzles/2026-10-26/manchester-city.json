@@ -3,95 +3,89 @@
   "club": "manchester-city",
   "clubLabel": "Man City:",
   "clubShort": "Man City",
-  "question": "name the 10 outfield players on the pitch for Manchester City at the final whistle against Ipswich Town in Matchweek 7",
-  "note": "2026/27 Premier League, Matchweek 7 · any order · goalkeeper excluded · Manchester City 3-2 Ipswich Town, 17 October 2026",
+  "question": "name the 10 most recent players Man City sold abroad",
+  "note": "permanent sales outside the English league system · senior competitive appearance required · loans and free transfers excluded · newest first · any order · through 19 Oct 2026 · Based on Wikipedia",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Abdukodir Khusanov",
+      "display": "Tijjani Reijnders",
       "detail": "",
       "accept": [
-        "abdukodir khusanov",
-        "khusanov",
-        "husanov",
-        "abduqodir khusanov"
+        "tijjani reijnders",
+        "reijnders"
       ]
     },
     {
-      "display": "Rúben Dias",
+      "display": "Rodri",
       "detail": "",
       "accept": [
-        "rúben dias",
-        "ruben dias",
-        "dias"
+        "rodri",
+        "rodrigo hernandez"
       ]
     },
     {
-      "display": "Marc Guéhi",
+      "display": "Reigan Heskey",
       "detail": "",
       "accept": [
-        "marc guéhi",
-        "marc guehi",
-        "guehi"
+        "reigan heskey",
+        "heskey"
       ]
     },
     {
-      "display": "Joško Gvardiol",
+      "display": "Nathan Aké",
       "detail": "",
       "accept": [
-        "joško gvardiol",
-        "josko gvardiol",
-        "gvardiol"
+        "nathan aké",
+        "nathan ake",
+        "ake"
       ]
     },
     {
-      "display": "Ayyoub Bouaddi",
+      "display": "Manuel Akanji",
       "detail": "",
       "accept": [
-        "ayyoub bouaddi",
-        "bouaddi"
+        "manuel akanji",
+        "akanji"
       ]
     },
     {
-      "display": "Enzo Fernández",
+      "display": "Jahmai Simpson-Pusey",
       "detail": "",
       "accept": [
-        "enzo fernández",
-        "enzo fernandez",
-        "fernandez",
-        "enzo"
+        "jahmai simpson-pusey",
+        "simpson pusey"
       ]
     },
     {
-      "display": "Elliot Anderson",
+      "display": "Mahamadou Susoho",
       "detail": "",
       "accept": [
-        "elliot anderson",
-        "anderson"
+        "mahamadou susoho",
+        "susoho"
       ]
     },
     {
-      "display": "Iliman Ndiaye",
+      "display": "Ederson",
       "detail": "",
       "accept": [
-        "iliman ndiaye",
-        "ndiaye"
+        "ederson",
+        "ederson moraes"
       ]
     },
     {
-      "display": "Antoine Semenyo",
+      "display": "Máximo Perrone",
       "detail": "",
       "accept": [
-        "antoine semenyo",
-        "semenyo"
+        "máximo perrone",
+        "maximo perrone",
+        "perrone"
       ]
     },
     {
-      "display": "Erling Haaland",
+      "display": "Kayky",
       "detail": "",
       "accept": [
-        "erling haaland",
-        "haaland"
+        "kayky"
       ]
     }
   ]
