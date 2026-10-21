@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-25",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to score for Liverpool in a major cup final",
+  "note": "major domestic & European cup finals, won or lost · excludes own goals, shootouts, Super Cups & Club World Cups · each player once, most recent qualifying goal · any order · through 21 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Federico Chiesa",
+      "detail": "16 Mar 2025 · League Cup final vs Newcastle United",
+      "accept": [
+        "federico chiesa",
+        "chiesa"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "25 Feb 2024 · League Cup final vs Chelsea",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Divock Origi",
+      "detail": "01 Jun 2019 · Champions League final vs Tottenham Hotspur",
+      "accept": [
+        "divock origi",
+        "origi"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "01 Jun 2019 · Champions League final vs Tottenham Hotspur",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "26 May 2018 · Champions League final vs Real Madrid",
+      "accept": [
+        "sadio mané",
+        "sadio mane",
+        "mane"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "18 May 2016 · Europa League final vs Sevilla",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    },
+    {
+      "display": "Philippe Coutinho",
+      "detail": "28 Feb 2016 · League Cup final vs Manchester City",
+      "accept": [
+        "philippe coutinho",
+        "coutinho",
+        "phil coutinho"
+      ]
+    },
+    {
+      "display": "Andy Carroll",
+      "detail": "05 May 2012 · FA Cup final vs Chelsea",
+      "accept": [
+        "andy carroll",
+        "andrew carroll",
+        "carroll"
+      ]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "26 Feb 2012 · League Cup final vs Cardiff City",
+      "accept": [
+        "dirk kuyt",
+        "kuyt"
+      ]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "26 Feb 2012 · League Cup final vs Cardiff City",
+      "accept": [
+        "martin škrtel",
+        "martin skrtel",
+        "skrtel"
+      ]
+    }
+  ]
+}

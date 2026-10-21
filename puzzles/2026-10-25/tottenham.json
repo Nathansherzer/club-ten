@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-25",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent different players to score for Tottenham in a major cup final",
+  "note": "major domestic & European cup finals, won or lost · excludes own goals, shootouts, Super Cups & Club World Cups · each player once, most recent qualifying goal · any order · through 21 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Brennan Johnson",
+      "detail": "21 May 2025 · Europa League final vs Manchester United",
+      "accept": [
+        "brennan johnson",
+        "johnson"
+      ]
+    },
+    {
+      "display": "Jonathan Woodgate",
+      "detail": "24 Feb 2008 · League Cup final vs Chelsea",
+      "accept": [
+        "jonathan woodgate",
+        "woodgate"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "24 Feb 2008 · League Cup final vs Chelsea",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    },
+    {
+      "display": "Christian Ziege",
+      "detail": "24 Feb 2002 · League Cup final vs Blackburn Rovers",
+      "accept": [
+        "christian ziege",
+        "ziege"
+      ]
+    },
+    {
+      "display": "Allan Nielsen",
+      "detail": "21 Mar 1999 · League Cup final vs Leicester City",
+      "accept": [
+        "allan nielsen",
+        "nielsen"
+      ]
+    },
+    {
+      "display": "Paul Stewart",
+      "detail": "18 May 1991 · FA Cup final vs Nottingham Forest",
+      "accept": [
+        "paul stewart",
+        "stewart"
+      ]
+    },
+    {
+      "display": "Gary Mabbutt",
+      "detail": "16 May 1987 · FA Cup final vs Coventry City",
+      "accept": [
+        "gary mabbutt",
+        "mabbutt"
+      ]
+    },
+    {
+      "display": "Clive Allen",
+      "detail": "16 May 1987 · FA Cup final vs Coventry City",
+      "accept": [
+        "clive allen",
+        "allen"
+      ]
+    },
+    {
+      "display": "Graham Roberts",
+      "detail": "23 May 1984 · UEFA Cup final (2nd leg) vs Anderlecht",
+      "accept": [
+        "graham roberts",
+        "roberts"
+      ]
+    },
+    {
+      "display": "Paul Miller",
+      "detail": "09 May 1984 · UEFA Cup final (1st leg) vs Anderlecht",
+      "accept": [
+        "paul miller",
+        "miller"
+      ]
+    }
+  ]
+}

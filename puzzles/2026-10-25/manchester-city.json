@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-25",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to score for Man City in a major cup final",
+  "note": "major domestic & European cup finals, won or lost · excludes own goals, shootouts, Super Cups & Club World Cups · each player once, most recent qualifying goal · any order · through 21 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Antoine Semenyo",
+      "detail": "16 May 2026 · FA Cup final vs Chelsea",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "22 Mar 2026 · League Cup final vs Arsenal",
+      "accept": [
+        "nico o'reilly",
+        "o'reilly",
+        "o reilly",
+        "oreilly"
+      ]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "25 May 2024 · FA Cup final vs Manchester United",
+      "accept": [
+        "jérémy doku",
+        "jeremy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "10 Jun 2023 · Champions League final vs Inter Milan",
+      "accept": [
+        "rodri",
+        "rodrigo",
+        "rodrigo hernandez",
+        "rodrigo hernández"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "03 Jun 2023 · FA Cup final vs Manchester United",
+      "accept": [
+        "i̇lkay gündoğan",
+        "ilkay gundogan",
+        "gundogan"
+      ]
+    },
+    {
+      "display": "Aymeric Laporte",
+      "detail": "25 Apr 2021 · League Cup final vs Tottenham Hotspur",
+      "accept": [
+        "aymeric laporte",
+        "laporte"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "01 Mar 2020 · League Cup final vs Aston Villa",
+      "accept": [
+        "sergio agüero",
+        "sergio aguero",
+        "aguero",
+        "kun aguero",
+        "kun"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "18 May 2019 · FA Cup final vs Watford",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "18 May 2019 · FA Cup final vs Watford",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "18 May 2019 · FA Cup final vs Watford",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    }
+  ]
+}
