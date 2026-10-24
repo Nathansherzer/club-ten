@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-27",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent players to score on their competitive debut for Chelsea",
+  "note": "first senior competitive appearance only, all competitions (incl. Community Shield, UEFA Super Cup, Club World Cup) · friendlies and youth/reserve matches excluded · a second spell does not reset eligibility · shootout goals excluded · any order · through 22 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Danny Welbeck",
+      "detail": "27 Aug 2026 · League Cup vs Luton Town",
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
+    },
+    {
+      "display": "Morgan Rogers",
+      "detail": "24 Aug 2026 · Premier League vs Fulham",
+      "accept": [
+        "morgan rogers",
+        "rogers"
+      ]
+    },
+    {
+      "display": "Axel Disasi",
+      "detail": "13 Aug 2023 · Premier League vs Liverpool",
+      "accept": [
+        "axel disasi",
+        "disasi"
+      ]
+    },
+    {
+      "display": "Denis Zakaria",
+      "detail": "02 Nov 2022 · Champions League vs Dinamo Zagreb",
+      "accept": [
+        "denis zakaria",
+        "zakaria"
+      ]
+    },
+    {
+      "display": "Reece James",
+      "detail": "25 Sep 2019 · League Cup vs Grimsby Town",
+      "accept": [
+        "reece james",
+        "james"
+      ]
+    },
+    {
+      "display": "Alexandre Pato",
+      "detail": "02 Apr 2016 · Premier League vs Aston Villa",
+      "accept": [
+        "alexandre pato",
+        "pato"
+      ]
+    },
+    {
+      "display": "Pedro",
+      "detail": "23 Aug 2015 · Premier League vs West Bromwich Albion",
+      "accept": [
+        "pedro",
+        "pedro rodriguez",
+        "pedro rodríguez"
+      ]
+    },
+    {
+      "display": "Loïc Rémy",
+      "detail": "13 Sep 2014 · Premier League vs Swansea City",
+      "accept": [
+        "loïc rémy",
+        "loic remy",
+        "remy"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "18 Aug 2014 · Premier League vs Burnley",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    },
+    {
+      "display": "Demba Ba",
+      "detail": "05 Jan 2013 · FA Cup vs Southampton",
+      "accept": [
+        "demba ba"
+      ]
+    }
+  ]
+}

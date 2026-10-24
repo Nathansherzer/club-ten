@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-27",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent players to score on their competitive debut for Liverpool",
+  "note": "first senior competitive appearance only, all competitions (incl. Community Shield, UEFA Super Cup, Club World Cup) · friendlies and youth/reserve matches excluded · a second spell does not reset eligibility · shootout goals excluded · any order · through 22 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jeremie Frimpong",
+      "detail": "10 Aug 2025 · Community Shield vs Crystal Palace",
+      "accept": [
+        "jeremie frimpong",
+        "jérémie frimpong",
+        "frimpong"
+      ]
+    },
+    {
+      "display": "Hugo Ekitike",
+      "detail": "10 Aug 2025 · Community Shield vs Crystal Palace",
+      "accept": [
+        "hugo ekitike",
+        "ekitike"
+      ]
+    },
+    {
+      "display": "Lewis Koumas",
+      "detail": "28 Feb 2024 · FA Cup vs Southampton",
+      "accept": [
+        "lewis koumas",
+        "koumas"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "30 Jul 2022 · Community Shield vs Manchester City",
+      "accept": [
+        "darwin núñez",
+        "darwin nunez",
+        "nunez"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "05 Jan 2018 · FA Cup vs Everton",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "12 Aug 2017 · Premier League vs Watford",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "14 Aug 2016 · Premier League vs Arsenal",
+      "accept": [
+        "sadio mané",
+        "sadio mane",
+        "mane"
+      ]
+    },
+    {
+      "display": "Jordan Rossiter",
+      "detail": "23 Sep 2014 · League Cup vs Middlesbrough",
+      "accept": [
+        "jordan rossiter",
+        "rossiter"
+      ]
+    },
+    {
+      "display": "Victor Moses",
+      "detail": "16 Sep 2013 · Premier League vs Swansea City",
+      "accept": [
+        "victor moses",
+        "moses"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "06 Jan 2013 · FA Cup vs Mansfield Town",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    }
+  ]
+}

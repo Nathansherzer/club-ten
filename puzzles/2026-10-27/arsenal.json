@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-27",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent players to score on their competitive debut for Arsenal",
+  "note": "first senior competitive appearance only, all competitions (incl. Community Shield, UEFA Super Cup, Club World Cup) · friendlies and youth/reserve matches excluded · a second spell does not reset eligibility · shootout goals excluded · any order · through 22 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Marquinhos",
+      "detail": "08 Sep 2022 · Europa League vs FC Zurich",
+      "accept": [
+        "marquinhos"
+      ]
+    },
+    {
+      "display": "Charlie Patino",
+      "detail": "21 Dec 2021 · League Cup vs Sunderland",
+      "accept": [
+        "charlie patino",
+        "patino"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "12 Sep 2020 · Premier League vs Fulham",
+      "accept": [
+        "gabriel magalhães",
+        "gabriel magalhaes",
+        "gabriel"
+      ]
+    },
+    {
+      "display": "Cédric Soares",
+      "detail": "01 Jul 2020 · Premier League vs Norwich City",
+      "accept": [
+        "cédric soares",
+        "cedric soares",
+        "cedric"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "03 Feb 2018 · Premier League vs Everton",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba"
+      ]
+    },
+    {
+      "display": "Sead Kolašinac",
+      "detail": "06 Aug 2017 · Community Shield vs Chelsea",
+      "accept": [
+        "sead kolašinac",
+        "sead kolasinac",
+        "kolasinac"
+      ]
+    },
+    {
+      "display": "Sanchez Watt",
+      "detail": "22 Sep 2009 · League Cup vs West Bromwich Albion",
+      "accept": [
+        "sanchez watt",
+        "watt"
+      ]
+    },
+    {
+      "display": "Thomas Vermaelen",
+      "detail": "15 Aug 2009 · Premier League vs Everton",
+      "accept": [
+        "thomas vermaelen",
+        "vermaelen"
+      ]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "16 Aug 2008 · Premier League vs West Bromwich Albion",
+      "accept": [
+        "samir nasri",
+        "nasri"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "04 Feb 2006 · Premier League vs Birmingham City",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-27",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent players to score on their competitive debut for Man City",
+  "note": "first senior competitive appearance only, all competitions (incl. Community Shield, UEFA Super Cup, Club World Cup) · friendlies and youth/reserve matches excluded · a second spell does not reset eligibility · shootout goals excluded · any order · through 22 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Allan",
+      "detail": "17 Sep 2026 · League Cup vs Norwich City",
+      "accept": [
+        "allan",
+        "allan elias",
+        "allan elias loureiro"
+      ]
+    },
+    {
+      "display": "Floyd Samba",
+      "detail": "17 Sep 2026 · League Cup vs Norwich City",
+      "accept": [
+        "floyd samba",
+        "samba"
+      ]
+    },
+    {
+      "display": "Ryan McAidoo",
+      "detail": "10 Jan 2026 · FA Cup vs Exeter City",
+      "accept": [
+        "ryan mcaidoo",
+        "mcaidoo"
+      ]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "10 Jan 2026 · FA Cup vs Exeter City",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    },
+    {
+      "display": "Micah Hamilton",
+      "detail": "13 Dec 2023 · Champions League vs Red Star Belgrade",
+      "accept": [
+        "micah hamilton",
+        "hamilton"
+      ]
+    },
+    {
+      "display": "Julián Álvarez",
+      "detail": "30 Jul 2022 · Community Shield vs Liverpool",
+      "accept": [
+        "julián álvarez",
+        "julian alvarez",
+        "alvarez"
+      ]
+    },
+    {
+      "display": "Liam Delap",
+      "detail": "24 Sep 2020 · League Cup vs Bournemouth",
+      "accept": [
+        "liam delap",
+        "delap"
+      ]
+    },
+    {
+      "display": "José Ángel Pozo",
+      "detail": "24 Sep 2014 · League Cup vs Sheffield Wednesday",
+      "accept": [
+        "josé ángel pozo",
+        "jose angel pozo",
+        "pozo"
+      ]
+    },
+    {
+      "display": "Rony Lopes",
+      "detail": "05 Jan 2013 · FA Cup vs Watford",
+      "accept": [
+        "rony lopes",
+        "marcos lopes",
+        "marcos rony lopes"
+      ]
+    },
+    {
+      "display": "Javi García",
+      "detail": "15 Sep 2012 · Premier League vs Stoke City",
+      "accept": [
+        "javi garcía",
+        "javi garcia",
+        "garcia"
+      ]
+    }
+  ]
+}

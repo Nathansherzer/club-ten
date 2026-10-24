@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-27",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent players to score on their competitive debut for Spurs",
+  "note": "first senior competitive appearance only, all competitions (incl. Community Shield, UEFA Super Cup, Club World Cup) · friendlies and youth/reserve matches excluded · a second spell does not reset eligibility · shootout goals excluded · any order · through 22 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Savinho",
+      "detail": "26 Aug 2026 · League Cup vs Charlton Athletic",
+      "accept": [
+        "savinho",
+        "savio",
+        "savio moreira"
+      ]
+    },
+    {
+      "display": "Alfie Devine",
+      "detail": "10 Jan 2021 · FA Cup vs Marine",
+      "accept": [
+        "alfie devine",
+        "devine"
+      ]
+    },
+    {
+      "display": "Steven Bergwijn",
+      "detail": "02 Feb 2020 · Premier League vs Manchester City",
+      "accept": [
+        "steven bergwijn",
+        "bergwijn"
+      ]
+    },
+    {
+      "display": "Tanguy Ndombele",
+      "detail": "10 Aug 2019 · Premier League vs Aston Villa",
+      "accept": [
+        "tanguy ndombele",
+        "ndombele"
+      ]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "16 Aug 2014 · Premier League vs West Ham United",
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
+    },
+    {
+      "display": "Roberto Soldado",
+      "detail": "18 Aug 2013 · Premier League vs Crystal Palace",
+      "accept": [
+        "roberto soldado",
+        "soldado"
+      ]
+    },
+    {
+      "display": "Mousa Dembélé",
+      "detail": "01 Sep 2012 · Premier League vs Norwich City",
+      "accept": [
+        "mousa dembélé",
+        "mousa dembele",
+        "moussa dembele",
+        "dembele"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "10 Sep 2011 · Premier League vs Wolverhampton Wanderers",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Andros Townsend",
+      "detail": "09 Jan 2011 · FA Cup vs Charlton Athletic",
+      "accept": [
+        "andros townsend",
+        "townsend"
+      ]
+    },
+    {
+      "display": "Sébastien Bassong",
+      "detail": "16 Aug 2009 · Premier League vs Liverpool",
+      "accept": [
+        "sébastien bassong",
+        "sebastien bassong",
+        "bassong"
+      ]
+    }
+  ]
+}

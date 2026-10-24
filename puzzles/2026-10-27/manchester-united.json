@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-27",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent players to score on their competitive debut for Man United",
+  "note": "first senior competitive appearance only, all competitions (incl. Community Shield, UEFA Super Cup, Club World Cup) · friendlies and youth/reserve matches excluded · a second spell does not reset eligibility · shootout goals excluded · any order · through 22 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Joshua Zirkzee",
+      "detail": "16 Aug 2024 · Premier League vs Fulham",
+      "accept": [
+        "joshua zirkzee",
+        "zirkzee"
+      ]
+    },
+    {
+      "display": "Antony",
+      "detail": "04 Sep 2022 · Premier League vs Arsenal",
+      "accept": [
+        "antony"
+      ]
+    },
+    {
+      "display": "Donny van de Beek",
+      "detail": "19 Sep 2020 · Premier League vs Crystal Palace",
+      "accept": [
+        "donny van de beek",
+        "van de beek"
+      ]
+    },
+    {
+      "display": "Daniel James",
+      "detail": "11 Aug 2019 · Premier League vs Chelsea",
+      "accept": [
+        "daniel james",
+        "dan james"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "08 Aug 2017 · UEFA Super Cup vs Real Madrid",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Josh Harrop",
+      "detail": "21 May 2017 · Premier League vs Crystal Palace",
+      "accept": [
+        "josh harrop",
+        "joshua harrop",
+        "harrop"
+      ]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "07 Aug 2016 · Community Shield vs Leicester City",
+      "accept": [
+        "zlatan ibrahimović",
+        "zlatan ibrahimovic",
+        "ibrahimovic",
+        "zlatan"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "25 Feb 2016 · Europa League vs Midtjylland",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "12 Sep 2015 · Premier League vs Liverpool",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    },
+    {
+      "display": "James Wilson",
+      "detail": "06 May 2014 · Premier League vs Hull City",
+      "accept": [
+        "james wilson",
+        "wilson"
+      ]
+    }
+  ]
+}
