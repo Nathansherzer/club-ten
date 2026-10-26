@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-31",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players on the pitch for Arsenal at the final whistle in Premier League Matchweek 8 of the 2026/27 season",
+  "note": "2026/27 Premier League, Matchweek 8 · any order · goalkeeper excluded · Arsenal 2-0 Everton, 24 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ben White",
+      "detail": "",
+      "accept": [
+        "ben white",
+        "white"
+      ]
+    },
+    {
+      "display": "Ezri Konsa",
+      "detail": "",
+      "accept": [
+        "ezri konsa",
+        "konsa"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "",
+      "accept": [
+        "gabriel magalhães",
+        "gabriel magalhaes",
+        "gabriel"
+      ]
+    },
+    {
+      "display": "Riccardo Calafiori",
+      "detail": "",
+      "accept": [
+        "riccardo calafiori",
+        "calafiori"
+      ]
+    },
+    {
+      "display": "Bruno Guimarães",
+      "detail": "",
+      "accept": [
+        "bruno guimarães",
+        "bruno guimaraes",
+        "guimaraes"
+      ]
+    },
+    {
+      "display": "Martín Zubimendi",
+      "detail": "",
+      "accept": [
+        "martín zubimendi",
+        "martin zubimendi",
+        "zubimendi"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "",
+      "accept": [
+        "martin ødegaard",
+        "martin odegaard",
+        "odegaard"
+      ]
+    },
+    {
+      "display": "Max Dowman",
+      "detail": "",
+      "accept": [
+        "max dowman",
+        "dowman"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    }
+  ]
+}

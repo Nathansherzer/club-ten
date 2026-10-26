@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-31",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players on the pitch for Manchester City at the final whistle in Premier League Matchweek 8 of the 2026/27 season",
+  "note": "2026/27 Premier League, Matchweek 8 · any order · goalkeeper excluded · Aston Villa 2-1 Manchester City, 24 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Abdukodir Khusanov",
+      "detail": "",
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov",
+        "husanov",
+        "abduqodir khusanov"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "rúben dias",
+        "ruben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Joško Gvardiol",
+      "detail": "",
+      "accept": [
+        "joško gvardiol",
+        "josko gvardiol",
+        "gvardiol"
+      ]
+    },
+    {
+      "display": "Rico Lewis",
+      "detail": "",
+      "accept": [
+        "rico lewis",
+        "lewis"
+      ]
+    },
+    {
+      "display": "Elliot Anderson",
+      "detail": "",
+      "accept": [
+        "elliot anderson",
+        "anderson"
+      ]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "",
+      "accept": [
+        "enzo fernández",
+        "enzo fernandez",
+        "fernandez",
+        "enzo"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Ryan McAidoo",
+      "detail": "",
+      "accept": [
+        "ryan mcaidoo",
+        "mcaidoo",
+        "reigan mcaidoo"
+      ]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "",
+      "accept": [
+        "jérémy doku",
+        "jeremy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    }
+  ]
+}

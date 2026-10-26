@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-31",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players on the pitch for Liverpool at the final whistle in Premier League Matchweek 8 of the 2026/27 season",
+  "note": "2026/27 Premier League, Matchweek 8 · any order · goalkeeper excluded · Liverpool 2-0 Brighton & Hove Albion, 25 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ronald Araújo",
+      "detail": "",
+      "accept": [
+        "ronald araújo",
+        "ronald araujo",
+        "araujo"
+      ]
+    },
+    {
+      "display": "Jérémy Jacquet",
+      "detail": "",
+      "accept": [
+        "jérémy jacquet",
+        "jeremy jacquet",
+        "jacquet"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Kostas Tsimikas",
+      "detail": "",
+      "accept": [
+        "kostas tsimikas",
+        "tsimikas"
+      ]
+    },
+    {
+      "display": "Ryan Gravenberch",
+      "detail": "",
+      "accept": [
+        "ryan gravenberch",
+        "gravenberch"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "",
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister"
+      ]
+    },
+    {
+      "display": "Trey Nyoni",
+      "detail": "",
+      "accept": [
+        "trey nyoni",
+        "nyoni"
+      ]
+    },
+    {
+      "display": "Cody Gakpo",
+      "detail": "",
+      "accept": [
+        "cody gakpo",
+        "gakpo"
+      ]
+    },
+    {
+      "display": "Rio Ngumoha",
+      "detail": "",
+      "accept": [
+        "rio ngumoha",
+        "ngumoha"
+      ]
+    },
+    {
+      "display": "Lewis Koumas",
+      "detail": "",
+      "accept": [
+        "lewis koumas",
+        "koumas"
+      ]
+    }
+  ]
+}
