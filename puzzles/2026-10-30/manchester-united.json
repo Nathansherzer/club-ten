@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-30",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to miss a Premier League penalty for Man United",
+  "note": "Premier League only · each player once, most recent qualifying miss · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "27 Sep 2025 vs Brentford",
+      "accept": [
+        "bruno fernandes",
+        "bruno",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "27 Oct 2019 vs Norwich City",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "27 Oct 2019 vs Norwich City",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "19 Aug 2019 vs Wolverhampton Wanderers",
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "03 Feb 2018 vs Huddersfield Town",
+      "accept": [
+        "alexis sánchez",
+        "alexis sanchez",
+        "sanchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "26 Aug 2017 vs Leicester City",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "04 Mar 2017 vs Bournemouth",
+      "accept": [
+        "zlatan ibrahimović",
+        "zlatan ibrahimovic",
+        "ibrahimovic",
+        "zlatan"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "02 May 2015 vs West Bromwich Albion",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "22 Mar 2015 vs Liverpool",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Javier Hernández",
+      "detail": "15 Sep 2012 vs Wigan Athletic",
+      "accept": [
+        "javier hernández",
+        "javier hernandez",
+        "hernandez",
+        "chicharito"
+      ]
+    }
+  ]
+}

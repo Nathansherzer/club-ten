@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-30",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to miss a Premier League penalty for Arsenal",
+  "note": "Premier League only · each player once, most recent qualifying miss · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bukayo Saka",
+      "detail": "16 Apr 2023 vs West Ham United",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "07 Nov 2021 vs Watford",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "17 Sep 2016 vs Hull City",
+      "accept": [
+        "alexis sánchez",
+        "alexis sanchez",
+        "sanchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "14 Aug 2016 vs Liverpool",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Santi Cazorla",
+      "detail": "21 Nov 2015 vs West Bromwich Albion",
+      "accept": [
+        "santi cazorla",
+        "santiago cazorla",
+        "cazorla"
+      ]
+    },
+    {
+      "display": "Mikel Arteta",
+      "detail": "10 Nov 2012 vs Fulham",
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "28 Aug 2011 vs Manchester United",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "24 Oct 2010 vs Manchester City",
+      "accept": [
+        "cesc fàbregas",
+        "cesc fabregas",
+        "fabregas",
+        "cesc"
+      ]
+    },
+    {
+      "display": "Tomáš Rosický",
+      "detail": "18 Sep 2010 vs Sunderland",
+      "accept": [
+        "tomáš rosický",
+        "tomas rosicky",
+        "rosicky"
+      ]
+    },
+    {
+      "display": "Júlio Baptista",
+      "detail": "13 May 2007 vs Portsmouth",
+      "accept": [
+        "júlio baptista",
+        "julio baptista",
+        "baptista"
+      ]
+    }
+  ]
+}

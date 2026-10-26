@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-30",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to miss a Premier League penalty for Liverpool",
+  "note": "Premier League only · each player once, most recent qualifying miss · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "17 Jan 2026 vs Burnley",
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "31 Jan 2024 vs Chelsea",
+      "accept": [
+        "darwin núñez",
+        "darwin nunez",
+        "nunez"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "01 Jan 2024 vs Newcastle United",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "07 May 2017 vs Southampton",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "02 May 2015 vs Queens Park Rangers",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "28 Jan 2014 vs Everton",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    },
+    {
+      "display": "Stewart Downing",
+      "detail": "08 May 2012 vs Chelsea",
+      "accept": [
+        "stewart downing",
+        "downing"
+      ]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "03 Mar 2012 vs Arsenal",
+      "accept": [
+        "dirk kuyt",
+        "kuyt"
+      ]
+    },
+    {
+      "display": "Charlie Adam",
+      "detail": "21 Dec 2011 vs Wigan Athletic",
+      "accept": [
+        "charlie adam",
+        "adam"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "13 Aug 2011 vs Sunderland",
+      "accept": [
+        "luis suárez",
+        "luis suarez",
+        "suarez"
+      ]
+    }
+  ]
+}
