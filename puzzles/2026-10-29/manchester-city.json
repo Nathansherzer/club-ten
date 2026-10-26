@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-29",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent players to score a Premier League own goal while playing for Man City",
+  "note": "Premier League only, 1992/93-present · each player once, most recent qualifying own goal · goalkeepers included · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Gianluigi Donnarumma",
+      "detail": "28 Aug 2026 vs Crystal Palace",
+      "accept": [
+        "gianluigi donnarumma",
+        "donnarumma",
+        "gigio"
+      ]
+    },
+    {
+      "display": "Abdukodir Khusanov",
+      "detail": "15 Mar 2025 vs Brighton & Hove Albion",
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov",
+        "husanov",
+        "abduqodir khusanov",
+        "xusanov"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "31 Aug 2024 vs West Ham United",
+      "accept": [
+        "rúben dias",
+        "ruben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "John Stones",
+      "detail": "27 Aug 2022 vs Crystal Palace",
+      "accept": [
+        "john stones",
+        "stones"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "18 Jan 2020 vs Crystal Palace",
+      "accept": [
+        "fernandinho",
+        "fernando luiz roza"
+      ]
+    },
+    {
+      "display": "Nicolás Otamendi",
+      "detail": "26 Nov 2017 vs Huddersfield Town",
+      "accept": [
+        "nicolás otamendi",
+        "nicolas otamendi",
+        "otamendi"
+      ]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "02 Oct 2016 vs Tottenham Hotspur",
+      "accept": [
+        "aleksandar kolarov",
+        "kolarov"
+      ]
+    },
+    {
+      "display": "Eliaquim Mangala",
+      "detail": "21 Nov 2015 vs Liverpool",
+      "accept": [
+        "eliaquim mangala",
+        "mangala"
+      ]
+    },
+    {
+      "display": "Martín Demichelis",
+      "detail": "08 Nov 2014 vs Queens Park Rangers",
+      "accept": [
+        "martín demichelis",
+        "martin demichelis",
+        "demichelis"
+      ]
+    },
+    {
+      "display": "Vincent Kompany",
+      "detail": "21 Dec 2013 vs Fulham",
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
+    }
+  ]
+}

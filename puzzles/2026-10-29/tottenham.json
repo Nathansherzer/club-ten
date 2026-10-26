@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-29",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent players to score a Premier League own goal while playing for Spurs",
+  "note": "Premier League only, 1992/93-present · each player once, most recent qualifying own goal · goalkeepers included · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Destiny Udogie",
+      "detail": "27 Apr 2025 vs Liverpool",
+      "accept": [
+        "destiny udogie",
+        "udogie"
+      ]
+    },
+    {
+      "display": "Djed Spence",
+      "detail": "13 Apr 2025 vs Wolverhampton Wanderers",
+      "accept": [
+        "djed spence",
+        "spence"
+      ]
+    },
+    {
+      "display": "Archie Gray",
+      "detail": "19 Jan 2025 vs Everton",
+      "accept": [
+        "archie gray",
+        "gray"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "15 Jan 2025 vs Arsenal",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    },
+    {
+      "display": "Pierre-Emile Højbjerg",
+      "detail": "28 Apr 2024 vs Arsenal",
+      "accept": [
+        "pierre-emile højbjerg",
+        "pierre-emile hojbjerg",
+        "hojbjerg"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "03 Dec 2023 vs Manchester City",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min son",
+        "sonny",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "24 Sep 2023 vs Arsenal",
+      "accept": [
+        "cristian romero",
+        "romero",
+        "cuti romero",
+        "cuti"
+      ]
+    },
+    {
+      "display": "Hugo Lloris",
+      "detail": "15 Jan 2023 vs Arsenal",
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "17 Oct 2021 vs Newcastle United",
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
+    },
+    {
+      "display": "Sergio Reguilón",
+      "detail": "19 May 2021 vs Aston Villa",
+      "accept": [
+        "sergio reguilón",
+        "sergio reguilon",
+        "reguilon"
+      ]
+    }
+  ]
+}

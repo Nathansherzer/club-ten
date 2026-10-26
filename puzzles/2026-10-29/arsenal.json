@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-29",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent players to score a Premier League own goal while playing for Arsenal",
+  "note": "Premier League only, 1992/93-present · each player once, most recent qualifying own goal · goalkeepers included · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Piero Hincapié",
+      "detail": "01 Mar 2026 vs Chelsea",
+      "accept": [
+        "piero hincapié",
+        "piero hincapie",
+        "hincapie"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "04 Feb 2024 vs Liverpool",
+      "accept": [
+        "gabriel magalhães",
+        "gabriel magalhaes",
+        "gabriel"
+      ]
+    },
+    {
+      "display": "William Saliba",
+      "detail": "13 Aug 2022 vs Leicester City",
+      "accept": [
+        "william saliba",
+        "saliba"
+      ]
+    },
+    {
+      "display": "Ben White",
+      "detail": "16 May 2022 vs Newcastle United",
+      "accept": [
+        "ben white",
+        "white"
+      ]
+    },
+    {
+      "display": "Bernd Leno",
+      "detail": "23 Apr 2021 vs Everton",
+      "accept": [
+        "bernd leno",
+        "leno"
+      ]
+    },
+    {
+      "display": "Rob Holding",
+      "detail": "19 Dec 2020 vs Everton",
+      "accept": [
+        "rob holding",
+        "holding"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "13 Dec 2020 vs Burnley",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "08 Nov 2020 vs Aston Villa",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Héctor Bellerín",
+      "detail": "22 Oct 2018 vs Leicester City",
+      "accept": [
+        "héctor bellerín",
+        "hector bellerin",
+        "bellerin"
+      ]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "10 Sep 2016 vs Southampton",
+      "accept": [
+        "petr čech",
+        "petr cech",
+        "cech"
+      ]
+    }
+  ]
+}
