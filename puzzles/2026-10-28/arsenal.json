@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-28",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent players to score a direct free-kick for Arsenal in the Premier League",
+  "note": "Premier League only · each player once, most recent qualifying goal · any order · through 24 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Martin Ødegaard",
+      "detail": "18 Sep 2021 vs Burnley",
+      "accept": [
+        "martin ødegaard",
+        "martin odegaard",
+        "odegaard"
+      ]
+    },
+    {
+      "display": "Willian",
+      "detail": "09 May 2021 vs West Bromwich Albion",
+      "accept": [
+        "willian"
+      ]
+    },
+    {
+      "display": "Granit Xhaka",
+      "detail": "26 Dec 2020 vs Chelsea",
+      "accept": [
+        "granit xhaka",
+        "xhaka"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "17 Apr 2017 vs Middlesbrough",
+      "accept": [
+        "alexis sánchez",
+        "alexis sanchez",
+        "sanchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Mesut Özil",
+      "detail": "04 Apr 2015 vs Liverpool",
+      "accept": [
+        "mesut özil",
+        "mesut ozil",
+        "ozil"
+      ]
+    },
+    {
+      "display": "Lukas Podolski",
+      "detail": "02 Feb 2013 vs Stoke City",
+      "accept": [
+        "lukas podolski",
+        "podolski"
+      ]
+    },
+    {
+      "display": "Mikel Arteta",
+      "detail": "24 Mar 2012 vs Aston Villa",
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "16 Oct 2011 vs Sunderland",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "27 Dec 2009 vs Aston Villa",
+      "accept": [
+        "cesc fàbregas",
+        "cesc fabregas",
+        "fabregas",
+        "cesc"
+      ]
+    },
+    {
+      "display": "Thierry Henry",
+      "detail": "18 Nov 2006 vs Newcastle United",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-28",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent players to score a direct free-kick for Spurs in the Premier League",
+  "note": "Premier League only · each player once, most recent qualifying goal · any order · through 24 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "James Maddison",
+      "detail": "03 Nov 2024 vs Aston Villa",
+      "accept": [
+        "james maddison",
+        "maddison"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "29 Aug 2021 vs Watford",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min son",
+        "sonny",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "28 Dec 2019 vs Norwich City",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "02 Nov 2014 vs Aston Villa",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "09 Feb 2013 vs Newcastle United",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "29 Apr 2012 vs Blackburn Rovers",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
+      "display": "David Bentley",
+      "detail": "26 Jan 2010 vs Fulham",
+      "accept": [
+        "david bentley",
+        "bentley"
+      ]
+    },
+    {
+      "display": "Paul Robinson",
+      "detail": "17 Mar 2007 vs Watford",
+      "accept": [
+        "paul robinson",
+        "robinson"
+      ]
+    },
+    {
+      "display": "Jermaine Jenas",
+      "detail": "18 Dec 2005 vs Middlesbrough",
+      "accept": [
+        "jermaine jenas",
+        "jenas"
+      ]
+    },
+    {
+      "display": "Christian Ziege",
+      "detail": "15 Dec 2002 vs Arsenal",
+      "accept": [
+        "christian ziege",
+        "ziege"
+      ]
+    }
+  ]
+}

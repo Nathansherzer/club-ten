@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-28",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent players to score a direct free-kick for Man City in the Premier League",
+  "note": "Premier League only · each player once, most recent qualifying goal · any order · through 24 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Enzo Fernández",
+      "detail": "20 Sep 2026 vs Sunderland",
+      "accept": [
+        "enzo fernández",
+        "enzo fernandez",
+        "fernandez",
+        "enzo"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "12 Apr 2025 vs Crystal Palace",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "25 Apr 2024 vs Brighton & Hove Albion",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Julián Álvarez",
+      "detail": "30 Sep 2023 vs Wolverhampton Wanderers",
+      "accept": [
+        "julián álvarez",
+        "julian alvarez",
+        "alvarez"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "14 May 2023 vs Everton",
+      "accept": [
+        "i̇lkay gündoğan",
+        "ilkay gundogan",
+        "gundogan"
+      ]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "28 Sep 2019 vs Everton",
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "10 Dec 2016 vs Leicester City",
+      "accept": [
+        "aleksandar kolarov",
+        "kolarov"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "07 Feb 2015 vs Hull City",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "21 Dec 2013 vs Fulham",
+      "accept": [
+        "yaya touré",
+        "yaya toure",
+        "yaya",
+        "toure"
+      ]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "03 Dec 2011 vs Norwich City",
+      "accept": [
+        "samir nasri",
+        "nasri"
+      ]
+    }
+  ]
+}
