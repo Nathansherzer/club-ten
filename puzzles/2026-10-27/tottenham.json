@@ -17,6 +17,14 @@
       ]
     },
     {
+      "display": "Damola Ajayi",
+      "detail": "30 Jan 2025 · Europa League vs IF Elfsborg",
+      "accept": [
+        "damola ajayi",
+        "ajayi"
+      ]
+    },
+    {
       "display": "Alfie Devine",
       "detail": "10 Jan 2021 · FA Cup vs Marine",
       "accept": [
@@ -80,15 +88,6 @@
       "accept": [
         "andros townsend",
         "townsend"
-      ]
-    },
-    {
-      "display": "Sébastien Bassong",
-      "detail": "16 Aug 2009 · Premier League vs Liverpool",
-      "accept": [
-        "sébastien bassong",
-        "sebastien bassong",
-        "bassong"
       ]
     }
   ],
