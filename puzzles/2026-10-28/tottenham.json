@@ -38,6 +38,14 @@
       ]
     },
     {
+      "display": "Kieran Trippier",
+      "detail": "18 Aug 2018 vs Fulham",
+      "accept": [
+        "kieran trippier",
+        "trippier"
+      ]
+    },
+    {
       "display": "Harry Kane",
       "detail": "02 Nov 2014 vs Aston Villa",
       "accept": [
@@ -46,19 +54,19 @@
       ]
     },
     {
+      "display": "Kyle Walker",
+      "detail": "01 Dec 2013 vs Manchester United",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
       "display": "Gareth Bale",
       "detail": "09 Feb 2013 vs Newcastle United",
       "accept": [
         "gareth bale",
         "bale"
-      ]
-    },
-    {
-      "display": "Kyle Walker",
-      "detail": "29 Apr 2012 vs Blackburn Rovers",
-      "accept": [
-        "kyle walker",
-        "walker"
       ]
     },
     {
@@ -83,14 +91,6 @@
       "accept": [
         "jermaine jenas",
         "jenas"
-      ]
-    },
-    {
-      "display": "Christian Ziege",
-      "detail": "15 Dec 2002 vs Arsenal",
-      "accept": [
-        "christian ziege",
-        "ziege"
       ]
     }
   ]
