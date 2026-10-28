@@ -32,6 +32,23 @@
       ]
     },
     {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "22 Sep 2019 vs Aston Villa",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba"
+      ]
+    },
+    {
+      "display": "Alexandre Lacazette",
+      "detail": "27 Feb 2019 vs Bournemouth",
+      "accept": [
+        "alexandre lacazette",
+        "lacazette"
+      ]
+    },
+    {
       "display": "Alexis Sánchez",
       "detail": "17 Apr 2017 vs Middlesbrough",
       "accept": [
@@ -73,24 +90,6 @@
         "robin van persie",
         "van persie",
         "rvp"
-      ]
-    },
-    {
-      "display": "Cesc Fàbregas",
-      "detail": "27 Dec 2009 vs Aston Villa",
-      "accept": [
-        "cesc fàbregas",
-        "cesc fabregas",
-        "fabregas",
-        "cesc"
-      ]
-    },
-    {
-      "display": "Thierry Henry",
-      "detail": "18 Nov 2006 vs Newcastle United",
-      "accept": [
-        "thierry henry",
-        "henry"
       ]
     }
   ]
