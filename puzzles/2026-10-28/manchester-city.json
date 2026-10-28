@@ -53,6 +53,22 @@
       ]
     },
     {
+      "display": "Raheem Sterling",
+      "detail": "17 Jan 2021 vs Crystal Palace",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "15 Jul 2020 vs AFC Bournemouth",
+      "accept": [
+        "david silva",
+        "silva"
+      ]
+    },
+    {
       "display": "Riyad Mahrez",
       "detail": "28 Sep 2019 vs Everton",
       "accept": [
@@ -74,24 +90,6 @@
       "accept": [
         "james milner",
         "milner"
-      ]
-    },
-    {
-      "display": "Yaya Touré",
-      "detail": "21 Dec 2013 vs Fulham",
-      "accept": [
-        "yaya touré",
-        "yaya toure",
-        "yaya",
-        "toure"
-      ]
-    },
-    {
-      "display": "Samir Nasri",
-      "detail": "03 Dec 2011 vs Norwich City",
-      "accept": [
-        "samir nasri",
-        "nasri"
       ]
     }
   ]

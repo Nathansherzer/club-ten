@@ -67,6 +67,15 @@
       ]
     },
     {
+      "display": "Robin van Persie",
+      "detail": "09 Dec 2012 vs Manchester City",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
+    },
+    {
       "display": "Ryan Giggs",
       "detail": "28 Nov 2009 vs Portsmouth",
       "accept": [
@@ -79,14 +88,6 @@
       "detail": "22 Aug 2009 vs Wigan Athletic",
       "accept": [
         "nani"
-      ]
-    },
-    {
-      "display": "Owen Hargreaves",
-      "detail": "13 Apr 2008 vs Arsenal",
-      "accept": [
-        "owen hargreaves",
-        "hargreaves"
       ]
     }
   ]
