@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-02",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to score and provide an assist in the same Premier League match for Arsenal",
+  "note": "Premier League only · each player once, most recent qualifying match · official Premier League assists only · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "02 May 2026 vs Fulham",
+      "accept": [
+        "viktor gyokeres",
+        "viktor gyökeres",
+        "gyokeres",
+        "gyökeres"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "02 May 2026 vs Fulham",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "31 Jan 2026 vs Leeds United",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "30 Dec 2025 vs Aston Villa",
+      "accept": [
+        "leandro trossard",
+        "trossard"
+      ]
+    },
+    {
+      "display": "Mikel Merino",
+      "detail": "03 Dec 2025 vs Brentford",
+      "accept": [
+        "mikel merino",
+        "merino"
+      ]
+    },
+    {
+      "display": "Jurriën Timber",
+      "detail": "23 Aug 2025 vs Leeds United",
+      "accept": [
+        "jurrien timber",
+        "jurriën timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "02 Feb 2025 vs Manchester City",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "21 Dec 2024 vs Crystal Palace",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "28 Sep 2024 vs Leicester City",
+      "accept": [
+        "gabriel martinelli",
+        "martinelli",
+        "gabriel"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "17 Feb 2024 vs Burnley",
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
+    }
+  ]
+}

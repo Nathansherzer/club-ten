@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-02",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to score and provide an assist in the same Premier League match for Man City",
+  "note": "Premier League only · each player once, most recent qualifying match · official Premier League assists only · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Antoine Semenyo",
+      "detail": "20 Sep 2026 vs Sunderland",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "09 May 2026 vs Brentford",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "27 Dec 2025 vs Nottingham Forest",
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "06 Dec 2025 vs Sunderland",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Tijjani Reijnders",
+      "detail": "16 Aug 2025 vs Wolverhampton Wanderers",
+      "accept": [
+        "tijjani reijnders",
+        "reijnders"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "12 Apr 2025 vs Crystal Palace",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Mateo Kovačić",
+      "detail": "19 Jan 2025 vs Ipswich Town",
+      "accept": [
+        "mateo kovacic",
+        "mateo kovačić",
+        "kovacic",
+        "kovačić"
+      ]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "19 Jan 2025 vs Ipswich Town",
+      "accept": [
+        "jeremy doku",
+        "jérémy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Savinho",
+      "detail": "29 Dec 2024 vs Leicester City",
+      "accept": [
+        "savinho",
+        "savio",
+        "savio moreira"
+      ]
+    },
+    {
+      "display": "Joško Gvardiol",
+      "detail": "13 Apr 2024 vs Luton Town",
+      "accept": [
+        "josko gvardiol",
+        "joško gvardiol",
+        "gvardiol"
+      ]
+    }
+  ]
+}

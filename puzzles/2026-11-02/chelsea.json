@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-02",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to score and provide an assist in the same Premier League match for Chelsea",
+  "note": "Premier League only · each player once, most recent qualifying match · official Premier League assists only · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jordan Henderson",
+      "detail": "10 Oct 2026 vs Bournemouth",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "12 Sep 2026 vs Hull City",
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "pedro",
+        "joao"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "24 Aug 2026 vs Fulham",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "19 May 2026 vs Tottenham Hotspur",
+      "accept": [
+        "enzo fernández",
+        "enzo fernandez",
+        "fernandez",
+        "enzo"
+      ]
+    },
+    {
+      "display": "Estêvão Willian",
+      "detail": "25 Jan 2026 vs Crystal Palace",
+      "accept": [
+        "estevao willian",
+        "estêvão willian",
+        "estevao",
+        "estêvão",
+        "willian"
+      ]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "13 Dec 2025 vs Everton",
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
+    },
+    {
+      "display": "Pedro Neto",
+      "detail": "18 Oct 2025 vs Nottingham Forest",
+      "accept": [
+        "pedro neto",
+        "neto"
+      ]
+    },
+    {
+      "display": "Reece James",
+      "detail": "18 Oct 2025 vs Nottingham Forest",
+      "accept": [
+        "reece james",
+        "james"
+      ]
+    },
+    {
+      "display": "Christopher Nkunku",
+      "detail": "25 Feb 2025 vs Southampton",
+      "accept": [
+        "christopher nkunku",
+        "nkunku"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "04 Dec 2024 vs Southampton",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    }
+  ]
+}
