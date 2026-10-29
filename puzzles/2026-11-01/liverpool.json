@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-01",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to score at least twice in a Premier League match for Liverpool",
+  "note": "Premier League only · each player once, most recent qualifying match · hat-tricks count · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alexander Isak",
+      "detail": "04 Sep 2026 vs Ipswich Town",
+      "accept": [
+        "alexander isak",
+        "isak"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "15 May 2026 vs Aston Villa",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Hugo Ekitiké",
+      "detail": "31 Jan 2026 vs Newcastle United",
+      "accept": [
+        "hugo ekitike",
+        "hugo ekitiké",
+        "ekitike",
+        "ekitiké"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "08 Mar 2025 vs Southampton",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Cody Gakpo",
+      "detail": "25 Jan 2025 vs Ipswich Town",
+      "accept": [
+        "cody gakpo",
+        "gakpo"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "18 Jan 2025 vs Brentford",
+      "accept": [
+        "darwin núñez",
+        "darwin nunez",
+        "nunez"
+      ]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "21 Sep 2024 vs Bournemouth",
+      "accept": [
+        "luis diaz",
+        "luis díaz",
+        "diaz",
+        "díaz"
+      ]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "21 Jan 2024 vs Bournemouth",
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
+    },
+    {
+      "display": "Curtis Jones",
+      "detail": "15 May 2023 vs Leicester City",
+      "accept": [
+        "curtis jones",
+        "jones",
+        "curtis"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "01 Oct 2022 vs Brighton & Hove Albion",
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
+    }
+  ]
+}

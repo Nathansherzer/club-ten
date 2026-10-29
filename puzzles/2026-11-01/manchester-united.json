@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-01",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to score at least twice in a Premier League match for Man United",
+  "note": "Premier League only · each player once, most recent qualifying match · hat-tricks count · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "30 Aug 2026 vs Ipswich Town",
+      "accept": [
+        "bruno fernandes",
+        "bruno",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Benjamin Šeško",
+      "detail": "07 Jan 2026 vs Burnley",
+      "accept": [
+        "benjamin sesko",
+        "benjamin šeško",
+        "sesko",
+        "šeško"
+      ]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "25 Oct 2025 vs Brighton & Hove Albion",
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
+    },
+    {
+      "display": "Amad Diallo",
+      "detail": "16 Jan 2025 vs Southampton",
+      "accept": [
+        "amad diallo",
+        "amad",
+        "diallo"
+      ]
+    },
+    {
+      "display": "Joshua Zirkzee",
+      "detail": "01 Dec 2024 vs Everton",
+      "accept": [
+        "joshua zirkzee",
+        "zirkzee"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "01 Dec 2024 vs Everton",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "04 Apr 2024 vs Chelsea",
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
+    },
+    {
+      "display": "Rasmus Højlund",
+      "detail": "18 Feb 2024 vs Luton Town",
+      "accept": [
+        "rasmus hojlund",
+        "rasmus højlund",
+        "hojlund",
+        "højlund"
+      ]
+    },
+    {
+      "display": "Scott McTominay",
+      "detail": "06 Dec 2023 vs Chelsea",
+      "accept": [
+        "scott mctominay",
+        "mctominay"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "02 Oct 2022 vs Manchester City",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    }
+  ]
+}

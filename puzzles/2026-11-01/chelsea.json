@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-01",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to score at least twice in a Premier League match for Chelsea",
+  "note": "Premier League only · each player once, most recent qualifying match · hat-tricks count · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Pedro Neto",
+      "detail": "17 Oct 2026 vs Everton",
+      "accept": [
+        "pedro neto",
+        "neto"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "10 Oct 2026 vs Bournemouth",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "10 Oct 2026 vs Bournemouth",
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "pedro",
+        "joao"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "07 Feb 2026 vs Wolverhampton Wanderers",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Nicolas Jackson",
+      "detail": "21 Sep 2024 vs West Ham United",
+      "accept": [
+        "nicolas jackson",
+        "jackson"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "25 Aug 2024 vs Wolverhampton Wanderers",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "03 Dec 2023 vs Brighton & Hove Albion",
+      "accept": [
+        "enzo fernández",
+        "enzo fernandez",
+        "fernandez",
+        "enzo"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "25 Aug 2023 vs Luton Town",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "16 Oct 2022 vs Aston Villa",
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "07 May 2022 vs Wolverhampton Wanderers",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    }
+  ]
+}
