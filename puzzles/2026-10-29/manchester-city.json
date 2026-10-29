@@ -62,6 +62,14 @@
       ]
     },
     {
+      "display": "Kyle Walker",
+      "detail": "14 Oct 2017 vs Stoke City",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
       "display": "Aleksandar Kolarov",
       "detail": "02 Oct 2016 vs Tottenham Hotspur",
       "accept": [
@@ -84,14 +92,6 @@
         "martín demichelis",
         "martin demichelis",
         "demichelis"
-      ]
-    },
-    {
-      "display": "Vincent Kompany",
-      "detail": "21 Dec 2013 vs Fulham",
-      "accept": [
-        "vincent kompany",
-        "kompany"
       ]
     }
   ]
