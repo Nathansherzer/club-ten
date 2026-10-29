@@ -44,6 +44,35 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8E5NFRXB5"></script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>
   <script src="/js/consent-analytics.js" defer></script>
+
+  <!-- Snack Media - Meta Data (staging, publisher ID 5296) -->
+  <meta name="pbstck_context:site_name" content="topclubten.com" />
+  <meta name="pbstck_context:website" content="topclubten.com" />
+
+  <!-- Snack Media - Loaders -->
+  <link rel="preload" href="https://snackmedia-ron-tagan.adlightning.com/op.js" as="script">
+  <script fetchpriority="high" src="https://snackmedia-ron-tagan.adlightning.com/op.js"></script>
+  <script async src="https://boot.pbstck.com/v1/adm/1b408d8a-368b-4a29-9f92-617f120e5784"></script>
+
+  <!-- Snack Media - Interstitial. Wrapped in a feature flag so it can be
+       disabled independently without touching Snack's script body; set to
+       false to turn the interstitial off site-wide. -->
+  <script>window.CT_SNACK_INTERSTITIAL_ENABLED = true;</script>
+  <script>
+    if (window.CT_SNACK_INTERSTITIAL_ENABLED) {
+    window.addEventListener('DOMContentLoaded', (event) => {
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+    var slot = googletag.defineOutOfPageSlot(
+'/6428571,23388050939/topclubten.com-Interstitial',
+    googletag.enums.OutOfPageFormat.INTERSTITIAL);
+    if (slot) slot.addService(googletag.pubads());
+    googletag.enableServices();
+    googletag.display(slot);
+    });
+    });
+    }
+  </script>
 </head>
 <body data-club="liverpool">
 <div class="wrap">
@@ -163,5 +192,7 @@
 
 <script src="/js/utils.js"></script>
 <script src="/js/game.js"></script>
+<!-- Snack Media - Outstream Video Player -->
+<script type="text/javascript" language="javascript" src="https://live.primis.tech/live/liveView.php?s=123424&schain=1.0,1!snack-media.com,SNM_5296,1"></script>
 </body>
 </html>
