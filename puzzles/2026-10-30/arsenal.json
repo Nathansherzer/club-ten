@@ -16,6 +16,14 @@
       ]
     },
     {
+      "display": "Alexandre Lacazette",
+      "detail": "15 Dec 2021 vs West Ham United",
+      "accept": [
+        "alexandre lacazette",
+        "lacazette"
+      ]
+    },
+    {
       "display": "Pierre-Emerick Aubameyang",
       "detail": "07 Nov 2021 vs Watford",
       "accept": [
@@ -85,15 +93,6 @@
         "tomáš rosický",
         "tomas rosicky",
         "rosicky"
-      ]
-    },
-    {
-      "display": "Júlio Baptista",
-      "detail": "13 May 2007 vs Portsmouth",
-      "accept": [
-        "júlio baptista",
-        "julio baptista",
-        "baptista"
       ]
     }
   ]
