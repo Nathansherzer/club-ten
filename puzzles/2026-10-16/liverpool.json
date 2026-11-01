@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-16",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "Name Liverpool's 10 leading Premier League home goalscorers through 2025/26.",
+  "note": "Premier League only, through 2025/26 · home goals, including penalties, excluding own goals",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "",
+      "accept": [
+        "steven gerrard",
+        "gerrard"
+      ]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "",
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "",
+      "accept": [
+        "fernando torres",
+        "torres"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "",
+      "accept": [
+        "roberto firmino",
+        "firmino"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "",
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
+    },
+    {
+      "display": "Dirk Kuyt",
+      "detail": "",
+      "accept": [
+        "dirk kuyt",
+        "kuyt"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "",
+      "accept": [
+        "daniel sturridge",
+        "sturridge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-25",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to score for Man United in a major cup final",
+  "note": "major domestic & European cup finals, won or lost · excludes own goals, shootouts, Super Cups & Club World Cups · each player once, most recent qualifying goal · any order · through 21 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Kobbie Mainoo",
+      "detail": "25 May 2024 · FA Cup final vs Manchester City",
+      "accept": [
+        "kobbie mainoo",
+        "mainoo"
+      ]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "25 May 2024 · FA Cup final vs Manchester City",
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "03 Jun 2023 · FA Cup final vs Manchester City",
+      "accept": [
+        "bruno fernandes",
+        "bruno",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "26 Feb 2023 · League Cup final vs Newcastle United",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "26 Feb 2023 · League Cup final vs Newcastle United",
+      "accept": [
+        "casemiro"
+      ]
+    },
+    {
+      "display": "Edinson Cavani",
+      "detail": "26 May 2021 · Europa League final vs Villarreal",
+      "accept": [
+        "edinson cavani",
+        "cavani"
+      ]
+    },
+    {
+      "display": "Henrikh Mkhitaryan",
+      "detail": "24 May 2017 · Europa League final vs Ajax",
+      "accept": [
+        "henrikh mkhitaryan",
+        "mkhitaryan"
+      ]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "24 May 2017 · Europa League final vs Ajax",
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "26 Feb 2017 · League Cup final vs Southampton",
+      "accept": [
+        "zlatan ibrahimović",
+        "zlatan ibrahimovic",
+        "ibrahimovic",
+        "zlatan"
+      ]
+    },
+    {
+      "display": "Jesse Lingard",
+      "detail": "26 Feb 2017 · League Cup final vs Southampton",
+      "accept": [
+        "jesse lingard",
+        "lingard"
+      ]
+    }
+  ]
+}

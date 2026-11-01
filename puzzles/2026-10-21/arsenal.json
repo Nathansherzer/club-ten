@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-21",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 managers with the most Premier League wins against Arsenal",
+  "note": "across all clubs managed · PL only, 1992/93-2025/26 · ties broken by win percentage · Based on StatMuse",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Alex Ferguson",
+      "detail": "19 wins · 45.24%",
+      "accept": [
+        "alex ferguson",
+        "sir alex ferguson",
+        "ferguson",
+        "fergie"
+      ]
+    },
+    {
+      "display": "Pep Guardiola",
+      "detail": "14 wins · 70.00%",
+      "accept": [
+        "pep guardiola",
+        "guardiola",
+        "pep"
+      ]
+    },
+    {
+      "display": "Jürgen Klopp",
+      "detail": "9 wins · 52.94%",
+      "accept": [
+        "jurgen klopp",
+        "jürgen klopp",
+        "klopp"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "9 wins · 47.37%",
+      "accept": [
+        "jose mourinho",
+        "josé mourinho",
+        "mourinho"
+      ]
+    },
+    {
+      "display": "Roy Evans",
+      "detail": "7 wins · 77.78%",
+      "accept": [
+        "roy evans",
+        "evans"
+      ]
+    },
+    {
+      "display": "Mark Hughes",
+      "detail": "7 wins · 29.17%",
+      "accept": [
+        "mark hughes",
+        "hughes",
+        "sparky"
+      ]
+    },
+    {
+      "display": "Rafael Benítez",
+      "detail": "6 wins · 33.33%",
+      "accept": [
+        "rafael benitez",
+        "rafael benítez",
+        "benitez",
+        "benítez",
+        "rafa benitez"
+      ]
+    },
+    {
+      "display": "Carlo Ancelotti",
+      "detail": "5 wins · 71.43%",
+      "accept": [
+        "carlo ancelotti",
+        "ancelotti"
+      ]
+    },
+    {
+      "display": "Kenny Dalglish",
+      "detail": "5 wins · 41.67%",
+      "accept": [
+        "kenny dalglish",
+        "dalglish"
+      ]
+    },
+    {
+      "display": "Joe Kinnear",
+      "detail": "5 wins · 35.71%",
+      "accept": [
+        "joe kinnear",
+        "kinnear"
+      ]
+    }
+  ]
+}

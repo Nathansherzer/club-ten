@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-30",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent different players to miss a Premier League penalty for Spurs",
+  "note": "Premier League only · each player once, most recent qualifying miss · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Son Heung-min",
+      "detail": "29 Dec 2024 vs Wolverhampton Wanderers",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "heung-min son",
+        "sonny",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "28 Aug 2022 vs Nottingham Forest",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "02 Oct 2016 vs Manchester City",
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
+    },
+    {
+      "display": "Roberto Soldado",
+      "detail": "18 Oct 2014 vs Manchester City",
+      "accept": [
+        "roberto soldado",
+        "soldado"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "12 Apr 2014 vs West Bromwich Albion",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Rafael van der Vaart",
+      "detail": "05 Feb 2011 vs Bolton Wanderers",
+      "accept": [
+        "rafael van der vaart",
+        "van der vaart"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "28 Nov 2010 vs Liverpool",
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    },
+    {
+      "display": "Roman Pavlyuchenko",
+      "detail": "13 Nov 2010 vs Blackburn Rovers",
+      "accept": [
+        "roman pavlyuchenko",
+        "pavlyuchenko"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "29 Dec 2007 vs Reading",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Darren Anderton",
+      "detail": "02 Jan 2001 vs Newcastle United",
+      "accept": [
+        "darren anderton",
+        "anderton"
+      ]
+    }
+  ]
+}

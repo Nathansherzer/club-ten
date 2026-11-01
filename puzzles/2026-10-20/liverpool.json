@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-20",
+  "club": "liverpool",
+  "type": "clubs",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 clubs with the most Premier League wins against Liverpool",
+  "note": "Premier League only, 1992/93-2025/26 · any order · ties broken by win percentage, then head-to-head goal difference",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Manchester United",
+      "detail": "31 wins · 45.59%",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "23 wins · 33.82%",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "18 wins · 26.47%",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "15 wins · 22.06%",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "14 wins · 24.14%",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "14 wins · 22.58%",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "11 wins · 22.00%",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "11 wins · 17.74%",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "magpies"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "11 wins · 16.18%",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "10 wins · 16.67%",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-21",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 managers with the most Premier League wins against Man City",
+  "note": "across all clubs managed · PL only, 1992/93-2025/26 · ties broken by win percentage · Based on StatMuse",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Alex Ferguson",
+      "detail": "18 wins · 56.25%",
+      "accept": [
+        "alex ferguson",
+        "sir alex ferguson",
+        "ferguson",
+        "fergie"
+      ]
+    },
+    {
+      "display": "Arsène Wenger",
+      "detail": "17 wins · 50.00%",
+      "accept": [
+        "arsene wenger",
+        "arsène wenger",
+        "wenger"
+      ]
+    },
+    {
+      "display": "David Moyes",
+      "detail": "12 wins · 30.00%",
+      "accept": [
+        "david moyes",
+        "moyes"
+      ]
+    },
+    {
+      "display": "Harry Redknapp",
+      "detail": "10 wins · 38.46%",
+      "accept": [
+        "harry redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "9 wins · 47.37%",
+      "accept": [
+        "jose mourinho",
+        "josé mourinho",
+        "mourinho"
+      ]
+    },
+    {
+      "display": "Claudio Ranieri",
+      "detail": "8 wins · 80.00%",
+      "accept": [
+        "claudio ranieri",
+        "ranieri"
+      ]
+    },
+    {
+      "display": "Rafael Benítez",
+      "detail": "7 wins · 35.00%",
+      "accept": [
+        "rafael benitez",
+        "rafael benítez",
+        "benitez",
+        "benítez",
+        "rafa benitez"
+      ]
+    },
+    {
+      "display": "Martin Jol",
+      "detail": "6 wins · 60.00%",
+      "accept": [
+        "martin jol",
+        "jol"
+      ]
+    },
+    {
+      "display": "Jürgen Klopp",
+      "detail": "6 wins · 33.33%",
+      "accept": [
+        "jurgen klopp",
+        "jürgen klopp",
+        "klopp"
+      ]
+    },
+    {
+      "display": "Mark Hughes",
+      "detail": "6 wins · 26.09%",
+      "accept": [
+        "mark hughes",
+        "hughes",
+        "sparky"
+      ]
+    }
+  ]
+}

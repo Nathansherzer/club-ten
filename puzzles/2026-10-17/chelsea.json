@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-17",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most Premier League appearances for Chelsea who later joined another Big Six club",
+  "note": "first senior Big Six club only · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Frank Lampard",
+      "detail": "429 apps · later: Manchester City",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "333 apps · later: Arsenal",
+      "accept": [
+        "petr cech",
+        "petr čech",
+        "cech",
+        "čech"
+      ]
+    },
+    {
+      "display": "Willian",
+      "detail": "234 apps · later: Arsenal",
+      "accept": [
+        "willian"
+      ]
+    },
+    {
+      "display": "Eidur Gudjohnsen",
+      "detail": "186 apps · later: Tottenham",
+      "accept": [
+        "eidur gudjohnsen",
+        "gudjohnsen"
+      ]
+    },
+    {
+      "display": "Joe Cole",
+      "detail": "183 apps · later: Liverpool",
+      "accept": [
+        "joe cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "160 apps · later: Arsenal",
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
+    },
+    {
+      "display": "William Gallas",
+      "detail": "159 apps · later: Arsenal, Tottenham",
+      "accept": [
+        "william gallas",
+        "gallas"
+      ]
+    },
+    {
+      "display": "Jorginho",
+      "detail": "143 apps · later: Arsenal",
+      "accept": [
+        "jorginho"
+      ]
+    },
+    {
+      "display": "Carlo Cudicini",
+      "detail": "142 apps · later: Tottenham",
+      "accept": [
+        "carlo cudicini",
+        "cudicini"
+      ]
+    },
+    {
+      "display": "Mateo Kovačić",
+      "detail": "142 apps · later: Manchester City",
+      "accept": [
+        "mateo kovacic",
+        "mateo kovačić",
+        "kovacic",
+        "kovačić"
+      ]
+    }
+  ]
+}

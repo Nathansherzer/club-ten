@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-24",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players who started for Tottenham in the 2008 League Cup final against Chelsea",
+  "note": "2008 League Cup final vs Chelsea · goalkeeper and substitutes excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alan Hutton",
+      "detail": "",
+      "accept": [
+        "alan hutton",
+        "hutton"
+      ]
+    },
+    {
+      "display": "Jonathan Woodgate",
+      "detail": "",
+      "accept": [
+        "jonathan woodgate",
+        "woodgate"
+      ]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "",
+      "accept": [
+        "ledley king",
+        "king"
+      ]
+    },
+    {
+      "display": "Pascal Chimbonda",
+      "detail": "",
+      "accept": [
+        "pascal chimbonda",
+        "chimbonda"
+      ]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "",
+      "accept": [
+        "aaron lennon",
+        "lennon"
+      ]
+    },
+    {
+      "display": "Jermaine Jenas",
+      "detail": "",
+      "accept": [
+        "jermaine jenas",
+        "jenas"
+      ]
+    },
+    {
+      "display": "Didier Zokora",
+      "detail": "",
+      "accept": [
+        "didier zokora",
+        "zokora"
+      ]
+    },
+    {
+      "display": "Steed Malbranque",
+      "detail": "",
+      "accept": [
+        "steed malbranque",
+        "malbranque"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "",
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    }
+  ]
+}

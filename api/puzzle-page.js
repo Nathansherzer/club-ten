@@ -6,12 +6,12 @@
    so Google can index the question text. No answers shown.
    ========================================================== */
 
-import { readdir } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import {
   VALID_CLUBS, CLUB_NAMES, CLUB_COLOURS,
-  londonToday, puzzleNumber, formatDate, esc, capitalize, loadPuzzle
+  londonToday, puzzleNumber, formatDate, esc, capitalize, loadPuzzle,
+  isDateServable, recentArchiveDates
 } from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -27,6 +27,13 @@ export default async function handler(req, res) {
   const today = londonToday();
   if (date > today) return res.status(403).send("That puzzle isn't available yet.");
 
+  // A date outside the rolling archive window is sent to today's puzzle
+  // rather than rendered — the full history isn't browsable forever just
+  // by hand-editing the URL.
+  if (date !== today && !(await isDateServable(ROOT, date, today))) {
+    return res.redirect(302, `/${club}`);
+  }
+
   const data = await loadPuzzle(ROOT, club, date);
   if (!data) return res.status(404).send("Puzzle not found.");
 
@@ -36,12 +43,11 @@ export default async function handler(req, res) {
   const question  = capitalize(data.question);
   const note      = data.note || "";
 
-  // Adjacent puzzle dates for prev/next links
-  let allDates = [];
-  try {
-    const dirs = await readdir(join(ROOT, "puzzles"));
-    allDates = dirs.filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d) && d <= today).sort();
-  } catch {}
+  // Adjacent puzzle dates for prev/next links — restricted to the same
+  // servable window as the redirect above, so Previous/Next never offers
+  // a date that would immediately bounce back to today.
+  const windowDates = await recentArchiveDates(ROOT, today);
+  const allDates = [...windowDates, today].sort();
 
   const idx      = allDates.indexOf(date);
   const prevDate = idx > 0 ? allDates[idx - 1] : null;

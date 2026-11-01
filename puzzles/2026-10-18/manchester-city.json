@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-18",
+  "club": "manchester-city",
+  "type": "clubs",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 clubs Man City have beaten most often in the Premier League",
+  "note": "Premier League only, 1992/93-2025/26 · any order · ties broken by win percentage, then head-to-head goal difference",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Newcastle United",
+      "detail": "33 wins · 63.46%",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "magpies"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "32 wins · 64.00%",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "31 wins · 59.62%",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "28 wins · 48.28%",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "23 wins · 63.89%",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "23 wins · 57.50%",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "21 wins · 36.21%",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "21 wins · 36.21%",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "20 wins · 62.50%",
+      "accept": [
+        "crystal palace",
+        "palace",
+        "eagles"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "20 wins · 34.48%",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-17",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most Premier League appearances for Liverpool who later joined another Big Six club",
+  "note": "first senior Big Six club only · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Robbie Fowler",
+      "detail": "266 apps · later: Manchester City",
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Steve McManaman",
+      "detail": "240 apps · later: Manchester City",
+      "accept": [
+        "steve mcmanaman",
+        "mcmanaman"
+      ]
+    },
+    {
+      "display": "Jamie Redknapp",
+      "detail": "231 apps · later: Tottenham",
+      "accept": [
+        "jamie redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "Michael Owen",
+      "detail": "216 apps · later: Manchester United",
+      "accept": [
+        "michael owen",
+        "owen"
+      ]
+    },
+    {
+      "display": "David James",
+      "detail": "214 apps · later: Manchester City",
+      "accept": [
+        "david james",
+        "james"
+      ]
+    },
+    {
+      "display": "Dietmar Hamann",
+      "detail": "191 apps · later: Manchester City",
+      "accept": [
+        "dietmar hamann",
+        "hamann"
+      ]
+    },
+    {
+      "display": "Danny Murphy",
+      "detail": "170 apps · later: Tottenham",
+      "accept": [
+        "danny murphy",
+        "murphy"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "102 apps · later: Chelsea",
+      "accept": [
+        "fernando torres",
+        "torres"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "95 apps · later: Manchester City, Chelsea, Arsenal",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Yossi Benayoun",
+      "detail": "92 apps · later: Chelsea, Arsenal",
+      "accept": [
+        "yossi benayoun",
+        "benayoun"
+      ]
+    }
+  ]
+}

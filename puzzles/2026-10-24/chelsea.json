@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-24",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players who started for Chelsea in the 2012 FA Cup final against Liverpool",
+  "note": "2012 FA Cup final vs Liverpool · goalkeeper and substitutes excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "José Bosingwa",
+      "detail": "",
+      "accept": [
+        "josé bosingwa",
+        "jose bosingwa",
+        "bosingwa"
+      ]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "",
+      "accept": [
+        "branislav ivanović",
+        "branislav ivanovic",
+        "ivanovic"
+      ]
+    },
+    {
+      "display": "John Terry",
+      "detail": "",
+      "accept": [
+        "john terry",
+        "terry"
+      ]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "",
+      "accept": [
+        "ashley cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "",
+      "accept": [
+        "john obi mikel",
+        "mikel",
+        "obi mikel",
+        "mikel john obi"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "",
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
+    },
+    {
+      "display": "Ramires",
+      "detail": "",
+      "accept": [
+        "ramires"
+      ]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    },
+    {
+      "display": "Salomon Kalou",
+      "detail": "",
+      "accept": [
+        "salomon kalou",
+        "kalou"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    }
+  ]
+}

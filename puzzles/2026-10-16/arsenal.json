@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-16",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "Name Arsenal's 10 leading Premier League home goalscorers through 2025/26.",
+  "note": "Premier League only, through 2025/26 · home goals, including penalties, excluding own goals",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Thierry Henry",
+      "detail": "",
+      "accept": [
+        "thierry henry",
+        "henry"
+      ]
+    },
+    {
+      "display": "Ian Wright",
+      "detail": "",
+      "accept": [
+        "ian wright",
+        "wright",
+        "wrighty"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "",
+      "accept": [
+        "robin van persie",
+        "van persie"
+      ]
+    },
+    {
+      "display": "Dennis Bergkamp",
+      "detail": "",
+      "accept": [
+        "dennis bergkamp",
+        "bergkamp"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba",
+        "pea"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Robert Pirès",
+      "detail": "",
+      "accept": [
+        "robert pires",
+        "robert pirès",
+        "pires",
+        "pirès"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Alexandre Lacazette",
+      "detail": "",
+      "accept": [
+        "alexandre lacazette",
+        "lacazette"
+      ]
+    }
+  ]
+}

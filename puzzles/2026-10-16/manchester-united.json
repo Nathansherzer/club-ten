@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-16",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "Name Manchester United's 10 leading Premier League home goalscorers through 2025/26.",
+  "note": "Premier League only, through 2025/26 · home goals, including penalties, excluding own goals",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail": "",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "",
+      "accept": [
+        "paul scholes",
+        "scholes"
+      ]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "",
+      "accept": [
+        "ole gunnar solskjaer",
+        "ole gunnar solskjær",
+        "solskjaer",
+        "solskjær",
+        "ole"
+      ]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "",
+      "accept": [
+        "andy cole",
+        "andrew cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Ruud van Nistelrooy",
+      "detail": "",
+      "accept": [
+        "ruud van nistelrooy",
+        "van nistelrooy"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "",
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    }
+  ]
+}

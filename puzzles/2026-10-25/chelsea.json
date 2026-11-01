@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-25",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to score for Chelsea in a major cup final",
+  "note": "major domestic & European cup finals, won or lost · excludes own goals, shootouts, Super Cups & Club World Cups · each player once, most recent qualifying goal · any order · through 21 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Moisés Caicedo",
+      "detail": "28 May 2025 · Conference League final vs Real Betis",
+      "accept": [
+        "moisés caicedo",
+        "moises caicedo",
+        "caicedo"
+      ]
+    },
+    {
+      "display": "Jadon Sancho",
+      "detail": "28 May 2025 · Conference League final vs Real Betis",
+      "accept": [
+        "jadon sancho",
+        "sancho"
+      ]
+    },
+    {
+      "display": "Nicolas Jackson",
+      "detail": "28 May 2025 · Conference League final vs Real Betis",
+      "accept": [
+        "nicolas jackson",
+        "jackson"
+      ]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "28 May 2025 · Conference League final vs Real Betis",
+      "accept": [
+        "enzo fernández",
+        "enzo fernandez",
+        "enzo",
+        "fernandez"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "29 May 2021 · Champions League final vs Manchester City",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    },
+    {
+      "display": "Christian Pulisic",
+      "detail": "01 Aug 2020 · FA Cup final vs Arsenal",
+      "accept": [
+        "christian pulisic",
+        "pulisic"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "29 May 2019 · Europa League final vs Arsenal",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Pedro",
+      "detail": "29 May 2019 · Europa League final vs Arsenal",
+      "accept": [
+        "pedro",
+        "pedro rodriguez",
+        "pedro rodríguez"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "29 May 2019 · Europa League final vs Arsenal",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "27 May 2017 · FA Cup final vs Arsenal",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    }
+  ]
+}

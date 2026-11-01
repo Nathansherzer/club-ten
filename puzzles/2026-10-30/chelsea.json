@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-30",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to miss a Premier League penalty for Chelsea",
+  "note": "Premier League only · each player once, most recent qualifying miss · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cole Palmer",
+      "detail": "04 May 2026 vs Nottingham Forest",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Enzo Fernández",
+      "detail": "20 Aug 2023 vs West Ham United",
+      "accept": [
+        "enzo fernández",
+        "enzo fernandez",
+        "fernandez",
+        "enzo"
+      ]
+    },
+    {
+      "display": "Jorginho",
+      "detail": "24 Apr 2022 vs West Ham United",
+      "accept": [
+        "jorginho"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "05 Apr 2017 vs Manchester City",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "31 Jan 2017 vs Liverpool",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    },
+    {
+      "display": "Oscar",
+      "detail": "26 Dec 2015 vs Watford",
+      "accept": [
+        "oscar"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "18 Aug 2013 vs Hull City",
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
+    },
+    {
+      "display": "Lucas Piazon",
+      "detail": "23 Dec 2012 vs Aston Villa",
+      "accept": [
+        "lucas piazon",
+        "piazon"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "12 Dec 2010 vs Tottenham Hotspur",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Claude Makélélé",
+      "detail": "07 May 2005 vs Charlton Athletic",
+      "accept": [
+        "claude makélélé",
+        "claude makelele",
+        "makelele"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-21",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 managers with the most Premier League wins against Man United",
+  "note": "across all clubs managed · PL only, 1992/93-2025/26 · ties broken by win percentage · Based on StatMuse",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Arsène Wenger",
+      "detail": "12 wins · 27.27%",
+      "accept": [
+        "arsene wenger",
+        "arsène wenger",
+        "wenger"
+      ]
+    },
+    {
+      "display": "Pep Guardiola",
+      "detail": "10 wins · 50.00%",
+      "accept": [
+        "pep guardiola",
+        "guardiola",
+        "pep"
+      ]
+    },
+    {
+      "display": "Mikel Arteta",
+      "detail": "8 wins · 61.54%",
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
+    },
+    {
+      "display": "Eddie Howe",
+      "detail": "7 wins · 36.84%",
+      "accept": [
+        "eddie howe",
+        "howe"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "6 wins · 42.86%",
+      "accept": [
+        "jose mourinho",
+        "josé mourinho",
+        "mourinho"
+      ]
+    },
+    {
+      "display": "Jürgen Klopp",
+      "detail": "6 wins · 35.29%",
+      "accept": [
+        "jurgen klopp",
+        "jürgen klopp",
+        "klopp"
+      ]
+    },
+    {
+      "display": "David Moyes",
+      "detail": "6 wins · 16.22%",
+      "accept": [
+        "david moyes",
+        "moyes"
+      ]
+    },
+    {
+      "display": "Manuel Pellegrini",
+      "detail": "5 wins · 55.56%",
+      "accept": [
+        "manuel pellegrini",
+        "pellegrini"
+      ]
+    },
+    {
+      "display": "Gérard Houllier",
+      "detail": "5 wins · 35.71%",
+      "accept": [
+        "gerard houllier",
+        "gérard houllier",
+        "houllier"
+      ]
+    },
+    {
+      "display": "Mauricio Pochettino",
+      "detail": "5 wins · 33.33%",
+      "accept": [
+        "mauricio pochettino",
+        "pochettino",
+        "poch"
+      ]
+    }
+  ]
+}

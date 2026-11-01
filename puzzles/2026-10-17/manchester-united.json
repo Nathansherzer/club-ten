@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-17",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most Premier League appearances for Man United who later joined another Big Six club",
+  "note": "first senior Big Six club only · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Peter Schmeichel",
+      "detail": "252 apps · later: Manchester City",
+      "accept": [
+        "peter schmeichel",
+        "schmeichel"
+      ]
+    },
+    {
+      "display": "Mikael Silvestre",
+      "detail": "249 apps · later: Arsenal",
+      "accept": [
+        "mikael silvestre",
+        "silvestre"
+      ]
+    },
+    {
+      "display": "Paul Ince",
+      "detail": "116 apps · later: Liverpool",
+      "accept": [
+        "paul ince",
+        "ince"
+      ]
+    },
+    {
+      "display": "Mark Hughes",
+      "detail": "111 apps · later: Chelsea",
+      "accept": [
+        "mark hughes",
+        "hughes"
+      ]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "93 apps · later: Chelsea",
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "92 apps · later: Arsenal",
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
+    },
+    {
+      "display": "Andrey Kanchelskis",
+      "detail": "88 apps · later: Manchester City",
+      "accept": [
+        "andrei kanchelskis",
+        "andrey kanchelskis",
+        "kanchelskis"
+      ]
+    },
+    {
+      "display": "Louis Saha",
+      "detail": "86 apps · later: Tottenham",
+      "accept": [
+        "louis saha",
+        "saha"
+      ]
+    },
+    {
+      "display": "Paul Parker",
+      "detail": "79 apps · later: Chelsea",
+      "accept": [
+        "paul parker",
+        "parker"
+      ]
+    },
+    {
+      "display": "Carlos Tévez",
+      "detail": "63 apps · later: Manchester City",
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez",
+        "tévez"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-24",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 outfield players who started for Manchester United in the 2024 FA Cup final against Manchester City",
+  "note": "2024 FA Cup final vs Manchester City · goalkeeper and substitutes excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Aaron Wan-Bissaka",
+      "detail": "",
+      "accept": [
+        "aaron wan-bissaka",
+        "wan-bissaka",
+        "wan bissaka",
+        "awb"
+      ]
+    },
+    {
+      "display": "Raphaël Varane",
+      "detail": "",
+      "accept": [
+        "raphaël varane",
+        "raphael varane",
+        "varane"
+      ]
+    },
+    {
+      "display": "Lisandro Martínez",
+      "detail": "",
+      "accept": [
+        "lisandro martínez",
+        "lisandro martinez",
+        "martinez"
+      ]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "",
+      "accept": [
+        "diogo dalot",
+        "dalot"
+      ]
+    },
+    {
+      "display": "Sofyan Amrabat",
+      "detail": "",
+      "accept": [
+        "sofyan amrabat",
+        "amrabat"
+      ]
+    },
+    {
+      "display": "Kobbie Mainoo",
+      "detail": "",
+      "accept": [
+        "kobbie mainoo",
+        "mainoo"
+      ]
+    },
+    {
+      "display": "Scott McTominay",
+      "detail": "",
+      "accept": [
+        "scott mctominay",
+        "mctominay"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "",
+      "accept": [
+        "bruno fernandes",
+        "bruno",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "",
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
+    }
+  ]
+}

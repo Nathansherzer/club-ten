@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-29",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent players to score a Premier League own goal while playing for Chelsea",
+  "note": "Premier League only, 1992/93-present · each player once, most recent qualifying own goal · goalkeepers included · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mike Penders",
+      "detail": "24 Oct 2026 vs Tottenham Hotspur",
+      "accept": [
+        "mike penders",
+        "penders"
+      ]
+    },
+    {
+      "display": "João Pedro",
+      "detail": "30 Aug 2026 vs Brighton & Hove Albion",
+      "accept": [
+        "joão pedro",
+        "joao pedro"
+      ]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "24 May 2026 vs Sunderland",
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
+    },
+    {
+      "display": "Benoît Badiashile",
+      "detail": "19 May 2024 vs Bournemouth",
+      "accept": [
+        "benoît badiashile",
+        "benoit badiashile",
+        "badiashile"
+      ]
+    },
+    {
+      "display": "Marc Cucurella",
+      "detail": "27 Apr 2024 vs Aston Villa",
+      "accept": [
+        "marc cucurella",
+        "cucurella"
+      ]
+    },
+    {
+      "display": "Axel Disasi",
+      "detail": "04 Feb 2024 vs Wolverhampton Wanderers",
+      "accept": [
+        "axel disasi",
+        "disasi"
+      ]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "26 Apr 2023 vs Brentford",
+      "accept": [
+        "césar azpilicueta",
+        "cesar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
+    },
+    {
+      "display": "Trevoh Chalobah",
+      "detail": "29 Oct 2022 vs Brighton & Hove Albion",
+      "accept": [
+        "trevoh chalobah",
+        "chalobah"
+      ]
+    },
+    {
+      "display": "Ruben Loftus-Cheek",
+      "detail": "29 Oct 2022 vs Brighton & Hove Albion",
+      "accept": [
+        "ruben loftus-cheek",
+        "loftus-cheek",
+        "loftus cheek",
+        "rlc"
+      ]
+    },
+    {
+      "display": "Reece James",
+      "detail": "26 Dec 2021 vs Aston Villa",
+      "accept": [
+        "reece james",
+        "james"
+      ]
+    }
+  ]
+}

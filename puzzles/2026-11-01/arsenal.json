@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-01",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to score at least twice in a Premier League match for Arsenal",
+  "note": "Premier League only · each player once, most recent qualifying match · hat-tricks count · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "02 May 2026 vs Fulham",
+      "accept": [
+        "viktor gyokeres",
+        "viktor gyökeres",
+        "gyokeres",
+        "gyökeres"
+      ]
+    },
+    {
+      "display": "Eberechi Eze",
+      "detail": "22 Feb 2026 vs Tottenham Hotspur",
+      "accept": [
+        "eberechi eze",
+        "eze"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "03 Jan 2026 vs Bournemouth",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Martín Zubimendi",
+      "detail": "13 Sep 2025 vs Nottingham Forest",
+      "accept": [
+        "martin zubimendi",
+        "martín zubimendi",
+        "zubimendi"
+      ]
+    },
+    {
+      "display": "Jurriën Timber",
+      "detail": "23 Aug 2025 vs Leeds United",
+      "accept": [
+        "jurrien timber",
+        "jurriën timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "20 Apr 2025 vs Ipswich Town",
+      "accept": [
+        "leandro trossard",
+        "trossard"
+      ]
+    },
+    {
+      "display": "Mikel Merino",
+      "detail": "15 Feb 2025 vs Leicester City",
+      "accept": [
+        "mikel merino",
+        "merino"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "21 Dec 2024 vs Crystal Palace",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Ben White",
+      "detail": "23 Apr 2024 vs Chelsea",
+      "accept": [
+        "ben white",
+        "white"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "23 Apr 2024 vs Chelsea",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    }
+  ]
+}

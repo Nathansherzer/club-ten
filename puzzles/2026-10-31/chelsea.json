@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-31",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players on the pitch for Chelsea at the final whistle in Premier League Matchweek 8 of the 2026/27 season",
+  "note": "2026/27 Premier League, Matchweek 8 · any order · Chelsea 0-2 Tottenham Hotspur, 24 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mike Penders",
+      "detail": "",
+      "accept": [
+        "mike penders",
+        "penders"
+      ]
+    },
+    {
+      "display": "Josh Acheampong",
+      "detail": "",
+      "accept": [
+        "josh acheampong",
+        "joshua acheampong",
+        "acheampong"
+      ]
+    },
+    {
+      "display": "Maxence Lacroix",
+      "detail": "",
+      "accept": [
+        "maxence lacroix",
+        "lacroix"
+      ]
+    },
+    {
+      "display": "Levi Colwill",
+      "detail": "",
+      "accept": [
+        "levi colwill",
+        "colwill"
+      ]
+    },
+    {
+      "display": "Marco Palestra",
+      "detail": "",
+      "accept": [
+        "marco palestra",
+        "palestra"
+      ]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "",
+      "accept": [
+        "moisés caicedo",
+        "moises caicedo",
+        "caicedo"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "Estêvão",
+      "detail": "",
+      "accept": [
+        "estêvão",
+        "estevao",
+        "estevao willian"
+      ]
+    },
+    {
+      "display": "Morgan Rogers",
+      "detail": "",
+      "accept": [
+        "morgan rogers",
+        "rogers"
+      ]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "",
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
+    }
+  ]
+}

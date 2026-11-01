@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-02",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent different players to score and provide an assist in the same Premier League match for Spurs",
+  "note": "Premier League only · each player once, most recent qualifying match · official Premier League assists only · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Xavi Simons",
+      "detail": "18 Apr 2026 vs Brighton & Hove Albion",
+      "accept": [
+        "xavi simons",
+        "simons"
+      ]
+    },
+    {
+      "display": "Mohammed Kudus",
+      "detail": "04 Oct 2025 vs Leeds United",
+      "accept": [
+        "mohammed kudus",
+        "kudus"
+      ]
+    },
+    {
+      "display": "Lucas Bergvall",
+      "detail": "13 Sep 2025 vs West Ham United",
+      "accept": [
+        "lucas bergvall",
+        "bergvall"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "22 Dec 2024 vs Liverpool",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "15 Dec 2024 vs Southampton",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "sonny",
+        "heung-min son",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "05 May 2024 vs Liverpool",
+      "accept": [
+        "richarlison"
+      ]
+    },
+    {
+      "display": "Dejan Kulusevski",
+      "detail": "15 Dec 2023 vs Nottingham Forest",
+      "accept": [
+        "dejan kulusevski",
+        "kulusevski"
+      ]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "28 May 2023 vs Leeds United",
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "17 Sep 2022 vs Leicester City",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "17 Sep 2022 vs Leicester City",
+      "accept": [
+        "rodrigo bentancur",
+        "bentancur"
+      ]
+    }
+  ]
+}

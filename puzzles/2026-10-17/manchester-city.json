@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-17",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most Premier League appearances for Man City who later joined another Big Six club",
+  "note": "first senior Big Six club only · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Joe Hart",
+      "detail": "266 apps · later: Tottenham",
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
+    },
+    {
+      "display": "Shaun Wright-Phillips",
+      "detail": "178 apps · later: Chelsea",
+      "accept": [
+        "shaun wright-phillips",
+        "wright-phillips",
+        "swp"
+      ]
+    },
+    {
+      "display": "Gabriel Jesús",
+      "detail": "159 apps · later: Arsenal",
+      "accept": [
+        "gabriel jesus",
+        "gabriel jesús",
+        "jesus",
+        "jesús"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "147 apps · later: Liverpool",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Terry Phelan",
+      "detail": "103 apps · later: Chelsea",
+      "accept": [
+        "terry phelan",
+        "phelan"
+      ]
+    },
+    {
+      "display": "Tony Coton",
+      "detail": "93 apps · later: Manchester United",
+      "accept": [
+        "tony coton",
+        "coton"
+      ]
+    },
+    {
+      "display": "Oleksandr Zinchenko",
+      "detail": "76 apps · later: Arsenal",
+      "accept": [
+        "oleksandr zinchenko",
+        "zinchenko"
+      ]
+    },
+    {
+      "display": "Mario Balotelli",
+      "detail": "54 apps · later: Liverpool",
+      "accept": [
+        "mario balotelli",
+        "balotelli"
+      ]
+    },
+    {
+      "display": "Vedran Ćorluka",
+      "detail": "38 apps · later: Tottenham",
+      "accept": [
+        "vedran corluka",
+        "vedran ćorluka",
+        "corluka",
+        "ćorluka"
+      ]
+    },
+    {
+      "display": "Willy Caballero",
+      "detail": "23 apps · later: Chelsea",
+      "accept": [
+        "willy caballero",
+        "caballero"
+      ]
+    }
+  ]
+}

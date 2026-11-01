@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-02",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to score and provide an assist in the same Premier League match for Man United",
+  "note": "Premier League only · each player once, most recent qualifying match · official Premier League assists only · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "30 Aug 2026 vs Ipswich Town",
+      "accept": [
+        "bruno fernandes",
+        "bruno",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Patrick Dorgu",
+      "detail": "24 May 2026 vs Brighton & Hove Albion",
+      "accept": [
+        "patrick dorgu",
+        "dorgu"
+      ]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "01 Feb 2026 vs Fulham",
+      "accept": [
+        "casemiro"
+      ]
+    },
+    {
+      "display": "Alejandro Garnacho",
+      "detail": "04 May 2025 vs Brentford",
+      "accept": [
+        "alejandro garnacho",
+        "garnacho"
+      ]
+    },
+    {
+      "display": "Amad Diallo",
+      "detail": "15 May 2024 vs Newcastle United",
+      "accept": [
+        "amad diallo",
+        "amad",
+        "diallo"
+      ]
+    },
+    {
+      "display": "Rasmus Højlund",
+      "detail": "01 Feb 2024 vs Wolverhampton Wanderers",
+      "accept": [
+        "rasmus hojlund",
+        "rasmus højlund",
+        "hojlund",
+        "højlund"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "27 Apr 2023 vs Tottenham Hotspur",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Antony",
+      "detail": "16 Apr 2023 vs Nottingham Forest",
+      "accept": [
+        "antony"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "13 Nov 2022 vs Fulham",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "30 Dec 2021 vs Burnley",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
+    }
+  ]
+}

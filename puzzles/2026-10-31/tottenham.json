@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-31",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players on the pitch for Tottenham at the final whistle in Premier League Matchweek 8 of the 2026/27 season",
+  "note": "2026/27 Premier League, Matchweek 8 · any order · goalkeeper excluded · Chelsea 0-2 Tottenham Hotspur, 24 October 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Archie Gray",
+      "detail": "",
+      "accept": [
+        "archie gray",
+        "gray"
+      ]
+    },
+    {
+      "display": "Jan Paul van Hecke",
+      "detail": "",
+      "accept": [
+        "jan paul van hecke",
+        "van hecke"
+      ]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "",
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
+    },
+    {
+      "display": "Mateus Fernandes",
+      "detail": "",
+      "accept": [
+        "mateus fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Sandro Tonali",
+      "detail": "",
+      "accept": [
+        "sandro tonali",
+        "tonali"
+      ]
+    },
+    {
+      "display": "Conor Gallagher",
+      "detail": "",
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    },
+    {
+      "display": "Dejan Kulusevski",
+      "detail": "",
+      "accept": [
+        "dejan kulusevski",
+        "kulusevski"
+      ]
+    },
+    {
+      "display": "Ben Davies",
+      "detail": "",
+      "accept": [
+        "ben davies",
+        "davies"
+      ]
+    }
+  ]
+}

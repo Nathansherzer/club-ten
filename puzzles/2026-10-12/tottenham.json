@@ -4,7 +4,7 @@
   "clubLabel": "Spurs:",
   "clubShort": "Spurs",
   "question": "name the 10 players with the most Premier League goals for Spurs, excluding penalties",
-  "note": "Premier League only, 1992/93 through 2025/26 · goals for the club only · ranked by total goals minus penalties scored",
+  "note": "Premier League only, 1992/93-2025/26 · goals minus penalties",
   "placeholder": "Type a player's name…",
   "answers": [
     {

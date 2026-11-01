@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-01",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to score at least twice in a Premier League match for Man City",
+  "note": "Premier League only · each player once, most recent qualifying match · hat-tricks count · any order · through 29 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "17 Oct 2026 vs Ipswich Town",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "20 Sep 2026 vs Sunderland",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "28 Aug 2026 vs Crystal Palace",
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "04 May 2026 vs Everton",
+      "accept": [
+        "jeremy doku",
+        "jérémy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "21 Feb 2026 vs Newcastle United",
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "02 Dec 2025 vs Fulham",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Omar Marmoush",
+      "detail": "15 Feb 2025 vs Newcastle United",
+      "accept": [
+        "omar marmoush",
+        "marmoush"
+      ]
+    },
+    {
+      "display": "Mateo Kovačić",
+      "detail": "05 Oct 2024 vs Fulham",
+      "accept": [
+        "mateo kovacic",
+        "mateo kovačić",
+        "kovacic",
+        "kovačić"
+      ]
+    },
+    {
+      "display": "Joško Gvardiol",
+      "detail": "11 May 2024 vs Fulham",
+      "accept": [
+        "josko gvardiol",
+        "joško gvardiol",
+        "gvardiol"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "06 Apr 2024 vs Crystal Palace",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    }
+  ]
+}

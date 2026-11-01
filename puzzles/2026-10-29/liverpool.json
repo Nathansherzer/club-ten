@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-29",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent players to score a Premier League own goal while playing for Liverpool",
+  "note": "Premier League only, 1992/93-present · each player once, most recent qualifying own goal · goalkeepers included · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jarell Quansah",
+      "detail": "04 May 2025 vs Chelsea",
+      "accept": [
+        "jarell quansah",
+        "quansah"
+      ]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "13 Apr 2025 vs West Ham United",
+      "accept": [
+        "andy robertson",
+        "andrew robertson",
+        "robertson",
+        "robbo"
+      ]
+    },
+    {
+      "display": "Conor Bradley",
+      "detail": "04 Apr 2024 vs Sheffield United",
+      "accept": [
+        "conor bradley",
+        "bradley"
+      ]
+    },
+    {
+      "display": "Joël Matip",
+      "detail": "30 Sep 2023 vs Tottenham Hotspur",
+      "accept": [
+        "joël matip",
+        "joel matip",
+        "matip"
+      ]
+    },
+    {
+      "display": "Ibrahima Konaté",
+      "detail": "02 Jan 2023 vs Brentford",
+      "accept": [
+        "ibrahima konaté",
+        "ibrahima konate",
+        "konate"
+      ]
+    },
+    {
+      "display": "Alisson Becker",
+      "detail": "07 Nov 2021 vs West Ham United",
+      "accept": [
+        "alisson becker",
+        "alisson"
+      ]
+    },
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "02 Jul 2020 vs Manchester City",
+      "accept": [
+        "alex oxlade-chamberlain",
+        "oxlade-chamberlain",
+        "oxlade chamberlain",
+        "ox"
+      ]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "06 Dec 2015 vs Newcastle United",
+      "accept": [
+        "martin škrtel",
+        "martin skrtel",
+        "skrtel"
+      ]
+    },
+    {
+      "display": "Simon Mignolet",
+      "detail": "02 Dec 2014 vs Leicester City",
+      "accept": [
+        "simon mignolet",
+        "mignolet"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "19 Oct 2014 vs Queens Park Rangers",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
+    }
+  ]
+}

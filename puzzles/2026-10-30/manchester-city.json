@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-30",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to miss a Premier League penalty for Man City",
+  "note": "Premier League only · each player once, most recent qualifying miss · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "09 Nov 2025 vs Liverpool",
+      "accept": [
+        "erling haaland",
+        "haaland"
+      ]
+    },
+    {
+      "display": "İlkay Gündoğan",
+      "detail": "06 May 2023 vs Leeds United",
+      "accept": [
+        "i̇lkay gündoğan",
+        "ilkay gundogan",
+        "gundogan"
+      ]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "15 May 2022 vs West Ham United",
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "12 Feb 2022 vs Norwich City",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "08 May 2021 vs Chelsea",
+      "accept": [
+        "sergio agüero",
+        "sergio aguero",
+        "aguero",
+        "kun aguero",
+        "kun"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "08 Nov 2020 vs Liverpool",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "21 Jan 2020 vs Sheffield United",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Wilfried Bony",
+      "detail": "26 Dec 2015 vs Sunderland",
+      "accept": [
+        "wilfried bony",
+        "bony"
+      ]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "31 Oct 2015 vs Norwich City",
+      "accept": [
+        "aleksandar kolarov",
+        "kolarov"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "13 Jan 2013 vs Arsenal",
+      "accept": [
+        "edin džeko",
+        "edin dzeko",
+        "dzeko"
+      ]
+    }
+  ]
+}

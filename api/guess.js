@@ -15,6 +15,7 @@ import { readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import { matchGuess } from "../lib/match.js";
+import { isDateServable } from "../lib/puzzle-meta.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -51,6 +52,12 @@ export default async function handler(req, res) {
   // Same future-date gate as /api/puzzle — blocks brute-forcing tomorrow's answers
   if (requestedDate > today) {
     return res.status(403).json({ error: "That puzzle isn't available yet." });
+  }
+
+  // Same archive-window gate as /api/puzzle — blocks guessing against puzzles
+  // older than the rolling window even if the file still exists on disk.
+  if (date && !(await isDateServable(ROOT, requestedDate, today))) {
+    return res.status(403).json({ error: "That puzzle is no longer available." });
   }
 
   const filePath = join(ROOT, "puzzles", requestedDate, `${club}.json`);

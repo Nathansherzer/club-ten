@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-29",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent players to score a Premier League own goal while playing for Man United",
+  "note": "Premier League only, 1992/93-present · each player once, most recent qualifying own goal · goalkeepers included · any order · through 26 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Lisandro Martínez",
+      "detail": "20 Sep 2026 vs Fulham",
+      "accept": [
+        "lisandro martínez",
+        "lisandro martinez",
+        "martinez"
+      ]
+    },
+    {
+      "display": "Ayden Heaven",
+      "detail": "07 Jan 2026 vs Burnley",
+      "accept": [
+        "ayden heaven",
+        "heaven"
+      ]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "04 May 2025 vs Brentford",
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
+    },
+    {
+      "display": "Manuel Ugarte",
+      "detail": "16 Jan 2025 vs Southampton",
+      "accept": [
+        "manuel ugarte",
+        "ugarte"
+      ]
+    },
+    {
+      "display": "Raphaël Varane",
+      "detail": "08 Feb 2023 vs Leeds United",
+      "accept": [
+        "raphaël varane",
+        "raphael varane",
+        "varane"
+      ]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "12 Mar 2022 vs Tottenham Hotspur",
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
+    },
+    {
+      "display": "Eric Bailly",
+      "detail": "06 Nov 2021 vs Manchester City",
+      "accept": [
+        "eric bailly",
+        "bailly"
+      ]
+    },
+    {
+      "display": "Fred",
+      "detail": "22 Aug 2021 vs Southampton",
+      "accept": [
+        "fred",
+        "fred brasileiro"
+      ]
+    },
+    {
+      "display": "Axel Tuanzebe",
+      "detail": "26 Dec 2020 vs Leicester City",
+      "accept": [
+        "axel tuanzebe",
+        "tuanzebe"
+      ]
+    },
+    {
+      "display": "Victor Lindelöf",
+      "detail": "15 Dec 2019 vs Everton",
+      "accept": [
+        "victor lindelöf",
+        "victor lindelof",
+        "lindelof"
+      ]
+    }
+  ]
+}

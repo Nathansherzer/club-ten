@@ -45,20 +45,14 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>
   <script src="/js/consent-analytics.js" defer></script>
 </head>
-<body>
+<body data-club="manchester-city">
 <div class="wrap">
 
   <header>
-    <div class="logo"><a href="/">CLUB <span>TEN</span></a></div>
+    <div class="logo"><a href="/"><img class="logo-icon" src="/assets/logo-icon.png" alt="">CLUB <span>TEN</span></a></div>
     <div class="tagline">Man City Trivia. Ten answers. Every day at midnight UK time.</div>
     <button class="settings-btn" id="settingsBtn" aria-label="Open settings">⚙</button>
   </header>
-  <div class="club-intro-block">
-    <h1>Manchester City Trivia Quiz and Top 10 Game</h1>
-    <p class="club-intro">Play a new Manchester City football trivia quiz every day. This Tenable-style top 10 game gives Man City fans one question and ten correct answers to find before you lose your three lives.</p>
-  </div>
-
-
   <div class="settings-overlay" id="settingsOverlay" role="dialog" aria-label="Settings">
     <div class="settings-card">
       <button class="settings-close" id="settingsClose" aria-label="Close">✕</button>
@@ -72,12 +66,12 @@
     <h2>Pick your club</h2>
     <p>Every day, a top-10 challenge about your team.</p>
     <div class="clubgrid">
-      <a class="clubbtn" data-club="arsenal" href="/arsenal">Arsenal</a>
-      <a class="clubbtn" data-club="chelsea" href="/chelsea">Chelsea</a>
-      <a class="clubbtn" data-club="liverpool" href="/liverpool">Liverpool</a>
-      <a class="clubbtn" data-club="manchester-city" href="/manchester-city">Man City</a>
-      <a class="clubbtn" data-club="manchester-united" href="/manchester-united">Man United</a>
-      <a class="clubbtn" data-club="tottenham" href="/tottenham">Spurs</a>
+      <a class="clubbtn" data-club="arsenal" href="/arsenal"><span class="badge" aria-hidden="true"><svg viewBox="0 0 40 44"><path d="M20 2 L36 8 V20 C36 31 29 39 20 42 C11 39 4 31 4 20 V8 Z" fill="#EF0107" fill-opacity="0.22" stroke="#EF0107" stroke-width="2"/><text x="20" y="27" text-anchor="middle" font-size="16" font-weight="700" fill="#ff8a85" font-family="-apple-system,sans-serif">A</text></svg></span><span class="name">Arsenal</span></a>
+      <a class="clubbtn" data-club="chelsea" href="/chelsea"><span class="badge" aria-hidden="true"><svg viewBox="0 0 40 44"><path d="M20 2 L36 8 V20 C36 31 29 39 20 42 C11 39 4 31 4 20 V8 Z" fill="#034694" fill-opacity="0.4" stroke="#0a3d6e" stroke-width="2"/><text x="20" y="27" text-anchor="middle" font-size="16" font-weight="700" fill="#4a8fd4" font-family="-apple-system,sans-serif">C</text></svg></span><span class="name">Chelsea</span></a>
+      <a class="clubbtn" data-club="liverpool" href="/liverpool"><span class="badge" aria-hidden="true"><svg viewBox="0 0 40 44"><path d="M20 2 L36 8 V20 C36 31 29 39 20 42 C11 39 4 31 4 20 V8 Z" fill="#C8102E" fill-opacity="0.22" stroke="#C8102E" stroke-width="2"/><text x="20" y="27" text-anchor="middle" font-size="16" font-weight="700" fill="#ff8a95" font-family="-apple-system,sans-serif">L</text></svg></span><span class="name">Liverpool</span></a>
+      <a class="clubbtn" data-club="manchester-city" href="/manchester-city"><span class="badge" aria-hidden="true"><svg viewBox="0 0 40 44"><path d="M20 2 L36 8 V20 C36 31 29 39 20 42 C11 39 4 31 4 20 V8 Z" fill="#6CABDD" fill-opacity="0.3" stroke="#6CABDD" stroke-width="2"/><text x="20" y="27" text-anchor="middle" font-size="16" font-weight="700" fill="#aed7f5" font-family="-apple-system,sans-serif">M</text></svg></span><span class="name">Man City</span></a>
+      <a class="clubbtn" data-club="manchester-united" href="/manchester-united"><span class="badge" aria-hidden="true"><svg viewBox="0 0 40 44"><path d="M20 2 L36 8 V20 C36 31 29 39 20 42 C11 39 4 31 4 20 V8 Z" fill="#DA291C" fill-opacity="0.24" stroke="#DA291C" stroke-width="2"/><text x="20" y="27" text-anchor="middle" font-size="16" font-weight="700" fill="#ff9289" font-family="-apple-system,sans-serif">M</text></svg></span><span class="name">Man United</span></a>
+      <a class="clubbtn" data-club="tottenham" href="/tottenham"><span class="badge" aria-hidden="true"><svg viewBox="0 0 40 44"><path d="M20 2 L36 8 V20 C36 31 29 39 20 42 C11 39 4 31 4 20 V8 Z" fill="#f2f4f8" fill-opacity="0.22" stroke="#f2f4f8" stroke-width="2"/><text x="20" y="27" text-anchor="middle" font-size="16" font-weight="700" fill="#f2f4f8" font-family="-apple-system,sans-serif">S</text></svg></span><span class="name">Spurs</span></a>
     </div>
   </div>
 
@@ -98,6 +92,7 @@
       <span id="questionText"></span>
       <span class="note" id="questionNote"></span>
     </div>
+    <div class="puzzle-banner" id="puzzleBanner" style="display:none"></div>
     <div class="slots" id="slots"></div>
     <div class="watermark">topclubten.com</div>
     <div id="playArea">
@@ -132,6 +127,11 @@
       <div id="rivalPrompt"></div>
       <a class="kofi-link" id="kofiEndLink" href="https://ko-fi.com/clubten" target="_blank" rel="noopener">☕ Enjoying Club Ten? Buy me a coffee</a>
     </div>
+  </div>
+
+  <div class="club-intro-block">
+    <h1>Manchester City Trivia Quiz and Top 10 Game</h1>
+    <p class="club-intro">Play a new Manchester City football trivia quiz every day. This Tenable-style top 10 game gives Man City fans one question and ten correct answers to find before you lose your three lives.</p>
   </div>
 
   <section class="seo-section club-switch">

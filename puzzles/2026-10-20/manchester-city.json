@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-20",
+  "club": "manchester-city",
+  "type": "clubs",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 clubs with the most Premier League wins against Man City",
+  "note": "Premier League only, 1992/93-2025/26 · any order · ties broken by win percentage, then head-to-head goal difference",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "30 wins · 51.72%",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "27 wins · 46.55%",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "27 wins · 46.55%",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "25 wins · 43.10%",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "23 wins · 39.66%",
+      "accept": [
+        "liverpool",
+        "reds"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "18 wins · 31.03%",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "Middlesbrough",
+      "detail": "11 wins · 50.00%",
+      "accept": [
+        "middlesbrough",
+        "boro"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "11 wins · 21.15%",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Blackburn Rovers",
+      "detail": "10 wins · 35.71%",
+      "accept": [
+        "blackburn rovers",
+        "blackburn"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "9 wins · 18.00%",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    }
+  ]
+}

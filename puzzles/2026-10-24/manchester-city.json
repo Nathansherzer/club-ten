@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-24",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players who started for Manchester City in the 2016 League Cup final against Liverpool",
+  "note": "2016 League Cup final vs Liverpool · goalkeeper and substitutes excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bacary Sagna",
+      "detail": "",
+      "accept": [
+        "bacary sagna",
+        "sagna"
+      ]
+    },
+    {
+      "display": "Vincent Kompany",
+      "detail": "",
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
+    },
+    {
+      "display": "Nicolás Otamendi",
+      "detail": "",
+      "accept": [
+        "nicolás otamendi",
+        "nicolas otamendi",
+        "otamendi"
+      ]
+    },
+    {
+      "display": "Gaël Clichy",
+      "detail": "",
+      "accept": [
+        "gaël clichy",
+        "gael clichy",
+        "clichy"
+      ]
+    },
+    {
+      "display": "Fernando",
+      "detail": "",
+      "accept": [
+        "fernando",
+        "fernando reges",
+        "fernando francisco reges"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "",
+      "accept": [
+        "fernandinho",
+        "fernando luiz roza"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "",
+      "accept": [
+        "yaya touré",
+        "yaya toure",
+        "yaya",
+        "toure"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "",
+      "accept": [
+        "david silva",
+        "silva",
+        "el mago",
+        "david"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "",
+      "accept": [
+        "sergio agüero",
+        "sergio aguero",
+        "aguero",
+        "kun aguero",
+        "kun"
+      ]
+    }
+  ]
+}

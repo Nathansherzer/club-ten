@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-20",
+  "club": "manchester-united",
+  "type": "clubs",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 clubs with the most Premier League wins against Man United",
+  "note": "Premier League only, 1992/93-2025/26 · any order · ties broken by win percentage, then head-to-head goal difference",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Arsenal",
+      "detail": "22 wins · 32.35%",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "21 wins · 36.21%",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "20 wins · 29.41%",
+      "accept": [
+        "liverpool",
+        "reds"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "20 wins · 29.41%",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "13 wins · 19.12%",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "12 wins · 19.35%",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "magpies"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "11 wins · 18.33%",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "11 wins · 16.18%",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "Brighton & Hove Albion",
+      "detail": "8 wins · 44.44%",
+      "accept": [
+        "brighton and hove albion",
+        "brighton & hove albion",
+        "brighton",
+        "albion",
+        "seagulls"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "7 wins · 14.00%",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    }
+  ]
+}

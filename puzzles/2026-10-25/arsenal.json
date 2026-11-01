@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-25",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to score for Arsenal in a major cup final",
+  "note": "major domestic & European cup finals, won or lost · excludes own goals, shootouts, Super Cups & Club World Cups · each player once, most recent qualifying goal · any order · through 21 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Kai Havertz",
+      "detail": "30 May 2026 · Champions League final vs Paris Saint-Germain",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "01 Aug 2020 · FA Cup final vs Chelsea",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba"
+      ]
+    },
+    {
+      "display": "Alex Iwobi",
+      "detail": "29 May 2019 · Europa League final vs Chelsea",
+      "accept": [
+        "alex iwobi",
+        "iwobi"
+      ]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "27 May 2017 · FA Cup final vs Chelsea",
+      "accept": [
+        "aaron ramsey",
+        "ramsey"
+      ]
+    },
+    {
+      "display": "Alexis Sánchez",
+      "detail": "27 May 2017 · FA Cup final vs Chelsea",
+      "accept": [
+        "alexis sánchez",
+        "alexis sanchez",
+        "sanchez",
+        "alexis"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "30 May 2015 · FA Cup final vs Aston Villa",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    },
+    {
+      "display": "Per Mertesacker",
+      "detail": "30 May 2015 · FA Cup final vs Aston Villa",
+      "accept": [
+        "per mertesacker",
+        "mertesacker"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "30 May 2015 · FA Cup final vs Aston Villa",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "17 May 2014 · FA Cup final vs Hull City",
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
+    },
+    {
+      "display": "Santi Cazorla",
+      "detail": "17 May 2014 · FA Cup final vs Hull City",
+      "accept": [
+        "santi cazorla",
+        "santiago cazorla",
+        "cazorla"
+      ]
+    }
+  ]
+}

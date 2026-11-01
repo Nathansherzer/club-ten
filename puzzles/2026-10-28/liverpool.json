@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-28",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent players to score a direct free-kick for Liverpool in the Premier League",
+  "note": "Premier League only · each player once, most recent qualifying goal · any order · through 24 Oct 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "15 Mar 2026 vs Tottenham Hotspur",
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "21 Apr 2024 vs Fulham",
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "alexander arnold",
+        "taa",
+        "trent"
+      ]
+    },
+    {
+      "display": "Philippe Coutinho",
+      "detail": "02 Dec 2017 vs Brighton & Hove Albion",
+      "accept": [
+        "philippe coutinho",
+        "coutinho",
+        "phil coutinho"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "14 Feb 2016 vs Aston Villa",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "30 Mar 2014 vs Tottenham Hotspur",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "26 Mar 2014 vs Sunderland",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "01 Jan 2014 vs Hull City",
+      "accept": [
+        "luis suárez",
+        "luis suarez",
+        "suarez"
+      ]
+    },
+    {
+      "display": "Craig Bellamy",
+      "detail": "30 Dec 2011 vs Newcastle United",
+      "accept": [
+        "craig bellamy",
+        "bellamy"
+      ]
+    },
+    {
+      "display": "Fábio Aurélio",
+      "detail": "14 Mar 2009 vs Manchester United",
+      "accept": [
+        "fábio aurélio",
+        "fabio aurelio",
+        "aurelio"
+      ]
+    },
+    {
+      "display": "Xabi Alonso",
+      "detail": "01 Sep 2007 vs Derby County",
+      "accept": [
+        "xabi alonso",
+        "alonso"
+      ]
+    }
+  ]
+}

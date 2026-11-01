@@ -254,6 +254,13 @@ async function fetchAndStartPuzzle(club, savedState) {
     const res = await fetch(`/api/puzzle?club=${club}${dateParam}`);
     if (!res.ok) {
       const body = await res.json().catch(() => ({}));
+      // Archive date aged out of the servable window. The page itself may
+      // be stale CDN cache from before that window moved, so this redirect
+      // is what actually enforces it client-side regardless.
+      if (body.redirect) {
+        location.replace(body.redirect);
+        return;
+      }
       throw new Error(body.error || `HTTP ${res.status}`);
     }
     puzzle = await res.json();
@@ -313,7 +320,9 @@ async function fetchAndStartPuzzle(club, savedState) {
 
 function buildGameBoard() {
   // Status bar
-  document.getElementById("puzzleLabel").textContent = `Puzzle #${puzzle.puzzleNumber}`;
+  document.getElementById("puzzleLabel").textContent = puzzle.isBackup
+    ? "Bonus puzzle"
+    : `Puzzle #${puzzle.puzzleNumber}`;
   if (isArchivePlay) {
     document.getElementById("streakLabel").textContent = "Archive";
   } else {
@@ -336,6 +345,18 @@ function buildGameBoard() {
       creditEl.style.display = "block";
     } else {
       creditEl.style.display = "none";
+    }
+  }
+
+  // Optional one-off celebratory banner (e.g. "congrats on the win"),
+  // shown right under the question card so it can't be missed.
+  const bannerEl = document.getElementById("puzzleBanner");
+  if (bannerEl) {
+    if (puzzle.banner) {
+      bannerEl.textContent = puzzle.banner;
+      bannerEl.style.display = "block";
+    } else {
+      bannerEl.style.display = "none";
     }
   }
 

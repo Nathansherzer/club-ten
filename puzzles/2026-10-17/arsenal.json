@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-17",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most Premier League appearances for Arsenal who later joined another Big Six club",
+  "note": "first senior Big Six club only · through 2025/26",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David Seaman",
+      "detail": "325 apps · later: Manchester City",
+      "accept": [
+        "david seaman",
+        "seaman"
+      ]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "279 apps · later: Manchester City",
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "225 apps · later: Manchester City, Liverpool",
+      "accept": [
+        "kolo toure",
+        "kolo touré",
+        "toure",
+        "touré"
+      ]
+    },
+    {
+      "display": "Bacary Sagna",
+      "detail": "213 apps · later: Manchester City",
+      "accept": [
+        "bacary sagna",
+        "sagna"
+      ]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "212 apps · later: Chelsea",
+      "accept": [
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "194 apps · later: Manchester United",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
+    },
+    {
+      "display": "Gaël Clichy",
+      "detail": "187 apps · later: Manchester City",
+      "accept": [
+        "gael clichy",
+        "gaël clichy",
+        "clichy"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "180 apps · later: Chelsea",
+      "accept": [
+        "olivier giroud",
+        "giroud"
+      ]
+    },
+    {
+      "display": "Ashley Cole",
+      "detail": "156 apps · later: Chelsea",
+      "accept": [
+        "ashley cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "132 apps · later: Liverpool",
+      "accept": [
+        "alex oxlade-chamberlain",
+        "oxlade-chamberlain",
+        "chamberlain"
+      ]
+    }
+  ]
+}
