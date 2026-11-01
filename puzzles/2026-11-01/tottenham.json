@@ -26,6 +26,14 @@
       ]
     },
     {
+      "display": "Micky van de Ven",
+      "detail": "26 Oct 2025 vs Everton",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
       "display": "Richarlison",
       "detail": "16 Aug 2025 vs Burnley",
       "accept": [
@@ -84,14 +92,6 @@
       "accept": [
         "rodrigo bentancur",
         "bentancur"
-      ]
-    },
-    {
-      "display": "Gareth Bale",
-      "detail": "23 May 2021 vs Leicester City",
-      "accept": [
-        "gareth bale",
-        "bale"
       ]
     }
   ]
