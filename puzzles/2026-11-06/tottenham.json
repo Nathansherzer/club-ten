@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-06",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the last 10 primary permanent club captains for Spurs",
+  "note": "Most recent first · officially appointed captains only · includes pre-PL era · as of 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Micky van de Ven",
+      "detail": "2026–present",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "2025–2026",
+      "accept": [
+        "cristian romero",
+        "romero",
+        "cuti romero",
+        "cuti"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "2023–2025",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "sonny",
+        "heung-min son",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Hugo Lloris",
+      "detail": "2015–2023",
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
+    },
+    {
+      "display": "Younès Kaboul",
+      "detail": "2014–2015",
+      "accept": [
+        "younes kaboul",
+        "younès kaboul",
+        "kaboul"
+      ]
+    },
+    {
+      "display": "Michael Dawson",
+      "detail": "2012–2014",
+      "accept": [
+        "michael dawson",
+        "dawson"
+      ]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "2005–2012",
+      "accept": [
+        "ledley king",
+        "king"
+      ]
+    },
+    {
+      "display": "Jamie Redknapp",
+      "detail": "2003–2005",
+      "accept": [
+        "jamie redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "2001–2003",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "1998–2001",
+      "accept": [
+        "sol campbell",
+        "campbell"
+      ]
+    }
+  ]
+}
