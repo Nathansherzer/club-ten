@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-04",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most Premier League appearances for Liverpool who never won a major trophy with the club",
+  "note": "PL appearances for the club only, all spells combined · never won a major trophy there (league title, FA Cup, League Cup, European Cup/UCL, UEFA Cup/Europa League, Cup Winners' Cup, Conference League, Club World Cup) · Community Shield, UEFA Super Cup and lower-division titles don't count · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Philippe Coutinho",
+      "detail": "152 PL apps for Liverpool",
+      "accept": [
+        "philippe coutinho",
+        "coutinho",
+        "phil coutinho"
+      ]
+    },
+    {
+      "display": "Emre Can",
+      "detail": "115 PL apps for Liverpool",
+      "accept": [
+        "emre can",
+        "can"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "102 PL apps for Liverpool",
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
+    },
+    {
+      "display": "Jason McAteer",
+      "detail": "100 PL apps for Liverpool",
+      "accept": [
+        "jason mcateer",
+        "mcateer"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "95 PL apps for Liverpool",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Javier Mascherano",
+      "detail": "94 PL apps for Liverpool",
+      "accept": [
+        "javier mascherano",
+        "mascherano"
+      ]
+    },
+    {
+      "display": "Yossi Benayoun",
+      "detail": "92 PL apps for Liverpool",
+      "accept": [
+        "yossi benayoun",
+        "benayoun"
+      ]
+    },
+    {
+      "display": "Ryan Babel",
+      "detail": "91 PL apps for Liverpool",
+      "accept": [
+        "ryan babel",
+        "babel"
+      ]
+    },
+    {
+      "display": "Joe Allen",
+      "detail": "91 PL apps for Liverpool",
+      "accept": [
+        "joe allen",
+        "allen"
+      ]
+    },
+    {
+      "display": "Nathaniel Clyne",
+      "detail": "77 PL apps for Liverpool",
+      "accept": [
+        "nathaniel clyne",
+        "clyne"
+      ]
+    }
+  ]
+}

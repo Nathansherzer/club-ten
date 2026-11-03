@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-04",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most Premier League appearances for Chelsea who never won a major trophy with the club",
+  "note": "PL appearances for the club only, all spells combined · never won a major trophy there (league title, FA Cup, League Cup, European Cup/UCL, UEFA Cup/Europa League, Cup Winners' Cup, Conference League, Club World Cup) · Community Shield, UEFA Super Cup and lower-division titles don't count · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jimmy Floyd Hasselbaink",
+      "detail": "136 PL apps for Chelsea",
+      "accept": [
+        "jimmy floyd hasselbaink",
+        "hasselbaink",
+        "jimmy hasselbaink",
+        "floyd hasselbaink"
+      ]
+    },
+    {
+      "display": "John Spencer",
+      "detail": "103 PL apps for Chelsea",
+      "accept": [
+        "john spencer",
+        "spencer"
+      ]
+    },
+    {
+      "display": "Gavin Peacock",
+      "detail": "103 PL apps for Chelsea",
+      "accept": [
+        "gavin peacock",
+        "peacock"
+      ]
+    },
+    {
+      "display": "Jesper Grønkjær",
+      "detail": "88 PL apps for Chelsea",
+      "accept": [
+        "jesper gronkjaer",
+        "jesper grønkjær",
+        "gronkjaer",
+        "grønkjær"
+      ]
+    },
+    {
+      "display": "Conor Gallagher",
+      "detail": "72 PL apps for Chelsea",
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
+    },
+    {
+      "display": "Mal Donaghy",
+      "detail": "68 PL apps for Chelsea",
+      "accept": [
+        "mal donaghy",
+        "donaghy",
+        "malachy donaghy"
+      ]
+    },
+    {
+      "display": "Nigel Spackman",
+      "detail": "67 PL apps for Chelsea",
+      "accept": [
+        "nigel spackman",
+        "spackman"
+      ]
+    },
+    {
+      "display": "Paul Furlong",
+      "detail": "64 PL apps for Chelsea",
+      "accept": [
+        "paul furlong",
+        "furlong"
+      ]
+    },
+    {
+      "display": "Gareth Hall",
+      "detail": "55 PL apps for Chelsea",
+      "accept": [
+        "gareth hall",
+        "hall"
+      ]
+    },
+    {
+      "display": "Emmanuel Petit",
+      "detail": "55 PL apps for Chelsea",
+      "accept": [
+        "emmanuel petit",
+        "petit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-04",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most Premier League appearances for Spurs who never won a major trophy with the club",
+  "note": "PL appearances for the club only, all spells combined · never won a major trophy there (league title, FA Cup, League Cup, European Cup/UCL, UEFA Cup/Europa League, Cup Winners' Cup, Conference League, Club World Cup) · Community Shield, UEFA Super Cup and lower-division titles don't count · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Hugo Lloris",
+      "detail": "361 PL apps for Spurs",
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "317 PL apps for Spurs",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Eric Dier",
+      "detail": "274 PL apps for Spurs",
+      "accept": [
+        "eric dier",
+        "dier"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "236 PL apps for Spurs",
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "232 PL apps for Spurs",
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "226 PL apps for Spurs",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "183 PL apps for Spurs",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
+      "display": "Mousa Dembélé",
+      "detail": "181 PL apps for Spurs",
+      "accept": [
+        "mousa dembélé",
+        "mousa dembele",
+        "moussa dembele",
+        "dembele"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "181 PL apps for Spurs",
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "177 PL apps for Spurs",
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
+    }
+  ]
+}

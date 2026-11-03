@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-04",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most Premier League appearances for Arsenal who never won a major trophy with the club",
+  "note": "PL appearances for the club only, all spells combined · never won a major trophy there (league title, FA Cup, League Cup, European Cup/UCL, UEFA Cup/Europa League, Cup Winners' Cup, Conference League, Club World Cup) · Community Shield, UEFA Super Cup and lower-division titles don't count · any order · through 2 Nov 2026 · individual trophy honours follow Transfermarkt's records",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Alex Song",
+      "detail": "138 PL apps for Arsenal",
+      "accept": [
+        "alex song",
+        "song"
+      ]
+    },
+    {
+      "display": "Thomas Partey",
+      "detail": "130 PL apps for Arsenal",
+      "accept": [
+        "thomas partey",
+        "partey"
+      ]
+    },
+    {
+      "display": "Abou Diaby",
+      "detail": "124 PL apps for Arsenal",
+      "accept": [
+        "abou diaby",
+        "diaby"
+      ]
+    },
+    {
+      "display": "Andrey Arshavin",
+      "detail": "105 PL apps for Arsenal",
+      "accept": [
+        "andrey arshavin",
+        "andrei arshavin",
+        "arshavin"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "104 PL apps for Arsenal",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "William Gallas",
+      "detail": "101 PL apps for Arsenal",
+      "accept": [
+        "william gallas",
+        "gallas"
+      ]
+    },
+    {
+      "display": "Denílson",
+      "detail": "96 PL apps for Arsenal",
+      "accept": [
+        "denilson",
+        "denílson"
+      ]
+    },
+    {
+      "display": "Alexander Hleb",
+      "detail": "89 PL apps for Arsenal",
+      "accept": [
+        "alexander hleb",
+        "aleksandr hleb",
+        "aliaksandr hleb",
+        "hleb"
+      ]
+    },
+    {
+      "display": "Johan Djourou",
+      "detail": "86 PL apps for Arsenal",
+      "accept": [
+        "johan djourou",
+        "djourou"
+      ]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "86 PL apps for Arsenal",
+      "accept": [
+        "samir nasri",
+        "nasri"
+      ]
+    }
+  ]
+}
