@@ -4,7 +4,7 @@
   "clubLabel": "Man City:",
   "clubShort": "Man City",
   "question": "name the 10 nationalities that scored the most Premier League goals for Man City",
-  "note": "PL goals by nationality · players capped by that nation while at Man City · data: 2 Nov 2026",
+  "note": "PL goals by nationality · players capped by that nation while at Man City · ties broken by PL appearances for the club, then alphabetical · data: 3 Nov 2026",
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [
@@ -87,7 +87,7 @@
     },
     {
       "display": "Portugal",
-      "detail": "55 goals",
+      "detail": "57 goals",
       "accept": [
         "portugal",
         "portuguese"

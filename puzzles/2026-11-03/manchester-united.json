@@ -4,7 +4,7 @@
   "clubLabel": "Man United:",
   "clubShort": "Man United",
   "question": "name the 10 nationalities that scored the most Premier League goals for Man United",
-  "note": "PL goals by nationality · players capped by that nation while at Man United · data: 2 Nov 2026",
+  "note": "PL goals by nationality · players capped by that nation while at Man United · ties broken by PL appearances for the club, then alphabetical · data: 3 Nov 2026",
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [
@@ -68,6 +68,15 @@
       ]
     },
     {
+      "display": "Brazil",
+      "detail": "54 goals",
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
+    },
+    {
       "display": "Scotland",
       "detail": "53 goals",
       "accept": [
@@ -83,16 +92,6 @@
         "argentinian",
         "argentinean",
         "argentine"
-      ]
-    },
-    {
-      "display": "Trinidad and Tobago",
-      "detail": "48 goals",
-      "accept": [
-        "trinidad and tobago",
-        "trinidad",
-        "tobago",
-        "trinidadian"
       ]
     }
   ]

@@ -4,7 +4,7 @@
   "clubLabel": "Spurs:",
   "clubShort": "Spurs",
   "question": "name the 10 nationalities that scored the most Premier League goals for Spurs",
-  "note": "PL goals by nationality · players capped by that nation while at Spurs · data: 2 Nov 2026",
+  "note": "PL goals by nationality · players capped by that nation while at Spurs · ties broken by PL appearances for the club, then alphabetical · data: 3 Nov 2026",
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [

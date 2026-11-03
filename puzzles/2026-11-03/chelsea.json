@@ -4,7 +4,7 @@
   "clubLabel": "Chelsea:",
   "clubShort": "Chelsea",
   "question": "name the 10 nationalities that scored the most Premier League goals for Chelsea",
-  "note": "PL goals by nationality · players capped by that nation while at Chelsea · data: 2 Nov 2026",
+  "note": "PL goals by nationality · players capped by that nation while at Chelsea · ties broken by PL appearances for the club, then alphabetical · data: 3 Nov 2026",
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [
@@ -85,13 +85,11 @@
       ]
     },
     {
-      "display": "Argentina",
-      "detail": "40 goals",
+      "display": "Germany",
+      "detail": "46 goals",
       "accept": [
-        "argentina",
-        "argentinian",
-        "argentinean",
-        "argentine"
+        "germany",
+        "german"
       ]
     }
   ]

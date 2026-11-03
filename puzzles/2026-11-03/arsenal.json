@@ -4,7 +4,7 @@
   "clubLabel": "Arsenal:",
   "clubShort": "Arsenal",
   "question": "name the 10 nationalities that scored the most Premier League goals for Arsenal",
-  "note": "PL goals by nationality · players capped by that nation while at Arsenal · data: 2 Nov 2026",
+  "note": "PL goals by nationality · players capped by that nation while at Arsenal · ties broken by PL appearances for the club, then alphabetical · data: 3 Nov 2026",
   "placeholder": "Type a nationality…",
   "type": "nationalities",
   "answers": [
