@@ -44,14 +44,6 @@
       ]
     },
     {
-      "display": "Conor Gallagher",
-      "detail": "72 PL apps for Chelsea",
-      "accept": [
-        "conor gallagher",
-        "gallagher"
-      ]
-    },
-    {
       "display": "Mal Donaghy",
       "detail": "68 PL apps for Chelsea",
       "accept": [
@@ -90,6 +82,14 @@
       "accept": [
         "emmanuel petit",
         "petit"
+      ]
+    },
+    {
+      "display": "Jakob Kjeldbjerg",
+      "detail": "52 PL apps for Chelsea",
+      "accept": [
+        "jakob kjeldbjerg",
+        "kjeldbjerg"
       ]
     }
   ]
