@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-05",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players selected for the PFA Premier League Team of the Year while playing for Liverpool",
+  "note": "PFA Premier League Team of the Year, 1992/93-2025/26 · selections earned while at the club only · ranked by most recent selection, then most selections for the club, then most PL appearances for the club · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Virgil van Dijk",
+      "detail": "2024/25 · 5 selections for Liverpool",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "2024/25 · 4 selections for Liverpool",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "2024/25 · 1 selection for Liverpool",
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister",
+        "alexis macallister"
+      ]
+    },
+    {
+      "display": "Ryan Gravenberch",
+      "detail": "2024/25 · 1 selection for Liverpool",
+      "accept": [
+        "ryan gravenberch",
+        "gravenberch"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "2021/22 · 4 selections for Liverpool",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "2021/22 · 3 selections for Liverpool",
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "trent",
+        "alexander arnold",
+        "trent alexander arnold",
+        "taa",
+        "trent arnold"
+      ]
+    },
+    {
+      "display": "Alisson Becker",
+      "detail": "2021/22 · 1 selection for Liverpool",
+      "accept": [
+        "alisson becker",
+        "alisson"
+      ]
+    },
+    {
+      "display": "Thiago Alcântara",
+      "detail": "2021/22 · 1 selection for Liverpool",
+      "accept": [
+        "thiago alcântara",
+        "thiago alcantara",
+        "thiago"
+      ]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "2019/20 · 2 selections for Liverpool",
+      "accept": [
+        "andy robertson",
+        "andrew robertson",
+        "robertson",
+        "robbo"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "2019/20 · 1 selection for Liverpool",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-05",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players selected for the PFA Premier League Team of the Year while playing for Chelsea",
+  "note": "PFA Premier League Team of the Year, 1992/93-2025/26 · selections earned while at the club only · ranked by most recent selection, then most selections for the club, then most PL appearances for the club · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Antonio Rüdiger",
+      "detail": "2021/22 · 1 selection for Chelsea",
+      "accept": [
+        "antonio rudiger",
+        "antonio rüdiger",
+        "rudiger",
+        "rüdiger"
+      ]
+    },
+    {
+      "display": "Marcos Alonso",
+      "detail": "2017/18 · 1 selection for Chelsea",
+      "accept": [
+        "marcos alonso",
+        "alonso"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "2016/17 · 4 selections for Chelsea",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Gary Cahill",
+      "detail": "2016/17 · 3 selections for Chelsea",
+      "accept": [
+        "gary cahill",
+        "cahill"
+      ]
+    },
+    {
+      "display": "N'Golo Kanté",
+      "detail": "2016/17 · 1 selection for Chelsea",
+      "accept": [
+        "ngolo kante",
+        "n'golo kante",
+        "ngolo kanté",
+        "n'golo kanté",
+        "kante",
+        "kanté",
+        "n golo kante"
+      ]
+    },
+    {
+      "display": "David Luiz",
+      "detail": "2016/17 · 1 selection for Chelsea",
+      "accept": [
+        "david luiz",
+        "luiz"
+      ]
+    },
+    {
+      "display": "John Terry",
+      "detail": "2014/15 · 4 selections for Chelsea",
+      "accept": [
+        "john terry",
+        "terry",
+        "jt"
+      ]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "2014/15 · 2 selections for Chelsea",
+      "accept": [
+        "branislav ivanovic",
+        "branislav ivanović",
+        "ivanovic",
+        "ivanović"
+      ]
+    },
+    {
+      "display": "Nemanja Matić",
+      "detail": "2014/15 · 1 selection for Chelsea",
+      "accept": [
+        "nemanja matic",
+        "nemanja matić",
+        "matic",
+        "matić"
+      ]
+    },
+    {
+      "display": "Diego Costa",
+      "detail": "2014/15 · 1 selection for Chelsea",
+      "accept": [
+        "diego costa",
+        "costa"
+      ]
+    }
+  ]
+}

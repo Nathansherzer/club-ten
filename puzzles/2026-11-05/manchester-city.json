@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-05",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players selected for the PFA Premier League Team of the Year while playing for Man City",
+  "note": "PFA Premier League Team of the Year, 1992/93-2025/26 · selections earned while at the club only · ranked by most recent selection, then most selections for the club, then most PL appearances for the club · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "2025/26 · 3 selections for Man City",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "2025/26 · 1 selection for Man City",
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "2025/26 · 1 selection for Man City",
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "2025/26 · 1 selection for Man City",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "2023/24 · 2 selections for Man City",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "2023/24 · 2 selections for Man City",
+      "accept": [
+        "rodri",
+        "rodrigo hernandez",
+        "rodrigo hernández"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "2023/24 · 1 selection for Man City",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "2022/23 · 5 selections for Man City",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "John Stones",
+      "detail": "2022/23 · 2 selections for Man City",
+      "accept": [
+        "john stones",
+        "stones"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "2022/23 · 2 selections for Man City",
+      "accept": [
+        "rúben dias",
+        "ruben dias",
+        "dias"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-05",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players selected for the PFA Premier League Team of the Year while playing for Man United",
+  "note": "PFA Premier League Team of the Year, 1992/93-2025/26 · selections earned while at the club only · ranked by most recent selection, then most selections for the club, then most PL appearances for the club · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "2025/26 · 2 selections for Man United",
+      "accept": [
+        "bruno fernandes",
+        "bruno",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Cristiano Ronaldo",
+      "detail": "2021/22 · 5 selections for Man United",
+      "accept": [
+        "cristiano ronaldo",
+        "ronaldo",
+        "cr7"
+      ]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "2020/21 · 1 selection for Man United",
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "2018/19 · 1 selection for Man United",
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
+    },
+    {
+      "display": "David de Gea",
+      "detail": "2017/18 · 5 selections for Man United",
+      "accept": [
+        "david de gea",
+        "de gea",
+        "degea",
+        "ddg"
+      ]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "2012/13 · 5 selections for Man United",
+      "accept": [
+        "rio ferdinand",
+        "ferdinand",
+        "rio"
+      ]
+    },
+    {
+      "display": "Michael Carrick",
+      "detail": "2012/13 · 1 selection for Man United",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "Robin van Persie",
+      "detail": "2012/13 · 1 selection for Man United",
+      "accept": [
+        "robin van persie",
+        "van persie",
+        "rvp"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "2011/12 · 3 selections for Man United",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Nemanja Vidić",
+      "detail": "2010/11 · 4 selections for Man United",
+      "accept": [
+        "nemanja vidic",
+        "nemanja vidić",
+        "vidic",
+        "vidić"
+      ]
+    }
+  ]
+}

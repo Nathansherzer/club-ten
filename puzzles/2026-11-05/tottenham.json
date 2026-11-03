@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-05",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent different players selected for the PFA Premier League Team of the Year while playing for Spurs",
+  "note": "PFA Premier League Team of the Year, 1992/93-2025/26 · selections earned while at the club only · ranked by most recent selection, then most selections for the club, then most PL appearances for the club · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Harry Kane",
+      "detail": "2022/23 · 6 selections for Spurs",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "2020/21 · 1 selection for Spurs",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "sonny",
+        "heung-min son",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "2017/18 · 2 selections for Spurs",
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
+    },
+    {
+      "display": "Christian Eriksen",
+      "detail": "2017/18 · 1 selection for Spurs",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "2016/17 · 2 selections for Spurs",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "2016/17 · 2 selections for Spurs",
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
+    },
+    {
+      "display": "Danny Rose",
+      "detail": "2016/17 · 2 selections for Spurs",
+      "accept": [
+        "danny rose",
+        "rose"
+      ]
+    },
+    {
+      "display": "Toby Alderweireld",
+      "detail": "2015/16 · 1 selection for Spurs",
+      "accept": [
+        "toby alderweireld",
+        "alderweireld",
+        "toby"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "2012/13 · 3 selections for Spurs",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Scott Parker",
+      "detail": "2011/12 · 1 selection for Spurs",
+      "accept": [
+        "scott parker",
+        "parker"
+      ]
+    }
+  ]
+}

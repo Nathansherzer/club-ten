@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-05",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players selected for the PFA Premier League Team of the Year while playing for Arsenal",
+  "note": "PFA Premier League Team of the Year, 1992/93-2025/26 · selections earned while at the club only · ranked by most recent selection, then most selections for the club, then most PL appearances for the club · any order · through 2 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "William Saliba",
+      "detail": "2025/26 · 4 selections for Arsenal",
+      "accept": [
+        "william saliba",
+        "saliba"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "2025/26 · 3 selections for Arsenal",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes",
+        "magalhães",
+        "gabriel",
+        "gabriel dos santos magalhaes"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "2025/26 · 3 selections for Arsenal",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "David Raya",
+      "detail": "2025/26 · 2 selections for Arsenal",
+      "accept": [
+        "david raya",
+        "raya"
+      ]
+    },
+    {
+      "display": "Jurriën Timber",
+      "detail": "2025/26 · 1 selection for Arsenal",
+      "accept": [
+        "jurrien timber",
+        "jurriën timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "2023/24 · 2 selections for Arsenal",
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
+    },
+    {
+      "display": "Bukayo Saka",
+      "detail": "2022/23 · 1 selection for Arsenal",
+      "accept": [
+        "bukayo saka",
+        "saka"
+      ]
+    },
+    {
+      "display": "Aaron Ramsdale",
+      "detail": "2022/23 · 1 selection for Arsenal",
+      "accept": [
+        "aaron ramsdale",
+        "ramsdale"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "2019/20 · 1 selection for Arsenal",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "pierre emerick aubameyang",
+        "aubameyang",
+        "auba",
+        "pea"
+      ]
+    },
+    {
+      "display": "Héctor Bellerín",
+      "detail": "2015/16 · 1 selection for Arsenal",
+      "accept": [
+        "héctor bellerín",
+        "hector bellerin",
+        "bellerin"
+      ]
+    }
+  ]
+}
