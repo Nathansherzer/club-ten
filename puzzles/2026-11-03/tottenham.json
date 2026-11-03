@@ -39,7 +39,7 @@
     },
     {
       "display": "Wales",
-      "detail": "92 goals",
+      "detail": "93 goals",
       "accept": [
         "wales",
         "welsh"
@@ -88,11 +88,11 @@
       ]
     },
     {
-      "display": "Germany",
+      "display": "Belgium",
       "detail": "36 goals",
       "accept": [
-        "germany",
-        "german"
+        "belgium",
+        "belgian"
       ]
     }
   ]

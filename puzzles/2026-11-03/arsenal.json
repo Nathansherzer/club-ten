@@ -52,7 +52,7 @@
     },
     {
       "display": "Germany",
-      "detail": "84 goals",
+      "detail": "92 goals",
       "accept": [
         "germany",
         "german"
@@ -67,11 +67,11 @@
       ]
     },
     {
-      "display": "Sweden",
+      "display": "Chile",
       "detail": "60 goals",
       "accept": [
-        "sweden",
-        "swedish"
+        "chile",
+        "chilean"
       ]
     },
     {
@@ -83,11 +83,11 @@
       ]
     },
     {
-      "display": "Chile",
-      "detail": "53 goals",
+      "display": "Sweden",
+      "detail": "48 goals",
       "accept": [
-        "chile",
-        "chilean"
+        "sweden",
+        "swedish"
       ]
     }
   ]

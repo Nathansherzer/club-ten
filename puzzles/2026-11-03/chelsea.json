@@ -43,8 +43,17 @@
       ]
     },
     {
+      "display": "Brazil",
+      "detail": "126 goals",
+      "accept": [
+        "brazil",
+        "brasil",
+        "brazilian"
+      ]
+    },
+    {
       "display": "Italy",
-      "detail": "104 goals",
+      "detail": "117 goals",
       "accept": [
         "italy",
         "italian"
@@ -59,15 +68,6 @@
       ]
     },
     {
-      "display": "Brazil",
-      "detail": "101 goals",
-      "accept": [
-        "brazil",
-        "brasil",
-        "brazilian"
-      ]
-    },
-    {
       "display": "Netherlands",
       "detail": "96 goals",
       "accept": [
@@ -77,19 +77,19 @@
       ]
     },
     {
+      "display": "Germany",
+      "detail": "66 goals",
+      "accept": [
+        "germany",
+        "german"
+      ]
+    },
+    {
       "display": "Iceland",
       "detail": "54 goals",
       "accept": [
         "iceland",
         "icelandic"
-      ]
-    },
-    {
-      "display": "Germany",
-      "detail": "46 goals",
-      "accept": [
-        "germany",
-        "german"
       ]
     }
   ]
