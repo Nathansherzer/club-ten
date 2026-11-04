@@ -10,7 +10,13 @@
  *      the bug class that caused "gabriel" and "pedro" to silently
  *      credit the wrong player. Runs every accept string through the
  *      real production matcher (lib/match.js) and confirms it
- *      resolves to its own slot.
+ *      resolves to its own slot. Also checks the *fuzzy* case: two
+ *      different answers' accept strings sitting a single typo (edit
+ *      distance 1) apart, which the exact-match check alone can't see
+ *      but the real matcher's fuzzy rule (edit distance <= 1 against
+ *      any stored accept string over 4 characters) absolutely acts on —
+ *      this is the "I typed a different player and it said already
+ *      found" bug class.
  *   3. Every answer's display name exists in the matching autocomplete
  *      bank (name-bank.json / club-bank.json / nationality-bank.json,
  *      based on the puzzle's "type" field). Catches the Edu Gaspar
@@ -44,7 +50,7 @@
 import { readdir, readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { matchGuess, norm } from "../lib/match.js";
+import { matchGuess, norm, editDist } from "../lib/match.js";
 
 // Mirror of getSuggestions() in js/utils.js — kept separate for the same
 // reason lib/match.js mirrors norm()/matchGuess() rather than importing
@@ -159,6 +165,38 @@ async function validateFile(path, banks) {
       );
     });
   });
+
+  // Fuzzy cross-slot collision check: the exact-match check above only
+  // catches two answers sharing a LITERAL accept string. The real matcher
+  // also fuzzy-matches (edit distance <= 1) any guess against stored
+  // accept strings longer than 4 characters — so two different answers
+  // can be a single typo apart from each other without ever sharing an
+  // exact string, and the exact check is blind to that. This is the bug
+  // class behind "I typed a different player and it said already found":
+  // a correctly-spelled guess for the un-found player can fuzzy-match an
+  // already-found player's accept string it was never meant to touch.
+  // Checks every pair of accept strings across different slots; symmetric
+  // in the same way matchGuess's own fuzzy rule is (either side being the
+  // longer, >4-char one is enough to trigger a real collision).
+  for (let i = 0; i < data.answers.length; i++) {
+    for (let j = i + 1; j < data.answers.length; j++) {
+      const a = data.answers[i], b = data.answers[j];
+      if (sameSet(a.accept || [], b.accept || [])) continue; // legitimate pool slots
+      for (const accA of a.accept || []) {
+        const na = norm(accA);
+        for (const accB of b.accept || []) {
+          const nb = norm(accB);
+          if (na === nb) continue; // already caught by the exact-match check above
+          const longEnough = na.length > 4 || nb.length > 4;
+          if (longEnough && editDist(na, nb) <= 1) {
+            errors.push(
+              `${rel}: "${a.display ?? "pool slot"}" accept string "${accA}" is one typo away from "${b.display ?? "pool slot"}" accept string "${accB}" — a correctly-typed guess for either player risks silently crediting the other`
+            );
+          }
+        }
+      }
+    }
+  }
 
   // Name-bank check: every display name should exist in the matching bank.
   const type = data.type || "players";
