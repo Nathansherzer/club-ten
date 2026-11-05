@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-08",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players on the pitch at the final whistle of Man City's Matchweek 9 fixture in the 2026/27 Premier League season",
+  "note": "Man City 0-1 Brighton, 31 Oct 2026 · outfield players only · every substitution counted · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Matheus Nunes",
+      "detail": "started",
+      "accept": [
+        "matheus nunes",
+        "nunes"
+      ]
+    },
+    {
+      "display": "Abdukodir Khusanov",
+      "detail": "started",
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov",
+        "husanov",
+        "abduqodir khusanov",
+        "xusanov"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "started",
+      "accept": [
+        "rúben dias",
+        "ruben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Elliot Anderson",
+      "detail": "started",
+      "accept": [
+        "elliot anderson",
+        "anderson"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "started",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "started",
+      "accept": [
+        "jeremy doku",
+        "jérémy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "sub 55'",
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "sub 64'",
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
+    },
+    {
+      "display": "Allan",
+      "detail": "sub 79'",
+      "accept": [
+        "allan",
+        "allan elias",
+        "allan elias loureiro",
+        "allan andrade elias"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "sub 79'",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    }
+  ]
+}

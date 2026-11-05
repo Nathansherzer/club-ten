@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-08",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players on the pitch at the final whistle of Man United's Matchweek 9 fixture in the 2026/27 Premier League season",
+  "note": "Chelsea 2-0 Manchester United, 31 Oct 2026 · includes the goalkeeper because United finished with 9 outfield players after Lisandro Martínez was sent off (63') · every substitution counted, unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Senne Lammens",
+      "detail": "started (GK)",
+      "accept": [
+        "senne lammens",
+        "lammens"
+      ]
+    },
+    {
+      "display": "Leny Yoro",
+      "detail": "started",
+      "accept": [
+        "leny yoro",
+        "yoro"
+      ]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "started",
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "started",
+      "accept": [
+        "diogo dalot",
+        "dalot"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "started",
+      "accept": [
+        "bruno fernandes",
+        "bruno",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "started",
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
+    },
+    {
+      "display": "Kobbie Mainoo",
+      "detail": "sub 58'",
+      "accept": [
+        "kobbie mainoo",
+        "mainoo"
+      ]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "sub 66'",
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
+    },
+    {
+      "display": "Ayden Heaven",
+      "detail": "sub 66'",
+      "accept": [
+        "ayden heaven",
+        "heaven"
+      ]
+    },
+    {
+      "display": "Joshua Zirkzee",
+      "detail": "sub 77'",
+      "accept": [
+        "joshua zirkzee",
+        "zirkzee"
+      ]
+    }
+  ]
+}

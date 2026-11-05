@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-08",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players on the pitch at the final whistle of Chelsea's Matchweek 9 fixture in the 2026/27 Premier League season",
+  "note": "Chelsea 2-0 Manchester United, 31 Oct 2026 · outfield players only · every substitution counted · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Josh Acheampong",
+      "detail": "started",
+      "accept": [
+        "josh acheampong",
+        "acheampong"
+      ]
+    },
+    {
+      "display": "Wesley Fofana",
+      "detail": "started",
+      "accept": [
+        "wesley fofana",
+        "fofana"
+      ]
+    },
+    {
+      "display": "Levi Colwill",
+      "detail": "started",
+      "accept": [
+        "levi colwill",
+        "colwill"
+      ]
+    },
+    {
+      "display": "Roméo Lavia",
+      "detail": "started",
+      "accept": [
+        "romeo lavia",
+        "roméo lavia",
+        "lavia"
+      ]
+    },
+    {
+      "display": "Morgan Rogers",
+      "detail": "started",
+      "accept": [
+        "morgan rogers",
+        "rogers"
+      ]
+    },
+    {
+      "display": "Pep Chavarría",
+      "detail": "sub 74'",
+      "accept": [
+        "pep chavarria",
+        "pep chavarría",
+        "josep chavarria",
+        "josep chavarría",
+        "chavarria",
+        "chavarría"
+      ]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "sub 87'",
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "sub 87'",
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
+    },
+    {
+      "display": "Valentín Barco",
+      "detail": "sub 87'",
+      "accept": [
+        "valentin barco",
+        "valentín barco",
+        "barco"
+      ]
+    },
+    {
+      "display": "Geovany Quenda",
+      "detail": "sub 90+7'",
+      "accept": [
+        "geovany quenda",
+        "quenda"
+      ]
+    }
+  ]
+}

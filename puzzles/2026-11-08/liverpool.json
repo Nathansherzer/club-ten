@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-08",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players on the pitch at the final whistle of Liverpool's Matchweek 9 fixture in the 2026/27 Premier League season",
+  "note": "Liverpool 0-1 Arsenal, 1 Nov 2026 · outfield players only · every substitution counted · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jérémy Jacquet",
+      "detail": "started",
+      "accept": [
+        "jeremy jacquet",
+        "jérémy jacquet",
+        "jacquet"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "started",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "started",
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister",
+        "alexis macallister"
+      ]
+    },
+    {
+      "display": "Bradley Barcola",
+      "detail": "started",
+      "accept": [
+        "bradley barcola",
+        "barcola"
+      ]
+    },
+    {
+      "display": "Alexander Isak",
+      "detail": "started",
+      "accept": [
+        "alexander isak",
+        "isak"
+      ]
+    },
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "sub 59'",
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
+    },
+    {
+      "display": "Rio Ngumoha",
+      "detail": "sub 67'",
+      "accept": [
+        "rio ngumoha",
+        "ngumoha"
+      ]
+    },
+    {
+      "display": "Kostas Tsimikas",
+      "detail": "sub 81'",
+      "accept": [
+        "kostas tsimikas",
+        "tsimikas"
+      ]
+    },
+    {
+      "display": "Víctor Muñoz",
+      "detail": "sub 81'",
+      "accept": [
+        "victor munoz",
+        "víctor muñoz",
+        "munoz",
+        "muñoz"
+      ]
+    },
+    {
+      "display": "Lewis Koumas",
+      "detail": "sub 81'",
+      "accept": [
+        "lewis koumas",
+        "koumas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-08",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players on the pitch at the final whistle of Spurs's Matchweek 9 fixture in the 2026/27 Premier League season",
+  "note": "Tottenham 2-0 Crystal Palace, 31 Oct 2026 · outfield players only · every substitution counted · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jan Paul van Hecke",
+      "detail": "started",
+      "accept": [
+        "jan paul van hecke",
+        "van hecke",
+        "hecke",
+        "jpvh"
+      ]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "started",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
+      "display": "Mateus Fernandes",
+      "detail": "started",
+      "accept": [
+        "mateus fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Sandro Tonali",
+      "detail": "started",
+      "accept": [
+        "sandro tonali",
+        "tonali",
+        "sandro"
+      ]
+    },
+    {
+      "display": "Mohammed Kudus",
+      "detail": "started",
+      "accept": [
+        "mohammed kudus",
+        "kudus"
+      ]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "sub 46'",
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
+    },
+    {
+      "display": "Conor Gallagher",
+      "detail": "sub 66'",
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
+    },
+    {
+      "display": "Dejan Kulusevski",
+      "detail": "sub 77'",
+      "accept": [
+        "dejan kulusevski",
+        "kulusevski"
+      ]
+    },
+    {
+      "display": "Destiny Udogie",
+      "detail": "sub 77'",
+      "accept": [
+        "destiny udogie",
+        "udogie"
+      ]
+    },
+    {
+      "display": "Lucá Williams-Barnett",
+      "detail": "sub 88'",
+      "accept": [
+        "luca williams-barnett",
+        "lucá williams-barnett",
+        "williams-barnett",
+        "williams barnett",
+        "barnett"
+      ]
+    }
+  ]
+}

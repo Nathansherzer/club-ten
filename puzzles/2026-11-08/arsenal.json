@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-08",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players on the pitch at the final whistle of Arsenal's Matchweek 9 fixture in the 2026/27 Premier League season",
+  "note": "Liverpool 0-1 Arsenal, 1 Nov 2026 · outfield players only · every substitution counted · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jurriën Timber",
+      "detail": "started",
+      "accept": [
+        "jurrien timber",
+        "jurriën timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Ezri Konsa",
+      "detail": "started",
+      "accept": [
+        "ezri konsa",
+        "konsa"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "started",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes",
+        "magalhães",
+        "gabriel",
+        "gabriel dos santos magalhaes"
+      ]
+    },
+    {
+      "display": "Riccardo Calafiori",
+      "detail": "started",
+      "accept": [
+        "riccardo calafiori",
+        "calafiori"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "started",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "started",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Myles Lewis-Skelly",
+      "detail": "sub 62'",
+      "accept": [
+        "myles lewis-skelly",
+        "lewis-skelly",
+        "myles lewis skelly",
+        "lewis skelly",
+        "mls"
+      ]
+    },
+    {
+      "display": "Piero Hincapié",
+      "detail": "sub 84'",
+      "accept": [
+        "piero hincapié",
+        "piero hincapie",
+        "hincapie"
+      ]
+    },
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "sub 84'",
+      "accept": [
+        "viktor gyokeres",
+        "viktor gyökeres",
+        "gyokeres",
+        "gyökeres"
+      ]
+    },
+    {
+      "display": "Mikel Merino",
+      "detail": "sub 88'",
+      "accept": [
+        "mikel merino",
+        "merino"
+      ]
+    }
+  ]
+}
