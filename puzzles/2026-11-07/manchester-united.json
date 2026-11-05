@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-07",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most Premier League assists for Man United from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wayne Rooney",
+      "detail": "50 assists",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Antonio Valencia",
+      "detail": "35 assists",
+      "accept": [
+        "antonio valencia",
+        "valencia"
+      ]
+    },
+    {
+      "display": "Nani",
+      "detail": "31 assists",
+      "accept": [
+        "nani"
+      ]
+    },
+    {
+      "display": "Ashley Young",
+      "detail": "25 assists",
+      "accept": [
+        "ashley young",
+        "young"
+      ]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "25 assists",
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "22 assists",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "19 assists",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "19 assists",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "18 assists",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Ander Herrera",
+      "detail": "17 assists",
+      "accept": [
+        "ander herrera",
+        "herrera"
+      ]
+    }
+  ]
+}

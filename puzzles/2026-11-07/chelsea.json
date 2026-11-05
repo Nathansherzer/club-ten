@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-07",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most Premier League assists for Chelsea from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Eden Hazard",
+      "detail": "51 assists",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Cesc Fàbregas",
+      "detail": "38 assists",
+      "accept": [
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas",
+        "cesc"
+      ]
+    },
+    {
+      "display": "Willian",
+      "detail": "30 assists",
+      "accept": [
+        "willian",
+        "willian borges"
+      ]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "27 assists",
+      "accept": [
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
+      ]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "27 assists",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    },
+    {
+      "display": "Oscar",
+      "detail": "20 assists",
+      "accept": [
+        "oscar",
+        "oscar dos santos"
+      ]
+    },
+    {
+      "display": "Didier Drogba",
+      "detail": "20 assists",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "Pedro",
+      "detail": "16 assists",
+      "accept": [
+        "pedro"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "16 assists",
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "16 assists",
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
+    }
+  ]
+}

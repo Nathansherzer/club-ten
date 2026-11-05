@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-07",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most Premier League assists for Man City from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David Silva",
+      "detail": "86 assists",
+      "accept": [
+        "david silva",
+        "silva",
+        "el mago",
+        "david"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "55 assists",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "45 assists",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
+      ]
+    },
+    {
+      "display": "Samir Nasri",
+      "detail": "32 assists",
+      "accept": [
+        "samir nasri",
+        "nasri"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "29 assists",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "29 assists",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Leroy Sané",
+      "detail": "28 assists",
+      "accept": [
+        "leroy sane",
+        "leroy sané",
+        "sane",
+        "sané"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "24 assists",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Jesús Navas",
+      "detail": "23 assists",
+      "accept": [
+        "jesus navas",
+        "jesús navas",
+        "navas"
+      ]
+    },
+    {
+      "display": "Aleksandar Kolarov",
+      "detail": "19 assists",
+      "accept": [
+        "aleksandar kolarov",
+        "kolarov"
+      ]
+    }
+  ]
+}

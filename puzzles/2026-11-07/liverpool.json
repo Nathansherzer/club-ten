@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-07",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most Premier League assists for Liverpool from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Philippe Coutinho",
+      "detail": "35 assists",
+      "accept": [
+        "philippe coutinho",
+        "coutinho",
+        "phil coutinho"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "31 assists",
+      "accept": [
+        "jordan henderson",
+        "henderson",
+        "hendo"
+      ]
+    },
+    {
+      "display": "Roberto Firmino",
+      "detail": "31 assists",
+      "accept": [
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "29 assists",
+      "accept": [
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "22 assists",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Luis Suárez",
+      "detail": "22 assists",
+      "accept": [
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "22 assists",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "21 assists",
+      "accept": [
+        "andy robertson",
+        "andrew robertson",
+        "robertson",
+        "robbo"
+      ]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "21 assists",
+      "accept": [
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "trent",
+        "alexander arnold",
+        "trent alexander arnold",
+        "taa",
+        "trent arnold"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "20 assists",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    }
+  ]
+}

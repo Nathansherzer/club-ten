@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-07",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most Premier League assists for Spurs from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Christian Eriksen",
+      "detail": "59 assists",
+      "accept": [
+        "christian eriksen",
+        "eriksen"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "32 assists",
+      "accept": [
+        "dele alli",
+        "dele",
+        "alli"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "26 assists",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "son",
+        "sonny",
+        "heung-min son",
+        "heung min son",
+        "heung-min",
+        "heung min"
+      ]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "23 assists",
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "21 assists",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Aaron Lennon",
+      "detail": "20 assists",
+      "accept": [
+        "aaron lennon",
+        "lennon"
+      ]
+    },
+    {
+      "display": "Gareth Bale",
+      "detail": "20 assists",
+      "accept": [
+        "gareth bale",
+        "bale"
+      ]
+    },
+    {
+      "display": "Danny Rose",
+      "detail": "17 assists",
+      "accept": [
+        "danny rose",
+        "rose"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "17 assists",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Kyle Walker",
+      "detail": "15 assists",
+      "accept": [
+        "kyle walker",
+        "walker"
+      ]
+    }
+  ]
+}
