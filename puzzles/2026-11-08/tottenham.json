@@ -3,94 +3,95 @@
   "club": "tottenham",
   "clubLabel": "Spurs:",
   "clubShort": "Spurs",
-  "question": "name the 10 outfield players on the pitch at the final whistle of Spurs's Matchweek 9 fixture in the 2026/27 Premier League season",
-  "note": "Tottenham 2-0 Crystal Palace, 31 Oct 2026 · outfield players only · every substitution counted · unordered",
+  "question": "name the 10 players with the most Premier League assists for Spurs from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Jan Paul van Hecke",
-      "detail": "started",
+      "display": "Christian Eriksen",
+      "detail": "59 assists",
       "accept": [
-        "jan paul van hecke",
-        "van hecke",
-        "hecke",
-        "jpvh"
+        "christian eriksen",
+        "eriksen"
       ]
     },
     {
-      "display": "Micky van de Ven",
-      "detail": "started",
+      "display": "Dele Alli",
+      "detail": "32 assists",
       "accept": [
-        "micky van de ven",
-        "van de ven"
+        "dele alli",
+        "dele",
+        "alli"
       ]
     },
     {
-      "display": "Mateus Fernandes",
-      "detail": "started",
+      "display": "Son Heung-min",
+      "detail": "26 assists",
       "accept": [
-        "mateus fernandes",
-        "fernandes"
+        "son heung-min",
+        "son heung min",
+        "son",
+        "sonny",
+        "heung-min son",
+        "heung min son",
+        "heung-min",
+        "heung min"
       ]
     },
     {
-      "display": "Sandro Tonali",
-      "detail": "started",
+      "display": "Erik Lamela",
+      "detail": "23 assists",
       "accept": [
-        "sandro tonali",
-        "tonali",
-        "sandro"
+        "erik lamela",
+        "lamela"
       ]
     },
     {
-      "display": "Mohammed Kudus",
-      "detail": "started",
+      "display": "Harry Kane",
+      "detail": "21 assists",
       "accept": [
-        "mohammed kudus",
-        "kudus"
+        "harry kane",
+        "kane"
       ]
     },
     {
-      "display": "Pedro Porro",
-      "detail": "sub 46'",
+      "display": "Aaron Lennon",
+      "detail": "20 assists",
       "accept": [
-        "pedro porro",
-        "porro"
+        "aaron lennon",
+        "lennon"
       ]
     },
     {
-      "display": "Conor Gallagher",
-      "detail": "sub 66'",
+      "display": "Gareth Bale",
+      "detail": "20 assists",
       "accept": [
-        "conor gallagher",
-        "gallagher"
+        "gareth bale",
+        "bale"
       ]
     },
     {
-      "display": "Dejan Kulusevski",
-      "detail": "sub 77'",
+      "display": "Danny Rose",
+      "detail": "17 assists",
       "accept": [
-        "dejan kulusevski",
-        "kulusevski"
+        "danny rose",
+        "rose"
       ]
     },
     {
-      "display": "Destiny Udogie",
-      "detail": "sub 77'",
+      "display": "Emmanuel Adebayor",
+      "detail": "17 assists",
       "accept": [
-        "destiny udogie",
-        "udogie"
+        "emmanuel adebayor",
+        "adebayor"
       ]
     },
     {
-      "display": "Lucá Williams-Barnett",
-      "detail": "sub 88'",
+      "display": "Kyle Walker",
+      "detail": "15 assists",
       "accept": [
-        "luca williams-barnett",
-        "lucá williams-barnett",
-        "williams-barnett",
-        "williams barnett",
-        "barnett"
+        "kyle walker",
+        "walker"
       ]
     }
   ]

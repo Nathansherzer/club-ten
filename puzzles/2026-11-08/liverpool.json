@@ -3,95 +3,106 @@
   "club": "liverpool",
   "clubLabel": "Liverpool:",
   "clubShort": "Liverpool",
-  "question": "name the 10 outfield players on the pitch at the final whistle of Liverpool's Matchweek 9 fixture in the 2026/27 Premier League season",
-  "note": "Liverpool 0-1 Arsenal, 1 Nov 2026 · outfield players only · every substitution counted · unordered",
+  "question": "name the 10 players with the most Premier League assists for Liverpool from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Jérémy Jacquet",
-      "detail": "started",
+      "display": "Philippe Coutinho",
+      "detail": "35 assists",
       "accept": [
-        "jeremy jacquet",
-        "jérémy jacquet",
-        "jacquet"
+        "philippe coutinho",
+        "coutinho",
+        "phil coutinho"
       ]
     },
     {
-      "display": "Virgil van Dijk",
-      "detail": "started",
+      "display": "Jordan Henderson",
+      "detail": "31 assists",
       "accept": [
-        "virgil van dijk",
-        "van dijk",
-        "virgil",
-        "vvd"
+        "jordan henderson",
+        "henderson",
+        "hendo"
       ]
     },
     {
-      "display": "Alexis Mac Allister",
-      "detail": "started",
+      "display": "Roberto Firmino",
+      "detail": "31 assists",
       "accept": [
-        "alexis mac allister",
-        "mac allister",
-        "macallister",
-        "alexis macallister"
+        "roberto firmino",
+        "firmino",
+        "bobby firmino"
       ]
     },
     {
-      "display": "Bradley Barcola",
-      "detail": "started",
+      "display": "Steven Gerrard",
+      "detail": "29 assists",
       "accept": [
-        "bradley barcola",
-        "barcola"
+        "steven gerrard",
+        "gerrard",
+        "stevie g",
+        "stevie gerrard"
       ]
     },
     {
-      "display": "Alexander Isak",
-      "detail": "started",
+      "display": "James Milner",
+      "detail": "22 assists",
       "accept": [
-        "alexander isak",
-        "isak"
+        "james milner",
+        "milner"
       ]
     },
     {
-      "display": "Dominik Szoboszlai",
-      "detail": "sub 59'",
+      "display": "Luis Suárez",
+      "detail": "22 assists",
       "accept": [
-        "dominik szoboszlai",
-        "szoboszlai"
+        "luis suarez",
+        "luis suárez",
+        "suarez",
+        "suárez"
       ]
     },
     {
-      "display": "Rio Ngumoha",
-      "detail": "sub 67'",
+      "display": "Mohamed Salah",
+      "detail": "22 assists",
       "accept": [
-        "rio ngumoha",
-        "ngumoha"
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
       ]
     },
     {
-      "display": "Kostas Tsimikas",
-      "detail": "sub 81'",
+      "display": "Andy Robertson",
+      "detail": "21 assists",
       "accept": [
-        "kostas tsimikas",
-        "tsimikas"
+        "andy robertson",
+        "andrew robertson",
+        "robertson",
+        "robbo"
       ]
     },
     {
-      "display": "Víctor Muñoz",
-      "detail": "sub 81'",
+      "display": "Trent Alexander-Arnold",
+      "detail": "21 assists",
       "accept": [
-        "victor munoz",
-        "víctor muñoz",
-        "munoz",
-        "muñoz"
+        "trent alexander-arnold",
+        "alexander-arnold",
+        "trent",
+        "alexander arnold",
+        "trent alexander arnold",
+        "taa",
+        "trent arnold"
       ]
     },
     {
-      "display": "Lewis Koumas",
-      "detail": "sub 81'",
+      "display": "Sadio Mané",
+      "detail": "20 assists",
       "accept": [
-        "lewis koumas",
-        "koumas"
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
       ]
     }
   ]

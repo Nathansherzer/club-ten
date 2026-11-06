@@ -3,94 +3,95 @@
   "club": "chelsea",
   "clubLabel": "Chelsea:",
   "clubShort": "Chelsea",
-  "question": "name the 10 outfield players on the pitch at the final whistle of Chelsea's Matchweek 9 fixture in the 2026/27 Premier League season",
-  "note": "Chelsea 2-0 Manchester United, 31 Oct 2026 · outfield players only · every substitution counted · unordered",
+  "question": "name the 10 players with the most Premier League assists for Chelsea from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Josh Acheampong",
-      "detail": "started",
+      "display": "Eden Hazard",
+      "detail": "51 assists",
       "accept": [
-        "josh acheampong",
-        "acheampong"
+        "eden hazard",
+        "hazard"
       ]
     },
     {
-      "display": "Wesley Fofana",
-      "detail": "started",
+      "display": "Cesc Fàbregas",
+      "detail": "38 assists",
       "accept": [
-        "wesley fofana",
-        "fofana"
+        "cesc fabregas",
+        "cesc fàbregas",
+        "fabregas",
+        "fàbregas",
+        "cesc"
       ]
     },
     {
-      "display": "Levi Colwill",
-      "detail": "started",
+      "display": "Willian",
+      "detail": "30 assists",
       "accept": [
-        "levi colwill",
-        "colwill"
+        "willian",
+        "willian borges"
       ]
     },
     {
-      "display": "Roméo Lavia",
-      "detail": "started",
+      "display": "César Azpilicueta",
+      "detail": "27 assists",
       "accept": [
-        "romeo lavia",
-        "roméo lavia",
-        "lavia"
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi",
+        "dave"
       ]
     },
     {
-      "display": "Morgan Rogers",
-      "detail": "started",
+      "display": "Juan Mata",
+      "detail": "27 assists",
       "accept": [
-        "morgan rogers",
-        "rogers"
+        "juan mata",
+        "mata"
       ]
     },
     {
-      "display": "Pep Chavarría",
-      "detail": "sub 74'",
+      "display": "Oscar",
+      "detail": "20 assists",
       "accept": [
-        "pep chavarria",
-        "pep chavarría",
-        "josep chavarria",
-        "josep chavarría",
-        "chavarria",
-        "chavarría"
+        "oscar",
+        "oscar dos santos"
       ]
     },
     {
-      "display": "Danny Welbeck",
-      "detail": "sub 87'",
+      "display": "Didier Drogba",
+      "detail": "20 assists",
       "accept": [
-        "danny welbeck",
-        "welbeck"
+        "didier drogba",
+        "drogba"
       ]
     },
     {
-      "display": "Malo Gusto",
-      "detail": "sub 87'",
+      "display": "Pedro",
+      "detail": "16 assists",
       "accept": [
-        "malo gusto",
-        "gusto"
+        "pedro"
       ]
     },
     {
-      "display": "Valentín Barco",
-      "detail": "sub 87'",
+      "display": "Frank Lampard",
+      "detail": "16 assists",
       "accept": [
-        "valentin barco",
-        "valentín barco",
-        "barco"
+        "frank lampard",
+        "lampard",
+        "lamps"
       ]
     },
     {
-      "display": "Geovany Quenda",
-      "detail": "sub 90+7'",
+      "display": "Fernando Torres",
+      "detail": "16 assists",
       "accept": [
-        "geovany quenda",
-        "quenda"
+        "fernando torres",
+        "torres",
+        "el nino"
       ]
     }
   ]

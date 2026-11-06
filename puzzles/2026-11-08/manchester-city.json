@@ -3,98 +3,101 @@
   "club": "manchester-city",
   "clubLabel": "Man City:",
   "clubShort": "Man City",
-  "question": "name the 10 outfield players on the pitch at the final whistle of Man City's Matchweek 9 fixture in the 2026/27 Premier League season",
-  "note": "Man City 0-1 Brighton, 31 Oct 2026 · outfield players only · every substitution counted · unordered",
+  "question": "name the 10 players with the most Premier League assists for Man City from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Matheus Nunes",
-      "detail": "started",
+      "display": "David Silva",
+      "detail": "86 assists",
       "accept": [
-        "matheus nunes",
-        "nunes"
+        "david silva",
+        "silva",
+        "el mago",
+        "david"
       ]
     },
     {
-      "display": "Abdukodir Khusanov",
-      "detail": "started",
+      "display": "Kevin De Bruyne",
+      "detail": "55 assists",
       "accept": [
-        "abdukodir khusanov",
-        "khusanov",
-        "husanov",
-        "abduqodir khusanov",
-        "xusanov"
+        "kevin de bruyne",
+        "de bruyne",
+        "kdb"
       ]
     },
     {
-      "display": "Rúben Dias",
-      "detail": "started",
+      "display": "Sergio Agüero",
+      "detail": "45 assists",
       "accept": [
-        "rúben dias",
-        "ruben dias",
-        "dias"
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "kun"
       ]
     },
     {
-      "display": "Elliot Anderson",
-      "detail": "started",
+      "display": "Samir Nasri",
+      "detail": "32 assists",
       "accept": [
-        "elliot anderson",
-        "anderson"
+        "samir nasri",
+        "nasri"
       ]
     },
     {
-      "display": "Erling Haaland",
-      "detail": "started",
+      "display": "Yaya Touré",
+      "detail": "29 assists",
       "accept": [
-        "erling haaland",
-        "haaland",
-        "erling"
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
       ]
     },
     {
-      "display": "Jérémy Doku",
-      "detail": "started",
+      "display": "Raheem Sterling",
+      "detail": "29 assists",
       "accept": [
-        "jeremy doku",
-        "jérémy doku",
-        "doku"
+        "raheem sterling",
+        "sterling"
       ]
     },
     {
-      "display": "Rayan Cherki",
-      "detail": "sub 55'",
+      "display": "Leroy Sané",
+      "detail": "28 assists",
       "accept": [
-        "rayan cherki",
-        "cherki"
+        "leroy sane",
+        "leroy sané",
+        "sane",
+        "sané"
       ]
     },
     {
-      "display": "Nico O'Reilly",
-      "detail": "sub 64'",
+      "display": "James Milner",
+      "detail": "24 assists",
       "accept": [
-        "nico o'reilly",
-        "nico oreilly",
-        "o'reilly",
-        "oreilly"
+        "james milner",
+        "milner"
       ]
     },
     {
-      "display": "Allan",
-      "detail": "sub 79'",
+      "display": "Jesús Navas",
+      "detail": "23 assists",
       "accept": [
-        "allan",
-        "allan elias",
-        "allan elias loureiro",
-        "allan andrade elias"
+        "jesus navas",
+        "jesús navas",
+        "navas"
       ]
     },
     {
-      "display": "Phil Foden",
-      "detail": "sub 79'",
+      "display": "Aleksandar Kolarov",
+      "detail": "19 assists",
       "accept": [
-        "phil foden",
-        "foden"
+        "aleksandar kolarov",
+        "kolarov"
       ]
     }
   ]

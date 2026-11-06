@@ -3,99 +3,98 @@
   "club": "arsenal",
   "clubLabel": "Arsenal:",
   "clubShort": "Arsenal",
-  "question": "name the 10 outfield players on the pitch at the final whistle of Arsenal's Matchweek 9 fixture in the 2026/27 Premier League season",
-  "note": "Liverpool 0-1 Arsenal, 1 Nov 2026 · outfield players only · every substitution counted · unordered",
+  "question": "name the 10 players with the most Premier League assists for Arsenal from 1 Jan 2010 to 31 Dec 2019",
+  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Jurriën Timber",
-      "detail": "started",
+      "display": "Mesut Özil",
+      "detail": "49 assists",
       "accept": [
-        "jurrien timber",
-        "jurriën timber",
-        "timber"
+        "mesut ozil",
+        "mesut özil",
+        "ozil",
+        "özil"
       ]
     },
     {
-      "display": "Ezri Konsa",
-      "detail": "started",
+      "display": "Aaron Ramsey",
+      "detail": "41 assists",
       "accept": [
-        "ezri konsa",
-        "konsa"
+        "aaron ramsey",
+        "ramsey"
       ]
     },
     {
-      "display": "Gabriel Magalhães",
-      "detail": "started",
+      "display": "Theo Walcott",
+      "detail": "33 assists",
       "accept": [
-        "gabriel magalhaes",
-        "gabriel magalhães",
-        "magalhaes",
-        "magalhães",
-        "gabriel",
-        "gabriel dos santos magalhaes"
+        "theo walcott",
+        "walcott"
       ]
     },
     {
-      "display": "Riccardo Calafiori",
-      "detail": "started",
+      "display": "Santi Cazorla",
+      "detail": "32 assists",
       "accept": [
-        "riccardo calafiori",
-        "calafiori"
+        "santi cazorla",
+        "santiago cazorla",
+        "cazorla"
       ]
     },
     {
-      "display": "Declan Rice",
-      "detail": "started",
+      "display": "Alexis Sánchez",
+      "detail": "26 assists",
       "accept": [
-        "declan rice",
-        "rice"
+        "alexis sanchez",
+        "alexis sánchez",
+        "sanchez",
+        "sánchez",
+        "alexis"
       ]
     },
     {
-      "display": "Noni Madueke",
-      "detail": "started",
+      "display": "Olivier Giroud",
+      "detail": "22 assists",
       "accept": [
-        "noni madueke",
-        "madueke"
+        "olivier giroud",
+        "giroud"
       ]
     },
     {
-      "display": "Myles Lewis-Skelly",
-      "detail": "sub 62'",
+      "display": "Héctor Bellerín",
+      "detail": "17 assists",
       "accept": [
-        "myles lewis-skelly",
-        "lewis-skelly",
-        "myles lewis skelly",
-        "lewis skelly",
-        "mls"
+        "héctor bellerín",
+        "hector bellerin",
+        "bellerin"
       ]
     },
     {
-      "display": "Piero Hincapié",
-      "detail": "sub 84'",
+      "display": "Alex Iwobi",
+      "detail": "16 assists",
       "accept": [
-        "piero hincapié",
-        "piero hincapie",
-        "hincapie"
+        "alex iwobi",
+        "iwobi"
       ]
     },
     {
-      "display": "Viktor Gyökeres",
-      "detail": "sub 84'",
+      "display": "Robin van Persie",
+      "detail": "16 assists",
       "accept": [
-        "viktor gyokeres",
-        "viktor gyökeres",
-        "gyokeres",
-        "gyökeres"
+        "robin van persie",
+        "van persie",
+        "rvp"
       ]
     },
     {
-      "display": "Mikel Merino",
-      "detail": "sub 88'",
+      "display": "Alex Oxlade-Chamberlain",
+      "detail": "14 assists",
       "accept": [
-        "mikel merino",
-        "merino"
+        "alex oxlade-chamberlain",
+        "oxlade-chamberlain",
+        "oxlade chamberlain",
+        "ox"
       ]
     }
   ]

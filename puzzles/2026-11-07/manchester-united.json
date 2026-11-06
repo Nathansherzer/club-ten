@@ -3,87 +3,89 @@
   "club": "manchester-united",
   "clubLabel": "Man United:",
   "clubShort": "Man United",
-  "question": "name the 10 players with the most Premier League assists for Man United from 1 Jan 2010 to 31 Dec 2019",
-  "note": "PL assists only · 1 Jan 2010 to 31 Dec 2019 · ranked order · ties broken by PL appearances for the club in the same window, more appearances ranks higher",
+  "question": "name the 10 players on the pitch at the final whistle of Man United's Matchweek 9 fixture in the 2026/27 Premier League season",
+  "note": "Chelsea 2-0 Manchester United, 31 Oct 2026 · includes the goalkeeper because United finished with 9 outfield players after Lisandro Martínez was sent off (63') · every substitution counted, unordered",
   "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Wayne Rooney",
-      "detail": "50 assists",
+      "display": "Senne Lammens",
+      "detail": "started (GK)",
       "accept": [
-        "wayne rooney",
-        "rooney"
+        "senne lammens",
+        "lammens"
       ]
     },
     {
-      "display": "Antonio Valencia",
-      "detail": "35 assists",
+      "display": "Leny Yoro",
+      "detail": "started",
       "accept": [
-        "antonio valencia",
-        "valencia"
+        "leny yoro",
+        "yoro"
       ]
     },
     {
-      "display": "Nani",
-      "detail": "31 assists",
+      "display": "Harry Maguire",
+      "detail": "started",
       "accept": [
-        "nani"
+        "harry maguire",
+        "maguire"
       ]
     },
     {
-      "display": "Ashley Young",
-      "detail": "25 assists",
+      "display": "Diogo Dalot",
+      "detail": "started",
       "accept": [
-        "ashley young",
-        "young"
+        "diogo dalot",
+        "dalot"
       ]
     },
     {
-      "display": "Paul Pogba",
-      "detail": "25 assists",
+      "display": "Bruno Fernandes",
+      "detail": "started",
       "accept": [
-        "paul pogba",
-        "pogba"
+        "bruno fernandes",
+        "bruno",
+        "fernandes"
       ]
     },
     {
-      "display": "Juan Mata",
-      "detail": "22 assists",
+      "display": "Bryan Mbeumo",
+      "detail": "started",
       "accept": [
-        "juan mata",
-        "mata"
+        "bryan mbeumo",
+        "mbeumo"
       ]
     },
     {
-      "display": "Anthony Martial",
-      "detail": "19 assists",
+      "display": "Kobbie Mainoo",
+      "detail": "sub 58'",
       "accept": [
-        "anthony martial",
-        "martial"
+        "kobbie mainoo",
+        "mainoo"
       ]
     },
     {
-      "display": "Ryan Giggs",
-      "detail": "19 assists",
+      "display": "Mason Mount",
+      "detail": "sub 66'",
       "accept": [
-        "ryan giggs",
-        "giggs"
+        "mason mount",
+        "mount"
       ]
     },
     {
-      "display": "Marcus Rashford",
-      "detail": "18 assists",
+      "display": "Ayden Heaven",
+      "detail": "sub 66'",
       "accept": [
-        "marcus rashford",
-        "rashford"
+        "ayden heaven",
+        "heaven"
       ]
     },
     {
-      "display": "Ander Herrera",
-      "detail": "17 assists",
+      "display": "Joshua Zirkzee",
+      "detail": "sub 77'",
       "accept": [
-        "ander herrera",
-        "herrera"
+        "joshua zirkzee",
+        "zirkzee"
       ]
     }
   ]
