@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-10",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 African players with the most Premier League appearances for Chelsea, as of 6 November 2026",
+  "note": "African eligibility by senior international nationality, as of the cutoff · all PL appearances for the club count, including before an international switch · ranked order · ties broken by starts, then minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Didier Drogba",
+      "detail": "254 PL appearances",
+      "accept": [
+        "didier drogba",
+        "drogba"
+      ]
+    },
+    {
+      "display": "John Obi Mikel",
+      "detail": "249 PL appearances",
+      "accept": [
+        "john obi mikel",
+        "obi mikel",
+        "mikel",
+        "mikel john obi",
+        "obi",
+        "john mikel obi"
+      ]
+    },
+    {
+      "display": "Michael Essien",
+      "detail": "168 PL appearances",
+      "accept": [
+        "michael essien",
+        "essien"
+      ]
+    },
+    {
+      "display": "Salomon Kalou",
+      "detail": "156 PL appearances",
+      "accept": [
+        "salomon kalou",
+        "kalou"
+      ]
+    },
+    {
+      "display": "Celestine Babayaro",
+      "detail": "132 PL appearances",
+      "accept": [
+        "celestine babayaro",
+        "babayaro"
+      ]
+    },
+    {
+      "display": "Victor Moses",
+      "detail": "87 PL appearances",
+      "accept": [
+        "victor moses",
+        "moses"
+      ]
+    },
+    {
+      "display": "Edouard Mendy",
+      "detail": "75 PL appearances",
+      "accept": [
+        "edouard mendy",
+        "édouard mendy",
+        "mendy"
+      ]
+    },
+    {
+      "display": "Geremi",
+      "detail": "72 PL appearances",
+      "accept": [
+        "geremi",
+        "geremi njitap",
+        "njitap"
+      ]
+    },
+    {
+      "display": "Nicolas Jackson",
+      "detail": "65 PL appearances",
+      "accept": [
+        "nicolas jackson",
+        "jackson"
+      ]
+    },
+    {
+      "display": "Hakim Ziyech",
+      "detail": "64 PL appearances",
+      "accept": [
+        "hakim ziyech",
+        "ziyech"
+      ]
+    }
+  ]
+}

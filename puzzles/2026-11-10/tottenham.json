@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-10",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 African players with the most Premier League appearances for Spurs, as of 6 November 2026",
+  "note": "African eligibility by senior international nationality, as of the cutoff · all PL appearances for the club count, including before an international switch · ranked order · ties broken by starts, then minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Benoît Assou-Ekotto",
+      "detail": "155 PL appearances",
+      "accept": [
+        "benoit assou-ekotto",
+        "benoît assou-ekotto",
+        "assou-ekotto",
+        "assou ekotto"
+      ]
+    },
+    {
+      "display": "Pape Matar Sarr",
+      "detail": "107 PL appearances",
+      "accept": [
+        "pape matar sarr",
+        "pape sarr",
+        "sarr",
+        "matar sarr"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "92 PL appearances",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Yves Bissouma",
+      "detail": "90 PL appearances",
+      "accept": [
+        "yves bissouma",
+        "bissouma"
+      ]
+    },
+    {
+      "display": "Didier Zokora",
+      "detail": "88 PL appearances",
+      "accept": [
+        "didier zokora",
+        "zokora"
+      ]
+    },
+    {
+      "display": "Serge Aurier",
+      "detail": "77 PL appearances",
+      "accept": [
+        "serge aurier",
+        "aurier"
+      ]
+    },
+    {
+      "display": "Victor Wanyama",
+      "detail": "69 PL appearances",
+      "accept": [
+        "victor wanyama",
+        "wanyama"
+      ]
+    },
+    {
+      "display": "Frédéric Kanouté",
+      "detail": "60 PL appearances",
+      "accept": [
+        "frederic kanoute",
+        "frédéric kanouté",
+        "kanoute",
+        "kanouté"
+      ]
+    },
+    {
+      "display": "Mido",
+      "detail": "48 PL appearances",
+      "accept": [
+        "mido",
+        "ahmed mido",
+        "ahmed hossam"
+      ]
+    },
+    {
+      "display": "Nabil Bentaleb",
+      "detail": "46 PL appearances",
+      "accept": [
+        "nabil bentaleb",
+        "bentaleb"
+      ]
+    }
+  ]
+}

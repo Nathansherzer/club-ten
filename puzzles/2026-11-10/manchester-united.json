@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-10",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 African players with the most Premier League appearances for Man United, as of 6 November 2026",
+  "note": "African eligibility by senior international nationality, as of the cutoff · all PL appearances for the club count, including before an international switch · ranked order · ties broken by starts, then minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Aaron Wan-Bissaka",
+      "detail": "130 PL appearances",
+      "accept": [
+        "aaron wan-bissaka",
+        "aaron wan bissaka",
+        "wan-bissaka",
+        "wan bissaka",
+        "awb"
+      ]
+    },
+    {
+      "display": "Quinton Fortune",
+      "detail": "76 PL appearances",
+      "accept": [
+        "quinton fortune",
+        "fortune"
+      ]
+    },
+    {
+      "display": "Amad Diallo",
+      "detail": "74 PL appearances",
+      "accept": [
+        "amad diallo",
+        "amad",
+        "diallo"
+      ]
+    },
+    {
+      "display": "André Onana",
+      "detail": "72 PL appearances",
+      "accept": [
+        "andre onana",
+        "andré onana",
+        "onana"
+      ]
+    },
+    {
+      "display": "Eric Bailly",
+      "detail": "70 PL appearances",
+      "accept": [
+        "eric bailly",
+        "bailly"
+      ]
+    },
+    {
+      "display": "Noussair Mazraoui",
+      "detail": "61 PL appearances",
+      "accept": [
+        "noussair mazraoui",
+        "mazraoui"
+      ]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "42 PL appearances",
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
+    },
+    {
+      "display": "Sofyan Amrabat",
+      "detail": "21 PL appearances",
+      "accept": [
+        "sofyan amrabat",
+        "amrabat"
+      ]
+    },
+    {
+      "display": "Eric Djemba-Djemba",
+      "detail": "20 PL appearances",
+      "accept": [
+        "eric djemba-djemba",
+        "djemba-djemba",
+        "djemba djemba",
+        "djemba"
+      ]
+    },
+    {
+      "display": "Axel Tuanzebe",
+      "detail": "19 PL appearances",
+      "accept": [
+        "axel tuanzebe",
+        "tuanzebe"
+      ]
+    }
+  ]
+}

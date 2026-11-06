@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-10",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 African players with the most Premier League appearances for Liverpool, as of 6 November 2026",
+  "note": "African eligibility by senior international nationality, as of the cutoff · all PL appearances for the club count, including before an international switch · ranked order · ties broken by starts, then minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mohamed Salah",
+      "detail": "315 PL appearances",
+      "accept": [
+        "mohamed salah",
+        "mo salah",
+        "salah",
+        "mohammed salah"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "196 PL appearances",
+      "accept": [
+        "sadio mane",
+        "sadio mané",
+        "mane",
+        "mané"
+      ]
+    },
+    {
+      "display": "Joël Matip",
+      "detail": "150 PL appearances",
+      "accept": [
+        "joël matip",
+        "joel matip",
+        "matip"
+      ]
+    },
+    {
+      "display": "Djimi Traoré",
+      "detail": "88 PL appearances",
+      "accept": [
+        "djimi traore",
+        "djimi traoré",
+        "traore",
+        "traoré"
+      ]
+    },
+    {
+      "display": "Naby Keïta",
+      "detail": "84 PL appearances",
+      "accept": [
+        "naby keita",
+        "naby keïta",
+        "keita",
+        "keïta"
+      ]
+    },
+    {
+      "display": "El Hadji Diouf",
+      "detail": "55 PL appearances",
+      "accept": [
+        "el hadji diouf",
+        "el-hadji diouf",
+        "diouf",
+        "hadji diouf"
+      ]
+    },
+    {
+      "display": "Mohamed Sissoko",
+      "detail": "51 PL appearances",
+      "accept": [
+        "mohamed sissoko",
+        "sissoko"
+      ]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "46 PL appearances",
+      "accept": [
+        "kolo toure",
+        "kolo touré",
+        "toure",
+        "touré",
+        "kolo"
+      ]
+    },
+    {
+      "display": "Salif Diao",
+      "detail": "37 PL appearances",
+      "accept": [
+        "salif diao",
+        "diao"
+      ]
+    },
+    {
+      "display": "Bruce Grobbelaar",
+      "detail": "34 PL appearances",
+      "accept": [
+        "bruce grobbelaar",
+        "grobbelaar"
+      ]
+    }
+  ]
+}

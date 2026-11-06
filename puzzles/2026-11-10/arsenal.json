@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-10",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 African players with the most Premier League appearances for Arsenal, as of 6 November 2026",
+  "note": "African eligibility by senior international nationality, as of the cutoff · all PL appearances for the club count, including before an international switch · ranked order · ties broken by starts, then minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Kolo Touré",
+      "detail": "225 PL appearances",
+      "accept": [
+        "kolo toure",
+        "kolo touré",
+        "toure",
+        "touré",
+        "kolo"
+      ]
+    },
+    {
+      "display": "Lauren",
+      "detail": "159 PL appearances",
+      "accept": [
+        "lauren",
+        "lauren etame mayer",
+        "etame mayer",
+        "lauren etame"
+      ]
+    },
+    {
+      "display": "Alex Song",
+      "detail": "138 PL appearances",
+      "accept": [
+        "alex song",
+        "song"
+      ]
+    },
+    {
+      "display": "Emmanuel Eboué",
+      "detail": "132 PL appearances",
+      "accept": [
+        "emmanuel eboue",
+        "emmanuel eboué",
+        "eboue",
+        "eboué"
+      ]
+    },
+    {
+      "display": "Thomas Partey",
+      "detail": "130 PL appearances",
+      "accept": [
+        "thomas partey",
+        "partey"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "128 PL appearances",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "pierre emerick aubameyang",
+        "aubameyang",
+        "auba",
+        "pea"
+      ]
+    },
+    {
+      "display": "Nwankwo Kanu",
+      "detail": "119 PL appearances",
+      "accept": [
+        "nwankwo kanu",
+        "kanu"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "104 PL appearances",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Alex Iwobi",
+      "detail": "100 PL appearances",
+      "accept": [
+        "alex iwobi",
+        "iwobi"
+      ]
+    },
+    {
+      "display": "Mohamed Elneny",
+      "detail": "91 PL appearances",
+      "accept": [
+        "mohamed elneny",
+        "elneny"
+      ]
+    }
+  ]
+}

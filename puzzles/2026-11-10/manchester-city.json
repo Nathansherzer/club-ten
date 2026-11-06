@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-10",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 African players with the most Premier League appearances for Man City, as of 6 November 2026",
+  "note": "African eligibility by senior international nationality, as of the cutoff · all PL appearances for the club count, including before an international switch · ranked order · ties broken by starts, then minutes played",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Yaya Touré",
+      "detail": "230 PL appearances",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "yaya"
+      ]
+    },
+    {
+      "display": "Riyad Mahrez",
+      "detail": "145 PL appearances",
+      "accept": [
+        "riyad mahrez",
+        "mahrez"
+      ]
+    },
+    {
+      "display": "Kolo Touré",
+      "detail": "82 PL appearances",
+      "accept": [
+        "kolo toure",
+        "kolo touré",
+        "kolo"
+      ]
+    },
+    {
+      "display": "Kelechi Iheanacho",
+      "detail": "46 PL appearances",
+      "accept": [
+        "kelechi iheanacho",
+        "iheanacho"
+      ]
+    },
+    {
+      "display": "Omar Marmoush",
+      "detail": "37 PL appearances",
+      "accept": [
+        "omar marmoush",
+        "marmoush"
+      ]
+    },
+    {
+      "display": "Wilfried Bony",
+      "detail": "36 PL appearances",
+      "accept": [
+        "wilfried bony",
+        "bony"
+      ]
+    },
+    {
+      "display": "Marc-Vivien Foé",
+      "detail": "35 PL appearances",
+      "accept": [
+        "marc-vivien foe",
+        "marc-vivien foé",
+        "marc vivien foe",
+        "foe",
+        "foé"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "34 PL appearances",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Ali Benarbia",
+      "detail": "33 PL appearances",
+      "accept": [
+        "ali benarbia",
+        "benarbia"
+      ]
+    },
+    {
+      "display": "Antoine Semenyo",
+      "detail": "24 PL appearances",
+      "accept": [
+        "antoine semenyo",
+        "semenyo"
+      ]
+    }
+  ]
+}
