@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-12",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent permanent managers or head coaches of Arsenal",
+  "note": "Permanent appointments only, caretakers and interim spells excluded (a caretaker who later got the permanent job counts from that appointment) · most recent first · as of 9 Nov 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Mikel Arteta",
+      "detail": "",
+      "accept": [
+        "mikel arteta",
+        "arteta"
+      ]
+    },
+    {
+      "display": "Unai Emery",
+      "detail": "",
+      "accept": [
+        "unai emery",
+        "emery"
+      ]
+    },
+    {
+      "display": "Arsène Wenger",
+      "detail": "",
+      "accept": [
+        "arsene wenger",
+        "wenger"
+      ]
+    },
+    {
+      "display": "Bruce Rioch",
+      "detail": "",
+      "accept": [
+        "bruce rioch",
+        "rioch"
+      ]
+    },
+    {
+      "display": "George Graham",
+      "detail": "",
+      "accept": [
+        "george graham",
+        "graham"
+      ]
+    },
+    {
+      "display": "Don Howe",
+      "detail": "",
+      "accept": [
+        "don howe",
+        "howe"
+      ]
+    },
+    {
+      "display": "Terry Neill",
+      "detail": "",
+      "accept": [
+        "terry neill",
+        "neill"
+      ]
+    },
+    {
+      "display": "Bertie Mee",
+      "detail": "",
+      "accept": [
+        "bertie mee",
+        "mee"
+      ]
+    },
+    {
+      "display": "Billy Wright",
+      "detail": "",
+      "accept": [
+        "billy wright",
+        "wright"
+      ]
+    },
+    {
+      "display": "George Swindin",
+      "detail": "",
+      "accept": [
+        "george swindin",
+        "swindin"
+      ]
+    }
+  ]
+}

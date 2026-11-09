@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-12",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent permanent managers or head coaches of Liverpool",
+  "note": "Permanent appointments only, caretakers and interim spells excluded (a caretaker who later got the permanent job counts from that appointment) · most recent first · as of 9 Nov 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Andoni Iraola",
+      "detail": "",
+      "accept": [
+        "andoni iraola",
+        "iraola"
+      ]
+    },
+    {
+      "display": "Arne Slot",
+      "detail": "",
+      "accept": [
+        "arne slot",
+        "slot"
+      ]
+    },
+    {
+      "display": "Jürgen Klopp",
+      "detail": "",
+      "accept": [
+        "jurgen klopp",
+        "klopp",
+        "kloppo"
+      ]
+    },
+    {
+      "display": "Brendan Rodgers",
+      "detail": "",
+      "accept": [
+        "brendan rodgers",
+        "rodgers"
+      ]
+    },
+    {
+      "display": "Kenny Dalglish",
+      "detail": "",
+      "accept": [
+        "kenny dalglish",
+        "dalglish",
+        "king kenny"
+      ]
+    },
+    {
+      "display": "Roy Hodgson",
+      "detail": "",
+      "accept": [
+        "roy hodgson",
+        "hodgson"
+      ]
+    },
+    {
+      "display": "Rafael Benítez",
+      "detail": "",
+      "accept": [
+        "rafael benitez",
+        "rafa benitez",
+        "benitez",
+        "rafa"
+      ]
+    },
+    {
+      "display": "Gérard Houllier",
+      "detail": "",
+      "accept": [
+        "gerard houllier",
+        "houllier"
+      ]
+    },
+    {
+      "display": "Roy Evans",
+      "detail": "",
+      "accept": [
+        "roy evans",
+        "evans"
+      ]
+    },
+    {
+      "display": "Graeme Souness",
+      "detail": "",
+      "accept": [
+        "graeme souness",
+        "souness"
+      ]
+    }
+  ]
+}

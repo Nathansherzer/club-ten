@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-12",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent permanent managers or head coaches of Chelsea",
+  "note": "Permanent appointments only, caretakers and interim spells excluded (a caretaker who later got the permanent job counts from that appointment) · most recent first · as of 9 Nov 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Xabi Alonso",
+      "detail": "",
+      "accept": [
+        "xabi alonso",
+        "alonso"
+      ]
+    },
+    {
+      "display": "Liam Rosenior",
+      "detail": "",
+      "accept": [
+        "liam rosenior",
+        "rosenior"
+      ]
+    },
+    {
+      "display": "Enzo Maresca",
+      "detail": "",
+      "accept": [
+        "enzo maresca",
+        "maresca"
+      ]
+    },
+    {
+      "display": "Mauricio Pochettino",
+      "detail": "",
+      "accept": [
+        "mauricio pochettino",
+        "pochettino",
+        "poch"
+      ]
+    },
+    {
+      "display": "Graham Potter",
+      "detail": "",
+      "accept": [
+        "graham potter",
+        "potter"
+      ]
+    },
+    {
+      "display": "Thomas Tuchel",
+      "detail": "",
+      "accept": [
+        "thomas tuchel",
+        "tuchel"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "",
+      "accept": [
+        "frank lampard",
+        "lampard",
+        "lamps"
+      ]
+    },
+    {
+      "display": "Maurizio Sarri",
+      "detail": "",
+      "accept": [
+        "maurizio sarri",
+        "sarri"
+      ]
+    },
+    {
+      "display": "Antonio Conte",
+      "detail": "",
+      "accept": [
+        "antonio conte",
+        "conte"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "",
+      "accept": [
+        "jose mourinho",
+        "mourinho",
+        "the special one"
+      ]
+    }
+  ]
+}

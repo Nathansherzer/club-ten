@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-12",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent permanent managers or head coaches of Man United",
+  "note": "Permanent appointments only, caretakers and interim spells excluded (a caretaker who later got the permanent job counts from that appointment) · most recent first · as of 9 Nov 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Michael Carrick",
+      "detail": "",
+      "accept": [
+        "michael carrick",
+        "carrick"
+      ]
+    },
+    {
+      "display": "Rúben Amorim",
+      "detail": "",
+      "accept": [
+        "ruben amorim",
+        "amorim"
+      ]
+    },
+    {
+      "display": "Erik ten Hag",
+      "detail": "",
+      "accept": [
+        "erik ten hag",
+        "ten hag",
+        "tenhag"
+      ]
+    },
+    {
+      "display": "Ole Gunnar Solskjær",
+      "detail": "",
+      "accept": [
+        "ole gunnar solskjaer",
+        "solskjaer",
+        "ole",
+        "solskjer",
+        "ole gunnar"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "",
+      "accept": [
+        "jose mourinho",
+        "mourinho",
+        "the special one"
+      ]
+    },
+    {
+      "display": "Louis van Gaal",
+      "detail": "",
+      "accept": [
+        "louis van gaal",
+        "van gaal",
+        "vangaal"
+      ]
+    },
+    {
+      "display": "David Moyes",
+      "detail": "",
+      "accept": [
+        "david moyes",
+        "moyes"
+      ]
+    },
+    {
+      "display": "Sir Alex Ferguson",
+      "detail": "",
+      "accept": [
+        "sir alex ferguson",
+        "alex ferguson",
+        "ferguson",
+        "sir alex",
+        "fergie"
+      ]
+    },
+    {
+      "display": "Ron Atkinson",
+      "detail": "",
+      "accept": [
+        "ron atkinson",
+        "atkinson",
+        "big ron"
+      ]
+    },
+    {
+      "display": "Dave Sexton",
+      "detail": "",
+      "accept": [
+        "dave sexton",
+        "sexton"
+      ]
+    }
+  ]
+}

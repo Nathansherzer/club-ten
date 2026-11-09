@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-12",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent permanent managers or head coaches of Spurs",
+  "note": "Permanent appointments only, caretakers and interim spells excluded (a caretaker who later got the permanent job counts from that appointment) · most recent first · as of 9 Nov 2026",
+  "placeholder": "Type a manager's name…",
+  "answers": [
+    {
+      "display": "Roberto De Zerbi",
+      "detail": "",
+      "accept": [
+        "roberto de zerbi",
+        "de zerbi"
+      ]
+    },
+    {
+      "display": "Thomas Frank",
+      "detail": "",
+      "accept": [
+        "thomas frank",
+        "frank"
+      ]
+    },
+    {
+      "display": "Ange Postecoglou",
+      "detail": "",
+      "accept": [
+        "ange postecoglou",
+        "postecoglou",
+        "ange"
+      ]
+    },
+    {
+      "display": "Antonio Conte",
+      "detail": "",
+      "accept": [
+        "antonio conte",
+        "conte"
+      ]
+    },
+    {
+      "display": "Nuno Espírito Santo",
+      "detail": "",
+      "accept": [
+        "nuno espirito santo",
+        "nuno",
+        "espirito santo"
+      ]
+    },
+    {
+      "display": "José Mourinho",
+      "detail": "",
+      "accept": [
+        "jose mourinho",
+        "mourinho",
+        "the special one"
+      ]
+    },
+    {
+      "display": "Mauricio Pochettino",
+      "detail": "",
+      "accept": [
+        "mauricio pochettino",
+        "pochettino",
+        "poch"
+      ]
+    },
+    {
+      "display": "Tim Sherwood",
+      "detail": "",
+      "accept": [
+        "tim sherwood",
+        "sherwood"
+      ]
+    },
+    {
+      "display": "André Villas-Boas",
+      "detail": "",
+      "accept": [
+        "andre villas-boas",
+        "andre villas boas",
+        "villas-boas",
+        "villas boas",
+        "avb"
+      ]
+    },
+    {
+      "display": "Harry Redknapp",
+      "detail": "",
+      "accept": [
+        "harry redknapp",
+        "redknapp",
+        "'arry"
+      ]
+    }
+  ]
+}
