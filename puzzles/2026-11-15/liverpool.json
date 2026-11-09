@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-15",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players who were on the pitch for Liverpool at the final whistle of their Gameweek 10 match",
+  "note": "Crystal Palace 1-3 Liverpool, 8 Nov 2026 · outfield players only · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jérémy Jacquet",
+      "detail": "",
+      "accept": [
+        "jeremy jacquet",
+        "jacquet"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "virgil",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Milos Kerkez",
+      "detail": "",
+      "accept": [
+        "milos kerkez",
+        "kerkez"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "",
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister",
+        "alexis macallister"
+      ]
+    },
+    {
+      "display": "Florian Wirtz",
+      "detail": "",
+      "accept": [
+        "florian wirtz",
+        "wirtz"
+      ]
+    },
+    {
+      "display": "Víctor Muñoz",
+      "detail": "",
+      "accept": [
+        "victor munoz",
+        "víctor muñoz",
+        "munoz",
+        "muñoz"
+      ]
+    },
+    {
+      "display": "Trey Nyoni",
+      "detail": "",
+      "accept": [
+        "trey nyoni",
+        "nyoni"
+      ]
+    },
+    {
+      "display": "Rio Ngumoha",
+      "detail": "",
+      "accept": [
+        "rio ngumoha",
+        "ngumoha"
+      ]
+    },
+    {
+      "display": "Lewis Koumas",
+      "detail": "",
+      "accept": [
+        "lewis koumas",
+        "koumas"
+      ]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "",
+      "accept": [
+        "joe gomez",
+        "gomez"
+      ]
+    }
+  ]
+}

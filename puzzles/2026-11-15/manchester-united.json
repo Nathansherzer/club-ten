@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-15",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 outfield players who were on the pitch for Man United at the final whistle of their Gameweek 10 match",
+  "note": "Man United 4-4 Aston Villa, 8 Nov 2026 · outfield players only · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Noussair Mazraoui",
+      "detail": "",
+      "accept": [
+        "noussair mazraoui",
+        "mazraoui"
+      ]
+    },
+    {
+      "display": "Leny Yoro",
+      "detail": "",
+      "accept": [
+        "leny yoro",
+        "yoro"
+      ]
+    },
+    {
+      "display": "Kobbie Mainoo",
+      "detail": "",
+      "accept": [
+        "kobbie mainoo",
+        "mainoo"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "",
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "",
+      "accept": [
+        "matheus cunha",
+        "cunha"
+      ]
+    },
+    {
+      "display": "Ayden Heaven",
+      "detail": "",
+      "accept": [
+        "ayden heaven",
+        "heaven"
+      ]
+    },
+    {
+      "display": "Patrick Dorgu",
+      "detail": "",
+      "accept": [
+        "patrick dorgu",
+        "dorgu"
+      ]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "",
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
+    },
+    {
+      "display": "Shea Lacey",
+      "detail": "",
+      "accept": [
+        "shea lacey",
+        "lacey"
+      ]
+    },
+    {
+      "display": "Joshua Zirkzee",
+      "detail": "",
+      "accept": [
+        "joshua zirkzee",
+        "zirkzee"
+      ]
+    }
+  ]
+}

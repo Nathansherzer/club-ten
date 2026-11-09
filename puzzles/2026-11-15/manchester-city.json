@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-15",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players who were on the pitch for Man City at the final whistle of their Gameweek 10 match",
+  "note": "Nottingham Forest 3-1 Man City, 7 Nov 2026 · outfield players only · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Abdukodir Khusanov",
+      "detail": "",
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "ruben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Elliot Anderson",
+      "detail": "",
+      "accept": [
+        "elliot anderson",
+        "anderson"
+      ]
+    },
+    {
+      "display": "Iliman Ndiaye",
+      "detail": "",
+      "accept": [
+        "iliman ndiaye",
+        "ndiaye"
+      ]
+    },
+    {
+      "display": "Rayan Cherki",
+      "detail": "",
+      "accept": [
+        "rayan cherki",
+        "cherki"
+      ]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "",
+      "accept": [
+        "jeremy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    },
+    {
+      "display": "Matheus Nunes",
+      "detail": "",
+      "accept": [
+        "matheus nunes",
+        "nunes"
+      ]
+    },
+    {
+      "display": "Nico O'Reilly",
+      "detail": "",
+      "accept": [
+        "nico o'reilly",
+        "nico oreilly",
+        "o'reilly",
+        "oreilly"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-15",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players who were on the pitch for Arsenal at the final whistle of their Gameweek 10 match",
+  "note": "Arsenal 1-0 Hull City, 7 Nov 2026 · outfield players only · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jurriën Timber",
+      "detail": "",
+      "accept": [
+        "jurrien timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Ezri Konsa",
+      "detail": "",
+      "accept": [
+        "ezri konsa",
+        "konsa"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel",
+        "gabriel dos santos magalhaes",
+        "magalhaes"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "",
+      "accept": [
+        "noni madueke",
+        "madueke"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "",
+      "accept": [
+        "martin odegaard",
+        "odegaard"
+      ]
+    },
+    {
+      "display": "Mikel Merino",
+      "detail": "",
+      "accept": [
+        "mikel merino",
+        "merino"
+      ]
+    },
+    {
+      "display": "Viktor Gyökeres",
+      "detail": "",
+      "accept": [
+        "viktor gyokeres",
+        "gyokeres"
+      ]
+    },
+    {
+      "display": "Eberechi Eze",
+      "detail": "",
+      "accept": [
+        "eberechi eze",
+        "eze"
+      ]
+    },
+    {
+      "display": "Piero Hincapié",
+      "detail": "",
+      "accept": [
+        "piero hincapie",
+        "hincapie"
+      ]
+    },
+    {
+      "display": "Martín Zubimendi",
+      "detail": "",
+      "accept": [
+        "martin zubimendi",
+        "zubimendi"
+      ]
+    }
+  ]
+}

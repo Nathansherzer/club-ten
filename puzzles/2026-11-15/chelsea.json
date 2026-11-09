@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-15",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players who were on the pitch for Chelsea at the final whistle of their Gameweek 10 match",
+  "note": "Sunderland 1-0 Chelsea, 8 Nov 2026 · outfield players only · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Wesley Fofana",
+      "detail": "",
+      "accept": [
+        "wesley fofana",
+        "fofana"
+      ]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "",
+      "accept": [
+        "moises caicedo",
+        "caicedo"
+      ]
+    },
+    {
+      "display": "Roméo Lavia",
+      "detail": "",
+      "accept": [
+        "romeo lavia",
+        "roméo lavia",
+        "lavia"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Morgan Rogers",
+      "detail": "",
+      "accept": [
+        "morgan rogers",
+        "rogers"
+      ]
+    },
+    {
+      "display": "Estêvão",
+      "detail": "",
+      "accept": [
+        "estevao",
+        "estevao willian"
+      ]
+    },
+    {
+      "display": "Danny Welbeck",
+      "detail": "",
+      "accept": [
+        "danny welbeck",
+        "welbeck"
+      ]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "",
+      "accept": [
+        "malo gusto",
+        "gusto"
+      ]
+    },
+    {
+      "display": "Geovany Quenda",
+      "detail": "",
+      "accept": [
+        "geovany quenda",
+        "quenda"
+      ]
+    },
+    {
+      "display": "Emmanuel Emegha",
+      "detail": "",
+      "accept": [
+        "emmanuel emegha",
+        "emegha"
+      ]
+    }
+  ]
+}

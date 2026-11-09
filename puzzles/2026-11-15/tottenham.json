@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-15",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players who were on the pitch for Spurs at the final whistle of their Gameweek 10 match",
+  "note": "Leeds United 1-0 Tottenham, 7 Nov 2026 · outfield players only · unordered",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jan Paul van Hecke",
+      "detail": "",
+      "accept": [
+        "jan paul van hecke",
+        "van hecke",
+        "jpvh",
+        "hecke"
+      ]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "",
+      "accept": [
+        "micky van de ven",
+        "van de ven"
+      ]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "",
+      "accept": [
+        "andy robertson",
+        "robertson",
+        "andrew robertson",
+        "robbo"
+      ]
+    },
+    {
+      "display": "Sandro Tonali",
+      "detail": "",
+      "accept": [
+        "sandro tonali",
+        "tonali",
+        "sandro"
+      ]
+    },
+    {
+      "display": "Archie Gray",
+      "detail": "",
+      "accept": [
+        "archie gray",
+        "gray"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    },
+    {
+      "display": "Conor Gallagher",
+      "detail": "",
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
+    },
+    {
+      "display": "Dejan Kulusevski",
+      "detail": "",
+      "accept": [
+        "dejan kulusevski",
+        "kulusevski"
+      ]
+    },
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "",
+      "accept": [
+        "rodrigo bentancur",
+        "bentancur"
+      ]
+    },
+    {
+      "display": "Lucá Williams-Barnett",
+      "detail": "",
+      "accept": [
+        "luca williams-barnett",
+        "lucá williams-barnett",
+        "williams-barnett",
+        "williams barnett",
+        "barnett"
+      ]
+    }
+  ]
+}
