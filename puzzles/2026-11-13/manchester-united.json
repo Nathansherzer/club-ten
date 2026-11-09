@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-13",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent players to wear the No. 9 shirt for Man United",
+  "note": "Official squad number, 1993/94 onward · most recent spell counted once per player · most recent first · as of 9 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Marcus Rashford",
+      "detail": "",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Rasmus Højlund",
+      "detail": "",
+      "accept": [
+        "rasmus hojlund",
+        "hojlund"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Zlatan Ibrahimović",
+      "detail": "",
+      "accept": [
+        "zlatan ibrahimovic",
+        "ibrahimovic",
+        "zlatan",
+        "ibra"
+      ]
+    },
+    {
+      "display": "Radamel Falcao",
+      "detail": "",
+      "accept": [
+        "radamel falcao",
+        "falcao",
+        "el tigre"
+      ]
+    },
+    {
+      "display": "Dimitar Berbatov",
+      "detail": "",
+      "accept": [
+        "dimitar berbatov",
+        "berbatov"
+      ]
+    },
+    {
+      "display": "Louis Saha",
+      "detail": "",
+      "accept": [
+        "louis saha",
+        "saha"
+      ]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "",
+      "accept": [
+        "andy cole",
+        "andrew cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Brian McClair",
+      "detail": "",
+      "accept": [
+        "brian mcclair",
+        "mcclair"
+      ]
+    }
+  ]
+}

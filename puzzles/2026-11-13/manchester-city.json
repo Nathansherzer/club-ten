@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-13",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent players to wear the No. 9 shirt for Man City",
+  "note": "Official squad number, 1993/94 onward · most recent spell counted once per player · most recent first · as of 9 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Nolito",
+      "detail": "",
+      "accept": [
+        "nolito"
+      ]
+    },
+    {
+      "display": "Álvaro Negredo",
+      "detail": "",
+      "accept": [
+        "alvaro negredo",
+        "negredo"
+      ]
+    },
+    {
+      "display": "Emmanuel Adebayor",
+      "detail": "",
+      "accept": [
+        "emmanuel adebayor",
+        "adebayor"
+      ]
+    },
+    {
+      "display": "Valeri Bojinov",
+      "detail": "",
+      "accept": [
+        "valeri bojinov",
+        "bojinov"
+      ]
+    },
+    {
+      "display": "Émile Mpenza",
+      "detail": "",
+      "accept": [
+        "emile mpenza",
+        "émile mpenza",
+        "mpenza"
+      ]
+    },
+    {
+      "display": "Andy Cole",
+      "detail": "",
+      "accept": [
+        "andy cole",
+        "andrew cole",
+        "cole"
+      ]
+    },
+    {
+      "display": "Paulo Wanchope",
+      "detail": "",
+      "accept": [
+        "paulo wanchope",
+        "wanchope"
+      ]
+    },
+    {
+      "display": "Paul Dickov",
+      "detail": "",
+      "accept": [
+        "paul dickov",
+        "dickov"
+      ]
+    }
+  ]
+}

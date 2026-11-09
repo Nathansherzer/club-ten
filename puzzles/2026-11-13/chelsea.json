@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-13",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent players to wear the No. 9 shirt for Chelsea",
+  "note": "Official squad number, 1993/94 onward · most recent spell counted once per player · most recent first · as of 9 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "João Pedro",
+      "detail": "",
+      "accept": [
+        "joao pedro",
+        "joao",
+        "pedro"
+      ]
+    },
+    {
+      "display": "Liam Delap",
+      "detail": "",
+      "accept": [
+        "liam delap",
+        "delap"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "",
+      "accept": [
+        "pierre-emerick aubameyang",
+        "aubameyang",
+        "auba",
+        "pierre emerick aubameyang",
+        "pea"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "",
+      "accept": [
+        "romelu lukaku",
+        "lukaku"
+      ]
+    },
+    {
+      "display": "Tammy Abraham",
+      "detail": "",
+      "accept": [
+        "tammy abraham",
+        "abraham"
+      ]
+    },
+    {
+      "display": "Gonzalo Higuaín",
+      "detail": "",
+      "accept": [
+        "gonzalo higuain",
+        "higuain"
+      ]
+    },
+    {
+      "display": "Álvaro Morata",
+      "detail": "",
+      "accept": [
+        "alvaro morata",
+        "morata"
+      ]
+    },
+    {
+      "display": "Radamel Falcao",
+      "detail": "",
+      "accept": [
+        "radamel falcao",
+        "falcao",
+        "el tigre"
+      ]
+    },
+    {
+      "display": "Fernando Torres",
+      "detail": "",
+      "accept": [
+        "fernando torres",
+        "torres",
+        "el nino"
+      ]
+    },
+    {
+      "display": "Franco Di Santo",
+      "detail": "",
+      "accept": [
+        "franco di santo",
+        "di santo"
+      ]
+    }
+  ]
+}
