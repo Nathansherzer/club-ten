@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-11",
+  "club": "liverpool",
+  "type": "clubs",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 clubs Mohamed Salah recorded the most Premier League goal involvements against while playing for Liverpool",
+  "note": "PL only, goals + assists · as of 23 Jul 2026 · ranked order · ties broken by goals scored, then alphabetical",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Newcastle United",
+      "detail": "20 goal involvements (10g, 10a)",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "19 goal involvements (13g, 6a)",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "17 goal involvements (11g, 6a)",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Brighton & Hove Albion",
+      "detail": "17 goal involvements (10g, 7a)",
+      "accept": [
+        "brighton & hove albion",
+        "brighton and hove albion",
+        "brighton",
+        "bha"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "16 goal involvements (12g, 4a)",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Bournemouth",
+      "detail": "15 goal involvements (12g, 3a)",
+      "accept": [
+        "bournemouth",
+        "afc bournemouth"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "15 goal involvements (11g, 4a)",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "15 goal involvements (9g, 6a)",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "14 goal involvements (9g, 5a)",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "14 goal involvements (9g, 5a)",
+      "accept": [
+        "crystal palace",
+        "palace"
+      ]
+    }
+  ]
+}

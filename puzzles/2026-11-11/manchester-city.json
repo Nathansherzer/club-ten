@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-11",
+  "club": "manchester-city",
+  "type": "clubs",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 clubs Sergio Agüero recorded the most Premier League goal involvements against while playing for Man City",
+  "note": "PL only, goals + assists · as of 23 Jul 2026 · ranked order · ties broken by goals scored, then alphabetical",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Newcastle United",
+      "detail": "18 goal involvements (15g, 3a)",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "13 goal involvements (10g, 3a)",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "West Bromwich Albion",
+      "detail": "13 goal involvements (8g, 5a)",
+      "accept": [
+        "west bromwich albion",
+        "west brom",
+        "wba"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "12 goal involvements (11g, 1a)",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Watford",
+      "detail": "11 goal involvements (8g, 3a)",
+      "accept": [
+        "watford"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "10 goal involvements (9g, 1a)",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "10 goal involvements (8g, 2a)",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "10 goal involvements (7g, 3a)",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "10 goal involvements (6g, 4a)",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "9 goal involvements (8g, 1a)",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    }
+  ]
+}

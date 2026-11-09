@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-11",
+  "club": "chelsea",
+  "type": "clubs",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 clubs Frank Lampard recorded the most Premier League goal involvements against while playing for Chelsea",
+  "note": "PL only, goals + assists · as of 23 Jul 2026 · ranked order · ties broken by goals scored, then alphabetical",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Bolton Wanderers",
+      "detail": "20 goal involvements (12g, 8a)",
+      "accept": [
+        "bolton wanderers",
+        "bolton"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "17 goal involvements (12g, 5a)",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Blackburn Rovers",
+      "detail": "15 goal involvements (9g, 6a)",
+      "accept": [
+        "blackburn rovers",
+        "blackburn"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "12 goal involvements (6g, 6a)",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "11 goal involvements (8g, 3a)",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "11 goal involvements (7g, 4a)",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "10 goal involvements (8g, 2a)",
+      "accept": [
+        "sunderland"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "10 goal involvements (7g, 3a)",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Portsmouth",
+      "detail": "10 goal involvements (7g, 3a)",
+      "accept": [
+        "portsmouth",
+        "pompey"
+      ]
+    },
+    {
+      "display": "Wigan Athletic",
+      "detail": "10 goal involvements (7g, 3a)",
+      "accept": [
+        "wigan athletic",
+        "wigan"
+      ]
+    }
+  ]
+}

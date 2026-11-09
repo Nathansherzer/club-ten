@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-11",
+  "club": "tottenham",
+  "type": "clubs",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 clubs Harry Kane recorded the most Premier League goal involvements against while playing for Spurs",
+  "note": "PL only, goals + assists · as of 23 Jul 2026 · ranked order · ties broken by goals scored, then alphabetical",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Leicester City",
+      "detail": "22 goal involvements (18g, 4a)",
+      "accept": [
+        "leicester city",
+        "leicester",
+        "foxes"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "18 goal involvements (12g, 6a)",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "16 goal involvements (11g, 5a)",
+      "accept": [
+        "crystal palace",
+        "palace"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "15 goal involvements (15g, 0a)",
+      "accept": [
+        "everton",
+        "toffees"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "15 goal involvements (14g, 1a)",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "15 goal involvements (11g, 4a)",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Burnley",
+      "detail": "12 goal involvements (9g, 3a)",
+      "accept": [
+        "burnley"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "12 goal involvements (9g, 3a)",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    },
+    {
+      "display": "Liverpool",
+      "detail": "11 goal involvements (9g, 2a)",
+      "accept": [
+        "liverpool"
+      ]
+    },
+    {
+      "display": "Stoke City",
+      "detail": "10 goal involvements (9g, 1a)",
+      "accept": [
+        "stoke city",
+        "stoke"
+      ]
+    }
+  ]
+}

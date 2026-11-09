@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-11",
+  "club": "arsenal",
+  "type": "clubs",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 clubs Thierry Henry recorded the most Premier League goal involvements against while playing for Arsenal",
+  "note": "PL only, goals + assists · as of 23 Jul 2026 · ranked order · ties broken by goals scored, then alphabetical",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Middlesbrough",
+      "detail": "19 goal involvements (12g, 7a)",
+      "accept": [
+        "middlesbrough",
+        "boro",
+        "middlesboro"
+      ]
+    },
+    {
+      "display": "Charlton Athletic",
+      "detail": "16 goal involvements (12g, 4a)",
+      "accept": [
+        "charlton athletic",
+        "charlton"
+      ]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "15 goal involvements (7g, 8a)",
+      "accept": [
+        "sunderland"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "13 goal involvements (12g, 1a)",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Leeds United",
+      "detail": "12 goal involvements (10g, 2a)",
+      "accept": [
+        "leeds united",
+        "leeds"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "12 goal involvements (8g, 4a)",
+      "accept": [
+        "manchester united",
+        "man united",
+        "man utd"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "11 goal involvements (8g, 3a)",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "Manchester City",
+      "detail": "11 goal involvements (5g, 6a)",
+      "accept": [
+        "manchester city",
+        "man city"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "10 goal involvements (5g, 5a)",
+      "accept": [
+        "southampton",
+        "saints"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "9 goal involvements (8g, 1a)",
+      "accept": [
+        "chelsea"
+      ]
+    }
+  ]
+}

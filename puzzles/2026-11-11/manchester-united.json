@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-11",
+  "club": "manchester-united",
+  "type": "clubs",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 clubs Wayne Rooney recorded the most Premier League goal involvements against while playing for Man United",
+  "note": "PL only, goals + assists · as of 23 Jul 2026 · ranked order · ties broken by goals scored, then alphabetical",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Newcastle United",
+      "detail": "21 goal involvements (13g, 8a)",
+      "accept": [
+        "newcastle united",
+        "newcastle",
+        "toon"
+      ]
+    },
+    {
+      "display": "Aston Villa",
+      "detail": "16 goal involvements (12g, 4a)",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "West Ham United",
+      "detail": "14 goal involvements (11g, 3a)",
+      "accept": [
+        "west ham united",
+        "west ham",
+        "hammers"
+      ]
+    },
+    {
+      "display": "Wigan Athletic",
+      "detail": "14 goal involvements (8g, 6a)",
+      "accept": [
+        "wigan athletic",
+        "wigan"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "13 goal involvements (11g, 2a)",
+      "accept": [
+        "tottenham hotspur",
+        "tottenham",
+        "spurs"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "13 goal involvements (10g, 3a)",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "13 goal involvements (9g, 4a)",
+      "accept": [
+        "arsenal",
+        "gunners"
+      ]
+    },
+    {
+      "display": "West Bromwich Albion",
+      "detail": "13 goal involvements (7g, 6a)",
+      "accept": [
+        "west bromwich albion",
+        "west brom",
+        "wba"
+      ]
+    },
+    {
+      "display": "Bolton Wanderers",
+      "detail": "12 goal involvements (9g, 3a)",
+      "accept": [
+        "bolton wanderers",
+        "bolton"
+      ]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "12 goal involvements (7g, 5a)",
+      "accept": [
+        "sunderland"
+      ]
+    }
+  ]
+}
