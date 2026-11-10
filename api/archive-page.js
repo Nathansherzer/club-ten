@@ -7,10 +7,14 @@
    before) plus an additive section with real <a href> links to
    every available replay puzzle for all six clubs, each showing
    its puzzle number, date and question — present in the raw HTML
-   with no JS required. The destination /{club}/{date} pages stay
-   noindex (api/puzzle-page.js, unchanged); this section is for
-   navigation and crawlability of *this* page, not for getting
-   those pages indexed.
+   with no JS required, for crawlability of *this* page.
+
+   Links point straight at /{club}?date={date} (the actual playable
+   game, same route the club-select dropdown uses) rather than the
+   separate /{club}/{date} landing page (api/puzzle-page.js) — that
+   page exists for its own shareable/indexable URL per puzzle, not as
+   a click-through step for someone already browsing the archive. It
+   stays noindex and unchanged; nothing here links to it anymore.
    ========================================================== */
 
 import { readFile } from "fs/promises";
@@ -36,7 +40,7 @@ export default async function handler(req, res) {
       if (!data) return "";
       const num = puzzleNumber(date);
       return `
-        <li><a href="/${club}/${date}">Puzzle #${num} &mdash; ${esc(formatDate(date))}: ${esc(capitalize(data.question))}?</a></li>`;
+        <li><a href="/${club}?date=${date}">Puzzle #${num} &mdash; ${esc(formatDate(date))}: ${esc(capitalize(data.question))}?</a></li>`;
     }));
     const itemsHtml = items.filter(Boolean).join("");
     if (!itemsHtml) return "";
