@@ -14,6 +14,7 @@ import { fileURLToPath } from "url";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 export const POSTS = {
+  "tottenham-manchester-city-penalty-misses": "2026-11-10",
   "premier-league-points-deductions-history": "2026-10-01",
   "premier-league-european-goals-records": "2026-08-10",
   "brazilian-players-premier-league":      "2026-08-17",
@@ -38,6 +39,7 @@ export const POSTS = {
 // section gaining source links) without re-parsing every post's HTML.
 // Equal to the publish date for any post that's never been revised.
 export const UPDATED = {
+  "tottenham-manchester-city-penalty-misses": "2026-11-10",
   "premier-league-points-deductions-history": "2026-10-01",
   "premier-league-european-goals-records": "2026-11-10",
   "brazilian-players-premier-league":      "2026-11-10",

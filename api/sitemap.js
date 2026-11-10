@@ -33,7 +33,7 @@ const DAILY = [
 // last edited (from git history), not a value that drifts out of sync.
 const STATIC = [
   { loc: "/how-to-play", changefreq: "monthly", priority: "0.5", lastmod: "2026-10-14" },
-  { loc: "/blog",        changefreq: "weekly",  priority: "0.7", lastmod: "2026-10-01" },
+  { loc: "/blog",        changefreq: "weekly",  priority: "0.7", lastmod: "2026-11-10" },
   { loc: "/about",       changefreq: "monthly", priority: "0.6", lastmod: "2026-10-14" },
   { loc: "/privacy",     changefreq: "monthly", priority: "0.3", lastmod: "2026-10-14" },
   { loc: "/contact",     changefreq: "monthly", priority: "0.3", lastmod: "2026-10-14" },
