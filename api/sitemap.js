@@ -12,24 +12,31 @@
    pages / homepage and now 301-redirect there (see vercel.json).
    ========================================================== */
 
-import { POSTS } from "./blog-post.js";
+import { POSTS, UPDATED } from "./blog-post.js";
 
 const BASE = "https://topclubten.com";
 
+// Pages whose content is regenerated fresh every day — lastmod is always
+// "today" rather than a fixed date.
+const DAILY = [
+  { loc: "/",                              priority: "1.0" },
+  { loc: "/arsenal",                       priority: "0.9" },
+  { loc: "/chelsea",                       priority: "0.9" },
+  { loc: "/liverpool",                     priority: "0.9" },
+  { loc: "/manchester-city",               priority: "0.9" },
+  { loc: "/manchester-united",             priority: "0.9" },
+  { loc: "/tottenham",                     priority: "0.9" },
+  { loc: "/archive",                       priority: "0.6" },
+];
+
+// Static informational pages — lastmod is the date each file was actually
+// last edited (from git history), not a value that drifts out of sync.
 const STATIC = [
-  { loc: "/",                              changefreq: "daily",   priority: "1.0" },
-  { loc: "/arsenal",                       changefreq: "daily",   priority: "0.9" },
-  { loc: "/chelsea",                       changefreq: "daily",   priority: "0.9" },
-  { loc: "/liverpool",                     changefreq: "daily",   priority: "0.9" },
-  { loc: "/manchester-city",               changefreq: "daily",   priority: "0.9" },
-  { loc: "/manchester-united",             changefreq: "daily",   priority: "0.9" },
-  { loc: "/tottenham",                     changefreq: "daily",   priority: "0.9" },
-  { loc: "/how-to-play",                   changefreq: "monthly", priority: "0.5" },
-  { loc: "/blog",                          changefreq: "weekly",  priority: "0.7" },
-  { loc: "/archive",                       changefreq: "daily",   priority: "0.6" },
-  { loc: "/about",                         changefreq: "monthly", priority: "0.6" },
-  { loc: "/privacy",                       changefreq: "monthly", priority: "0.3" },
-  { loc: "/contact",                       changefreq: "monthly", priority: "0.3" },
+  { loc: "/how-to-play", changefreq: "monthly", priority: "0.5", lastmod: "2026-10-14" },
+  { loc: "/blog",        changefreq: "weekly",  priority: "0.7", lastmod: "2026-10-01" },
+  { loc: "/about",       changefreq: "monthly", priority: "0.6", lastmod: "2026-10-14" },
+  { loc: "/privacy",     changefreq: "monthly", priority: "0.3", lastmod: "2026-10-14" },
+  { loc: "/contact",     changefreq: "monthly", priority: "0.3", lastmod: "2026-10-14" },
 ];
 
 function londonToday() {
@@ -50,13 +57,14 @@ function urlTag({ loc, changefreq, priority, lastmod }) {
 export default async function handler(req, res) {
   const today = londonToday();
 
+  const dailyUrls = DAILY.map(p => urlTag({ ...p, changefreq: "daily", lastmod: today }));
   const staticUrls = STATIC.map(p => urlTag(p));
 
   const blogUrls = Object.entries(POSTS)
     .filter(([, date]) => date <= today)
     .map(([slug, date]) => urlTag({
       loc:        `/blog/${slug}`,
-      lastmod:    date,
+      lastmod:    UPDATED[slug] || date,
       changefreq: "monthly",
       priority:   "0.7"
     }));
@@ -71,6 +79,7 @@ export default async function handler(req, res) {
   const xml = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...dailyUrls,
     ...staticUrls,
     ...blogUrls,
     "</urlset>"

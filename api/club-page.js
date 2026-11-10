@@ -88,7 +88,7 @@ export default async function handler(req, res) {
     // fabricated fallback standing in for real content.
     html = template
       .replace(
-        `<div id="puzzleLabel">Puzzle #1</div>`,
+        `<div id="puzzleLabel"></div>`,
         `<div id="puzzleLabel">Puzzle unavailable</div>`
       )
       .replace(
@@ -128,7 +128,7 @@ export default async function handler(req, res) {
 
     html = html
       .replace(
-        `<div id="puzzleLabel">Puzzle #1</div>`,
+        `<div id="puzzleLabel"></div>`,
         `<div id="puzzleLabel">${esc(puzzleLabel)}</div>`
       )
       .replace(

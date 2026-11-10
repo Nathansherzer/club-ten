@@ -33,6 +33,30 @@ export const POSTS = {
   "manchester-city-trivia":                  "2026-09-07"
 };
 
+// Mirrors each post's JSON-LD "dateModified" — kept here too so the
+// sitemap's <lastmod> can reflect a real edit (e.g. the methodology
+// section gaining source links) without re-parsing every post's HTML.
+// Equal to the publish date for any post that's never been revised.
+export const UPDATED = {
+  "premier-league-points-deductions-history": "2026-10-01",
+  "premier-league-european-goals-records": "2026-11-10",
+  "brazilian-players-premier-league":      "2026-11-10",
+  "most-expensive-premier-league-transfers": "2026-11-10",
+  "dutch-players-premier-league":          "2026-11-10",
+  "oldest-premier-league-goalscorers":     "2026-11-10",
+  "academy-graduates-premier-league":      "2026-11-10",
+  "south-american-players-premier-league": "2026-11-10",
+  "club-captains-premier-league":          "2026-11-10",
+  "tallest-outfield-players-premier-league": "2026-08-31",
+  "player-of-the-month-premier-league":      "2026-09-01",
+  "spurs-tottenham-trivia":                  "2026-09-02",
+  "arsenal-trivia":                          "2026-09-03",
+  "chelsea-trivia":                          "2026-09-04",
+  "liverpool-trivia":                        "2026-09-05",
+  "manchester-united-trivia":                "2026-09-06",
+  "manchester-city-trivia":                  "2026-09-07"
+};
+
 function londonToday() {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/London" });
 }
