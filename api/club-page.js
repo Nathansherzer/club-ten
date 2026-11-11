@@ -36,6 +36,27 @@ function isValidDate(s) {
   return typeof s === "string" && /^\d{4}-\d{2}-\d{2}$/.test(s);
 }
 
+// SEO experiment (started 2026-11-11, review 2026-11-25): these four clubs
+// get a stable, club-branded <title> instead of one that changes with every
+// day's question, so Google has a consistent signal of what the page is
+// about. Arsenal and Tottenham are deliberately left on the original
+// per-question title as the comparison group — do not add them here without
+// Nathan's sign-off, that would destroy the experiment's control group.
+const STABLE_TITLES = {
+  "liverpool":           "Liverpool FC Quiz & Daily Football Trivia | Club Ten",
+  "chelsea":             "Chelsea FC Quiz & Daily Football Trivia | Club Ten",
+  "manchester-city":     "Manchester City Quiz & Daily Football Trivia | Club Ten",
+  "manchester-united":   "Manchester United Quiz & Daily Football Trivia | Club Ten",
+};
+// Description stays club-specific and still carries the real, live puzzle
+// number — only the <title> is fully stabilized.
+const STABLE_DESCRIPTIONS = {
+  "liverpool":         puzzleLabel => `Play Liverpool ${puzzleLabel} today! Test your knowledge of Liverpool legends and football history. Ten answers, three lives, and a new quiz every day.`,
+  "chelsea":           puzzleLabel => `Play Chelsea ${puzzleLabel} today! Test your knowledge of Chelsea legends and football history. Ten answers, three lives, and a new quiz every day.`,
+  "manchester-city":   puzzleLabel => `Play Man City ${puzzleLabel} today! Test your knowledge of Man City legends and football history. Ten answers, three lives, and a new quiz every day.`,
+  "manchester-united": puzzleLabel => `Play Man United ${puzzleLabel} today! Test your knowledge of Man United legends and football history. Ten answers, three lives, and a new quiz every day.`,
+};
+
 export default async function handler(req, res) {
   if (req.method !== "GET") return res.status(405).send("Method not allowed");
 
@@ -110,10 +131,12 @@ export default async function handler(req, res) {
       ? `Bonus puzzle: today's regular puzzle wasn't ready, so here's an archive favourite instead. ${data.note || ""}`
       : (data.note || "");
 
-    const newTitle       = esc(`${clubShort} ${puzzleLabel}: ${capQuestion} | Club Ten`);
+    const newTitle       = esc(STABLE_TITLES[club] || `${clubShort} ${puzzleLabel}: ${capQuestion} | Club Ten`);
     const newDescription = esc(
-      `Play Club Ten ${puzzleLabel} for ${clubShort} fans: ${question}. ` +
-      `A new football top-10 quiz every day, free, no sign-up needed.`
+      STABLE_DESCRIPTIONS[club]
+        ? STABLE_DESCRIPTIONS[club](puzzleLabel)
+        : `Play Club Ten ${puzzleLabel} for ${clubShort} fans: ${question}. ` +
+          `A new football top-10 quiz every day, free, no sign-up needed.`
     );
 
     // <title> and the three meta *-title tags share one old string; same
