@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-17",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most touches in the opposition penalty area for Arsenal in Premier League Matchweeks 1-10 of 2026/27",
+  "note": "PL only · Matchweeks 1-10, 2026/27 · ranked by box touches, ties broken by shots on target",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Bukayo Saka", "detail": "39 box touches", "accept": ["bukayo saka", "saka"] },
+    { "display": "Martin Ødegaard", "detail": "39 box touches", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
+    { "display": "Kai Havertz", "detail": "38 box touches", "accept": ["kai havertz", "havertz"] },
+    { "display": "Christos Tzolis", "detail": "32 box touches", "accept": ["christos tzolis", "tzolis"] },
+    { "display": "Noni Madueke", "detail": "32 box touches", "accept": ["noni madueke", "madueke"] },
+    { "display": "Riccardo Calafiori", "detail": "24 box touches", "accept": ["riccardo calafiori", "calafiori"] },
+    { "display": "Ben White", "detail": "20 box touches", "accept": ["ben white", "white"] },
+    { "display": "Eberechi Eze", "detail": "17 box touches", "accept": ["eberechi eze", "eze"] },
+    { "display": "Gabriel Magalhães", "detail": "14 box touches", "accept": ["gabriel magalhaes", "gabriel magalhães", "gabriel", "magalhaes"] },
+    { "display": "Mikel Merino", "detail": "12 box touches", "accept": ["mikel merino", "merino"] }
+  ]
+}

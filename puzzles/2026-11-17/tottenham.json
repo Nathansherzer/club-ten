@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-17",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most touches in the opposition penalty area for Spurs in Premier League Matchweeks 1-10 of 2026/27",
+  "note": "PL only · Matchweeks 1-10, 2026/27 · ranked by box touches, ties broken by shots on target",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Mathys Tel", "detail": "47 box touches", "accept": ["mathys tel", "tel"] },
+    { "display": "Sávio", "detail": "35 box touches", "accept": ["savio", "sávio"] },
+    { "display": "Mohammed Kudus", "detail": "34 box touches", "accept": ["mohammed kudus", "kudus"] },
+    { "display": "Dominic Solanke", "detail": "31 box touches", "accept": ["dominic solanke", "solanke"] },
+    { "display": "Omar Marmoush", "detail": "25 box touches", "accept": ["omar marmoush", "marmoush"] },
+    { "display": "Archie Gray", "detail": "19 box touches", "accept": ["archie gray", "gray"] },
+    { "display": "Andy Robertson", "detail": "18 box touches", "accept": ["andy robertson", "robertson"] },
+    { "display": "Jan Paul van Hecke", "detail": "17 box touches", "accept": ["jan paul van hecke", "van hecke"] },
+    { "display": "Pedro Porro", "detail": "14 box touches", "accept": ["pedro porro", "porro"] },
+    { "display": "Mateus Fernandes", "detail": "13 box touches", "accept": ["mateus fernandes", "fernandes"] }
+  ]
+}

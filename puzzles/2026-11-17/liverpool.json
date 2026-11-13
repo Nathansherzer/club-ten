@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-17",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most touches in the opposition penalty area for Liverpool in Premier League Matchweeks 1-10 of 2026/27",
+  "note": "PL only · Matchweeks 1-10, 2026/27 · ranked by box touches, ties broken by shots on target",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Bradley Barcola", "detail": "50 box touches", "accept": ["bradley barcola", "barcola"] },
+    { "display": "Alexander Isak", "detail": "45 box touches", "accept": ["alexander isak", "isak"] },
+    { "display": "Florian Wirtz", "detail": "42 box touches", "accept": ["florian wirtz", "wirtz"] },
+    { "display": "Cody Gakpo", "detail": "39 box touches", "accept": ["cody gakpo", "gakpo"] },
+    { "display": "Víctor Muñoz", "detail": "26 box touches", "accept": ["victor munoz", "víctor muñoz", "munoz"] },
+    { "display": "Alexis Mac Allister", "detail": "14 box touches", "accept": ["alexis mac allister", "mac allister", "macallister"] },
+    { "display": "Virgil van Dijk", "detail": "13 box touches", "accept": ["virgil van dijk", "van dijk", "vvd"] },
+    { "display": "Rio Ngumoha", "detail": "12 box touches", "accept": ["rio ngumoha", "ngumoha"] },
+    { "display": "Ronald Araújo", "detail": "10 box touches", "accept": ["ronald araujo", "ronald araújo", "araujo"] },
+    { "display": "Milos Kerkez", "detail": "9 box touches", "accept": ["milos kerkez", "kerkez"] }
+  ]
+}

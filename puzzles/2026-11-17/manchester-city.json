@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-17",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most touches in the opposition penalty area for Man City in Premier League Matchweeks 1-10 of 2026/27",
+  "note": "PL only · Matchweeks 1-10, 2026/27 · ranked by box touches, ties broken by shots on target",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Erling Haaland", "detail": "62 box touches", "accept": ["erling haaland", "haaland"] },
+    { "display": "Jérémy Doku", "detail": "58 box touches", "accept": ["jeremy doku", "jérémy doku", "doku"] },
+    { "display": "Rayan Cherki", "detail": "39 box touches", "accept": ["rayan cherki", "cherki"] },
+    { "display": "Iliman Ndiaye", "detail": "39 box touches", "accept": ["iliman ndiaye", "ndiaye"] },
+    { "display": "Antoine Semenyo", "detail": "34 box touches", "accept": ["antoine semenyo", "semenyo"] },
+    { "display": "Phil Foden", "detail": "22 box touches", "accept": ["phil foden", "foden"] },
+    { "display": "Enzo Fernández", "detail": "21 box touches", "accept": ["enzo fernandez", "enzo fernández", "enzo"] },
+    { "display": "Joško Gvardiol", "detail": "21 box touches", "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"] },
+    { "display": "Nico O'Reilly", "detail": "21 box touches", "accept": ["nico oreilly", "nico o'reilly", "oreilly"] },
+    { "display": "Elliot Anderson", "detail": "15 box touches", "accept": ["elliot anderson", "anderson"] }
+  ]
+}

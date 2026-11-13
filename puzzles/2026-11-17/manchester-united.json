@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-17",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most touches in the opposition penalty area for Man United in Premier League Matchweeks 1-10 of 2026/27",
+  "note": "PL only · Matchweeks 1-10, 2026/27 · ranked by box touches, ties broken by shots on target",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Matheus Cunha", "detail": "45 box touches", "accept": ["matheus cunha", "cunha"] },
+    { "display": "Bryan Mbeumo", "detail": "44 box touches", "accept": ["bryan mbeumo", "mbeumo"] },
+    { "display": "Marcus Rashford", "detail": "33 box touches", "accept": ["marcus rashford", "rashford"] },
+    { "display": "Bruno Fernandes", "detail": "25 box touches", "accept": ["bruno fernandes", "bruno", "fernandes"] },
+    { "display": "Amad Diallo", "detail": "25 box touches", "accept": ["amad diallo", "amad", "diallo"] },
+    { "display": "Diogo Dalot", "detail": "22 box touches", "accept": ["diogo dalot", "dalot"] },
+    { "display": "Harry Maguire", "detail": "18 box touches", "accept": ["harry maguire", "maguire"] },
+    { "display": "Patrick Dorgu", "detail": "17 box touches", "accept": ["patrick dorgu", "dorgu"] },
+    { "display": "Youri Tielemans", "detail": "15 box touches", "accept": ["youri tielemans", "tielemans"] },
+    { "display": "Mason Mount", "detail": "10 box touches", "accept": ["mason mount", "mount"] }
+  ]
+}

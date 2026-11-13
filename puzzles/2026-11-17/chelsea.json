@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-17",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most touches in the opposition penalty area for Chelsea in Premier League Matchweeks 1-10 of 2026/27",
+  "note": "PL only · Matchweeks 1-10, 2026/27 · ranked by box touches, ties broken by shots on target then alphabetically",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Cole Palmer", "detail": "49 box touches", "accept": ["cole palmer", "palmer"] },
+    { "display": "Morgan Rogers", "detail": "48 box touches", "accept": ["morgan rogers", "rogers"] },
+    { "display": "Pedro Neto", "detail": "38 box touches", "accept": ["pedro neto", "neto"] },
+    { "display": "João Pedro", "detail": "35 box touches", "accept": ["joao pedro", "joão pedro"] },
+    { "display": "Estêvão", "detail": "23 box touches", "accept": ["estevao", "estêvão", "estevao willian"] },
+    { "display": "Danny Welbeck", "detail": "10 box touches", "accept": ["danny welbeck", "welbeck"] },
+    { "display": "Josh Acheampong", "detail": "7 box touches", "accept": ["josh acheampong", "acheampong"] },
+    { "display": "Moisés Caicedo", "detail": "7 box touches", "accept": ["moises caicedo", "moisés caicedo", "caicedo"] },
+    { "display": "Pep Chavarría", "detail": "7 box touches", "accept": ["pep chavarria", "pep chavarría", "chavarria", "chavarría"] },
+    { "display": "Jorrel Hato", "detail": "7 box touches", "accept": ["jorrel hato", "hato"] }
+  ]
+}
