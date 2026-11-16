@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-19",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players with the most UEFA Cup/Europa League minutes for Arsenal",
+  "note": "UEFA Cup/Europa League only, 1971/72 onwards · excl. qualifying · ranked by minutes, ties broken by goals · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Granit Xhaka", "detail": "3060 mins", "accept": ["granit xhaka", "xhaka"] },
+    { "display": "Rob Holding", "detail": "2303 mins", "accept": ["rob holding", "holding"] },
+    { "display": "Shkodran Mustafi", "detail": "2220 mins", "accept": ["shkodran mustafi", "mustafi"] },
+    { "display": "Ainsley Maitland-Niles", "detail": "2220 mins", "accept": ["ainsley maitland-niles", "maitland-niles", "ainsley maitland niles", "maitland niles"] },
+    { "display": "Pierre-Emerick Aubameyang", "detail": "1811 mins", "accept": ["pierre-emerick aubameyang", "aubameyang", "pierre emerick aubameyang", "auba"] },
+    { "display": "Mohamed Elneny", "detail": "1781 mins", "accept": ["mohamed elneny", "elneny"] },
+    { "display": "Alexandre Lacazette", "detail": "1771 mins", "accept": ["alexandre lacazette", "lacazette"] },
+    { "display": "Bukayo Saka", "detail": "1764 mins", "accept": ["bukayo saka", "saka"] },
+    { "display": "Héctor Bellerín", "detail": "1530 mins", "accept": ["hector bellerin", "héctor bellerín", "bellerin", "bellerín"] },
+    { "display": "Nacho Monreal", "detail": "1471 mins", "accept": ["nacho monreal", "monreal"] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-19",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players with the most UEFA Cup/Europa League minutes for Liverpool",
+  "note": "UEFA Cup/Europa League only, 1971/72 onwards · excl. qualifying · ranked by minutes · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Jamie Carragher", "detail": "4406 mins", "accept": ["jamie carragher", "carragher", "carra"] },
+    { "display": "Steven Gerrard", "detail": "3297 mins", "accept": ["steven gerrard", "gerrard"] },
+    { "display": "Michael Owen", "detail": "2654 mins", "accept": ["michael owen", "owen"] },
+    { "display": "Sami Hyypiä", "detail": "2280 mins", "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"] },
+    { "display": "Ray Clemence", "detail": "2160 mins", "accept": ["ray clemence", "clemence"] },
+    { "display": "Ian Callaghan", "detail": "2116 mins", "accept": ["ian callaghan", "callaghan"] },
+    { "display": "Emlyn Hughes", "detail": "2039 mins", "accept": ["emlyn hughes", "hughes"] },
+    { "display": "Pepe Reina", "detail": "2010 mins", "accept": ["pepe reina", "reina"] },
+    { "display": "Steve Heighway", "detail": "1914 mins", "accept": ["steve heighway", "heighway"] },
+    { "display": "Dietmar Hamann", "detail": "1872 mins", "accept": ["dietmar hamann", "hamann"] }
+  ]
+}

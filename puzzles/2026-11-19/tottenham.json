@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-19",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players with the most UEFA Cup/Europa League minutes for Spurs",
+  "note": "UEFA Cup/Europa League only, 1971/72 onwards · excl. qualifying · ranked by minutes · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Steve Perryman", "detail": "4715 mins", "accept": ["steve perryman", "perryman"] },
+    { "display": "Aaron Lennon", "detail": "3229 mins", "accept": ["aaron lennon", "lennon"] },
+    { "display": "Mike England", "detail": "2970 mins", "accept": ["mike england", "england"] },
+    { "display": "Ben Davies", "detail": "2958 mins", "accept": ["ben davies", "davies"] },
+    { "display": "Pat Jennings", "detail": "2880 mins", "accept": ["pat jennings", "jennings"] },
+    { "display": "Martin Chivers", "detail": "2870 mins", "accept": ["martin chivers", "chivers"] },
+    { "display": "Martin Peters", "detail": "2836 mins", "accept": ["martin peters", "peters"] },
+    { "display": "Hugo Lloris", "detail": "2817 mins", "accept": ["hugo lloris", "lloris"] },
+    { "display": "Jan Vertonghen", "detail": "2606 mins", "accept": ["jan vertonghen", "vertonghen"] },
+    { "display": "Michael Dawson", "detail": "2526 mins", "accept": ["michael dawson", "dawson"] }
+  ]
+}

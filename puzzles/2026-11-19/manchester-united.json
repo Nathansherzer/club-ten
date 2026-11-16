@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-19",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players with the most UEFA Cup/Europa League minutes for Man United",
+  "note": "UEFA Cup/Europa League only, 1971/72 onwards · excl. qualifying · ranked by minutes · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Bruno Fernandes", "detail": "3257 mins", "accept": ["bruno fernandes", "bruno", "fernandes"] },
+    { "display": "Marcus Rashford", "detail": "2711 mins", "accept": ["marcus rashford", "rashford"] },
+    { "display": "David de Gea", "detail": "2550 mins", "accept": ["david de gea", "de gea"] },
+    { "display": "Harry Maguire", "detail": "2322 mins", "accept": ["harry maguire", "maguire"] },
+    { "display": "Sergio Romero", "detail": "2130 mins", "accept": ["sergio romero", "romero"] },
+    { "display": "Casemiro", "detail": "1969 mins", "accept": ["casemiro"] },
+    { "display": "Paul Pogba", "detail": "1960 mins", "accept": ["paul pogba", "pogba"] },
+    { "display": "Diogo Dalot", "detail": "1918 mins", "accept": ["diogo dalot", "dalot"] },
+    { "display": "Luke Shaw", "detail": "1897 mins", "accept": ["luke shaw", "shaw"] },
+    { "display": "Juan Mata", "detail": "1857 mins", "accept": ["juan mata", "mata"] }
+  ]
+}

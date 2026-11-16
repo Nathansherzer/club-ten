@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-19",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players with the most UEFA Cup/Europa League minutes for Man City",
+  "note": "UEFA Cup/Europa League only, 1971/72 onwards · excl. qualifying · ranked by minutes, ties broken by goals · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Micah Richards", "detail": "1839 mins", "accept": ["micah richards", "richards"] },
+    { "display": "Pablo Zabaleta", "detail": "1582 mins", "accept": ["pablo zabaleta", "zabaleta"] },
+    { "display": "Shaun Wright-Phillips", "detail": "1518 mins", "accept": ["shaun wright-phillips", "wright-phillips", "shaun wright phillips", "wright phillips"] },
+    { "display": "Joe Hart", "detail": "1440 mins", "accept": ["joe hart", "hart"] },
+    { "display": "Vincent Kompany", "detail": "1336 mins", "accept": ["vincent kompany", "kompany"] },
+    { "display": "Joe Corrigan", "detail": "1170 mins", "accept": ["joe corrigan", "corrigan"] },
+    { "display": "Richard Dunne", "detail": "1116 mins", "accept": ["richard dunne", "dunne"] },
+    { "display": "Asa Hartford", "detail": "1080 mins", "accept": ["asa hartford", "hartford"] },
+    { "display": "Dave Watson", "detail": "1080 mins", "accept": ["dave watson", "watson"] },
+    { "display": "Stephen Ireland", "detail": "1064 mins", "accept": ["stephen ireland", "ireland"] }
+  ]
+}

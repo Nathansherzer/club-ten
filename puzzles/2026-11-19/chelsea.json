@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-19",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players with the most UEFA Cup/Europa League minutes for Chelsea",
+  "note": "UEFA Cup/Europa League only, 1971/72 onwards · excl. qualifying · ranked by minutes · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "César Azpilicueta", "detail": "1415 mins", "accept": ["cesar azpilicueta", "césar azpilicueta", "azpilicueta"] },
+    { "display": "Andreas Christensen", "detail": "1334 mins", "accept": ["andreas christensen", "christensen"] },
+    { "display": "Kepa Arrizabalaga", "detail": "1200 mins", "accept": ["kepa arrizabalaga", "kepa"] },
+    { "display": "David Luiz", "detail": "1192 mins", "accept": ["david luiz", "luiz"] },
+    { "display": "Olivier Giroud", "detail": "1124 mins", "accept": ["olivier giroud", "giroud"] },
+    { "display": "Frank Lampard", "detail": "1113 mins", "accept": ["frank lampard", "lampard"] },
+    { "display": "Emerson Palmieri", "detail": "1020 mins", "accept": ["emerson palmieri", "emerson"] },
+    { "display": "John Terry", "detail": "990 mins", "accept": ["john terry", "terry"] },
+    { "display": "Pedro", "detail": "944 mins", "accept": ["pedro", "pedro rodriguez", "pedro rodríguez"] },
+    { "display": "Mateo Kovačić", "detail": "915 mins", "accept": ["mateo kovacic", "mateo kovačić", "kovacic", "kovačić"] }
+  ]
+}
