@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-21",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who appeared in the most competitive matches for Man United in which Bruno Fernandes also played",
+  "note": "competitive matches only, league/cups/Europe/Super Cup · excl. internationals and other clubs · ties broken by career goals for the club · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Harry Maguire", "detail": "241 apps", "accept": ["harry maguire", "maguire"] },
+    { "display": "Marcus Rashford", "detail": "225 apps", "accept": ["marcus rashford", "rashford"] },
+    { "display": "Diogo Dalot", "detail": "215 apps", "accept": ["diogo dalot", "dalot"] },
+    { "display": "Luke Shaw", "detail": "198 apps", "accept": ["luke shaw", "shaw"] },
+    { "display": "Scott McTominay", "detail": "180 apps", "accept": ["scott mctominay", "mctominay"] },
+    { "display": "Victor Lindelöf", "detail": "179 apps", "accept": ["victor lindelof", "victor lindelöf", "lindelof", "lindelöf"] },
+    { "display": "Aaron Wan-Bissaka", "detail": "156 apps", "accept": ["aaron wan-bissaka", "wan-bissaka", "aaron wan bissaka", "wan bissaka"] },
+    { "display": "Fred", "detail": "152 apps", "accept": ["fred"] },
+    { "display": "David de Gea", "detail": "152 apps", "accept": ["david de gea", "de gea"] },
+    { "display": "Casemiro", "detail": "149 apps", "accept": ["casemiro"] }
+  ]
+}

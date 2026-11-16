@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-21",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who appeared in the most competitive matches for Liverpool in which Virgil van Dijk also played",
+  "note": "competitive matches only, league/cups/Europe/Super Cup · excl. internationals and other clubs · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Mohamed Salah", "detail": "334 apps", "accept": ["mohamed salah", "mo salah", "salah"] },
+    { "display": "Andy Robertson", "detail": "299 apps", "accept": ["andy robertson", "andrew robertson", "robertson"] },
+    { "display": "Alisson Becker", "detail": "286 apps", "accept": ["alisson becker", "alisson"] },
+    { "display": "Trent Alexander-Arnold", "detail": "266 apps", "accept": ["trent alexander-arnold", "alexander-arnold", "taa", "trent"] },
+    { "display": "Joe Gomez", "detail": "201 apps", "accept": ["joe gomez", "gomez"] },
+    { "display": "Roberto Firmino", "detail": "183 apps", "accept": ["roberto firmino", "firmino"] },
+    { "display": "Jordan Henderson", "detail": "182 apps", "accept": ["jordan henderson", "henderson"] },
+    { "display": "Curtis Jones", "detail": "170 apps", "accept": ["curtis jones", "jones"] },
+    { "display": "Cody Gakpo", "detail": "168 apps", "accept": ["cody gakpo", "gakpo"] },
+    { "display": "Fabinho", "detail": "167 apps", "accept": ["fabinho"] }
+  ]
+}

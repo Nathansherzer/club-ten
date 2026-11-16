@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-21",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who appeared in the most competitive matches for Arsenal in which Bukayo Saka also played",
+  "note": "competitive matches only, league/cups/Europe/Super Cup · excl. internationals and other clubs · as of 16 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Gabriel Martinelli", "detail": "229 apps", "accept": ["gabriel martinelli", "martinelli"] },
+    { "display": "Gabriel Magalhães", "detail": "226 apps", "accept": ["gabriel magalhaes", "gabriel magalhães", "gabriel", "magalhaes"] },
+    { "display": "Martin Ødegaard", "detail": "208 apps", "accept": ["martin odegaard", "martin ødegaard", "odegaard", "ødegaard"] },
+    { "display": "Ben White", "detail": "180 apps", "accept": ["ben white", "white"] },
+    { "display": "William Saliba", "detail": "153 apps", "accept": ["william saliba", "saliba"] },
+    { "display": "Granit Xhaka", "detail": "143 apps", "accept": ["granit xhaka", "xhaka"] },
+    { "display": "Leandro Trossard", "detail": "140 apps", "accept": ["leandro trossard", "trossard"] },
+    { "display": "Thomas Partey", "detail": "139 apps", "accept": ["thomas partey", "partey"] },
+    { "display": "Eddie Nketiah", "detail": "135 apps", "accept": ["eddie nketiah", "nketiah"] },
+    { "display": "Declan Rice", "detail": "134 apps", "accept": ["declan rice", "rice"] }
+  ]
+}
