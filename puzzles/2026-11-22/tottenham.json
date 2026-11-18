@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-22",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most expensive permanent signings Spurs made while Mauricio Pochettino was in charge",
+  "note": "Permanent transfers only, May 2014 to Nov 2019 · Transfermarkt fees in euros · ranked by fee, ties broken by earlier signing · as of 17 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Tanguy Ndombele", "detail": "€62m", "accept": ["tanguy ndombele", "ndombele"] },
+    { "display": "Davinson Sánchez", "detail": "€42m", "accept": ["davinson sanchez", "davinson sánchez", "davinson", "sanchez"] },
+    { "display": "Moussa Sissoko", "detail": "€35m", "accept": ["moussa sissoko", "sissoko"] },
+    { "display": "Son Heung-min", "detail": "€30m", "accept": ["son heung-min", "son", "heung-min son", "sonny"] },
+    { "display": "Lucas Moura", "detail": "€28.4m", "accept": ["lucas moura", "moura", "lucas"] },
+    { "display": "Ryan Sessegnon", "detail": "€27m", "accept": ["ryan sessegnon", "sessegnon"] },
+    { "display": "Serge Aurier", "detail": "€25m", "accept": ["serge aurier", "aurier"] },
+    { "display": "Vincent Janssen", "detail": "€22m", "accept": ["vincent janssen", "janssen"] },
+    { "display": "Toby Alderweireld", "detail": "€16m", "accept": ["toby alderweireld", "alderweireld"] },
+    { "display": "Fernando Llorente", "detail": "€15.1m", "accept": ["fernando llorente", "llorente"] }
+  ]
+}

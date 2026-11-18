@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-22",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most expensive permanent signings Man City made while Pep Guardiola was in charge",
+  "note": "Permanent transfers only, Guardiola's tenure to June 2026 · Transfermarkt fees in euros · ranked by fee, ties broken by earlier signing · as of 17 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Jack Grealish", "detail": "€117.5m", "accept": ["jack grealish", "grealish"] },
+    { "display": "Joško Gvardiol", "detail": "€90m", "accept": ["josko gvardiol", "joško gvardiol", "gvardiol"] },
+    { "display": "Omar Marmoush", "detail": "€75m", "accept": ["omar marmoush", "marmoush"] },
+    { "display": "Antoine Semenyo", "detail": "€72m", "accept": ["antoine semenyo", "semenyo"] },
+    { "display": "Rúben Dias", "detail": "€71.6m", "accept": ["ruben dias", "rúben dias", "dias"] },
+    { "display": "Rodri", "detail": "€70m", "accept": ["rodri"] },
+    { "display": "Riyad Mahrez", "detail": "€67.8m", "accept": ["riyad mahrez", "mahrez"] },
+    { "display": "Aymeric Laporte", "detail": "€65m", "accept": ["aymeric laporte", "laporte"] },
+    { "display": "João Cancelo", "detail": "€65m", "accept": ["joao cancelo", "joão cancelo", "cancelo"] },
+    { "display": "Matheus Nunes", "detail": "€62m", "accept": ["matheus nunes", "nunes"] }
+  ]
+}
