@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-22",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most expensive permanent signings Chelsea made while José Mourinho was in charge",
+  "note": "Permanent transfers only, both Mourinho spells combined · Transfermarkt fees in euros · ranked by fee, ties broken by earlier signing · as of 17 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Andriy Shevchenko", "detail": "€43.88m", "accept": ["andriy shevchenko", "shevchenko", "sheva"] },
+    { "display": "Didier Drogba", "detail": "€38.5m", "accept": ["didier drogba", "drogba"] },
+    { "display": "Michael Essien", "detail": "€38m", "accept": ["michael essien", "essien"] },
+    { "display": "Diego Costa", "detail": "€38m", "accept": ["diego costa", "costa"] },
+    { "display": "Willian", "detail": "€35.5m", "accept": ["willian"] },
+    { "display": "Cesc Fàbregas", "detail": "€33m", "accept": ["cesc fabregas", "cesc fàbregas", "fabregas", "cesc"] },
+    { "display": "Shaun Wright-Phillips", "detail": "€31.5m", "accept": ["shaun wright-phillips", "wright-phillips", "shaun wright phillips", "wright phillips"] },
+    { "display": "Juan Cuadrado", "detail": "€31m", "accept": ["juan cuadrado", "cuadrado"] },
+    { "display": "Ricardo Carvalho", "detail": "€30m", "accept": ["ricardo carvalho", "carvalho"] },
+    { "display": "Pedro", "detail": "€27m", "accept": ["pedro", "pedro rodriguez", "pedro rodríguez"] }
+  ]
+}

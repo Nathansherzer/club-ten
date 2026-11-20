@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="1440" viewBox="0 0 850 1440" role="img" aria-labelledby="title desc">
+<title id="title">The Answer Board: Spurs Puzzle 114</title>
+<desc id="desc">Share of recorded starters who found each correct answer: Harry Kane 99%, Son Heung-min 95%, Dele Alli 86%, Gareth Bale 81%, Christian Eriksen 78%, Jan Vertonghen 76%, Kyle Walker 73%, Toby Alderweireld 70%, Danny Rose 48%, Scott Parker 6%.</desc>
+<defs>
+<pattern id="paper" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".7" fill="#F7F1E7" opacity=".09"/><circle cx="13" cy="16" r=".7" fill="#E4B850" opacity=".09"/></pattern>
+<linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#082F38"/><stop offset="1" stop-color="#12464E"/></linearGradient>
+</defs>
+<rect width="850" height="1440" rx="28" fill="url(#back)"/>
+<rect width="850" height="1440" rx="28" fill="url(#paper)"/>
+<g fill="none" stroke="#C9D5C4" opacity=".13" stroke-width="2"><circle cx="734" cy="171" r="120"/><circle cx="734" cy="171" r="60"/><path d="M734 27V315M586 171H849"/></g>
+<text x="55" y="62" fill="#F2EAD9" font-size="17" letter-spacing="3" font-weight="700" font-family="DejaVu Sans, sans-serif">TOPCLUBTEN  /  STORIES BEHIND THE ANSWERS</text>
+<path d="M55 84H795" stroke="#E5B84D" stroke-width="2" opacity=".65"/>
+<text x="51" y="169" fill="#F7F1E7" font-family="DejaVu Serif, Georgia, serif" font-size="69" font-weight="700">THE ANSWER</text>
+<text x="51" y="258" fill="#E9BC52" font-family="DejaVu Serif, Georgia, serif" font-size="86" font-weight="700">BOARD</text>
+<rect x="596" y="212" width="206" height="51" rx="24" fill="#E87562"/>
+<text x="699" y="245" fill="#082F38" text-anchor="middle" font-size="21" font-weight="800" font-family="DejaVu Sans, sans-serif">SPURS  #114</text>
+<text x="55" y="314" fill="#D8E3D5" font-size="20" font-family="DejaVu Sans, sans-serif">Share of recorded starters who found each answer</text>
+<path d="M55 345H794" stroke="#B5CCBB" opacity=".4"/>
+<rect x="30" y="374" width="790" height="76" rx="8" fill="#093B43" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="424" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">01</text>
+<text x="110" y="424" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Harry Kane</text>
+<rect x="400" y="401" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="401" width="277.2" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="425" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">99%</text>
+<rect x="30" y="462" width="790" height="76" rx="8" fill="#0D4149" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="512" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">02</text>
+<text x="110" y="512" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Son Heung-min</text>
+<rect x="400" y="489" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="489" width="266.0" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="513" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">95%</text>
+<rect x="30" y="550" width="790" height="76" rx="8" fill="#093B43" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="600" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">03</text>
+<text x="110" y="600" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Dele Alli</text>
+<rect x="400" y="577" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="577" width="240.8" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="601" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">86%</text>
+<rect x="30" y="638" width="790" height="76" rx="8" fill="#0D4149" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="688" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">04</text>
+<text x="110" y="688" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Gareth Bale</text>
+<rect x="400" y="665" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="665" width="226.8" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="689" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">81%</text>
+<rect x="30" y="726" width="790" height="76" rx="8" fill="#093B43" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="776" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">05</text>
+<text x="110" y="776" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Christian Eriksen</text>
+<rect x="400" y="753" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="753" width="218.4" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="777" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">78%</text>
+<rect x="30" y="814" width="790" height="76" rx="8" fill="#0D4149" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="864" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">06</text>
+<text x="110" y="864" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Jan Vertonghen</text>
+<rect x="400" y="841" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="841" width="212.8" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="865" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">76%</text>
+<rect x="30" y="902" width="790" height="76" rx="8" fill="#093B43" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="952" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">07</text>
+<text x="110" y="952" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Kyle Walker</text>
+<rect x="400" y="929" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="929" width="204.4" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="953" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">73%</text>
+<rect x="30" y="990" width="790" height="76" rx="8" fill="#0D4149" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="1040" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">08</text>
+<text x="110" y="1040" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Toby Alderweireld</text>
+<rect x="400" y="1017" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="1017" width="196.0" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="1041" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">70%</text>
+<rect x="30" y="1078" width="790" height="76" rx="8" fill="#093B43" stroke="#47736E" stroke-width="0.7" opacity="0.85"/>
+<text x="63" y="1128" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#B0BCAA">09</text>
+<text x="110" y="1128" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="600" fill="#F8F0E2">Danny Rose</text>
+<rect x="400" y="1105" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="1105" width="134.4" height="26" rx="3" fill="#E9BC52"/>
+<text x="789" y="1129" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#F8F0E2">48%</text>
+<rect x="30" y="1166" width="790" height="76" rx="8" fill="#17454B" stroke="#E87967" stroke-width="2" opacity="1"/>
+<text x="63" y="1216" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700" fill="#F48469">10</text>
+<text x="110" y="1216" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="700" fill="#F8F0E2">Scott Parker</text>
+<rect x="400" y="1193" width="280" height="26" rx="3" fill="#31616A"/>
+<rect x="400" y="1193" width="16.8" height="26" rx="3" fill="#F48469"/>
+<text x="789" y="1217" font-family="DejaVu Sans, sans-serif" font-size="31" font-weight="800" text-anchor="end" fill="#FF917D">6%</text>
+<path d="M55 1270H795" stroke="#B5CCBB" opacity=".48"/>
+<text x="55" y="1310" fill="#E9BC52" font-size="20" font-weight="700" font-family="DejaVu Sans, sans-serif">PARKER'S RATE WAS ONE-EIGHTH OF ROSE'S.</text>
+<text x="55" y="1350" fill="#DFE2D5" font-size="17" font-family="DejaVu Sans, sans-serif">GA4 active users  •  4–6 Nov 2026, New York time</text>
+<text x="55" y="1380" fill="#C0D0C5" font-size="17" font-family="DejaVu Sans, sans-serif">Rounded percentages  •  Not a survey of individual fans</text>
+</svg>

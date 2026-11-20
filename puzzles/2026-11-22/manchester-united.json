@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-22",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most expensive permanent signings Man United made while Sir Alex Ferguson was in charge",
+  "note": "Permanent transfers only · Transfermarkt fees in euros · ranked by fee, ties broken by earlier signing · as of 17 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Rio Ferdinand", "detail": "€46m", "accept": ["rio ferdinand", "ferdinand"] },
+    { "display": "Juan Sebastián Verón", "detail": "€42.6m", "accept": ["juan sebastian veron", "juan sebastián verón", "veron", "verón"] },
+    { "display": "Dimitar Berbatov", "detail": "€38m", "accept": ["dimitar berbatov", "berbatov"] },
+    { "display": "Wayne Rooney", "detail": "€37m", "accept": ["wayne rooney", "rooney"] },
+    { "display": "Anderson", "detail": "€31.5m", "accept": ["anderson"] },
+    { "display": "Robin van Persie", "detail": "€30.7m", "accept": ["robin van persie", "van persie", "rvp"] },
+    { "display": "Ruud van Nistelrooy", "detail": "€28.5m", "accept": ["ruud van nistelrooy", "van nistelrooy", "nistelrooy"] },
+    { "display": "Michael Carrick", "detail": "€27.2m", "accept": ["michael carrick", "carrick"] },
+    { "display": "Nani", "detail": "€25.5m", "accept": ["nani"] },
+    { "display": "Owen Hargreaves", "detail": "€25m", "accept": ["owen hargreaves", "hargreaves"] }
+  ]
+}

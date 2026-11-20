@@ -4,7 +4,7 @@
   "clubLabel": "Man City:",
   "clubShort": "Man City",
   "question": "name the 10 players with the most Premier League wins while playing for Man City",
-  "note": "PL wins only · as Man City player · ranked order · as of 26 Jul 2026",
+  "note": "PL wins only · as Man City player · ranked order · as of 16 Nov 2026",
   "placeholder": "Type a player's name…",
   "answers": [
     { "display": "Bernardo Silva", "detail": "217 wins", "accept": ["bernardo silva", "bernardo"] },
@@ -15,7 +15,7 @@
     { "display": "Sergio Agüero", "detail": "186 wins", "accept": ["sergio aguero", "sergio agüero", "aguero", "agüero"] },
     { "display": "Vincent Kompany", "detail": "167 wins", "accept": ["vincent kompany", "kompany"] },
     { "display": "İlkay Gündoğan", "detail": "162 wins", "accept": ["ilkay gundogan", "ilkay gündoğan", "gundogan", "gündoğan"] },
-    { "display": "Phil Foden", "detail": "156 wins", "accept": ["phil foden", "foden"] },
+    { "display": "Phil Foden", "detail": "161 wins", "accept": ["phil foden", "foden"] },
     { "display": "Raheem Sterling", "detail": "154 wins", "accept": ["raheem sterling", "sterling"] }
   ]
 }

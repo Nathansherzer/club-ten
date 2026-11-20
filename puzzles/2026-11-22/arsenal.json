@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-22",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most expensive permanent signings Arsenal made while Arsène Wenger was in charge",
+  "note": "Permanent transfers only · Transfermarkt fees in euros · ranked by fee, ties broken by earlier signing · as of 17 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    { "display": "Pierre-Emerick Aubameyang", "detail": "€63.75m", "accept": ["pierre-emerick aubameyang", "aubameyang", "pierre emerick aubameyang", "auba"] },
+    { "display": "Alexandre Lacazette", "detail": "€53m", "accept": ["alexandre lacazette", "lacazette"] },
+    { "display": "Mesut Özil", "detail": "€47m", "accept": ["mesut ozil", "mesut özil", "ozil", "özil"] },
+    { "display": "Granit Xhaka", "detail": "€45m", "accept": ["granit xhaka", "xhaka"] },
+    { "display": "Alexis Sánchez", "detail": "€42.5m", "accept": ["alexis sanchez", "alexis sánchez", "sanchez", "alexis"] },
+    { "display": "Shkodran Mustafi", "detail": "€41m", "accept": ["shkodran mustafi", "mustafi"] },
+    { "display": "Henrikh Mkhitaryan", "detail": "€34m", "accept": ["henrikh mkhitaryan", "mkhitaryan", "micki"] },
+    { "display": "Calum Chambers", "detail": "€20.23m", "accept": ["calum chambers", "chambers"] },
+    { "display": "José Antonio Reyes", "detail": "€20m", "accept": ["jose antonio reyes", "josé antonio reyes", "reyes", "jose reyes"] },
+    { "display": "Danny Welbeck", "detail": "€20m", "accept": ["danny welbeck", "welbeck"] }
+  ]
+}
