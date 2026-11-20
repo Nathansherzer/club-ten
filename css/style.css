@@ -45,6 +45,19 @@ body {
   padding: 16px 0 32px;
 }
 
+/* Sticky-floor clearance — applies ONLY when the Snack gate has activated
+   (html.snack-ads), i.e. staging hostname AND the explicit switch. With ads
+   off, nothing here matches and .wrap keeps its original 32px bottom padding.
+
+   Snack's doc recommends extra bottom space so the auto-injected sticky
+   floor doesn't cover content. The value below is a PLACEHOLDER, not
+   measured against a rendered unit — calibrate at QA against the real
+   floor height, on mobile with the keyboard open, and against the consent
+   banner, which is also position:fixed;bottom:0 and sets its own body
+   padding from its own height (it knows nothing about a floor). */
+html.snack-ads { --snack-floor-clearance: 90px; }
+html.snack-ads .wrap { padding-bottom: calc(32px + var(--snack-floor-clearance)); }
+
 /* ---- header ------------------------------------------------ */
 
 header {

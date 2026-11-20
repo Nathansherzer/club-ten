@@ -67,5 +67,12 @@
     { "source": "/manchester-city/:date",   "destination": "/api/puzzle-page?club=manchester-city&date=:date" },
     { "source": "/manchester-united/:date", "destination": "/api/puzzle-page?club=manchester-united&date=:date" },
     { "source": "/tottenham/:date",         "destination": "/api/puzzle-page?club=tottenham&date=:date" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "staging.topclubten.com" }],
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+    }
   ]
 }

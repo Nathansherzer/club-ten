@@ -25,6 +25,7 @@ import {
   londonToday, puzzleNumber, formatDate, capitalize, esc, loadPuzzle,
   recentArchiveDates
 } from "../lib/puzzle-meta.js";
+import { applySnack } from "../lib/snack-ads.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -71,5 +72,5 @@ export default async function handler(req, res) {
 
   res.setHeader("Cache-Control", "public, max-age=1800");
   res.setHeader("Content-Type", "text/html; charset=utf-8");
-  return res.status(200).send(html);
+  return res.status(200).send(applySnack(req, res, html));
 }

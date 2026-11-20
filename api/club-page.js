@@ -22,6 +22,7 @@
    ========================================================== */
 
 import { readFile } from "fs/promises";
+import { applySnack } from "../lib/snack-ads.js";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import {
@@ -180,5 +181,5 @@ export default async function handler(req, res) {
   // replay at a fixed past date never changes and can cache hard.
   res.setHeader("Cache-Control", isArchive ? "public, max-age=86400, immutable" : "no-store");
   res.setHeader("Content-Type", "text/html; charset=utf-8");
-  return res.status(200).send(html);
+  return res.status(200).send(applySnack(req, res, html));
 }

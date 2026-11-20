@@ -22,6 +22,7 @@ import { readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import { VALID_CLUBS, CLUB_NAMES, londonToday, esc, loadTodayPuzzle } from "../lib/puzzle-meta.js";
+import { applySnack } from "../lib/snack-ads.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -64,5 +65,5 @@ export default async function handler(req, res) {
 
   res.setHeader("Cache-Control", "no-store");
   res.setHeader("Content-Type", "text/html; charset=utf-8");
-  return res.status(200).send(html);
+  return res.status(200).send(applySnack(req, res, html));
 }
