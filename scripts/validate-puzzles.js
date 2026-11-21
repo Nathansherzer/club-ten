@@ -27,6 +27,11 @@
  *      that exact, correctly-spelled suggestion doesn't register, that's
  *      a hard bug (caught "Sir Alex Ferguson" and "Altay Bayındır"
  *      missing themselves from their own accept lists).
+ *   5. Every date folder has exactly one file for each of the six clubs.
+ *      Catches a day that was only partly written (e.g. 3 of 6 clubs),
+ *      where the missing clubs silently fall back to the 20 Jul
+ *      Champions League puzzle on the live site. A hard error, since a
+ *      day with a missing club is a live problem, not a style question.
  *
  * Also prints (but does not fail the build on) advisory WARNINGS: cases
  * where simulating the real autocomplete dropdown (mirrors
@@ -51,6 +56,7 @@ import { readdir, readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import { matchGuess, norm, editDist } from "../lib/match.js";
+import { VALID_CLUBS } from "../lib/puzzle-meta.js";
 
 // Mirror of getSuggestions() in js/utils.js — kept separate for the same
 // reason lib/match.js mirrors norm()/matchGuess() rather than importing
@@ -106,6 +112,31 @@ async function findPuzzleFiles() {
     }
   }
   return files;
+}
+
+// Every date folder must hold exactly one <club>.json per tracked club.
+async function checkDayCompleteness() {
+  const errors = [];
+  const dates = (await readdir(PUZZLES_DIR, { withFileTypes: true }))
+    .filter(d => d.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(d.name))
+    .map(d => d.name)
+    .sort();
+  for (const date of dates) {
+    const present = new Set(
+      (await readdir(join(PUZZLES_DIR, date)))
+        .filter(f => f.endsWith(".json"))
+        .map(f => f.slice(0, -".json".length))
+    );
+    const missing = [...VALID_CLUBS].filter(c => !present.has(c));
+    const unexpected = [...present].filter(c => !VALID_CLUBS.has(c));
+    if (missing.length) {
+      errors.push(`puzzles/${date}: missing ${missing.length} of ${VALID_CLUBS.size} clubs (${missing.join(", ")}) — they would fall back to the backup puzzle`);
+    }
+    if (unexpected.length) {
+      errors.push(`puzzles/${date}: unexpected file(s) not matching a club slug: ${unexpected.join(", ")}`);
+    }
+  }
+  return errors;
 }
 
 async function validateFile(path, banks) {
@@ -308,6 +339,7 @@ async function main() {
 
   let allErrors = [];
   let allWarnings = [];
+  allErrors.push(...(await checkDayCompleteness()));
   for (const file of files) {
     const { errors, warnings } = await validateFile(file, banks);
     allErrors.push(...errors);
