@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-23",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who received the most Premier League yellow cards for Liverpool, as of 20 November 2026",
+  "note": "PL yellow cards for Liverpool only · combines multiple spells · ties broken by fewer PL apps for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jamie Carragher",
+      "detail": "70 yellows",
+      "accept": [
+        "jamie carragher",
+        "carragher"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "61 yellows",
+      "accept": [
+        "steven gerrard",
+        "steve gerrard",
+        "gerrard"
+      ]
+    },
+    {
+      "display": "Lucas Leiva",
+      "detail": "50 yellows",
+      "accept": [
+        "lucas leiva",
+        "lucas",
+        "leiva"
+      ]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "43 yellows",
+      "accept": [
+        "martin skrtel",
+        "martin škrtel",
+        "skrtel",
+        "škrtel"
+      ]
+    },
+    {
+      "display": "Fabinho",
+      "detail": "36 yellows",
+      "accept": [
+        "fabinho"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "34 yellows",
+      "accept": [
+        "jordan henderson",
+        "henderson"
+      ]
+    },
+    {
+      "display": "Dietmar Hamann",
+      "detail": "33 yellows",
+      "accept": [
+        "dietmar hamann",
+        "hamann"
+      ]
+    },
+    {
+      "display": "James Milner",
+      "detail": "33 yellows",
+      "accept": [
+        "james milner",
+        "milner"
+      ]
+    },
+    {
+      "display": "Trent Alexander-Arnold",
+      "detail": "31 yellows",
+      "accept": [
+        "trent alexander-arnold",
+        "trent alexander arnold",
+        "alexander-arnold",
+        "alexander arnold",
+        "trent"
+      ]
+    },
+    {
+      "display": "Joe Gomez",
+      "detail": "30 yellows",
+      "accept": [
+        "joe gomez",
+        "gomez"
+      ]
+    }
+  ]
+}

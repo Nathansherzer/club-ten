@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-23",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who received the most Premier League yellow cards for Man United, as of 20 November 2026",
+  "note": "PL yellow cards for Man United only · combines multiple spells · ties broken by fewer PL apps for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Paul Scholes",
+      "detail": "97 yellows",
+      "accept": [
+        "paul scholes",
+        "scholes"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "80 yellows",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "65 yellows",
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "62 yellows",
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "53 yellows",
+      "accept": [
+        "gary neville"
+      ]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "46 yellows",
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
+    },
+    {
+      "display": "Nicky Butt",
+      "detail": "45 yellows",
+      "accept": [
+        "nicky butt",
+        "butt"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "43 yellows",
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
+    },
+    {
+      "display": "Phil Neville",
+      "detail": "43 yellows",
+      "accept": [
+        "phil neville"
+      ]
+    },
+    {
+      "display": "David Beckham",
+      "detail": "43 yellows",
+      "accept": [
+        "david beckham",
+        "beckham"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-23",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who received the most Premier League yellow cards for Man City, as of 20 November 2026",
+  "note": "PL yellow cards for Man City only · combines multiple spells · ties broken by fewer PL apps for the club",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Vincent Kompany",
+      "detail": "59 yellows",
+      "accept": [
+        "vincent kompany",
+        "kompany"
+      ]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "53 yellows",
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "53 yellows",
+      "accept": [
+        "fernandinho"
+      ]
+    },
+    {
+      "display": "Bernardo Silva",
+      "detail": "49 yellows",
+      "accept": [
+        "bernardo silva",
+        "bernardo"
+      ]
+    },
+    {
+      "display": "Joey Barton",
+      "detail": "39 yellows",
+      "accept": [
+        "joey barton",
+        "barton"
+      ]
+    },
+    {
+      "display": "Richard Dunne",
+      "detail": "37 yellows",
+      "accept": [
+        "richard dunne",
+        "dunne"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "35 yellows",
+      "accept": [
+        "rodri"
+      ]
+    },
+    {
+      "display": "Yaya Touré",
+      "detail": "34 yellows",
+      "accept": [
+        "yaya toure",
+        "yaya touré",
+        "toure",
+        "touré",
+        "yaya"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "32 yellows",
+      "accept": [
+        "david silva"
+      ]
+    },
+    {
+      "display": "Nicolás Otamendi",
+      "detail": "31 yellows",
+      "accept": [
+        "nicolas otamendi",
+        "nicolás otamendi",
+        "otamendi"
+      ]
+    }
+  ]
+}
