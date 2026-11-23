@@ -12,7 +12,7 @@
     { "display": "Jordan Henderson", "detail": "215 wins", "accept": ["jordan henderson", "henderson"] },
     { "display": "Mohamed Salah", "detail": "201 wins", "accept": ["mohamed salah", "mo salah", "salah"] },
     { "display": "Virgil van Dijk", "detail": "184 wins", "accept": ["virgil van dijk", "van dijk", "vvd"] },
-    { "display": "Andrew Robertson", "detail": "179 wins", "accept": ["andrew robertson", "andy robertson", "robertson"] },
+    { "display": "Andy Robertson", "detail": "179 wins", "accept": ["andrew robertson", "andy robertson", "robertson"] },
     { "display": "Sami Hyypiä", "detail": "172 wins", "accept": ["sami hyypia", "sami hyypiä", "hyypia", "hyypiä"] },
     { "display": "Trent Alexander-Arnold", "detail": "171 wins", "accept": ["trent alexander-arnold", "alexander-arnold", "taa", "trent"] },
     { "display": "Alisson", "detail": "169 wins", "accept": ["alisson", "alisson becker"] },
