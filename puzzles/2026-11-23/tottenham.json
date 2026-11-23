@@ -4,12 +4,12 @@
   "clubLabel": "Spurs:",
   "clubShort": "Spurs",
   "question": "name the 10 players who received the most Premier League yellow cards for Spurs, as of 20 November 2026",
-  "note": "PL yellow cards for Spurs only · combines multiple spells · ties broken by fewer PL apps for the club",
+  "note": "PL yellow cards for Spurs only · combines multiple spells · any order",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Danny Rose",
-      "detail": "41 yellows",
+      "detail": "",
       "accept": [
         "danny rose",
         "rose"
@@ -17,7 +17,7 @@
     },
     {
       "display": "Michael Dawson",
-      "detail": "40 yellows",
+      "detail": "",
       "accept": [
         "michael dawson",
         "dawson"
@@ -25,7 +25,7 @@
     },
     {
       "display": "Eric Dier",
-      "detail": "40 yellows",
+      "detail": "",
       "accept": [
         "eric dier",
         "dier"
@@ -33,7 +33,7 @@
     },
     {
       "display": "Harry Kane",
-      "detail": "38 yellows",
+      "detail": "",
       "accept": [
         "harry kane",
         "kane"
@@ -41,7 +41,7 @@
     },
     {
       "display": "Ben Davies",
-      "detail": "37 yellows",
+      "detail": "",
       "accept": [
         "ben davies",
         "davies"
@@ -49,7 +49,7 @@
     },
     {
       "display": "Rodrigo Bentancur",
-      "detail": "36 yellows",
+      "detail": "",
       "accept": [
         "rodrigo bentancur",
         "bentancur"
@@ -57,7 +57,7 @@
     },
     {
       "display": "Jan Vertonghen",
-      "detail": "36 yellows",
+      "detail": "",
       "accept": [
         "jan vertonghen",
         "vertonghen"
@@ -65,7 +65,7 @@
     },
     {
       "display": "Cristian Romero",
-      "detail": "35 yellows",
+      "detail": "",
       "accept": [
         "cristian romero",
         "romero",
@@ -74,7 +74,7 @@
     },
     {
       "display": "Justin Edinburgh",
-      "detail": "34 yellows",
+      "detail": "",
       "accept": [
         "justin edinburgh",
         "edinburgh"
@@ -82,7 +82,7 @@
     },
     {
       "display": "Kyle Walker",
-      "detail": "32 yellows",
+      "detail": "",
       "accept": [
         "kyle walker",
         "walker"

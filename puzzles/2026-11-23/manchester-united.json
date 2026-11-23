@@ -4,12 +4,12 @@
   "clubLabel": "Man United:",
   "clubShort": "Man United",
   "question": "name the 10 players who received the most Premier League yellow cards for Man United, as of 20 November 2026",
-  "note": "PL yellow cards for Man United only · combines multiple spells · ties broken by fewer PL apps for the club",
+  "note": "PL yellow cards for Man United only · combines multiple spells · any order",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Paul Scholes",
-      "detail": "97 yellows",
+      "detail": "",
       "accept": [
         "paul scholes",
         "scholes"
@@ -17,7 +17,7 @@
     },
     {
       "display": "Wayne Rooney",
-      "detail": "80 yellows",
+      "detail": "",
       "accept": [
         "wayne rooney",
         "rooney"
@@ -25,7 +25,7 @@
     },
     {
       "display": "Luke Shaw",
-      "detail": "65 yellows",
+      "detail": "",
       "accept": [
         "luke shaw",
         "shaw"
@@ -33,7 +33,7 @@
     },
     {
       "display": "Roy Keane",
-      "detail": "62 yellows",
+      "detail": "",
       "accept": [
         "roy keane",
         "keane"
@@ -41,14 +41,14 @@
     },
     {
       "display": "Gary Neville",
-      "detail": "53 yellows",
+      "detail": "",
       "accept": [
         "gary neville"
       ]
     },
     {
       "display": "Harry Maguire",
-      "detail": "46 yellows",
+      "detail": "",
       "accept": [
         "harry maguire",
         "maguire"
@@ -56,7 +56,7 @@
     },
     {
       "display": "Nicky Butt",
-      "detail": "45 yellows",
+      "detail": "",
       "accept": [
         "nicky butt",
         "butt"
@@ -64,7 +64,7 @@
     },
     {
       "display": "Bruno Fernandes",
-      "detail": "43 yellows",
+      "detail": "",
       "accept": [
         "bruno fernandes",
         "fernandes",
@@ -73,14 +73,14 @@
     },
     {
       "display": "Phil Neville",
-      "detail": "43 yellows",
+      "detail": "",
       "accept": [
         "phil neville"
       ]
     },
     {
       "display": "David Beckham",
-      "detail": "43 yellows",
+      "detail": "",
       "accept": [
         "david beckham",
         "beckham"
