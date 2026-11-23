@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-26",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 outfield players who started for Spurs in Premier League Matchweek 11 of the 2026/27 season",
+  "note": "vs Ipswich Town, 21 Nov 2026 · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Pedro Porro",
+      "detail": "",
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
+    },
+    {
+      "display": "Jan Paul van Hecke",
+      "detail": "",
+      "accept": [
+        "jan paul van hecke",
+        "van hecke",
+        "vanhecke",
+        "jan paul"
+      ]
+    },
+    {
+      "display": "Marcos Senesi",
+      "detail": "",
+      "accept": [
+        "marcos senesi",
+        "senesi"
+      ]
+    },
+    {
+      "display": "Destiny Udogie",
+      "detail": "",
+      "accept": [
+        "destiny udogie",
+        "udogie"
+      ]
+    },
+    {
+      "display": "Conor Gallagher",
+      "detail": "",
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
+    },
+    {
+      "display": "Mateus Fernandes",
+      "detail": "",
+      "accept": [
+        "mateus fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Mohammed Kudus",
+      "detail": "",
+      "accept": [
+        "mohammed kudus",
+        "kudus"
+      ]
+    },
+    {
+      "display": "James Maddison",
+      "detail": "",
+      "accept": [
+        "james maddison",
+        "maddison"
+      ]
+    },
+    {
+      "display": "Luca Williams-Barnett",
+      "detail": "",
+      "accept": [
+        "luca williams-barnett",
+        "luca williams barnett",
+        "williams-barnett",
+        "williams barnett"
+      ]
+    },
+    {
+      "display": "Dominic Solanke",
+      "detail": "",
+      "accept": [
+        "dominic solanke",
+        "solanke"
+      ]
+    }
+  ]
+}

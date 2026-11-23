@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-26",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 outfield players who started for Arsenal in Premier League Matchweek 11 of the 2026/27 season",
+  "note": "vs Newcastle United, 21 Nov 2026 · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jurriën Timber",
+      "detail": "",
+      "accept": [
+        "jurrien timber",
+        "jurriën timber",
+        "timber"
+      ]
+    },
+    {
+      "display": "Ezri Konsa",
+      "detail": "",
+      "accept": [
+        "ezri konsa",
+        "konsa"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes",
+        "magalhães"
+      ]
+    },
+    {
+      "display": "Riccardo Calafiori",
+      "detail": "",
+      "accept": [
+        "riccardo calafiori",
+        "calafiori"
+      ]
+    },
+    {
+      "display": "Bruno Guimarães",
+      "detail": "",
+      "accept": [
+        "bruno guimaraes",
+        "bruno guimarães",
+        "guimaraes",
+        "guimarães"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Martin Ødegaard",
+      "detail": "",
+      "accept": [
+        "martin odegaard",
+        "martin ødegaard",
+        "odegaard",
+        "ødegaard"
+      ]
+    },
+    {
+      "display": "Noni Madueke",
+      "detail": "",
+      "accept": [
+        "noni madueke",
+        "madueke",
+        "noni"
+      ]
+    },
+    {
+      "display": "Eberechi Eze",
+      "detail": "",
+      "accept": [
+        "eberechi eze",
+        "eze"
+      ]
+    },
+    {
+      "display": "Kai Havertz",
+      "detail": "",
+      "accept": [
+        "kai havertz",
+        "havertz"
+      ]
+    }
+  ]
+}

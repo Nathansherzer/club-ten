@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-26",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 outfield players who started for Man United in Premier League Matchweek 11 of the 2026/27 season",
+  "note": "vs Liverpool, 22 Nov 2026 · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Leny Yoro",
+      "detail": "",
+      "accept": [
+        "leny yoro",
+        "yoro"
+      ]
+    },
+    {
+      "display": "Matthijs de Ligt",
+      "detail": "",
+      "accept": [
+        "matthijs de ligt",
+        "de ligt",
+        "deligt"
+      ]
+    },
+    {
+      "display": "Lisandro Martínez",
+      "detail": "",
+      "accept": [
+        "lisandro martinez",
+        "lisandro martínez",
+        "martinez",
+        "martínez",
+        "licha"
+      ]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "",
+      "accept": [
+        "diogo dalot",
+        "dalot"
+      ]
+    },
+    {
+      "display": "Youri Tielemans",
+      "detail": "",
+      "accept": [
+        "youri tielemans",
+        "tielemans"
+      ]
+    },
+    {
+      "display": "Kobbie Mainoo",
+      "detail": "",
+      "accept": [
+        "kobbie mainoo",
+        "mainoo"
+      ]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "",
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "",
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
+    },
+    {
+      "display": "Patrick Dorgu",
+      "detail": "",
+      "accept": [
+        "patrick dorgu",
+        "dorgu"
+      ]
+    },
+    {
+      "display": "Matheus Cunha",
+      "detail": "",
+      "accept": [
+        "matheus cunha",
+        "cunha"
+      ]
+    }
+  ]
+}

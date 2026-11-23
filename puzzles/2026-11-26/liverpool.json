@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-26",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 outfield players who started for Liverpool in Premier League Matchweek 11 of the 2026/27 season",
+  "note": "vs Manchester United, 22 Nov 2026 · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ronald Araújo",
+      "detail": "",
+      "accept": [
+        "ronald araujo",
+        "ronald araújo",
+        "araujo",
+        "araújo"
+      ]
+    },
+    {
+      "display": "Jérémy Jacquet",
+      "detail": "",
+      "accept": [
+        "jeremy jacquet",
+        "jérémy jacquet",
+        "jacquet"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "",
+      "accept": [
+        "virgil van dijk",
+        "van dijk",
+        "vvd",
+        "virgil"
+      ]
+    },
+    {
+      "display": "Milos Kerkez",
+      "detail": "",
+      "accept": [
+        "milos kerkez",
+        "miloš kerkez",
+        "kerkez"
+      ]
+    },
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "",
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai",
+        "szobo"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "",
+      "accept": [
+        "alexis mac allister",
+        "mac allister",
+        "macallister"
+      ]
+    },
+    {
+      "display": "Rio Ngumoha",
+      "detail": "",
+      "accept": [
+        "rio ngumoha",
+        "ngumoha"
+      ]
+    },
+    {
+      "display": "Florian Wirtz",
+      "detail": "",
+      "accept": [
+        "florian wirtz",
+        "wirtz"
+      ]
+    },
+    {
+      "display": "Bradley Barcola",
+      "detail": "",
+      "accept": [
+        "bradley barcola",
+        "barcola"
+      ]
+    },
+    {
+      "display": "Alexander Isak",
+      "detail": "",
+      "accept": [
+        "alexander isak",
+        "isak"
+      ]
+    }
+  ]
+}

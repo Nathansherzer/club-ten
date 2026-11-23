@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-26",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 outfield players who started for Man City in Premier League Matchweek 11 of the 2026/27 season",
+  "note": "vs Fulham, 21 Nov 2026 · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Abdukodir Khusanov",
+      "detail": "",
+      "accept": [
+        "abdukodir khusanov",
+        "khusanov"
+      ]
+    },
+    {
+      "display": "Rúben Dias",
+      "detail": "",
+      "accept": [
+        "ruben dias",
+        "rúben dias",
+        "dias"
+      ]
+    },
+    {
+      "display": "Marc Guéhi",
+      "detail": "",
+      "accept": [
+        "marc guehi",
+        "marc guéhi",
+        "guehi",
+        "guéhi"
+      ]
+    },
+    {
+      "display": "Nico O’Reilly",
+      "detail": "",
+      "accept": [
+        "nico o'reilly",
+        "nico o’reilly",
+        "nico oreilly",
+        "o'reilly",
+        "o’reilly",
+        "oreilly"
+      ]
+    },
+    {
+      "display": "Ayyoub Bouaddi",
+      "detail": "",
+      "accept": [
+        "ayyoub bouaddi",
+        "bouaddi"
+      ]
+    },
+    {
+      "display": "Elliot Anderson",
+      "detail": "",
+      "accept": [
+        "elliot anderson",
+        "anderson"
+      ]
+    },
+    {
+      "display": "Iliman Ndiaye",
+      "detail": "",
+      "accept": [
+        "iliman ndiaye",
+        "ndiaye"
+      ]
+    },
+    {
+      "display": "Phil Foden",
+      "detail": "",
+      "accept": [
+        "phil foden",
+        "foden"
+      ]
+    },
+    {
+      "display": "Jérémy Doku",
+      "detail": "",
+      "accept": [
+        "jeremy doku",
+        "jérémy doku",
+        "doku"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "",
+      "accept": [
+        "erling haaland",
+        "haaland",
+        "erling"
+      ]
+    }
+  ]
+}

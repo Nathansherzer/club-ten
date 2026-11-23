@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-26",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 outfield players who started for Chelsea in Premier League Matchweek 11 of the 2026/27 season",
+  "note": "vs Leeds United, 21 Nov 2026 · goalkeeper excluded · any order",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Josh Acheampong",
+      "detail": "",
+      "accept": [
+        "josh acheampong",
+        "acheampong"
+      ]
+    },
+    {
+      "display": "Wesley Fofana",
+      "detail": "",
+      "accept": [
+        "wesley fofana",
+        "fofana"
+      ]
+    },
+    {
+      "display": "Levi Colwill",
+      "detail": "",
+      "accept": [
+        "levi colwill",
+        "colwill"
+      ]
+    },
+    {
+      "display": "Pep Chavarría",
+      "detail": "",
+      "accept": [
+        "pep chavarria",
+        "pep chavarría",
+        "chavarria",
+        "chavarría"
+      ]
+    },
+    {
+      "display": "Roméo Lavia",
+      "detail": "",
+      "accept": [
+        "romeo lavia",
+        "roméo lavia",
+        "lavia"
+      ]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "",
+      "accept": [
+        "moises caicedo",
+        "moisés caicedo",
+        "caicedo"
+      ]
+    },
+    {
+      "display": "Estêvão",
+      "detail": "",
+      "accept": [
+        "estevao",
+        "estêvão",
+        "estevao willian",
+        "estêvão willian"
+      ]
+    },
+    {
+      "display": "Cole Palmer",
+      "detail": "",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Morgan Rogers",
+      "detail": "",
+      "accept": [
+        "morgan rogers",
+        "rogers"
+      ]
+    },
+    {
+      "display": "Emmanuel Emegha",
+      "detail": "",
+      "accept": [
+        "emmanuel emegha",
+        "emegha"
+      ]
+    }
+  ]
+}
