@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-25",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who lost the most Premier League matches while playing for Man City",
+  "note": "Source: StatMuse. Premier League losses for the selected club, ranked by total losses. Ties broken by fewer appearances. Data as of November 23, 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Richard Dunne",
+      "detail": "109 losses",
+      "appearances": 253,
+      "accept": [
+        "richard dunne",
+        "dunne"
+      ]
+    },
+    {
+      "display": "Sylvain Distin",
+      "detail": "76 losses",
+      "appearances": 178,
+      "accept": [
+        "sylvain distin",
+        "distin"
+      ]
+    },
+    {
+      "display": "Stephen Ireland",
+      "detail": "63 losses",
+      "appearances": 138,
+      "accept": [
+        "stephen ireland",
+        "ireland"
+      ]
+    },
+    {
+      "display": "Shaun Wright-Phillips",
+      "detail": "63 losses",
+      "appearances": 178,
+      "accept": [
+        "shaun wright-phillips",
+        "shaun wright phillips",
+        "wright-phillips",
+        "wright phillips",
+        "swp"
+      ]
+    },
+    {
+      "display": "Joe Hart",
+      "detail": "61 losses",
+      "appearances": 266,
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
+    },
+    {
+      "display": "Micah Richards",
+      "detail": "60 losses",
+      "appearances": 179,
+      "accept": [
+        "micah richards",
+        "richards"
+      ]
+    },
+    {
+      "display": "Sun Jihai",
+      "detail": "55 losses",
+      "appearances": 123,
+      "accept": [
+        "sun jihai",
+        "jihai",
+        "sun"
+      ]
+    },
+    {
+      "display": "Joey Barton",
+      "detail": "55 losses",
+      "appearances": 130,
+      "accept": [
+        "joey barton",
+        "barton"
+      ]
+    },
+    {
+      "display": "Pablo Zabaleta",
+      "detail": "51 losses",
+      "appearances": 230,
+      "accept": [
+        "pablo zabaleta",
+        "zabaleta"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "50 losses",
+      "appearances": 309,
+      "accept": [
+        "david silva"
+      ]
+    }
+  ]
+}

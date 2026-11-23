@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-25",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 players who lost the most Premier League matches while playing for Chelsea",
+  "note": "Source: StatMuse. Premier League losses for the selected club, ranked by total losses. Ties broken by fewer appearances. Data as of November 23, 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "César Azpilicueta",
+      "detail": "76 losses",
+      "appearances": 349,
+      "accept": [
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi"
+      ]
+    },
+    {
+      "display": "Dennis Wise",
+      "detail": "74 losses",
+      "appearances": 261,
+      "accept": [
+        "dennis wise",
+        "wise"
+      ]
+    },
+    {
+      "display": "John Terry",
+      "detail": "74 losses",
+      "appearances": 492,
+      "accept": [
+        "john terry",
+        "terry"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "66 losses",
+      "appearances": 429,
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Frank Sinclair",
+      "detail": "59 losses",
+      "appearances": 157,
+      "accept": [
+        "frank sinclair",
+        "sinclair"
+      ]
+    },
+    {
+      "display": "Eddie Newton",
+      "detail": "59 losses",
+      "appearances": 164,
+      "accept": [
+        "eddie newton",
+        "newton"
+      ]
+    },
+    {
+      "display": "Gianfranco Zola",
+      "detail": "58 losses",
+      "appearances": 229,
+      "accept": [
+        "gianfranco zola",
+        "zola"
+      ]
+    },
+    {
+      "display": "Steve Clarke",
+      "detail": "57 losses",
+      "appearances": 167,
+      "accept": [
+        "steve clarke",
+        "clarke"
+      ]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "50 losses",
+      "appearances": 261,
+      "accept": [
+        "branislav ivanovic",
+        "branislav ivanović",
+        "ivanovic",
+        "ivanović"
+      ]
+    },
+    {
+      "display": "Willian",
+      "detail": "47 losses",
+      "appearances": 234,
+      "accept": [
+        "willian"
+      ]
+    }
+  ]
+}

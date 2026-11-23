@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-25",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 players who lost the most Premier League matches while playing for Man United",
+  "note": "Source: StatMuse. Premier League losses for the selected club, ranked by total losses. Ties broken by fewer appearances. Data as of November 23, 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David de Gea",
+      "detail": "91 losses",
+      "appearances": 415,
+      "accept": [
+        "david de gea",
+        "de gea",
+        "degea"
+      ]
+    },
+    {
+      "display": "Ryan Giggs",
+      "detail": "87 losses",
+      "appearances": 632,
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "72 losses",
+      "appearances": 499,
+      "accept": [
+        "paul scholes",
+        "scholes"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "71 losses",
+      "appearances": 293,
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "65 losses",
+      "appearances": 240,
+      "accept": [
+        "bruno fernandes",
+        "fernandes",
+        "bruno"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "64 losses",
+      "appearances": 393,
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "61 losses",
+      "appearances": 184,
+      "accept": [
+        "diogo dalot",
+        "dalot"
+      ]
+    },
+    {
+      "display": "Luke Shaw",
+      "detail": "57 losses",
+      "appearances": 241,
+      "accept": [
+        "luke shaw",
+        "shaw"
+      ]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "57 losses",
+      "appearances": 400,
+      "accept": [
+        "gary neville",
+        "neville"
+      ]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "54 losses",
+      "appearances": 201,
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
+    }
+  ]
+}

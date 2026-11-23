@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-25",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 players who lost the most Premier League matches while playing for Spurs",
+  "note": "Source: StatMuse. Premier League losses for the selected club, ranked by total losses. Ties broken by fewer appearances. Data as of November 23, 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Darren Anderton",
+      "detail": "116 losses",
+      "appearances": 299,
+      "accept": [
+        "darren anderton",
+        "anderton"
+      ]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "97 losses",
+      "appearances": 255,
+      "accept": [
+        "sol campbell",
+        "campbell"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "97 losses",
+      "appearances": 333,
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "heung-min son",
+        "son",
+        "heung-min",
+        "sonny"
+      ]
+    },
+    {
+      "display": "Stephen Carr",
+      "detail": "95 losses",
+      "appearances": 226,
+      "accept": [
+        "stephen carr",
+        "carr"
+      ]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "93 losses",
+      "appearances": 268,
+      "accept": [
+        "ledley king",
+        "king"
+      ]
+    },
+    {
+      "display": "Ian Walker",
+      "detail": "88 losses",
+      "appearances": 240,
+      "accept": [
+        "ian walker"
+      ]
+    },
+    {
+      "display": "Robbie Keane",
+      "detail": "87 losses",
+      "appearances": 238,
+      "accept": [
+        "robbie keane",
+        "keane"
+      ]
+    },
+    {
+      "display": "Hugo Lloris",
+      "detail": "87 losses",
+      "appearances": 361,
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
+    },
+    {
+      "display": "Teddy Sheringham",
+      "detail": "84 losses",
+      "appearances": 236,
+      "accept": [
+        "teddy sheringham",
+        "sheringham"
+      ]
+    },
+    {
+      "display": "Jermain Defoe",
+      "detail": "82 losses",
+      "appearances": 276,
+      "accept": [
+        "jermain defoe",
+        "defoe"
+      ]
+    }
+  ]
+}

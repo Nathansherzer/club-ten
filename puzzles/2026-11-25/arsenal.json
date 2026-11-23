@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-25",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who lost the most Premier League matches while playing for Arsenal",
+  "note": "Source: StatMuse. Premier League losses for the selected club, ranked by total losses. Ties broken by fewer appearances. Data as of November 23, 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "David Seaman",
+      "detail": "66 losses",
+      "appearances": 325,
+      "accept": [
+        "david seaman",
+        "seaman"
+      ]
+    },
+    {
+      "display": "Lee Dixon",
+      "detail": "65 losses",
+      "appearances": 305,
+      "accept": [
+        "lee dixon",
+        "dixon"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "64 losses",
+      "appearances": 270,
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Nigel Winterburn",
+      "detail": "63 losses",
+      "appearances": 270,
+      "accept": [
+        "nigel winterburn",
+        "winterburn"
+      ]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "62 losses",
+      "appearances": 310,
+      "accept": [
+        "martin keown",
+        "keown"
+      ]
+    },
+    {
+      "display": "Ray Parlour",
+      "detail": "62 losses",
+      "appearances": 333,
+      "accept": [
+        "ray parlour",
+        "parlour"
+      ]
+    },
+    {
+      "display": "Granit Xhaka",
+      "detail": "60 losses",
+      "appearances": 225,
+      "accept": [
+        "granit xhaka",
+        "xhaka"
+      ]
+    },
+    {
+      "display": "Tony Adams",
+      "detail": "56 losses",
+      "appearances": 255,
+      "accept": [
+        "tony adams",
+        "adams"
+      ]
+    },
+    {
+      "display": "Aaron Ramsey",
+      "detail": "56 losses",
+      "appearances": 262,
+      "accept": [
+        "aaron ramsey",
+        "ramsey"
+      ]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "55 losses",
+      "appearances": 255,
+      "accept": [
+        "laurent koscielny",
+        "koscielny"
+      ]
+    }
+  ]
+}

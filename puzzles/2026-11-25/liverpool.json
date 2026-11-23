@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-25",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who lost the most Premier League matches while playing for Liverpool",
+  "note": "Source: StatMuse. Premier League losses for the selected club, ranked by total losses. Ties broken by fewer appearances. Data as of November 23, 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Jamie Carragher",
+      "detail": "120 losses",
+      "appearances": 508,
+      "accept": [
+        "jamie carragher",
+        "carragher"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "119 losses",
+      "appearances": 504,
+      "accept": [
+        "steven gerrard",
+        "steve gerrard",
+        "gerrard"
+      ]
+    },
+    {
+      "display": "Sami Hyypiä",
+      "detail": "73 losses",
+      "appearances": 318,
+      "accept": [
+        "sami hyypia",
+        "sami hyypiä",
+        "hyypia",
+        "hyypiä"
+      ]
+    },
+    {
+      "display": "Robbie Fowler",
+      "detail": "68 losses",
+      "appearances": 266,
+      "accept": [
+        "robbie fowler",
+        "fowler"
+      ]
+    },
+    {
+      "display": "Jamie Redknapp",
+      "detail": "67 losses",
+      "appearances": 231,
+      "accept": [
+        "jamie redknapp",
+        "redknapp"
+      ]
+    },
+    {
+      "display": "Martin Škrtel",
+      "detail": "65 losses",
+      "appearances": 242,
+      "accept": [
+        "martin skrtel",
+        "martin škrtel",
+        "skrtel",
+        "škrtel"
+      ]
+    },
+    {
+      "display": "Pepe Reina",
+      "detail": "65 losses",
+      "appearances": 285,
+      "accept": [
+        "pepe reina",
+        "reina"
+      ]
+    },
+    {
+      "display": "Steve McManaman",
+      "detail": "64 losses",
+      "appearances": 240,
+      "accept": [
+        "steve mcmanaman",
+        "mcmanaman"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "64 losses",
+      "appearances": 360,
+      "accept": [
+        "jordan henderson",
+        "henderson"
+      ]
+    },
+    {
+      "display": "David James",
+      "detail": "61 losses",
+      "appearances": 214,
+      "accept": [
+        "david james"
+      ]
+    }
+  ]
+}
