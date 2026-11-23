@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-24",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 players who played the most Premier League minutes in matches between Chelsea and Manchester City",
+  "note": "PL matches between these two clubs only · minutes for either side, spells combined · regulation time, 90 per match · as of 20 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "John Terry",
+      "detail": "2089 PL minutes",
+      "accept": [
+        "john terry",
+        "terry"
+      ]
+    },
+    {
+      "display": "César Azpilicueta",
+      "detail": "1800 PL minutes",
+      "accept": [
+        "cesar azpilicueta",
+        "césar azpilicueta",
+        "azpilicueta",
+        "azpi"
+      ]
+    },
+    {
+      "display": "Frank Lampard",
+      "detail": "1706 PL minutes",
+      "accept": [
+        "frank lampard",
+        "lampard"
+      ]
+    },
+    {
+      "display": "Petr Čech",
+      "detail": "1530 PL minutes",
+      "accept": [
+        "petr cech",
+        "petr čech",
+        "cech",
+        "čech"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "1480 PL minutes",
+      "accept": [
+        "david silva"
+      ]
+    },
+    {
+      "display": "Joe Hart",
+      "detail": "1350 PL minutes",
+      "accept": [
+        "joe hart",
+        "hart"
+      ]
+    },
+    {
+      "display": "Ederson",
+      "detail": "1260 PL minutes",
+      "accept": [
+        "ederson"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "1240 PL minutes",
+      "accept": [
+        "sergio aguero",
+        "sergio agüero",
+        "aguero",
+        "agüero",
+        "kun aguero"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "1236 PL minutes",
+      "accept": [
+        "kevin de bruyne",
+        "de bruyne",
+        "debruyne"
+      ]
+    },
+    {
+      "display": "Branislav Ivanović",
+      "detail": "1190 PL minutes",
+      "accept": [
+        "branislav ivanovic",
+        "branislav ivanović",
+        "ivanovic",
+        "ivanović"
+      ]
+    }
+  ]
+}

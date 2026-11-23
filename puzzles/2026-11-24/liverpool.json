@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-24",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 players who played the most Premier League minutes in matches between Liverpool and Manchester United",
+  "note": "PL matches between these two clubs only · minutes for either side, spells combined · regulation time, 90 per match · as of 20 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Giggs",
+      "detail": "2892 PL minutes",
+      "accept": [
+        "ryan giggs",
+        "giggs"
+      ]
+    },
+    {
+      "display": "Steven Gerrard",
+      "detail": "2460 PL minutes",
+      "accept": [
+        "steven gerrard",
+        "steve gerrard",
+        "gerrard"
+      ]
+    },
+    {
+      "display": "Jamie Carragher",
+      "detail": "2440 PL minutes",
+      "accept": [
+        "jamie carragher",
+        "carragher"
+      ]
+    },
+    {
+      "display": "David de Gea",
+      "detail": "1980 PL minutes",
+      "accept": [
+        "david de gea",
+        "de gea",
+        "degea"
+      ]
+    },
+    {
+      "display": "Paul Scholes",
+      "detail": "1906 PL minutes",
+      "accept": [
+        "paul scholes",
+        "scholes"
+      ]
+    },
+    {
+      "display": "Gary Neville",
+      "detail": "1878 PL minutes",
+      "accept": [
+        "gary neville",
+        "neville"
+      ]
+    },
+    {
+      "display": "Wayne Rooney",
+      "detail": "1671 PL minutes",
+      "accept": [
+        "wayne rooney",
+        "rooney"
+      ]
+    },
+    {
+      "display": "Rio Ferdinand",
+      "detail": "1623 PL minutes",
+      "accept": [
+        "rio ferdinand",
+        "ferdinand"
+      ]
+    },
+    {
+      "display": "Jordan Henderson",
+      "detail": "1523 PL minutes",
+      "accept": [
+        "jordan henderson",
+        "henderson"
+      ]
+    },
+    {
+      "display": "Roy Keane",
+      "detail": "1522 PL minutes",
+      "accept": [
+        "roy keane",
+        "keane"
+      ]
+    }
+  ]
+}

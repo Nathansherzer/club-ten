@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-24",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 players who played the most Premier League minutes in matches between Arsenal and Tottenham",
+  "note": "PL matches between these two clubs only · minutes for either side, spells combined · regulation time, 90 per match · as of 20 Nov 2026",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Hugo Lloris",
+      "detail": "1980 PL minutes",
+      "accept": [
+        "hugo lloris",
+        "lloris"
+      ]
+    },
+    {
+      "display": "Sol Campbell",
+      "detail": "1945 PL minutes",
+      "accept": [
+        "sol campbell",
+        "campbell"
+      ]
+    },
+    {
+      "display": "Harry Kane",
+      "detail": "1498 PL minutes",
+      "accept": [
+        "harry kane",
+        "kane"
+      ]
+    },
+    {
+      "display": "Martin Keown",
+      "detail": "1438 PL minutes",
+      "accept": [
+        "martin keown",
+        "keown"
+      ]
+    },
+    {
+      "display": "Ray Parlour",
+      "detail": "1394 PL minutes",
+      "accept": [
+        "ray parlour",
+        "parlour"
+      ]
+    },
+    {
+      "display": "Ledley King",
+      "detail": "1387 PL minutes",
+      "accept": [
+        "ledley king",
+        "king"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "1370 PL minutes",
+      "accept": [
+        "son heung-min",
+        "son heung min",
+        "heung-min son",
+        "son",
+        "heung-min",
+        "sonny"
+      ]
+    },
+    {
+      "display": "Patrick Vieira",
+      "detail": "1365 PL minutes",
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
+    },
+    {
+      "display": "David Seaman",
+      "detail": "1350 PL minutes",
+      "accept": [
+        "david seaman",
+        "seaman"
+      ]
+    },
+    {
+      "display": "Lee Dixon",
+      "detail": "1282 PL minutes",
+      "accept": [
+        "lee dixon",
+        "dixon"
+      ]
+    }
+  ]
+}
