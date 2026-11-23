@@ -4,12 +4,12 @@
   "clubLabel": "Chelsea:",
   "clubShort": "Chelsea",
   "question": "name the 10 players who received the most Premier League yellow cards for Chelsea, as of 20 November 2026",
-  "note": "PL yellow cards for Chelsea only · combines multiple spells · ties broken by fewer PL apps for the club",
+  "note": "PL yellow cards for Chelsea only · combines multiple spells · any order",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "John Terry",
-      "detail": "69 yellows",
+      "detail": "",
       "accept": [
         "john terry",
         "terry"
@@ -17,7 +17,7 @@
     },
     {
       "display": "Dennis Wise",
-      "detail": "64 yellows",
+      "detail": "",
       "accept": [
         "dennis wise",
         "wise"
@@ -25,7 +25,7 @@
     },
     {
       "display": "Branislav Ivanović",
-      "detail": "55 yellows",
+      "detail": "",
       "accept": [
         "branislav ivanovic",
         "branislav ivanović",
@@ -35,7 +35,7 @@
     },
     {
       "display": "Didier Drogba",
-      "detail": "44 yellows",
+      "detail": "",
       "accept": [
         "didier drogba",
         "drogba"
@@ -43,7 +43,7 @@
     },
     {
       "display": "Frank Lampard",
-      "detail": "40 yellows",
+      "detail": "",
       "accept": [
         "frank lampard",
         "lampard"
@@ -51,7 +51,7 @@
     },
     {
       "display": "Frank Sinclair",
-      "detail": "38 yellows",
+      "detail": "",
       "accept": [
         "frank sinclair",
         "sinclair"
@@ -59,7 +59,7 @@
     },
     {
       "display": "John Obi Mikel",
-      "detail": "38 yellows",
+      "detail": "",
       "accept": [
         "john obi mikel",
         "obi mikel",
@@ -68,7 +68,7 @@
     },
     {
       "display": "David Luiz",
-      "detail": "35 yellows",
+      "detail": "",
       "accept": [
         "david luiz",
         "luiz"
@@ -76,7 +76,7 @@
     },
     {
       "display": "Moisés Caicedo",
-      "detail": "34 yellows",
+      "detail": "",
       "accept": [
         "moises caicedo",
         "moisés caicedo",
@@ -85,7 +85,7 @@
     },
     {
       "display": "Frank Leboeuf",
-      "detail": "34 yellows",
+      "detail": "",
       "accept": [
         "frank leboeuf",
         "frank le boeuf",

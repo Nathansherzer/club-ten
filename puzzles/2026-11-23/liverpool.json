@@ -4,12 +4,12 @@
   "clubLabel": "Liverpool:",
   "clubShort": "Liverpool",
   "question": "name the 10 players who received the most Premier League yellow cards for Liverpool, as of 20 November 2026",
-  "note": "PL yellow cards for Liverpool only · combines multiple spells · ties broken by fewer PL apps for the club",
+  "note": "PL yellow cards for Liverpool only · combines multiple spells · any order",
   "placeholder": "Type a player's name…",
   "answers": [
     {
       "display": "Jamie Carragher",
-      "detail": "70 yellows",
+      "detail": "",
       "accept": [
         "jamie carragher",
         "carragher"
@@ -17,7 +17,7 @@
     },
     {
       "display": "Steven Gerrard",
-      "detail": "61 yellows",
+      "detail": "",
       "accept": [
         "steven gerrard",
         "steve gerrard",
@@ -26,7 +26,7 @@
     },
     {
       "display": "Lucas Leiva",
-      "detail": "50 yellows",
+      "detail": "",
       "accept": [
         "lucas leiva",
         "lucas",
@@ -35,7 +35,7 @@
     },
     {
       "display": "Martin Škrtel",
-      "detail": "43 yellows",
+      "detail": "",
       "accept": [
         "martin skrtel",
         "martin škrtel",
@@ -45,14 +45,14 @@
     },
     {
       "display": "Fabinho",
-      "detail": "36 yellows",
+      "detail": "",
       "accept": [
         "fabinho"
       ]
     },
     {
       "display": "Jordan Henderson",
-      "detail": "34 yellows",
+      "detail": "",
       "accept": [
         "jordan henderson",
         "henderson"
@@ -60,7 +60,7 @@
     },
     {
       "display": "Dietmar Hamann",
-      "detail": "33 yellows",
+      "detail": "",
       "accept": [
         "dietmar hamann",
         "hamann"
@@ -68,7 +68,7 @@
     },
     {
       "display": "James Milner",
-      "detail": "33 yellows",
+      "detail": "",
       "accept": [
         "james milner",
         "milner"
@@ -76,7 +76,7 @@
     },
     {
       "display": "Trent Alexander-Arnold",
-      "detail": "31 yellows",
+      "detail": "",
       "accept": [
         "trent alexander-arnold",
         "trent alexander arnold",
@@ -87,7 +87,7 @@
     },
     {
       "display": "Joe Gomez",
-      "detail": "30 yellows",
+      "detail": "",
       "accept": [
         "joe gomez",
         "gomez"
