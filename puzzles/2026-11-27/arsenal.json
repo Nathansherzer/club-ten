@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-27",
+  "club": "arsenal",
+  "type": "clubs",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the opponents in Arsenal's 10 most recent hat-trick matches in all competitions",
+  "note": "Any Arsenal scorer. Newest first. Cutoff 24 Nov 2026.",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Portsmouth",
+      "detail": "Gabriel Martinelli · 11 Jan 2026 · FA Cup",
+      "accept": [
+        "pompey",
+        "portsmouth"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "Eberechi Eze · 23 Nov 2025 · Premier League",
+      "accept": [
+        "spurs",
+        "thfc",
+        "tottenham",
+        "tottenham hotspur",
+        "tottenham hotspurs"
+      ]
+    },
+    {
+      "display": "Crystal Palace",
+      "detail": "Gabriel Jesus · 18 Dec 2024 · League Cup",
+      "accept": [
+        "cpfc",
+        "crystal palace",
+        "palace"
+      ]
+    },
+    {
+      "display": "Sheffield United",
+      "detail": "Eddie Nketiah · 28 Oct 2023 · Premier League",
+      "accept": [
+        "sheff united",
+        "sheff utd",
+        "sheffield united",
+        "sheffield utd"
+      ]
+    },
+    {
+      "display": "Sunderland",
+      "detail": "Eddie Nketiah · 21 Dec 2021 · League Cup",
+      "accept": [
+        "sunderland"
+      ]
+    },
+    {
+      "display": "West Bromwich Albion",
+      "detail": "Pierre-Emerick Aubameyang · 25 Aug 2021 · League Cup",
+      "accept": [
+        "wba",
+        "west brom",
+        "west bromwich",
+        "west bromwich albion"
+      ]
+    },
+    {
+      "display": "Leeds United",
+      "detail": "Pierre-Emerick Aubameyang · 14 Feb 2021 · Premier League",
+      "accept": [
+        "leeds",
+        "leeds united",
+        "leeds utd"
+      ]
+    },
+    {
+      "display": "Valencia",
+      "detail": "Pierre-Emerick Aubameyang · 9 May 2019 · Europa League",
+      "accept": [
+        "valencia"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "Aaron Ramsey · 3 Feb 2018 · Premier League",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "Theo Walcott · 28 Jan 2017 · FA Cup",
+      "accept": [
+        "saints",
+        "southampton"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://thearsenalcollection.org.uk/?p=37226"
+    ],
+    "researchConfidencePct": 98,
+    "eleventhPlaceCheck": "Basel (Lucas Pérez, 2016-12-06)",
+    "cutoff": "2026-11-24",
+    "ties": "No tie between 10th and 11th."
+  }
+}

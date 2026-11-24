@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-27",
+  "club": "manchester-city",
+  "type": "clubs",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the opponents in Sergio Agüero's 10 most recent hat-trick matches for Manchester City in all competitions",
+  "note": "Sergio Agüero only. Newest first. Repeat opponents are separate matches: one correct guess fills every matching slot. Cutoff 24 Nov 2026.",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Aston Villa",
+      "detail": "Sergio Agüero · 12 Jan 2020 · Premier League",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "Sergio Agüero · 10 Feb 2019 · Premier League",
+      "accept": [
+        "chelsea"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "Sergio Agüero · 3 Feb 2019 · Premier League",
+      "accept": [
+        "arsenal"
+      ]
+    },
+    {
+      "display": "Huddersfield Town",
+      "detail": "Sergio Agüero · 19 Aug 2018 · Premier League",
+      "accept": [
+        "huddersfield",
+        "huddersfield town"
+      ]
+    },
+    {
+      "display": "Leicester City",
+      "detail": "Sergio Agüero · 10 Feb 2018 · Premier League · 4 goals",
+      "accept": [
+        "lcfc",
+        "leicester",
+        "leicester city"
+      ]
+    },
+    {
+      "display": "Newcastle United",
+      "detail": "Sergio Agüero · 20 Jan 2018 · Premier League",
+      "accept": [
+        "newcastle",
+        "newcastle united",
+        "newcastle utd",
+        "nufc"
+      ]
+    },
+    {
+      "display": "Watford",
+      "detail": "Sergio Agüero · 16 Sep 2017 · Premier League",
+      "accept": [
+        "watford"
+      ]
+    },
+    {
+      "display": "Borussia Mönchengladbach",
+      "detail": "Sergio Agüero · 14 Sep 2016 · Champions League",
+      "accept": [
+        "borussia mgladbach",
+        "borussia monchengladbach",
+        "borussia mönchengladbach",
+        "gladbach",
+        "mgladbach",
+        "monchengladbach"
+      ]
+    },
+    {
+      "display": "Steaua Bucharest",
+      "detail": "Sergio Agüero · 16 Aug 2016 · Champions League qualifying",
+      "accept": [
+        "fcsb",
+        "steaua",
+        "steaua bucharest",
+        "steaua bucuresti"
+      ]
+    },
+    {
+      "display": "Chelsea",
+      "detail": "Sergio Agüero · 16 Apr 2016 · Premier League",
+      "accept": [
+        "chelsea"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://www.statcity.co.uk/Players/971/Sergio-Aguero"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Newcastle United (Sergio Agüero, 2015-10-03, 5 goals)",
+    "cutoff": "2026-11-24",
+    "ties": "No tie between 10th and 11th."
+  }
+}

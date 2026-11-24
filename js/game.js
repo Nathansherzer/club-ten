@@ -600,6 +600,11 @@ async function handleGuess() {
   } else {
     found.set(result.slot, { display: result.display, detail: result.detail });
     fillSlot(result.slot, result.display, result.detail, "found");
+    // Repeat answers: the server lists any other unfound slots with the same display
+    for (const x of (result.extra || [])) {
+      found.set(x.slot, { display: x.display, detail: x.detail });
+      fillSlot(x.slot, x.display, x.detail, "found");
+    }
     track("guess_correct", { answer: result.display, score: found.size });
     setFeedback(`✔ ${result.display} — ${found.size}/10`, "good");
     if (found.size === puzzle.total) { await endGame(true); return; }
