@@ -25,7 +25,7 @@
     },
     {
       "display": "Harry Kane",
-      "detail": "1498 PL minutes",
+      "detail": "1496 PL minutes",
       "accept": [
         "harry kane",
         "kane"
@@ -56,8 +56,16 @@
       ]
     },
     {
+      "display": "Patrick Vieira",
+      "detail": "1365 PL minutes",
+      "accept": [
+        "patrick vieira",
+        "vieira"
+      ]
+    },
+    {
       "display": "Son Heung-min",
-      "detail": "1370 PL minutes",
+      "detail": "1360 PL minutes",
       "accept": [
         "son heung-min",
         "son heung min",
@@ -65,14 +73,6 @@
         "son",
         "heung-min",
         "sonny"
-      ]
-    },
-    {
-      "display": "Patrick Vieira",
-      "detail": "1365 PL minutes",
-      "accept": [
-        "patrick vieira",
-        "vieira"
       ]
     },
     {
