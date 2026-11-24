@@ -4,8 +4,8 @@
   "type": "clubs",
   "clubLabel": "Man City:",
   "clubShort": "Man City",
-  "question": "name the opponents in Sergio Agüero's 10 most recent hat-trick matches for Manchester City in all competitions",
-  "note": "Sergio Agüero only. Newest first. Repeat opponents are separate matches: one correct guess fills every matching slot. Cutoff 24 Nov 2026.",
+  "question": "name the last 10 different teams Sergio Agüero scored a hat-trick against for Manchester City in all competitions",
+  "note": "Sergio Agüero only. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
   "placeholder": "Type a club name…",
   "answers": [
     {
@@ -87,10 +87,11 @@
       ]
     },
     {
-      "display": "Chelsea",
-      "detail": "Sergio Agüero · 16 Apr 2016 · Premier League",
+      "display": "Queens Park Rangers",
+      "detail": "Sergio Agüero · 10 May 2015 · Premier League",
       "accept": [
-        "chelsea"
+        "qpr",
+        "queens park rangers"
       ]
     }
   ],
@@ -99,8 +100,9 @@
       "https://www.statcity.co.uk/Players/971/Sergio-Aguero"
     ],
     "researchConfidencePct": 99,
-    "eleventhPlaceCheck": "Newcastle United (Sergio Agüero, 2015-10-03, 5 goals)",
+    "eleventhPlaceCheck": "Bayern Munich (Sergio Agüero, 2014-11-25)",
     "cutoff": "2026-11-24",
-    "ties": "No tie between 10th and 11th."
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
   }
 }

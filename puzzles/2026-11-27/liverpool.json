@@ -4,8 +4,8 @@
   "type": "clubs",
   "clubLabel": "Liverpool:",
   "clubShort": "Liverpool",
-  "question": "name the opponents in Liverpool's 10 most recent hat-trick matches in all competitions",
-  "note": "Any Liverpool scorer. Newest first. Repeat opponents are separate matches: one correct guess fills every matching slot. Cutoff 24 Nov 2026.",
+  "question": "name the last 10 different teams a Liverpool player scored a hat-trick against in all competitions",
+  "note": "Any Liverpool scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
   "placeholder": "Type a club name…",
   "answers": [
     {
@@ -84,10 +84,11 @@
       ]
     },
     {
-      "display": "Watford",
-      "detail": "Mohamed Salah · 17 Mar 2018 · Premier League · 4 goals",
+      "display": "Porto",
+      "detail": "Sadio Mané · 14 Feb 2018 · Champions League",
       "accept": [
-        "watford"
+        "fc porto",
+        "porto"
       ]
     }
   ],
@@ -97,8 +98,9 @@
       "https://www.liverpoolfc.com/matches/mens-team/lask-v-liverpool-uefa-champions-league-20261014"
     ],
     "researchConfidencePct": 98,
-    "eleventhPlaceCheck": "Porto (Sadio Mané, 2018-02-14)",
+    "eleventhPlaceCheck": "Spartak Moscow (Philippe Coutinho, 2017-12-06)",
     "cutoff": "2026-11-24",
-    "ties": "No tie between 10th and 11th."
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
   }
 }

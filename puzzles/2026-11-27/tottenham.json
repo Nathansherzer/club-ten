@@ -4,8 +4,8 @@
   "type": "clubs",
   "clubLabel": "Spurs:",
   "clubShort": "Spurs",
-  "question": "name the opponents in Harry Kane's 10 most recent hat-trick matches for Tottenham in all competitions",
-  "note": "Harry Kane only. Newest first. Cutoff 24 Nov 2026.",
+  "question": "name the last 10 different teams Harry Kane scored a hat-trick against for Tottenham in all competitions",
+  "note": "Harry Kane only. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
   "placeholder": "Type a club name…",
   "answers": [
     {
@@ -14,7 +14,8 @@
       "accept": [
         "mura",
         "murska sobota",
-        "ns mura"
+        "ns mura",
+        "nš mura"
       ]
     },
     {
@@ -98,6 +99,7 @@
     "researchConfidencePct": 99,
     "eleventhPlaceCheck": "Bournemouth (Harry Kane, 2015-10-25)",
     "cutoff": "2026-11-24",
-    "ties": "No tie between 10th and 11th."
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
   }
 }

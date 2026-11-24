@@ -4,8 +4,8 @@
   "type": "clubs",
   "clubLabel": "Chelsea:",
   "clubShort": "Chelsea",
-  "question": "name the opponents in Chelsea's 10 most recent hat-trick matches in all competitions",
-  "note": "Any Chelsea scorer. Newest first. Repeat opponents are separate matches: one correct guess fills every matching slot. Cutoff 24 Nov 2026.",
+  "question": "name the last 10 different teams a Chelsea player scored a hat-trick against in all competitions",
+  "note": "Any Chelsea scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
   "placeholder": "Type a club name…",
   "answers": [
     {
@@ -61,15 +61,6 @@
       ]
     },
     {
-      "display": "Wolverhampton Wanderers",
-      "detail": "Noni Madueke · 25 Aug 2024 · Premier League",
-      "accept": [
-        "wolverhampton",
-        "wolverhampton wanderers",
-        "wolves"
-      ]
-    },
-    {
       "display": "Everton",
       "detail": "Cole Palmer · 15 Apr 2024 · Premier League · 4 goals",
       "accept": [
@@ -99,6 +90,14 @@
         "tottenham hotspur",
         "tottenham hotspurs"
       ]
+    },
+    {
+      "display": "Norwich City",
+      "detail": "Mason Mount · 23 Oct 2021 · Premier League",
+      "accept": [
+        "norwich",
+        "norwich city"
+      ]
     }
   ],
   "editorial": {
@@ -106,11 +105,13 @@
       "https://www.chelseafc.com/en/news/article/chelseas-top-goalscorers-and-assisters-in-2025-26",
       "https://www.chelseafc.com/en/news/article/chelseas-standout-stats-and-records-from-2024",
       "https://www.chelseafc.com/en/news/article/palmer-again-every-hat-trick-cole-has-scored-for-chelsea",
-      "https://www.topscorersfootball.com/team/chelsea"
+      "https://www.topscorersfootball.com/team/chelsea",
+      "https://www.chelseafc.com/en/match/sevilla-vs-chelsea-champions-league-2020-12-02"
     ],
     "researchConfidencePct": 97,
-    "eleventhPlaceCheck": "Norwich City (Mason Mount, 2021-10-23)",
+    "eleventhPlaceCheck": "Sevilla (Olivier Giroud, 2020-12-02)",
     "cutoff": "2026-11-24",
-    "ties": "No tie between 10th and 11th."
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
   }
 }

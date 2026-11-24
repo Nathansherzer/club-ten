@@ -4,8 +4,8 @@
   "type": "clubs",
   "clubLabel": "Man United:",
   "clubShort": "Man United",
-  "question": "name the opponents in Manchester United's 10 most recent hat-trick matches in all competitions",
-  "note": "Any United scorer. Newest first. Cutoff 24 Nov 2026.",
+  "question": "name the last 10 different teams a Manchester United player scored a hat-trick against in all competitions",
+  "note": "Any United scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
   "placeholder": "Type a club name…",
   "answers": [
     {
@@ -110,6 +110,7 @@
     "researchConfidencePct": 98,
     "eleventhPlaceCheck": "Olympiacos (Robin van Persie, 2014-03-19)",
     "cutoff": "2026-11-24",
-    "ties": "No tie between 10th and 11th."
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
   }
 }

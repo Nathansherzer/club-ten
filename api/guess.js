@@ -90,23 +90,11 @@ export default async function handler(req, res) {
     ? rawDisplay
     : matched.replace(/\b\w/g, c => c.toUpperCase());
 
-  // Repeat answers (same display in more than one unfound slot, e.g. the same
-  // opponent in two hat-trick matches): one correct guess fills every such slot.
-  const extra = [];
-  if (rawDisplay != null && !skip.has(slot)) {
-    data.answers.forEach((a, i) => {
-      if (i !== slot && !skip.has(i) && a.display === rawDisplay) {
-        extra.push({ slot: i, display: a.display, detail: a.detail });
-      }
-    });
-  }
-
-  // Return display + detail for the matched slot(s) only — never the full answers list
+  // Return display + detail for the matched slot only — never the full answers list
   return res.status(200).json({
     hit: true,
     slot,
     display,
-    detail: data.answers[slot].detail,
-    ...(extra.length ? { extra } : {})
+    detail: data.answers[slot].detail
   });
 }
