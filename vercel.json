@@ -15,6 +15,11 @@
       "permanent": true
     },
     {
+      "source": "/ads.txt",
+      "destination": "https://header-bidding.snack-media.com/adstxt/5296",
+      "statusCode": 302
+    },
+    {
       "source": "/tpp/:club/:date",
       "destination": "/:club?partner=tpp&date=:date&utm_source=thepeoplesperson&utm_medium=social&utm_campaign=tpp-daily-post",
       "permanent": false
