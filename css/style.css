@@ -45,6 +45,21 @@ body {
   padding: 16px 0 32px;
 }
 
+/* Sticky-floor clearance for Snack's auto-injected sticky footer unit.
+   Pages with ads carry <html class="snack-ads"> (set with the Snack head
+   block). Jason (Snack) recommends 150-160px of space BELOW THE LAST FOOTER
+   LINK; reported ad heights are 125-135px (mobile) and 115-120px (desktop).
+   There is no supported live-height hook or stable selector, so this is a
+   fixed, static space (no observers, no targeting of vendor wrappers): it
+   stays after the ad is closed or collapsed. It REPLACES the .wrap base
+   padding-bottom (32px) rather than adding to it, so the gap under the last
+   link is exactly 160px + env(safe-area-inset-bottom). The env() term is 0
+   unless the page uses viewport-fit=cover (only the home page does today);
+   viewport meta tags and default keyboard/viewport behaviour are unchanged.
+   Verify against the real unit on a phone before launch. */
+html.snack-ads { --snack-floor-clearance: 160px; }
+html.snack-ads .wrap { padding-bottom: calc(var(--snack-floor-clearance) + env(safe-area-inset-bottom, 0px)); }
+
 /* ---- header ------------------------------------------------ */
 
 header {

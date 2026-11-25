@@ -13,6 +13,7 @@ import {
   londonToday, puzzleNumber, formatDate, esc, capitalize, loadPuzzle,
   isDateServable, recentArchiveDates
 } from "../lib/puzzle-meta.js";
+import { SNACK_HEAD_BLOCK, NEW_COOKIE_LINK, SNACK_HTML_TAG } from "../lib/snack-page.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -73,7 +74,7 @@ export default async function handler(req, res) {
   const canonical   = `https://topclubten.com/${club}/${date}`;
 
   const html = `<!DOCTYPE html>
-<html lang="en">
+${SNACK_HTML_TAG}
 <head>
   <meta charset="UTF-8">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -93,29 +94,7 @@ export default async function handler(req, res) {
   <meta name="twitter:title"       content="${title}">
   <meta name="twitter:description" content="${description}">
   <link rel="stylesheet" href="/css/style.css">
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('consent', 'default', {
-      'ad_storage': 'granted',
-      'ad_user_data': 'granted',
-      'ad_personalization': 'granted',
-      'analytics_storage': 'granted'
-    });
-    gtag('consent', 'default', {
-      'ad_storage': 'denied',
-      'ad_user_data': 'denied',
-      'ad_personalization': 'denied',
-      'analytics_storage': 'denied',
-      'region': ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH'],
-      'wait_for_update': 500
-    });
-    gtag('js', new Date());
-    gtag('config', 'G-M8E5NFRXB5');
-  </script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8E5NFRXB5"></script>
-  ${data.index === true ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8836373520875731" crossorigin="anonymous"></script>` : ``}
-  <script src="/js/consent-analytics.js" defer></script>
+  ${SNACK_HEAD_BLOCK.trimEnd()}
 </head>
 <body>
 <div class="wrap">
@@ -158,7 +137,7 @@ export default async function handler(req, res) {
     <a href="/about">About</a>
     <a href="/privacy">Privacy</a>
     <a href="/contact">Contact</a>
-    <a href="#" onclick="if (window.ctCookieSettings) { window.ctCookieSettings(); } else if (window.googlefc) { window.googlefc.showRevocationMessage(); } return false;">Cookie settings</a>
+    ${NEW_COOKIE_LINK}
   </nav>
 </div>
 </body>
