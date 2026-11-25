@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-28",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to score Liverpool's first Premier League goal of a season (own goals excluded)",
+  "note": "Club players only, own goals excluded. Ranked by each player's most recent qualifying season, newest first. Cutoff 25 Nov 2026, 2026/27 included.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cody Gakpo",
+      "detail": "2026/27 · v Newcastle United",
+      "accept": [
+        "cody gakpo",
+        "gakpo"
+      ]
+    },
+    {
+      "display": "Hugo Ekitiké",
+      "detail": "2025/26 · v Bournemouth",
+      "accept": [
+        "ekitike",
+        "ekitiké",
+        "hugo ekitike",
+        "hugo ekitiké"
+      ]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "2024/25 · v Ipswich Town",
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
+    },
+    {
+      "display": "Luis Díaz",
+      "detail": "2023/24 · v Chelsea",
+      "accept": [
+        "diaz",
+        "díaz",
+        "luis diaz",
+        "luis díaz"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "2022/23 · v Fulham",
+      "accept": [
+        "darwin nunez",
+        "darwin núñez",
+        "nunez",
+        "núñez"
+      ]
+    },
+    {
+      "display": "Mohamed Salah",
+      "detail": "2020/21 · v Leeds United",
+      "accept": [
+        "mo salah",
+        "mohamed salah",
+        "salah"
+      ]
+    },
+    {
+      "display": "Sadio Mané",
+      "detail": "2017/18 · v Watford",
+      "accept": [
+        "mane",
+        "mané",
+        "sadio mane",
+        "sadio mané"
+      ]
+    },
+    {
+      "display": "Philippe Coutinho",
+      "detail": "2016/17 · v Arsenal",
+      "accept": [
+        "coutinho",
+        "philippe coutinho"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "2014/15 · v Southampton",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Daniel Sturridge",
+      "detail": "2013/14 · v Stoke City",
+      "accept": [
+        "dan sturridge",
+        "daniel sturridge",
+        "sturridge"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://footballapi.pulselive.com/football/",
+      "https://www.liverpoolfc.com/news/gerrard-suarez-ekitike-and-more-watch-liverpools-first-goal-every-premier-league-season?amp=1",
+      "https://www.liverpoolfc.com/news/first-team/123727-late-goal-denies-reds"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Martin Škrtel | 2012/13 | Manchester City",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th.",
+    "format": "First eligible (non own goal) Premier League goal of each season by the club's own player; first 10 different players going backwards; ranked by most recent qualifying season.",
+    "checks": [
+      "Jota also qualified in 2021/22 and Salah in 2019/20 and 2018/19. Each kept once under the newest season.",
+      "2012/13: Škrtel scored before Suárez against Manchester City, so Škrtel is the 11th different player."
+    ]
+  }
+}

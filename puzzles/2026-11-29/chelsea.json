@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-29",
+  "club": "chelsea",
+  "type": "clubs",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the last 10 different teams a Chelsea player scored a hat-trick against in all competitions",
+  "note": "Any Chelsea scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "Aston Villa",
+      "detail": "João Pedro · 4 Mar 2026 · Premier League",
+      "accept": [
+        "aston villa",
+        "villa"
+      ]
+    },
+    {
+      "display": "Hull City",
+      "detail": "Pedro Neto · 13 Feb 2026 · FA Cup",
+      "accept": [
+        "hull",
+        "hull city"
+      ]
+    },
+    {
+      "display": "Wolverhampton Wanderers",
+      "detail": "Cole Palmer · 7 Feb 2026 · Premier League",
+      "accept": [
+        "wolverhampton",
+        "wolverhampton wanderers",
+        "wolves"
+      ]
+    },
+    {
+      "display": "Shamrock Rovers",
+      "detail": "Marc Guiu · 19 Dec 2024 · Conference League",
+      "accept": [
+        "shamrock",
+        "shamrock rovers"
+      ]
+    },
+    {
+      "display": "Brighton & Hove Albion",
+      "detail": "Cole Palmer · 28 Sep 2024 · Premier League · 4 goals",
+      "accept": [
+        "brighton",
+        "brighton & hove albion",
+        "brighton and hove albion",
+        "brighton hove albion",
+        "seagulls"
+      ]
+    },
+    {
+      "display": "Barrow",
+      "detail": "Christopher Nkunku · 24 Sep 2024 · League Cup",
+      "accept": [
+        "barrow",
+        "barrow afc"
+      ]
+    },
+    {
+      "display": "Everton",
+      "detail": "Cole Palmer · 15 Apr 2024 · Premier League · 4 goals",
+      "accept": [
+        "everton"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "Cole Palmer · 4 Apr 2024 · Premier League",
+      "accept": [
+        "man u",
+        "man united",
+        "man utd",
+        "manchester united",
+        "manchester utd",
+        "mufc",
+        "united"
+      ]
+    },
+    {
+      "display": "Tottenham Hotspur",
+      "detail": "Nicolas Jackson · 6 Nov 2023 · Premier League",
+      "accept": [
+        "spurs",
+        "thfc",
+        "tottenham",
+        "tottenham hotspur",
+        "tottenham hotspurs"
+      ]
+    },
+    {
+      "display": "Norwich City",
+      "detail": "Mason Mount · 23 Oct 2021 · Premier League",
+      "accept": [
+        "norwich",
+        "norwich city"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelseas-top-goalscorers-and-assisters-in-2025-26",
+      "https://www.chelseafc.com/en/news/article/chelseas-standout-stats-and-records-from-2024",
+      "https://www.chelseafc.com/en/news/article/palmer-again-every-hat-trick-cole-has-scored-for-chelsea",
+      "https://www.topscorersfootball.com/team/chelsea",
+      "https://www.chelseafc.com/en/match/sevilla-vs-chelsea-champions-league-2020-12-02"
+    ],
+    "researchConfidencePct": 97,
+    "eleventhPlaceCheck": "Sevilla (Olivier Giroud, 2020-12-02)",
+    "cutoff": "2026-11-24",
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
+  }
+}

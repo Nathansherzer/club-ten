@@ -1,108 +1,111 @@
 {
   "date": "2026-11-27",
   "club": "arsenal",
-  "type": "clubs",
   "clubLabel": "Arsenal:",
   "clubShort": "Arsenal",
-  "question": "name the last 10 different teams an Arsenal player scored a hat-trick against in all competitions",
-  "note": "Any Arsenal scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
-  "placeholder": "Type a club name…",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Arsenal",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Portsmouth",
-      "detail": "Gabriel Martinelli · 11 Jan 2026 · FA Cup",
+      "display": "Mikel Merino",
+      "detail": "11 May 2025 · v Liverpool",
       "accept": [
-        "pompey",
-        "portsmouth"
+        "merino",
+        "mikel merino"
       ]
     },
     {
-      "display": "Tottenham Hotspur",
-      "detail": "Eberechi Eze · 23 Nov 2025 · Premier League",
+      "display": "Myles Lewis-Skelly",
+      "detail": "22 Feb 2025 · v West Ham United",
       "accept": [
-        "spurs",
-        "thfc",
-        "tottenham",
-        "tottenham hotspur",
-        "tottenham hotspurs"
+        "lewis skelly",
+        "lewis-skelly",
+        "mls",
+        "myles lewis skelly",
+        "myles lewis-skelly",
+        "skelly"
       ]
     },
     {
-      "display": "Crystal Palace",
-      "detail": "Gabriel Jesus · 18 Dec 2024 · League Cup",
+      "display": "William Saliba",
+      "detail": "19 Oct 2024 · v Bournemouth",
       "accept": [
-        "cpfc",
-        "crystal palace",
-        "palace"
+        "saliba",
+        "william saliba"
       ]
     },
     {
-      "display": "Sheffield United",
-      "detail": "Eddie Nketiah · 28 Oct 2023 · Premier League",
+      "display": "Leandro Trossard",
+      "detail": "22 Sep 2024 · v Manchester City",
       "accept": [
-        "sheff united",
-        "sheff utd",
-        "sheffield united",
-        "sheffield utd"
+        "leandro trossard",
+        "trossard"
       ]
     },
     {
-      "display": "Sunderland",
-      "detail": "Eddie Nketiah · 21 Dec 2021 · League Cup",
+      "display": "Declan Rice",
+      "detail": "31 Aug 2024 · v Brighton & Hove Albion",
       "accept": [
-        "sunderland"
+        "declan rice",
+        "rice"
       ]
     },
     {
-      "display": "West Bromwich Albion",
-      "detail": "Pierre-Emerick Aubameyang · 25 Aug 2021 · League Cup",
+      "display": "Fábio Vieira",
+      "detail": "11 Nov 2023 · v Burnley",
       "accept": [
-        "wba",
-        "west brom",
-        "west bromwich",
-        "west bromwich albion"
+        "fabio vieira",
+        "fábio vieira",
+        "vieira"
       ]
     },
     {
-      "display": "Leeds United",
-      "detail": "Pierre-Emerick Aubameyang · 14 Feb 2021 · Premier League",
+      "display": "Takehiro Tomiyasu",
+      "detail": "21 Aug 2023 · v Crystal Palace",
       "accept": [
-        "leeds",
-        "leeds united",
-        "leeds utd"
+        "takehiro tomiyasu",
+        "tomiyasu"
       ]
     },
     {
-      "display": "Valencia",
-      "detail": "Pierre-Emerick Aubameyang · 9 May 2019 · Europa League",
+      "display": "Rob Holding",
+      "detail": "12 May 2022 · v Tottenham Hotspur",
       "accept": [
-        "valencia"
+        "holding",
+        "rob holding",
+        "robert holding"
       ]
     },
     {
-      "display": "Everton",
-      "detail": "Aaron Ramsey · 3 Feb 2018 · Premier League",
+      "display": "Gabriel Martinelli",
+      "detail": "10 Feb 2022 · v Wolverhampton Wanderers",
       "accept": [
-        "everton"
+        "gabriel martinelli",
+        "martinelli"
       ]
     },
     {
-      "display": "Southampton",
-      "detail": "Theo Walcott · 28 Jan 2017 · FA Cup",
+      "display": "Gabriel Magalhães",
+      "detail": "1 Jan 2022 · v Manchester City",
       "accept": [
-        "saints",
-        "southampton"
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes"
       ]
     }
   ],
   "editorial": {
     "sources": [
-      "https://thearsenalcollection.org.uk/?p=37226"
+      "https://straightred.football/teams/arsenal"
     ],
-    "researchConfidencePct": 98,
-    "eleventhPlaceCheck": "Basel (Lucas Pérez, 2016-12-06)",
-    "cutoff": "2026-11-24",
-    "ties": "No tie between 10th and 11th.",
-    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Granit Xhaka | 2021-08-28 | Manchester City",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Gabriel Magalhães and Gabriel Martinelli are separate answers; bare 'gabriel' is not accepted."
+    ]
   }
 }

@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-28",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to score Man United's first Premier League goal of a season (own goals excluded)",
+  "note": "Club players only, own goals excluded. Ranked by each player's most recent qualifying season, newest first. Cutoff 25 Nov 2026, 2026/27 included.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Bruno Fernandes",
+      "detail": "2026/27 · v Ipswich Town",
+      "accept": [
+        "bruno",
+        "bruno fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Bryan Mbeumo",
+      "detail": "2025/26 · v Burnley",
+      "accept": [
+        "bryan mbeumo",
+        "mbeumo"
+      ]
+    },
+    {
+      "display": "Joshua Zirkzee",
+      "detail": "2024/25 · v Fulham",
+      "accept": [
+        "joshua zirkzee",
+        "zirkzee"
+      ]
+    },
+    {
+      "display": "Raphaël Varane",
+      "detail": "2023/24 · v Wolverhampton Wanderers",
+      "accept": [
+        "raphael varane",
+        "raphaël varane",
+        "varane"
+      ]
+    },
+    {
+      "display": "Jadon Sancho",
+      "detail": "2022/23 · v Liverpool",
+      "accept": [
+        "jadon sancho",
+        "sancho"
+      ]
+    },
+    {
+      "display": "Donny van de Beek",
+      "detail": "2020/21 · v Crystal Palace",
+      "accept": [
+        "donny van de beek",
+        "van de beek",
+        "vandebeek"
+      ]
+    },
+    {
+      "display": "Marcus Rashford",
+      "detail": "2019/20 · v Chelsea",
+      "accept": [
+        "marcus rashford",
+        "rashford"
+      ]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "2018/19 · v Leicester City",
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
+    },
+    {
+      "display": "Romelu Lukaku",
+      "detail": "2017/18 · v West Ham United",
+      "accept": [
+        "lukaku",
+        "romelu lukaku"
+      ]
+    },
+    {
+      "display": "Juan Mata",
+      "detail": "2016/17 · v Bournemouth",
+      "accept": [
+        "juan mata",
+        "mata"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://footballapi.pulselive.com/football/",
+      "https://www.manutd.com/en/news/bryan-mbeumo-voted-man-utd-player-of-the-month-for-august-2025",
+      "https://www.manutd.com/en/news/united-5-ipswich-2-30-august-2026",
+      "https://www.premierleague.com/en/news/72083"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Adnan Januzaj | 2015/16 | Aston Villa",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th.",
+    "format": "First eligible (non own goal) Premier League goal of each season by the club's own player; first 10 different players going backwards; ranked by most recent qualifying season.",
+    "checks": [
+      "2025/26: own goals against Fulham and Burnley precede Mbeumo's qualifying goal.",
+      "2022/23: Alexis Mac Allister's own goal against Brighton excluded. Sancho against Liverpool is the first eligible goal.",
+      "2015/16: Kyle Walker's own goal excluded. Januzaj is the first eligible scorer and sits outside the top 10."
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-29",
+  "club": "tottenham",
+  "type": "clubs",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the last 10 different teams Harry Kane scored a hat-trick against for Tottenham in all competitions",
+  "note": "Harry Kane only. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "NS Mura",
+      "detail": "Harry Kane · 30 Sep 2021 · Conference League",
+      "accept": [
+        "mura",
+        "murska sobota",
+        "ns mura",
+        "nš mura"
+      ]
+    },
+    {
+      "display": "Maccabi Haifa",
+      "detail": "Harry Kane · 1 Oct 2020 · Europa League qualifying",
+      "accept": [
+        "haifa",
+        "maccabi haifa"
+      ]
+    },
+    {
+      "display": "Southampton",
+      "detail": "Harry Kane · 26 Dec 2017 · Premier League",
+      "accept": [
+        "saints",
+        "southampton"
+      ]
+    },
+    {
+      "display": "Burnley",
+      "detail": "Harry Kane · 23 Dec 2017 · Premier League",
+      "accept": [
+        "burnley"
+      ]
+    },
+    {
+      "display": "APOEL",
+      "detail": "Harry Kane · 26 Sep 2017 · Champions League",
+      "accept": [
+        "apoel",
+        "apoel nicosia"
+      ]
+    },
+    {
+      "display": "Hull City",
+      "detail": "Harry Kane · 21 May 2017 · Premier League",
+      "accept": [
+        "hull",
+        "hull city"
+      ]
+    },
+    {
+      "display": "Leicester City",
+      "detail": "Harry Kane · 18 May 2017 · Premier League · 4 goals",
+      "accept": [
+        "lcfc",
+        "leicester",
+        "leicester city"
+      ]
+    },
+    {
+      "display": "Stoke City",
+      "detail": "Harry Kane · 26 Feb 2017 · Premier League",
+      "accept": [
+        "stoke",
+        "stoke city"
+      ]
+    },
+    {
+      "display": "Fulham",
+      "detail": "Harry Kane · 19 Feb 2017 · FA Cup",
+      "accept": [
+        "fulham"
+      ]
+    },
+    {
+      "display": "West Bromwich Albion",
+      "detail": "Harry Kane · 14 Jan 2017 · Premier League",
+      "accept": [
+        "wba",
+        "west brom",
+        "west bromwich",
+        "west bromwich albion"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://www.tottenhamhotspur.com/news/992056/harry-kanes-hat-trick-stats-fastest-treble-up-to-second-on-clubs-all-time-list"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Bournemouth (Harry Kane, 2015-10-25)",
+    "cutoff": "2026-11-24",
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
+  }
+}

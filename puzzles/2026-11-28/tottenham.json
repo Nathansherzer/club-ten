@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-28",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent different players to score Spurs' first Premier League goal of a season (own goals excluded)",
+  "note": "Club players only, own goals excluded. Ranked by each player's most recent qualifying season, newest first. Cutoff 25 Nov 2026, 2026/27 included.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Conor Gallagher",
+      "detail": "2026/27 · v Aston Villa",
+      "accept": [
+        "conor gallagher",
+        "gallagher"
+      ]
+    },
+    {
+      "display": "Richarlison",
+      "detail": "2025/26 · v Burnley",
+      "accept": [
+        "richarlison"
+      ]
+    },
+    {
+      "display": "Pedro Porro",
+      "detail": "2024/25 · v Leicester City",
+      "accept": [
+        "pedro porro",
+        "porro"
+      ]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "2023/24 · v Brentford",
+      "accept": [
+        "cristian romero",
+        "cuti romero",
+        "romero"
+      ]
+    },
+    {
+      "display": "Ryan Sessegnon",
+      "detail": "2022/23 · v Southampton",
+      "accept": [
+        "ryan sessegnon",
+        "sessegnon"
+      ]
+    },
+    {
+      "display": "Son Heung-min",
+      "detail": "2021/22 · v Manchester City",
+      "accept": [
+        "heung min son",
+        "heung-min son",
+        "son",
+        "son heung min",
+        "son heung-min",
+        "sonny"
+      ]
+    },
+    {
+      "display": "Tanguy Ndombele",
+      "detail": "2019/20 · v Aston Villa",
+      "accept": [
+        "ndombele",
+        "ndombélé",
+        "tanguy ndombele",
+        "tanguy ndombélé"
+      ]
+    },
+    {
+      "display": "Jan Vertonghen",
+      "detail": "2018/19 · v Newcastle United",
+      "accept": [
+        "jan vertonghen",
+        "vertonghen"
+      ]
+    },
+    {
+      "display": "Dele Alli",
+      "detail": "2017/18 · v Newcastle United",
+      "accept": [
+        "alli",
+        "dele",
+        "dele alli"
+      ]
+    },
+    {
+      "display": "Erik Lamela",
+      "detail": "2016/17 · v Everton",
+      "accept": [
+        "erik lamela",
+        "lamela"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://footballapi.pulselive.com/football/",
+      "https://www.tottenhamhotspur.com/news/1091022/late-goals-not-enough-against-villa",
+      "https://www.tottenhamhotspur.com/news/1053879/everton-1-1-spurs"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Eric Dier | 2015/16 | Stoke City",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th.",
+    "format": "First eligible (non own goal) Premier League goal of each season by the club's own player; first 10 different players going backwards; ranked by most recent qualifying season.",
+    "checks": [
+      "Son also qualified in 2020/21. Kept once under 2021/22.",
+      "2026/27: Gallagher's qualifying goal came against Aston Villa after four scoreless league matches."
+    ]
+  }
+}

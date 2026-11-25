@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-29",
+  "club": "liverpool",
+  "type": "clubs",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the last 10 different teams a Liverpool player scored a hat-trick against in all competitions",
+  "note": "Any Liverpool scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
+  "placeholder": "Type a club name…",
+  "answers": [
+    {
+      "display": "LASK",
+      "detail": "Bradley Barcola · 14 Oct 2026 · Champions League",
+      "accept": [
+        "lask",
+        "lask linz"
+      ]
+    },
+    {
+      "display": "Bayer Leverkusen",
+      "detail": "Luis Díaz · 5 Nov 2024 · Champions League",
+      "accept": [
+        "bayer 04",
+        "bayer leverkusen",
+        "leverkusen"
+      ]
+    },
+    {
+      "display": "Rangers",
+      "detail": "Mohamed Salah · 12 Oct 2022 · Champions League",
+      "accept": [
+        "glasgow rangers",
+        "rangers"
+      ]
+    },
+    {
+      "display": "Manchester United",
+      "detail": "Mohamed Salah · 24 Oct 2021 · Premier League",
+      "accept": [
+        "man u",
+        "man united",
+        "man utd",
+        "manchester united",
+        "manchester utd",
+        "mufc"
+      ]
+    },
+    {
+      "display": "Watford",
+      "detail": "Roberto Firmino · 16 Oct 2021 · Premier League",
+      "accept": [
+        "watford"
+      ]
+    },
+    {
+      "display": "Atalanta",
+      "detail": "Diogo Jota · 3 Nov 2020 · Champions League",
+      "accept": [
+        "atalanta"
+      ]
+    },
+    {
+      "display": "Leeds United",
+      "detail": "Mohamed Salah · 12 Sep 2020 · Premier League",
+      "accept": [
+        "leeds",
+        "leeds united",
+        "leeds utd"
+      ]
+    },
+    {
+      "display": "Arsenal",
+      "detail": "Roberto Firmino · 29 Dec 2018 · Premier League",
+      "accept": [
+        "arsenal"
+      ]
+    },
+    {
+      "display": "Bournemouth",
+      "detail": "Mohamed Salah · 8 Dec 2018 · Premier League",
+      "accept": [
+        "afc bournemouth",
+        "bournemouth"
+      ]
+    },
+    {
+      "display": "Porto",
+      "detail": "Sadio Mané · 14 Feb 2018 · Champions League",
+      "accept": [
+        "fc porto",
+        "porto"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://www.lfchistory.net/stats/player-hattricks",
+      "https://www.liverpoolfc.com/matches/mens-team/lask-v-liverpool-uefa-champions-league-20261014"
+    ],
+    "researchConfidencePct": 98,
+    "eleventhPlaceCheck": "Spartak Moscow (Philippe Coutinho, 2017-12-06)",
+    "cutoff": "2026-11-24",
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
+  }
+}

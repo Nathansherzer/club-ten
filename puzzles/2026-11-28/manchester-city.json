@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-28",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to score Man City's first Premier League goal of a season (own goals excluded)",
+  "note": "Club players only, own goals excluded. Ranked by each player's most recent qualifying season, newest first. Cutoff 25 Nov 2026, 2026/27 included.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Marc Guéhi",
+      "detail": "2026/27 · v Bournemouth",
+      "accept": [
+        "guehi",
+        "guéhi",
+        "marc guehi",
+        "marc guéhi"
+      ]
+    },
+    {
+      "display": "Erling Haaland",
+      "detail": "2025/26 · v Wolverhampton Wanderers",
+      "accept": [
+        "erling braut haaland",
+        "erling haaland",
+        "haaland"
+      ]
+    },
+    {
+      "display": "Jack Grealish",
+      "detail": "2021/22 · v Norwich City",
+      "accept": [
+        "grealish",
+        "jack grealish"
+      ]
+    },
+    {
+      "display": "Kevin De Bruyne",
+      "detail": "2020/21 · v Wolverhampton Wanderers",
+      "accept": [
+        "de bruyne",
+        "debruyne",
+        "kdb",
+        "kevin de bruyne",
+        "kevin debruyne"
+      ]
+    },
+    {
+      "display": "Gabriel Jesus",
+      "detail": "2019/20 · v West Ham United",
+      "accept": [
+        "gabriel jesus",
+        "jesus"
+      ]
+    },
+    {
+      "display": "Raheem Sterling",
+      "detail": "2018/19 · v Arsenal",
+      "accept": [
+        "raheem sterling",
+        "sterling"
+      ]
+    },
+    {
+      "display": "Sergio Agüero",
+      "detail": "2017/18 · v Brighton & Hove Albion",
+      "accept": [
+        "aguero",
+        "agüero",
+        "kun aguero",
+        "sergio aguero",
+        "sergio agüero"
+      ]
+    },
+    {
+      "display": "David Silva",
+      "detail": "2015/16 · v West Bromwich Albion",
+      "accept": [
+        "david silva",
+        "silva"
+      ]
+    },
+    {
+      "display": "Carlos Tevez",
+      "detail": "2012/13 · v Southampton",
+      "accept": [
+        "carlos tevez",
+        "carlos tévez",
+        "tevez",
+        "tévez"
+      ]
+    },
+    {
+      "display": "Edin Džeko",
+      "detail": "2011/12 · v Swansea City",
+      "accept": [
+        "dzeko",
+        "džeko",
+        "edin dzeko",
+        "edin džeko"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://footballapi.pulselive.com/football/",
+      "https://www.mancity.com/news/first-team/first-team-news/2013/august/the-list-opening-scorers",
+      "https://www.mancity.com/news/mens/manchester-city-v-norwich-premier-league-21-august-match-report-63765149",
+      "https://www.mancity.com/matchday/fixtures/mens/2026/premier-league/man-city-v-bmouth-23-aug-2026"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Gareth Barry | 2010/11 | Liverpool",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th.",
+    "format": "First eligible (non own goal) Premier League goal of each season by the club's own player; first 10 different players going backwards; ranked by most recent qualifying season.",
+    "checks": [
+      "Haaland also qualified in 2022/23, 2023/24 and 2024/25. Kept once under 2025/26.",
+      "2021/22: Tim Krul's own goal excluded. Grealish is the first eligible scorer."
+    ]
+  }
+}
