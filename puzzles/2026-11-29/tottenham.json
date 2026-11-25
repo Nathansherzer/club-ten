@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-29",
+  "club": "tottenham",
+  "clubLabel": "Spurs:",
+  "clubShort": "Spurs",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Spurs",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Rodrigo Bentancur",
+      "detail": "10 Oct 2026 · v Manchester United",
+      "accept": [
+        "bentancur",
+        "rodri bentancur",
+        "rodrigo bentancur"
+      ]
+    },
+    {
+      "display": "Micky van de Ven",
+      "detail": "5 Mar 2026 · v Crystal Palace",
+      "accept": [
+        "mickey van de ven",
+        "micky van de ven",
+        "van de ven",
+        "vandeven",
+        "vdv"
+      ]
+    },
+    {
+      "display": "Cristian Romero",
+      "detail": "7 Feb 2026 · v Manchester United",
+      "accept": [
+        "cristian romero",
+        "cuti romero",
+        "romero"
+      ]
+    },
+    {
+      "display": "Xavi Simons",
+      "detail": "20 Dec 2025 · v Liverpool",
+      "accept": [
+        "simons",
+        "xavi",
+        "xavi simons"
+      ]
+    },
+    {
+      "display": "Djed Spence",
+      "detail": "26 Dec 2024 · v Nottingham Forest",
+      "accept": [
+        "djed spence",
+        "spence"
+      ]
+    },
+    {
+      "display": "Yves Bissouma",
+      "detail": "15 Dec 2023 · v Nottingham Forest",
+      "accept": [
+        "bissouma",
+        "yves bissouma"
+      ]
+    },
+    {
+      "display": "Destiny Udogie",
+      "detail": "6 Nov 2023 · v Chelsea",
+      "accept": [
+        "destiny udogie",
+        "udogie"
+      ]
+    },
+    {
+      "display": "Lucas Moura",
+      "detail": "3 Apr 2023 · v Everton",
+      "accept": [
+        "lucas",
+        "lucas moura",
+        "moura"
+      ]
+    },
+    {
+      "display": "Emerson Royal",
+      "detail": "1 Oct 2022 · v Arsenal",
+      "accept": [
+        "emerson",
+        "emerson royal",
+        "royal"
+      ]
+    },
+    {
+      "display": "Japhet Tanganga",
+      "detail": "11 Sep 2021 · v Crystal Palace",
+      "accept": [
+        "japhet tanganga",
+        "tanganga"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://straightred.football/teams/tottenham-hotspur",
+      "https://www.tottenhamhotspur.com/news/1017856/eagles-inflict-defeat-on-our-10-men"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Erik Lamela | 2021-03-14 | Arsenal",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Van de Ven's Crystal Palace dismissal on 5 Mar 2026 is included."
+    ]
+  }
+}

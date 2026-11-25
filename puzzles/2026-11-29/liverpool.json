@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-29",
+  "club": "liverpool",
+  "clubLabel": "Liverpool:",
+  "clubShort": "Liverpool",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Liverpool",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Ryan Gravenberch",
+      "detail": "11 Oct 2026 · v Manchester City",
+      "accept": [
+        "gravenberch",
+        "ryan gravenberch"
+      ]
+    },
+    {
+      "display": "Dominik Szoboszlai",
+      "detail": "8 Feb 2026 · v Manchester City",
+      "accept": [
+        "dominik szoboszlai",
+        "szoboszlai"
+      ]
+    },
+    {
+      "display": "Curtis Jones",
+      "detail": "12 Feb 2025 · v Everton",
+      "accept": [
+        "curtis jones",
+        "jones"
+      ]
+    },
+    {
+      "display": "Andy Robertson",
+      "detail": "14 Dec 2024 · v Fulham",
+      "accept": [
+        "andrew robertson",
+        "andy robertson",
+        "robertson"
+      ]
+    },
+    {
+      "display": "Ibrahima Konaté",
+      "detail": "4 Feb 2024 · v Arsenal",
+      "accept": [
+        "ibou",
+        "ibrahima konate",
+        "ibrahima konaté",
+        "konate"
+      ]
+    },
+    {
+      "display": "Diogo Jota",
+      "detail": "30 Sep 2023 · v Tottenham Hotspur",
+      "accept": [
+        "diogo jota",
+        "jota"
+      ]
+    },
+    {
+      "display": "Virgil van Dijk",
+      "detail": "27 Aug 2023 · v Newcastle United",
+      "accept": [
+        "van dijk",
+        "vandijk",
+        "virgil",
+        "virgil van dijk",
+        "vvd"
+      ]
+    },
+    {
+      "display": "Alexis Mac Allister",
+      "detail": "19 Aug 2023 · v Bournemouth",
+      "accept": [
+        "alexis mac allister",
+        "alexis macallister",
+        "mac allister",
+        "macallister"
+      ]
+    },
+    {
+      "display": "Darwin Núñez",
+      "detail": "15 Aug 2022 · v Crystal Palace",
+      "accept": [
+        "darwin nunez",
+        "darwin núñez",
+        "nunez"
+      ]
+    },
+    {
+      "display": "Alisson Becker",
+      "detail": "30 Nov 2019 · v Brighton & Hove Albion",
+      "accept": [
+        "alisson",
+        "alisson becker",
+        "becker"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://straightred.football/teams/liverpool",
+      "https://www.liverpoolfc.com/news/alexis-mac-allister-wins-appeal-against-bournemouth-red-card",
+      "https://www.premierleague.com/en/news/4237353"
+    ],
+    "researchConfidencePct": 98,
+    "eleventhPlaceCheck": "James Milner | 2019-01-19 | Crystal Palace",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Mac Allister's Bournemouth dismissal was overturned on appeal. It counts under this puzzle's rules.",
+      "Curtis Jones was sent off after the final whistle against Everton. It counts."
+    ]
+  }
+}

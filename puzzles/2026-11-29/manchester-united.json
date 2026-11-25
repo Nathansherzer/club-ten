@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-29",
+  "club": "manchester-united",
+  "clubLabel": "Man United:",
+  "clubShort": "Man United",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Man United",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Leny Yoro",
+      "detail": "22 Nov 2026 · v Liverpool",
+      "accept": [
+        "leny yoro",
+        "yoro"
+      ]
+    },
+    {
+      "display": "Lisandro Martínez",
+      "detail": "31 Oct 2026 · v Chelsea",
+      "accept": [
+        "licha",
+        "lisandro",
+        "lisandro martinez",
+        "lisandro martínez",
+        "martinez"
+      ]
+    },
+    {
+      "display": "Harry Maguire",
+      "detail": "20 Mar 2026 · v Bournemouth",
+      "accept": [
+        "harry maguire",
+        "maguire"
+      ]
+    },
+    {
+      "display": "Casemiro",
+      "detail": "20 Sep 2025 · v Chelsea",
+      "accept": [
+        "casemiro"
+      ]
+    },
+    {
+      "display": "Patrick Dorgu",
+      "detail": "26 Feb 2025 · v Ipswich Town",
+      "accept": [
+        "dorgu",
+        "patrick dorgu"
+      ]
+    },
+    {
+      "display": "Bruno Fernandes",
+      "detail": "26 Dec 2024 · v Wolverhampton Wanderers",
+      "accept": [
+        "bruno",
+        "bruno fernandes",
+        "fernandes"
+      ]
+    },
+    {
+      "display": "Diogo Dalot",
+      "detail": "17 Dec 2023 · v Liverpool",
+      "accept": [
+        "dalot",
+        "diogo dalot"
+      ]
+    },
+    {
+      "display": "Paul Pogba",
+      "detail": "24 Oct 2021 · v Liverpool",
+      "accept": [
+        "paul pogba",
+        "pogba"
+      ]
+    },
+    {
+      "display": "Anthony Martial",
+      "detail": "4 Oct 2020 · v Tottenham Hotspur",
+      "accept": [
+        "anthony martial",
+        "martial"
+      ]
+    },
+    {
+      "display": "Ashley Young",
+      "detail": "2 Apr 2019 · v Wolverhampton Wanderers",
+      "accept": [
+        "ashley young",
+        "young"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://straightred.football/teams/manchester-united",
+      "https://www.manutd.com/en/news/leny-yoro-suspension-removed-red-card-liverpool",
+      "https://www.premierleague.com/en/news/4751393/explicacion-de-las-decisiones-del-var-de-la-fecha-9"
+    ],
+    "researchConfidencePct": 98,
+    "eleventhPlaceCheck": "Eric Bailly | 2018-12-30 | Bournemouth",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Yoro was sent off at Liverpool on 22 Nov 2026. His suspension was removed on appeal on 24 Nov, but the dismissal counts under this puzzle's rules."
+    ]
+  }
+}

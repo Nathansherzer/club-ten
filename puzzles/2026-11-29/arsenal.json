@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-29",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Arsenal",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Mikel Merino",
+      "detail": "11 May 2025 · v Liverpool",
+      "accept": [
+        "merino",
+        "mikel merino"
+      ]
+    },
+    {
+      "display": "Myles Lewis-Skelly",
+      "detail": "22 Feb 2025 · v West Ham United",
+      "accept": [
+        "lewis skelly",
+        "lewis-skelly",
+        "mls",
+        "myles lewis skelly",
+        "myles lewis-skelly",
+        "skelly"
+      ]
+    },
+    {
+      "display": "William Saliba",
+      "detail": "19 Oct 2024 · v Bournemouth",
+      "accept": [
+        "saliba",
+        "william saliba"
+      ]
+    },
+    {
+      "display": "Leandro Trossard",
+      "detail": "22 Sep 2024 · v Manchester City",
+      "accept": [
+        "leandro trossard",
+        "trossard"
+      ]
+    },
+    {
+      "display": "Declan Rice",
+      "detail": "31 Aug 2024 · v Brighton & Hove Albion",
+      "accept": [
+        "declan rice",
+        "rice"
+      ]
+    },
+    {
+      "display": "Fábio Vieira",
+      "detail": "11 Nov 2023 · v Burnley",
+      "accept": [
+        "fabio vieira",
+        "fábio vieira",
+        "vieira"
+      ]
+    },
+    {
+      "display": "Takehiro Tomiyasu",
+      "detail": "21 Aug 2023 · v Crystal Palace",
+      "accept": [
+        "takehiro tomiyasu",
+        "tomiyasu"
+      ]
+    },
+    {
+      "display": "Rob Holding",
+      "detail": "12 May 2022 · v Tottenham Hotspur",
+      "accept": [
+        "holding",
+        "rob holding",
+        "robert holding"
+      ]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "10 Feb 2022 · v Wolverhampton Wanderers",
+      "accept": [
+        "gabriel martinelli",
+        "martinelli"
+      ]
+    },
+    {
+      "display": "Gabriel Magalhães",
+      "detail": "1 Jan 2022 · v Manchester City",
+      "accept": [
+        "gabriel magalhaes",
+        "gabriel magalhães",
+        "magalhaes"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://straightred.football/teams/arsenal"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Granit Xhaka | 2021-08-28 | Manchester City",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Gabriel Magalhães and Gabriel Martinelli are separate answers; bare 'gabriel' is not accepted."
+    ]
+  }
+}

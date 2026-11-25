@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-29",
+  "club": "manchester-city",
+  "clubLabel": "Man City:",
+  "clubShort": "Man City",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Man City",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Phil Foden",
+      "detail": "13 Sep 2026 · v Manchester United",
+      "accept": [
+        "foden",
+        "phil foden",
+        "philip foden"
+      ]
+    },
+    {
+      "display": "Mateo Kovačić",
+      "detail": "20 May 2025 · v Bournemouth",
+      "accept": [
+        "kovacic",
+        "mateo kovacic",
+        "mateo kovačić"
+      ]
+    },
+    {
+      "display": "Rico Lewis",
+      "detail": "7 Dec 2024 · v Crystal Palace",
+      "accept": [
+        "lewis",
+        "rico lewis"
+      ]
+    },
+    {
+      "display": "Manuel Akanji",
+      "detail": "21 Oct 2023 · v Brighton & Hove Albion",
+      "accept": [
+        "akanji",
+        "manuel akanji"
+      ]
+    },
+    {
+      "display": "Rodri",
+      "detail": "23 Sep 2023 · v Nottingham Forest",
+      "accept": [
+        "rodri"
+      ]
+    },
+    {
+      "display": "João Cancelo",
+      "detail": "5 Nov 2022 · v Fulham",
+      "accept": [
+        "cancelo",
+        "joao cancelo",
+        "joão cancelo"
+      ]
+    },
+    {
+      "display": "Aymeric Laporte",
+      "detail": "30 Oct 2021 · v Crystal Palace",
+      "accept": [
+        "aymeric laporte",
+        "laporte"
+      ]
+    },
+    {
+      "display": "John Stones",
+      "detail": "21 Apr 2021 · v Aston Villa",
+      "accept": [
+        "john stones",
+        "stones"
+      ]
+    },
+    {
+      "display": "Fernandinho",
+      "detail": "25 Jun 2020 · v Chelsea",
+      "accept": [
+        "fernandinho"
+      ]
+    },
+    {
+      "display": "Oleksandr Zinchenko",
+      "detail": "2 Feb 2020 · v Tottenham Hotspur",
+      "accept": [
+        "alex zinchenko",
+        "oleksandr zinchenko",
+        "zinchenko"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://straightred.football/teams/manchester-city",
+      "https://www.mancity.com/news/mens/chelsea-v-manchester-city-premier-league-match-report-25-june-2020-63728701",
+      "https://www.premierleague.com/en/news/4713977/matchweek-4-var-decisions-explained"
+    ],
+    "researchConfidencePct": 98,
+    "eleventhPlaceCheck": "Ederson | 2019-12-27 | Wolverhampton Wanderers",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Fernandinho's latest PL dismissal for City was v Chelsea on 25 Jun 2020. His older Aston Villa dismissal is not used."
+    ]
+  }
+}

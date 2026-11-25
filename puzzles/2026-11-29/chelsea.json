@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-29",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Chelsea",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Cole Palmer",
+      "detail": "24 Oct 2026 · v Tottenham Hotspur",
+      "accept": [
+        "cole palmer",
+        "palmer"
+      ]
+    },
+    {
+      "display": "Pedro Neto",
+      "detail": "1 Mar 2026 · v Arsenal",
+      "accept": [
+        "neto",
+        "pedro neto"
+      ]
+    },
+    {
+      "display": "Wesley Fofana",
+      "detail": "21 Feb 2026 · v Burnley",
+      "accept": [
+        "fofana",
+        "wesley fofana"
+      ]
+    },
+    {
+      "display": "Marc Cucurella",
+      "detail": "7 Jan 2026 · v Fulham",
+      "accept": [
+        "cucurella",
+        "marc cucurella"
+      ]
+    },
+    {
+      "display": "Moisés Caicedo",
+      "detail": "30 Nov 2025 · v Arsenal",
+      "accept": [
+        "caicedo",
+        "moises caicedo",
+        "moisés caicedo"
+      ]
+    },
+    {
+      "display": "Malo Gusto",
+      "detail": "18 Oct 2025 · v Nottingham Forest",
+      "accept": [
+        "gusto",
+        "malo gusto"
+      ]
+    },
+    {
+      "display": "Trevoh Chalobah",
+      "detail": "27 Sep 2025 · v Brighton & Hove Albion",
+      "accept": [
+        "chalobah",
+        "trevoh chalobah"
+      ]
+    },
+    {
+      "display": "Robert Sánchez",
+      "detail": "20 Sep 2025 · v Manchester United",
+      "accept": [
+        "robert sanchez",
+        "robert sánchez",
+        "sanchez"
+      ]
+    },
+    {
+      "display": "Nicolas Jackson",
+      "detail": "11 May 2025 · v Newcastle United",
+      "accept": [
+        "jackson",
+        "nico jackson",
+        "nicolas jackson"
+      ]
+    },
+    {
+      "display": "Reece James",
+      "detail": "15 May 2024 · v Brighton & Hove Albion",
+      "accept": [
+        "james",
+        "reece james"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://straightred.football/teams/chelsea",
+      "https://www.premierleague.com/en/news/4746780"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Conor Gallagher | 2023-12-03 | Brighton & Hove Albion",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Palmer v Tottenham, 24 Oct 2026."
+    ]
+  }
+}
