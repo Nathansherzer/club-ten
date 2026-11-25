@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-28",
+  "club": "chelsea",
+  "clubLabel": "Chelsea:",
+  "clubShort": "Chelsea",
+  "question": "name the 10 most recent different players to score Chelsea's first Premier League goal of a season (own goals excluded)",
+  "note": "Club players only, own goals excluded. Ranked by each player's most recent qualifying season, newest first. Cutoff 25 Nov 2026, 2026/27 included.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "João Pedro",
+      "detail": "2026/27 · v Fulham",
+      "accept": [
+        "joao pedro",
+        "joão pedro",
+        "pedro"
+      ]
+    },
+    {
+      "display": "Nicolas Jackson",
+      "detail": "2024/25 · v Wolverhampton Wanderers",
+      "accept": [
+        "jackson",
+        "nicolas jackson"
+      ]
+    },
+    {
+      "display": "Axel Disasi",
+      "detail": "2023/24 · v Liverpool",
+      "accept": [
+        "axel disasi",
+        "disasi"
+      ]
+    },
+    {
+      "display": "Jorginho",
+      "detail": "2022/23 · v Everton",
+      "accept": [
+        "jorginho"
+      ]
+    },
+    {
+      "display": "Marcos Alonso",
+      "detail": "2021/22 · v Crystal Palace",
+      "accept": [
+        "alonso",
+        "marcos alonso"
+      ]
+    },
+    {
+      "display": "Mason Mount",
+      "detail": "2019/20 · v Leicester City",
+      "accept": [
+        "mason mount",
+        "mount"
+      ]
+    },
+    {
+      "display": "N'Golo Kanté",
+      "detail": "2018/19 · v Huddersfield Town",
+      "accept": [
+        "kante",
+        "n'golo kante",
+        "n'golo kanté",
+        "ngolo kante",
+        "ngolo kanté"
+      ]
+    },
+    {
+      "display": "Álvaro Morata",
+      "detail": "2017/18 · v Burnley",
+      "accept": [
+        "alvaro morata",
+        "morata",
+        "álvaro morata"
+      ]
+    },
+    {
+      "display": "Eden Hazard",
+      "detail": "2016/17 · v West Ham United",
+      "accept": [
+        "eden hazard",
+        "hazard"
+      ]
+    },
+    {
+      "display": "Oscar",
+      "detail": "2015/16 · v Swansea City",
+      "accept": [
+        "oscar"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://footballapi.pulselive.com/football/",
+      "https://www.chelseafc.com/en/news/article/lightning-strikes-twice-chelseas-opening-day-specialists",
+      "https://www.chelseafc.com/en/news/article/match-report-fulham-chelsea-aug-26"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Diego Costa | 2014/15 | Burnley",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th.",
+    "format": "First eligible (non own goal) Premier League goal of each season by the club's own player; first 10 different players going backwards; ranked by most recent qualifying season.",
+    "checks": [
+      "João Pedro also qualified in 2025/26 and Jorginho in 2020/21. Each kept once under the newer season."
+    ]
+  }
+}

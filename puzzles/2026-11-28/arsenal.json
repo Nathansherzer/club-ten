@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-28",
+  "club": "arsenal",
+  "clubLabel": "Arsenal:",
+  "clubShort": "Arsenal",
+  "question": "name the 10 most recent different players to score Arsenal's first Premier League goal of a season (own goals excluded)",
+  "note": "Club players only, own goals excluded. Ranked by each player's most recent qualifying season, newest first. Cutoff 25 Nov 2026, 2026/27 included.",
+  "placeholder": "Type a player's name…",
+  "answers": [
+    {
+      "display": "Kai Havertz",
+      "detail": "2026/27 · v Coventry City",
+      "accept": [
+        "havertz",
+        "kai havertz"
+      ]
+    },
+    {
+      "display": "Riccardo Calafiori",
+      "detail": "2025/26 · v Manchester United",
+      "accept": [
+        "calafiori",
+        "riccardo calafiori"
+      ]
+    },
+    {
+      "display": "Eddie Nketiah",
+      "detail": "2023/24 · v Nottingham Forest",
+      "accept": [
+        "eddie nketiah",
+        "nketiah"
+      ]
+    },
+    {
+      "display": "Gabriel Martinelli",
+      "detail": "2022/23 · v Crystal Palace",
+      "accept": [
+        "gabriel martinelli",
+        "martinelli"
+      ]
+    },
+    {
+      "display": "Pierre-Emerick Aubameyang",
+      "detail": "2021/22 · v Norwich City",
+      "accept": [
+        "auba",
+        "aubameyang",
+        "pierre emerick aubameyang",
+        "pierre-emerick aubameyang"
+      ]
+    },
+    {
+      "display": "Alexandre Lacazette",
+      "detail": "2020/21 · v Fulham",
+      "accept": [
+        "alexandre lacazette",
+        "laca",
+        "lacazette"
+      ]
+    },
+    {
+      "display": "Henrikh Mkhitaryan",
+      "detail": "2018/19 · v Chelsea",
+      "accept": [
+        "henrikh mkhitaryan",
+        "mkhi",
+        "mkhitaryan"
+      ]
+    },
+    {
+      "display": "Theo Walcott",
+      "detail": "2016/17 · v Liverpool",
+      "accept": [
+        "theo walcott",
+        "walcott"
+      ]
+    },
+    {
+      "display": "Olivier Giroud",
+      "detail": "2015/16 · v Crystal Palace",
+      "accept": [
+        "giroud",
+        "olivier giroud"
+      ]
+    },
+    {
+      "display": "Laurent Koscielny",
+      "detail": "2014/15 · v Crystal Palace",
+      "accept": [
+        "koscielny",
+        "laurent koscielny"
+      ]
+    }
+  ],
+  "editorial": {
+    "sources": [
+      "https://footballapi.pulselive.com/football/",
+      "https://www.premierleague.com/en/video/4691219",
+      "https://www.arsenal.com/feature/stats-how-successful-are-we-on-the-opening-day-afPm95f69YG7"
+    ],
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Lukas Podolski | 2012/13 | Liverpool",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th.",
+    "format": "First eligible (non own goal) Premier League goal of each season by the club's own player; first 10 different players going backwards; ranked by most recent qualifying season.",
+    "checks": [
+      "Havertz also qualified in 2024/25. Kept once, ranked under 2026/27."
+    ]
+  }
+}
