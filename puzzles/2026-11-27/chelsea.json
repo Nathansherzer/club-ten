@@ -1,117 +1,108 @@
 {
   "date": "2026-11-27",
   "club": "chelsea",
-  "type": "clubs",
   "clubLabel": "Chelsea:",
   "clubShort": "Chelsea",
-  "question": "name the last 10 different teams a Chelsea player scored a hat-trick against in all competitions",
-  "note": "Any Chelsea scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
-  "placeholder": "Type a club name…",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Chelsea",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "Aston Villa",
-      "detail": "João Pedro · 4 Mar 2026 · Premier League",
+      "display": "Cole Palmer",
+      "detail": "24 Oct 2026 · v Tottenham Hotspur",
       "accept": [
-        "aston villa",
-        "villa"
+        "cole palmer",
+        "palmer"
       ]
     },
     {
-      "display": "Hull City",
-      "detail": "Pedro Neto · 13 Feb 2026 · FA Cup",
+      "display": "Pedro Neto",
+      "detail": "1 Mar 2026 · v Arsenal",
       "accept": [
-        "hull",
-        "hull city"
+        "neto",
+        "pedro neto"
       ]
     },
     {
-      "display": "Wolverhampton Wanderers",
-      "detail": "Cole Palmer · 7 Feb 2026 · Premier League",
+      "display": "Wesley Fofana",
+      "detail": "21 Feb 2026 · v Burnley",
       "accept": [
-        "wolverhampton",
-        "wolverhampton wanderers",
-        "wolves"
+        "fofana",
+        "wesley fofana"
       ]
     },
     {
-      "display": "Shamrock Rovers",
-      "detail": "Marc Guiu · 19 Dec 2024 · Conference League",
+      "display": "Marc Cucurella",
+      "detail": "7 Jan 2026 · v Fulham",
       "accept": [
-        "shamrock",
-        "shamrock rovers"
+        "cucurella",
+        "marc cucurella"
       ]
     },
     {
-      "display": "Brighton & Hove Albion",
-      "detail": "Cole Palmer · 28 Sep 2024 · Premier League · 4 goals",
+      "display": "Moisés Caicedo",
+      "detail": "30 Nov 2025 · v Arsenal",
       "accept": [
-        "brighton",
-        "brighton & hove albion",
-        "brighton and hove albion",
-        "brighton hove albion",
-        "seagulls"
+        "caicedo",
+        "moises caicedo",
+        "moisés caicedo"
       ]
     },
     {
-      "display": "Barrow",
-      "detail": "Christopher Nkunku · 24 Sep 2024 · League Cup",
+      "display": "Malo Gusto",
+      "detail": "18 Oct 2025 · v Nottingham Forest",
       "accept": [
-        "barrow",
-        "barrow afc"
+        "gusto",
+        "malo gusto"
       ]
     },
     {
-      "display": "Everton",
-      "detail": "Cole Palmer · 15 Apr 2024 · Premier League · 4 goals",
+      "display": "Trevoh Chalobah",
+      "detail": "27 Sep 2025 · v Brighton & Hove Albion",
       "accept": [
-        "everton"
+        "chalobah",
+        "trevoh chalobah"
       ]
     },
     {
-      "display": "Manchester United",
-      "detail": "Cole Palmer · 4 Apr 2024 · Premier League",
+      "display": "Robert Sánchez",
+      "detail": "20 Sep 2025 · v Manchester United",
       "accept": [
-        "man u",
-        "man united",
-        "man utd",
-        "manchester united",
-        "manchester utd",
-        "mufc",
-        "united"
+        "robert sanchez",
+        "robert sánchez",
+        "sanchez"
       ]
     },
     {
-      "display": "Tottenham Hotspur",
-      "detail": "Nicolas Jackson · 6 Nov 2023 · Premier League",
+      "display": "Nicolas Jackson",
+      "detail": "11 May 2025 · v Newcastle United",
       "accept": [
-        "spurs",
-        "thfc",
-        "tottenham",
-        "tottenham hotspur",
-        "tottenham hotspurs"
+        "jackson",
+        "nico jackson",
+        "nicolas jackson"
       ]
     },
     {
-      "display": "Norwich City",
-      "detail": "Mason Mount · 23 Oct 2021 · Premier League",
+      "display": "Reece James",
+      "detail": "15 May 2024 · v Brighton & Hove Albion",
       "accept": [
-        "norwich",
-        "norwich city"
+        "james",
+        "reece james"
       ]
     }
   ],
   "editorial": {
     "sources": [
-      "https://www.chelseafc.com/en/news/article/chelseas-top-goalscorers-and-assisters-in-2025-26",
-      "https://www.chelseafc.com/en/news/article/chelseas-standout-stats-and-records-from-2024",
-      "https://www.chelseafc.com/en/news/article/palmer-again-every-hat-trick-cole-has-scored-for-chelsea",
-      "https://www.topscorersfootball.com/team/chelsea",
-      "https://www.chelseafc.com/en/match/sevilla-vs-chelsea-champions-league-2020-12-02"
+      "https://straightred.football/teams/chelsea",
+      "https://www.premierleague.com/en/news/4746780"
     ],
-    "researchConfidencePct": 97,
-    "eleventhPlaceCheck": "Sevilla (Olivier Giroud, 2020-12-02)",
-    "cutoff": "2026-11-24",
-    "ties": "No tie between 10th and 11th.",
-    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Conor Gallagher | 2023-12-03 | Brighton & Hove Albion",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Palmer v Tottenham, 24 Oct 2026."
+    ]
   }
 }

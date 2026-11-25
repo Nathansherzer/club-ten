@@ -1,108 +1,108 @@
 {
   "date": "2026-11-29",
   "club": "manchester-city",
+  "type": "clubs",
   "clubLabel": "Man City:",
   "clubShort": "Man City",
-  "question": "name the 10 most recent different players to be sent off in a Premier League match for Man City",
-  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
-  "placeholder": "Type a player's name…",
+  "question": "name the last 10 different teams Sergio Agüero scored a hat-trick against for Manchester City in all competitions",
+  "note": "Sergio Agüero only. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
+  "placeholder": "Type a club name…",
   "answers": [
     {
-      "display": "Phil Foden",
-      "detail": "13 Sep 2026 · v Manchester United",
+      "display": "Aston Villa",
+      "detail": "Sergio Agüero · 12 Jan 2020 · Premier League",
       "accept": [
-        "foden",
-        "phil foden",
-        "philip foden"
+        "aston villa",
+        "villa"
       ]
     },
     {
-      "display": "Mateo Kovačić",
-      "detail": "20 May 2025 · v Bournemouth",
+      "display": "Chelsea",
+      "detail": "Sergio Agüero · 10 Feb 2019 · Premier League",
       "accept": [
-        "kovacic",
-        "mateo kovacic",
-        "mateo kovačić"
+        "chelsea"
       ]
     },
     {
-      "display": "Rico Lewis",
-      "detail": "7 Dec 2024 · v Crystal Palace",
+      "display": "Arsenal",
+      "detail": "Sergio Agüero · 3 Feb 2019 · Premier League",
       "accept": [
-        "lewis",
-        "rico lewis"
+        "arsenal"
       ]
     },
     {
-      "display": "Manuel Akanji",
-      "detail": "21 Oct 2023 · v Brighton & Hove Albion",
+      "display": "Huddersfield Town",
+      "detail": "Sergio Agüero · 19 Aug 2018 · Premier League",
       "accept": [
-        "akanji",
-        "manuel akanji"
+        "huddersfield",
+        "huddersfield town"
       ]
     },
     {
-      "display": "Rodri",
-      "detail": "23 Sep 2023 · v Nottingham Forest",
+      "display": "Leicester City",
+      "detail": "Sergio Agüero · 10 Feb 2018 · Premier League · 4 goals",
       "accept": [
-        "rodri"
+        "lcfc",
+        "leicester",
+        "leicester city"
       ]
     },
     {
-      "display": "João Cancelo",
-      "detail": "5 Nov 2022 · v Fulham",
+      "display": "Newcastle United",
+      "detail": "Sergio Agüero · 20 Jan 2018 · Premier League",
       "accept": [
-        "cancelo",
-        "joao cancelo",
-        "joão cancelo"
+        "newcastle",
+        "newcastle united",
+        "newcastle utd",
+        "nufc"
       ]
     },
     {
-      "display": "Aymeric Laporte",
-      "detail": "30 Oct 2021 · v Crystal Palace",
+      "display": "Watford",
+      "detail": "Sergio Agüero · 16 Sep 2017 · Premier League",
       "accept": [
-        "aymeric laporte",
-        "laporte"
+        "watford"
       ]
     },
     {
-      "display": "John Stones",
-      "detail": "21 Apr 2021 · v Aston Villa",
+      "display": "Borussia Mönchengladbach",
+      "detail": "Sergio Agüero · 14 Sep 2016 · Champions League",
       "accept": [
-        "john stones",
-        "stones"
+        "borussia mgladbach",
+        "borussia monchengladbach",
+        "borussia mönchengladbach",
+        "gladbach",
+        "mgladbach",
+        "monchengladbach"
       ]
     },
     {
-      "display": "Fernandinho",
-      "detail": "25 Jun 2020 · v Chelsea",
+      "display": "Steaua Bucharest",
+      "detail": "Sergio Agüero · 16 Aug 2016 · Champions League qualifying",
       "accept": [
-        "fernandinho"
+        "fcsb",
+        "steaua",
+        "steaua bucharest",
+        "steaua bucuresti"
       ]
     },
     {
-      "display": "Oleksandr Zinchenko",
-      "detail": "2 Feb 2020 · v Tottenham Hotspur",
+      "display": "Queens Park Rangers",
+      "detail": "Sergio Agüero · 10 May 2015 · Premier League",
       "accept": [
-        "alex zinchenko",
-        "oleksandr zinchenko",
-        "zinchenko"
+        "qpr",
+        "queens park rangers"
       ]
     }
   ],
   "editorial": {
     "sources": [
-      "https://straightred.football/teams/manchester-city",
-      "https://www.mancity.com/news/mens/chelsea-v-manchester-city-premier-league-match-report-25-june-2020-63728701",
-      "https://www.premierleague.com/en/news/4713977/matchweek-4-var-decisions-explained"
+      "https://www.statcity.co.uk/Players/971/Sergio-Aguero"
     ],
-    "researchConfidencePct": 98,
-    "eleventhPlaceCheck": "Ederson | 2019-12-27 | Wolverhampton Wanderers",
-    "cutoff": "2026-11-25",
-    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
-    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
-    "checks": [
-      "Fernandinho's latest PL dismissal for City was v Chelsea on 25 Jun 2020. His older Aston Villa dismissal is not used."
-    ]
+    "researchConfidencePct": 99,
+    "eleventhPlaceCheck": "Bayern Munich (Sergio Agüero, 2014-11-25)",
+    "cutoff": "2026-11-24",
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
   }
 }

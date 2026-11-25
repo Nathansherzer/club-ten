@@ -1,109 +1,116 @@
 {
   "date": "2026-11-29",
   "club": "manchester-united",
+  "type": "clubs",
   "clubLabel": "Man United:",
   "clubShort": "Man United",
-  "question": "name the 10 most recent different players to be sent off in a Premier League match for Man United",
-  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
-  "placeholder": "Type a player's name…",
+  "question": "name the last 10 different teams a Manchester United player scored a hat-trick against in all competitions",
+  "note": "Any United scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
+  "placeholder": "Type a club name…",
   "answers": [
     {
-      "display": "Leny Yoro",
-      "detail": "22 Nov 2026 · v Liverpool",
+      "display": "Ipswich Town",
+      "detail": "Bruno Fernandes · 30 Aug 2026 · Premier League",
       "accept": [
-        "leny yoro",
-        "yoro"
+        "ipswich",
+        "ipswich town"
       ]
     },
     {
-      "display": "Lisandro Martínez",
-      "detail": "31 Oct 2026 · v Chelsea",
+      "display": "Real Sociedad",
+      "detail": "Bruno Fernandes · 13 Mar 2025 · Europa League",
       "accept": [
-        "licha",
-        "lisandro",
-        "lisandro martinez",
-        "lisandro martínez",
-        "martinez"
+        "real sociedad",
+        "sociedad"
       ]
     },
     {
-      "display": "Harry Maguire",
-      "detail": "20 Mar 2026 · v Bournemouth",
+      "display": "Southampton",
+      "detail": "Amad Diallo · 16 Jan 2025 · Premier League",
       "accept": [
-        "harry maguire",
-        "maguire"
+        "saints",
+        "southampton"
       ]
     },
     {
-      "display": "Casemiro",
-      "detail": "20 Sep 2025 · v Chelsea",
+      "display": "Norwich City",
+      "detail": "Cristiano Ronaldo · 16 Apr 2022 · Premier League",
       "accept": [
-        "casemiro"
+        "norwich",
+        "norwich city"
       ]
     },
     {
-      "display": "Patrick Dorgu",
-      "detail": "26 Feb 2025 · v Ipswich Town",
+      "display": "Tottenham Hotspur",
+      "detail": "Cristiano Ronaldo · 12 Mar 2022 · Premier League",
       "accept": [
-        "dorgu",
-        "patrick dorgu"
+        "spurs",
+        "thfc",
+        "tottenham",
+        "tottenham hotspur",
+        "tottenham hotspurs"
       ]
     },
     {
-      "display": "Bruno Fernandes",
-      "detail": "26 Dec 2024 · v Wolverhampton Wanderers",
+      "display": "Leeds United",
+      "detail": "Bruno Fernandes · 14 Aug 2021 · Premier League",
       "accept": [
-        "bruno",
-        "bruno fernandes",
-        "fernandes"
+        "leeds",
+        "leeds united",
+        "leeds utd"
       ]
     },
     {
-      "display": "Diogo Dalot",
-      "detail": "17 Dec 2023 · v Liverpool",
+      "display": "RB Leipzig",
+      "detail": "Marcus Rashford · 28 Oct 2020 · Champions League",
       "accept": [
-        "dalot",
-        "diogo dalot"
+        "leipzig",
+        "rasenballsport leipzig",
+        "rb leipzig"
       ]
     },
     {
-      "display": "Paul Pogba",
-      "detail": "24 Oct 2021 · v Liverpool",
+      "display": "Sheffield United",
+      "detail": "Anthony Martial · 24 Jun 2020 · Premier League",
       "accept": [
-        "paul pogba",
-        "pogba"
+        "sheff united",
+        "sheff utd",
+        "sheffield united",
+        "sheffield utd"
       ]
     },
     {
-      "display": "Anthony Martial",
-      "detail": "4 Oct 2020 · v Tottenham Hotspur",
+      "display": "Saint-Étienne",
+      "detail": "Zlatan Ibrahimović · 16 Feb 2017 · Europa League",
       "accept": [
-        "anthony martial",
-        "martial"
+        "as saint-etienne",
+        "saint etienne",
+        "saint-etienne",
+        "saint-étienne",
+        "st etienne",
+        "st-etienne"
       ]
     },
     {
-      "display": "Ashley Young",
-      "detail": "2 Apr 2019 · v Wolverhampton Wanderers",
+      "display": "Club Brugge",
+      "detail": "Wayne Rooney · 26 Aug 2015 · Champions League qualifying",
       "accept": [
-        "ashley young",
-        "young"
+        "bruges",
+        "brugge",
+        "club bruges",
+        "club brugge"
       ]
     }
   ],
   "editorial": {
     "sources": [
-      "https://straightred.football/teams/manchester-united",
-      "https://www.manutd.com/en/news/leny-yoro-suspension-removed-red-card-liverpool",
-      "https://www.premierleague.com/en/news/4751393/explicacion-de-las-decisiones-del-var-de-la-fecha-9"
+      "https://www.mufcinfo.com/manupag/hat_tricks/hat_tricks_or_more.html",
+      "https://www.premierleague.com/en/news/4701772/sunday-wrap-fernandes-masterclass-alonsos-perfect-chelsea-start"
     ],
     "researchConfidencePct": 98,
-    "eleventhPlaceCheck": "Eric Bailly | 2018-12-30 | Bournemouth",
-    "cutoff": "2026-11-25",
-    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
-    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
-    "checks": [
-      "Yoro was sent off at Liverpool on 22 Nov 2026. His suspension was removed on appeal on 24 Nov, but the dismissal counts under this puzzle's rules."
-    ]
+    "eleventhPlaceCheck": "Olympiacos (Robin van Persie, 2014-03-19)",
+    "cutoff": "2026-11-24",
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
   }
 }

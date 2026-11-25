@@ -1,105 +1,113 @@
 {
   "date": "2026-11-27",
   "club": "tottenham",
-  "type": "clubs",
   "clubLabel": "Spurs:",
   "clubShort": "Spurs",
-  "question": "name the last 10 different teams Harry Kane scored a hat-trick against for Tottenham in all competitions",
-  "note": "Harry Kane only. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
-  "placeholder": "Type a club name…",
+  "question": "name the 10 most recent different players to be sent off in a Premier League match for Spurs",
+  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
+  "placeholder": "Type a player's name…",
   "answers": [
     {
-      "display": "NS Mura",
-      "detail": "Harry Kane · 30 Sep 2021 · Conference League",
+      "display": "Rodrigo Bentancur",
+      "detail": "10 Oct 2026 · v Manchester United",
       "accept": [
-        "mura",
-        "murska sobota",
-        "ns mura",
-        "nš mura"
+        "bentancur",
+        "rodri bentancur",
+        "rodrigo bentancur"
       ]
     },
     {
-      "display": "Maccabi Haifa",
-      "detail": "Harry Kane · 1 Oct 2020 · Europa League qualifying",
+      "display": "Micky van de Ven",
+      "detail": "5 Mar 2026 · v Crystal Palace",
       "accept": [
-        "haifa",
-        "maccabi haifa"
+        "mickey van de ven",
+        "micky van de ven",
+        "van de ven",
+        "vandeven",
+        "vdv"
       ]
     },
     {
-      "display": "Southampton",
-      "detail": "Harry Kane · 26 Dec 2017 · Premier League",
+      "display": "Cristian Romero",
+      "detail": "7 Feb 2026 · v Manchester United",
       "accept": [
-        "saints",
-        "southampton"
+        "cristian romero",
+        "cuti romero",
+        "romero"
       ]
     },
     {
-      "display": "Burnley",
-      "detail": "Harry Kane · 23 Dec 2017 · Premier League",
+      "display": "Xavi Simons",
+      "detail": "20 Dec 2025 · v Liverpool",
       "accept": [
-        "burnley"
+        "simons",
+        "xavi",
+        "xavi simons"
       ]
     },
     {
-      "display": "APOEL",
-      "detail": "Harry Kane · 26 Sep 2017 · Champions League",
+      "display": "Djed Spence",
+      "detail": "26 Dec 2024 · v Nottingham Forest",
       "accept": [
-        "apoel",
-        "apoel nicosia"
+        "djed spence",
+        "spence"
       ]
     },
     {
-      "display": "Hull City",
-      "detail": "Harry Kane · 21 May 2017 · Premier League",
+      "display": "Yves Bissouma",
+      "detail": "15 Dec 2023 · v Nottingham Forest",
       "accept": [
-        "hull",
-        "hull city"
+        "bissouma",
+        "yves bissouma"
       ]
     },
     {
-      "display": "Leicester City",
-      "detail": "Harry Kane · 18 May 2017 · Premier League · 4 goals",
+      "display": "Destiny Udogie",
+      "detail": "6 Nov 2023 · v Chelsea",
       "accept": [
-        "lcfc",
-        "leicester",
-        "leicester city"
+        "destiny udogie",
+        "udogie"
       ]
     },
     {
-      "display": "Stoke City",
-      "detail": "Harry Kane · 26 Feb 2017 · Premier League",
+      "display": "Lucas Moura",
+      "detail": "3 Apr 2023 · v Everton",
       "accept": [
-        "stoke",
-        "stoke city"
+        "lucas",
+        "lucas moura",
+        "moura"
       ]
     },
     {
-      "display": "Fulham",
-      "detail": "Harry Kane · 19 Feb 2017 · FA Cup",
+      "display": "Emerson Royal",
+      "detail": "1 Oct 2022 · v Arsenal",
       "accept": [
-        "fulham"
+        "emerson",
+        "emerson royal",
+        "royal"
       ]
     },
     {
-      "display": "West Bromwich Albion",
-      "detail": "Harry Kane · 14 Jan 2017 · Premier League",
+      "display": "Japhet Tanganga",
+      "detail": "11 Sep 2021 · v Crystal Palace",
       "accept": [
-        "wba",
-        "west brom",
-        "west bromwich",
-        "west bromwich albion"
+        "japhet tanganga",
+        "tanganga"
       ]
     }
   ],
   "editorial": {
     "sources": [
-      "https://www.tottenhamhotspur.com/news/992056/harry-kanes-hat-trick-stats-fastest-treble-up-to-second-on-clubs-all-time-list"
+      "https://straightred.football/teams/tottenham-hotspur",
+      "https://www.tottenhamhotspur.com/news/1017856/eagles-inflict-defeat-on-our-10-men"
     ],
     "researchConfidencePct": 99,
-    "eleventhPlaceCheck": "Bournemouth (Harry Kane, 2015-10-25)",
-    "cutoff": "2026-11-24",
-    "ties": "No tie between 10th and 11th.",
-    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
+    "eleventhPlaceCheck": "Erik Lamela | 2021-03-14 | Arsenal",
+    "cutoff": "2026-11-25",
+    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
+    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
+    "checks": [
+      "Van de Ven's Crystal Palace dismissal on 5 Mar 2026 is included."
+    ]
   }
 }

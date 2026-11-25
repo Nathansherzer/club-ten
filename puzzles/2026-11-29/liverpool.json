@@ -1,117 +1,106 @@
 {
   "date": "2026-11-29",
   "club": "liverpool",
+  "type": "clubs",
   "clubLabel": "Liverpool:",
   "clubShort": "Liverpool",
-  "question": "name the 10 most recent different players to be sent off in a Premier League match for Liverpool",
-  "note": "Straight reds and second yellows, Premier League only. A dismissal counts even if later overturned on appeal. Each player once, ranked by latest dismissal, newest first. Cutoff 25 Nov 2026.",
-  "placeholder": "Type a player's name…",
+  "question": "name the last 10 different teams a Liverpool player scored a hat-trick against in all competitions",
+  "note": "Any Liverpool scorer. Ranked by the most recent hat-trick against each team, newest first. Cutoff 24 Nov 2026.",
+  "placeholder": "Type a club name…",
   "answers": [
     {
-      "display": "Ryan Gravenberch",
-      "detail": "11 Oct 2026 · v Manchester City",
+      "display": "LASK",
+      "detail": "Bradley Barcola · 14 Oct 2026 · Champions League",
       "accept": [
-        "gravenberch",
-        "ryan gravenberch"
+        "lask",
+        "lask linz"
       ]
     },
     {
-      "display": "Dominik Szoboszlai",
-      "detail": "8 Feb 2026 · v Manchester City",
+      "display": "Bayer Leverkusen",
+      "detail": "Luis Díaz · 5 Nov 2024 · Champions League",
       "accept": [
-        "dominik szoboszlai",
-        "szoboszlai"
+        "bayer 04",
+        "bayer leverkusen",
+        "leverkusen"
       ]
     },
     {
-      "display": "Curtis Jones",
-      "detail": "12 Feb 2025 · v Everton",
+      "display": "Rangers",
+      "detail": "Mohamed Salah · 12 Oct 2022 · Champions League",
       "accept": [
-        "curtis jones",
-        "jones"
+        "glasgow rangers",
+        "rangers"
       ]
     },
     {
-      "display": "Andy Robertson",
-      "detail": "14 Dec 2024 · v Fulham",
+      "display": "Manchester United",
+      "detail": "Mohamed Salah · 24 Oct 2021 · Premier League",
       "accept": [
-        "andrew robertson",
-        "andy robertson",
-        "robertson"
+        "man u",
+        "man united",
+        "man utd",
+        "manchester united",
+        "manchester utd",
+        "mufc"
       ]
     },
     {
-      "display": "Ibrahima Konaté",
-      "detail": "4 Feb 2024 · v Arsenal",
+      "display": "Watford",
+      "detail": "Roberto Firmino · 16 Oct 2021 · Premier League",
       "accept": [
-        "ibou",
-        "ibrahima konate",
-        "ibrahima konaté",
-        "konate"
+        "watford"
       ]
     },
     {
-      "display": "Diogo Jota",
-      "detail": "30 Sep 2023 · v Tottenham Hotspur",
+      "display": "Atalanta",
+      "detail": "Diogo Jota · 3 Nov 2020 · Champions League",
       "accept": [
-        "diogo jota",
-        "jota"
+        "atalanta"
       ]
     },
     {
-      "display": "Virgil van Dijk",
-      "detail": "27 Aug 2023 · v Newcastle United",
+      "display": "Leeds United",
+      "detail": "Mohamed Salah · 12 Sep 2020 · Premier League",
       "accept": [
-        "van dijk",
-        "vandijk",
-        "virgil",
-        "virgil van dijk",
-        "vvd"
+        "leeds",
+        "leeds united",
+        "leeds utd"
       ]
     },
     {
-      "display": "Alexis Mac Allister",
-      "detail": "19 Aug 2023 · v Bournemouth",
+      "display": "Arsenal",
+      "detail": "Roberto Firmino · 29 Dec 2018 · Premier League",
       "accept": [
-        "alexis mac allister",
-        "alexis macallister",
-        "mac allister",
-        "macallister"
+        "arsenal"
       ]
     },
     {
-      "display": "Darwin Núñez",
-      "detail": "15 Aug 2022 · v Crystal Palace",
+      "display": "Bournemouth",
+      "detail": "Mohamed Salah · 8 Dec 2018 · Premier League",
       "accept": [
-        "darwin nunez",
-        "darwin núñez",
-        "nunez"
+        "afc bournemouth",
+        "bournemouth"
       ]
     },
     {
-      "display": "Alisson Becker",
-      "detail": "30 Nov 2019 · v Brighton & Hove Albion",
+      "display": "Porto",
+      "detail": "Sadio Mané · 14 Feb 2018 · Champions League",
       "accept": [
-        "alisson",
-        "alisson becker",
-        "becker"
+        "fc porto",
+        "porto"
       ]
     }
   ],
   "editorial": {
     "sources": [
-      "https://straightred.football/teams/liverpool",
-      "https://www.liverpoolfc.com/news/alexis-mac-allister-wins-appeal-against-bournemouth-red-card",
-      "https://www.premierleague.com/en/news/4237353"
+      "https://www.lfchistory.net/stats/player-hattricks",
+      "https://www.liverpoolfc.com/matches/mens-team/lask-v-liverpool-uefa-champions-league-20261014"
     ],
     "researchConfidencePct": 98,
-    "eleventhPlaceCheck": "James Milner | 2019-01-19 | Crystal Palace",
-    "cutoff": "2026-11-25",
-    "ties": "No tie between 10th and 11th. No same-match ordering ties within the top ten.",
-    "format": "Last 10 different players sent off in a PL match for the club, ranked by latest dismissal date. Includes dismissals later overturned on appeal and after the final whistle. Excludes cards cancelled by VAR before taking effect, staff, and other competitions.",
-    "checks": [
-      "Mac Allister's Bournemouth dismissal was overturned on appeal. It counts under this puzzle's rules.",
-      "Curtis Jones was sent off after the final whistle against Everton. It counts."
-    ]
+    "eleventhPlaceCheck": "Spartak Moscow (Philippe Coutinho, 2017-12-06)",
+    "cutoff": "2026-11-24",
+    "ties": "No tie between 10th and 11th.",
+    "format": "Last 10 different opponents, ranked by most recent qualifying hat-trick against each."
   }
 }
